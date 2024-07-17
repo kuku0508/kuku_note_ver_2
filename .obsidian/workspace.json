@@ -154,11 +154,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 365.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,7 +177,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "c104fb080c05ab63",
+  "active": "5262ad1e3e68c919",
   "lastOpenFiles": [
     "知識/用語/用語總目錄.md",
     "知識/用語/一般用語目錄.md"
