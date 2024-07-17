@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
+                "file": "知識/統計/統計學/集合/餘集合法則.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
+                "file": "知識/統計/統計學/集合/餘集合法則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
+                "file": "知識/統計/統計學/集合/餘集合法則.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md"
+                "file": "知識/統計/統計學/集合/餘集合法則.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/加法法則.md",
+    "知識/統計/統計知識總目錄.md",
+    "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "知識/用語/一般用語/達摩克利斯之劍.md",
     "知識/用語/網路用語目錄.md",
     "知識/用語/用語總目錄.md",
