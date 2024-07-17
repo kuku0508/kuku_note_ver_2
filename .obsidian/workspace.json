@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md"
               }
             }
           },
@@ -182,20 +182,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "bc177d4135808b14",
+        "id": "d1b6aa9461a47c15",
         "type": "window",
         "children": [
           {
-            "id": "96833b005d746e07",
+            "id": "616f3a2a54505c2e",
             "type": "tabs",
             "children": [
               {
-                "id": "2beaac5c768e7705",
+                "id": "9edc32a8bb380ee9",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
+                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
                   }
                 }
               }
@@ -212,9 +212,10 @@
       }
     ]
   },
-  "active": "2beaac5c768e7705",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
     "知識/統計/統計學/集合/加法法則.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計知識總目錄.md",
