@@ -1,0 +1,1 @@
+# kuku_note_ver_2
