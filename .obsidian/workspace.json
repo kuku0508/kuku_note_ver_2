@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/用語/網路用語目錄.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/用語/網路用語目錄.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/用語/網路用語目錄.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/用語/網路用語目錄.md"
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md"
               }
             }
           },
@@ -177,8 +177,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "5262ad1e3e68c919",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/用語/一般用語/達摩克利斯之劍.md",
+    "知識/用語/網路用語目錄.md",
     "知識/用語/用語總目錄.md",
     "知識/用語/一般用語目錄.md"
   ]
