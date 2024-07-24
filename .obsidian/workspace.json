@@ -172,9 +172,7 @@
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "sheet-plus:Create excel file": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "floating": {
@@ -214,6 +212,7 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/中位數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/集合/加法法則.md",
