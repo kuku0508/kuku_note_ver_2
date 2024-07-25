@@ -22,10 +22,17 @@
       }
     },
     {
-      "query": "path:知識/",
+      "query": "path:知識/程式語言/HTML  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 9497854
+      }
+    },
+    {
+      "query": "path:知識/程式語言/Latex  ",
+      "color": {
+        "a": 1,
+        "rgb": 16121457
       }
     }
   ],
