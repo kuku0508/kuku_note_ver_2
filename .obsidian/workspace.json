@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/程式語言總目錄.md",
+                "file": "SQL目錄.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/程式語言總目錄.md",
+                "file": "SQL目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/程式語言總目錄.md",
+                "file": "SQL目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/程式語言總目錄.md"
+                "file": "SQL目錄.md"
               }
             }
           },
@@ -216,12 +215,17 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/統計/未命名",
+    "知識/程式語言/程式語言總目錄.md",
+    "SQL目錄.md",
+    "知識/統計/SAS/SAS目錄.md",
+    "知識/統計/SAS",
+    "知識/統計/統計知識總目錄.md",
     "知識/程式語言/Latex/Latex知識總目錄.md",
     "知識/程式語言/HTML/HTML知識總目錄.md",
     "知識/程式語言/MarkDown/Markdown知識總目錄.md",
-    "知識/程式語言/程式語言總目錄.md",
     "知識/程式語言/MarkDown/語法表/Markdown語法表.md",
     "程式語言基礎知識目錄.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/中位數.md",
@@ -231,7 +235,6 @@
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計學/集合/餘集合法則.md",
-    "知識/統計/統計知識總目錄.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "知識/用語/一般用語/達摩克利斯之劍.md",
     "知識/用語/網路用語目錄.md",
