@@ -204,11 +204,41 @@
         "height": 1392,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "fa91a47c1abaf09e",
+        "type": "window",
+        "children": [
+          {
+            "id": "d81044516e40f0e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "70b665211d7789d3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/SQL/SQL目錄.md",
     "知識/統計/SQL",
@@ -225,7 +255,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/集合/加法法則.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
-    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "知識/用語/一般用語/達摩克利斯之劍.md",
