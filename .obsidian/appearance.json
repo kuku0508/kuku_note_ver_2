@@ -3,7 +3,7 @@
   "cssTheme": "AnuPpuccin",
   "accentColor": "#febef2",
   "baseFontSize": 16,
-  "textFontFamily": "俐方體11號",
-  "interfaceFontFamily": "俐方體11號",
-  "monospaceFontFamily": "俐方體11號"
+  "textFontFamily": "俐方體11號,jf open 粉圓 2.0",
+  "interfaceFontFamily": "jf open 粉圓 2.0,俐方體11號",
+  "monospaceFontFamily": "jf open 粉圓 2.0,俐方體11號"
 }
