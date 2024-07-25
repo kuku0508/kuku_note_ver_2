@@ -11,7 +11,21 @@
       "query": "path:知識/統計/統計學  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14851228
+      }
+    },
+    {
+      "query": "path:知識/統計/存活分析  ",
+      "color": {
+        "a": 1,
+        "rgb": 11861692
+      }
+    },
+    {
+      "query": "path:知識/",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.36288736930121357,
+  "scale": 0.25883865621816415,
   "close": false
 }
