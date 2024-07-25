@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16121457
       }
+    },
+    {
+      "query": "path:知識/程式語言/MarkDown  ",
+      "color": {
+        "a": 1,
+        "rgb": 16668760
+      }
     }
   ],
   "collapse-display": false,
