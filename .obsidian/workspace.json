@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言基礎知識目錄.md",
+                "file": "知識/程式語言/程式語言總目錄.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言基礎知識目錄.md",
+                "file": "知識/程式語言/程式語言總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言基礎知識目錄.md",
+                "file": "知識/程式語言/程式語言總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言基礎知識目錄.md"
+                "file": "知識/程式語言/程式語言總目錄.md"
               }
             }
           },
@@ -217,8 +217,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/程式語言/程式語言總目錄.md",
     "程式語言基礎知識目錄.md",
+    "知識/程式語言/程式語言總目錄.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/中位數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
