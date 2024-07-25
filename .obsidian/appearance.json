@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
   "accentColor": "#febef2",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "textFontFamily": "俐方體11號",
+  "interfaceFontFamily": "俐方體11號",
+  "monospaceFontFamily": "俐方體11號"
 }
