@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
+                "file": "知識/統計/統計學/資料/資料預處理/標準化.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "1e3b8e995fa82357"
+          }
+        ]
+      },
+      {
+        "id": "a03d49b473d70da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf4d35444b5307e0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/資料/資料預處理/標準化.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000007,
+                  "close": false
+                }
+              }
+            },
+            "group": "1e3b8e995fa82357"
           }
         ]
       }
@@ -48,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "standard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
+                "file": "知識/統計/統計學/資料/資料預處理/標準化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
+                "file": "知識/統計/統計學/資料/資料預處理/標準化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md"
+                "file": "知識/統計/統計學/資料/資料預處理/標準化.md"
               }
             }
           },
@@ -265,8 +308,10 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
+    "知識/統計/統計學/資料/資料預處理/標準化.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
@@ -283,7 +328,6 @@
     "程式語言基礎知識目錄.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/中位數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/集合/加法法則.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
