@@ -172,8 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "sheet-plus:Create excel file": false,
       "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "workspaces:管理工作區配置": false
+      "audio-recorder:開始/停止錄音": false
     }
   },
   "floating": {
@@ -226,8 +225,19 @@
                     "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
                   }
                 }
+              },
+              {
+                "id": "53719cfa68cc477a",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.7"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -240,7 +250,7 @@
       }
     ]
   },
-  "active": "6d9470cdcdd7b381",
+  "active": "53719cfa68cc477a",
   "lastOpenFiles": [
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計知識總目錄.md",
