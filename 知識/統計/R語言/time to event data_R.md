@@ -2,7 +2,7 @@
 - - -
 # 函數說明：
 ``` r
-Surv(time,time2,event,type=c("right","left","interv"))
+Surv(time,time2,event,type=c("right","left","interval"))
 ```
 `time`：
 `event`：
