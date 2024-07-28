@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +213,7 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "f75b07cda725b87a",
   "lastOpenFiles": [
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/機率/條件機率.md",
