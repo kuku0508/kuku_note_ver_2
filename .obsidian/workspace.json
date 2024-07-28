@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "此筆記介紹.md",
+                "file": "文本/遊戲/rimworld/日記/新世支配者/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/遊戲/rimworld/日記/新世支配者/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/遊戲/rimworld/日記/新世支配者/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "文本/遊戲/rimworld/日記/新世支配者/未命名.md"
               }
             }
           },
@@ -213,9 +213,14 @@
       }
     ]
   },
-  "active": "5e10dfa4988170f6",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
     "此筆記介紹.md",
+    "文本/遊戲/rimworld/日記/新世支配者/未命名.md",
+    "文本/遊戲/rimworld/日記/新世支配者",
+    "文本/遊戲/rimworld/日記",
+    "文本/遊戲/rimworld",
+    "文本/遊戲",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/未分類/文本/Langton's ant.md",
     "文本/未分類/圖",
@@ -243,7 +248,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
