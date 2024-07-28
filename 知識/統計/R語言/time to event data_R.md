@@ -18,4 +18,5 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 - 當缺少參數`type`時，R會根據以下規則假設一個類型：
 	- 如果有兩個無名參數，他們將被視為`time`跟`event`。
 	- 如果有三個無名參數，他們將被視為`time`、`time2`跟`event`。
-	- 如果`event`
+	- 如果參數`event`是一個因子，則`type`將假設為`mstate`。
+	- 如果沒有參數`time2`，ㄗ
