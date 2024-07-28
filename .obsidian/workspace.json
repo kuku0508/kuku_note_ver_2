@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
               }
             }
           },
@@ -227,35 +227,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "d1b6aa9461a47c15",
-        "type": "window",
-        "children": [
-          {
-            "id": "b7167dc5dc0d6147",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "97e23b037c3c4f44",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1179,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "60ec535e243fae6f",
         "type": "window",
         "children": [
@@ -294,14 +265,43 @@
         "height": 1392,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "06abe8999c617608",
+        "type": "window",
+        "children": [
+          {
+            "id": "41548cf8c20f0317",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0684ba33626de9a8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1171,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "97e23b037c3c4f44",
+  "active": "0684ba33626de9a8",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
-    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
+    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計知識總目錄.md",
