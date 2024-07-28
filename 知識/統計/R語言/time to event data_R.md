@@ -15,4 +15,5 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 - - -
 # 細節補充：
 - 若一份資料中存在多種設限類型，則在參數`type`中可以使用`matate`
-- 當缺少‵
+- 當缺少參數`type`時，R會根據以下規則假設一個類型：
+	- 如果有兩個無名參數，他們將被視為
