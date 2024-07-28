@@ -4,7 +4,7 @@
 ``` r
 Surv(time,time2,event,type=c("right","left","interval"))
 ```
-`time`：
+`time`：對於右設限函數，這是ㄓ
 `time2`：
 `event`：
 `type`
