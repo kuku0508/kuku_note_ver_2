@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
+                "file": "此筆記介紹.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
+                "file": "此筆記介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
+                "file": "此筆記介紹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md"
+                "file": "此筆記介紹.md"
               }
             }
           },
@@ -215,8 +215,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "此筆記介紹.md",
     "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
+    "此筆記介紹.md",
     "文本/遊戲/rimworld/日記/新世支配者",
     "文本/遊戲/rimworld/日記",
     "文本/遊戲/rimworld",
