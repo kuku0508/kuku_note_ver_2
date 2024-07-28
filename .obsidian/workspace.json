@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md"
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
               }
             }
           },
@@ -224,15 +224,15 @@
         "zoom": 0
       },
       {
-        "id": "06abe8999c617608",
+        "id": "64954993477f99f9",
         "type": "window",
         "children": [
           {
-            "id": "41548cf8c20f0317",
+            "id": "97ac9e33e4ce2064",
             "type": "tabs",
             "children": [
               {
-                "id": "0684ba33626de9a8",
+                "id": "5e10dfa4988170f6",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -245,20 +245,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1171,
-        "height": 1392,
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "5e10dfa4988170f6",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
