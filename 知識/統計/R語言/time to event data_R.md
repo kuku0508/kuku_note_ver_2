@@ -20,4 +20,4 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 	- 如果有三個無名參數，他們將被視為`time`、`time2`跟`event`。
 	- 如果參數`event`是一個因子，則`type`將假設為`mstate`。
 	- 如果沒有參數`time2`，則`type`將假設為`right`。
-- 當`type`被省略時，`mstate`
+- 當`type`被省略時，`mstate`狀態將作為一個因子，因子的第一個level
