@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "此筆記介紹.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "此筆記介紹.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "此筆記介紹.md"
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
               }
             }
           },
@@ -213,10 +213,10 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "5e10dfa4988170f6",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "此筆記介紹.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/未分類/文本/Langton's ant.md",
     "文本/未分類/圖",
     "文本/未分類/文本",
