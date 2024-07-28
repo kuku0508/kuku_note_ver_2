@@ -22,4 +22,4 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 	- 如果沒有參數`time2`，則`type`將假設為`right`。
 - 當`type`被省略時，`mstate`狀態將作為一個因子，因子的第一個level表示設限，其餘level表示過渡到給定的狀態。
 - 區間設限數據有兩種方式可以表示：
-	- 第一種方式使用``
+	- 第一種方式使用`type="interval"`，在這種情況下，參數`time2`將被忽略
