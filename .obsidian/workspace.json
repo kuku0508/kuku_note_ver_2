@@ -11,12 +11,8 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,6 +208,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
+    "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/R語言/time to event data_R.md",
     "知識/統計/存活分析/基礎知識/設限/區間設限.md",
     "知識/統計/R語言/R語言目錄.md",
@@ -241,8 +235,6 @@
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/SAS",
     "知識/程式語言/Latex/Latex知識總目錄.md",
-    "知識/程式語言/HTML/HTML知識總目錄.md",
-    "知識/程式語言/MarkDown/Markdown知識總目錄.md",
-    "知識/程式語言/MarkDown/語法表/Markdown語法表.md"
+    "知識/程式語言/HTML/HTML知識總目錄.md"
   ]
 }
