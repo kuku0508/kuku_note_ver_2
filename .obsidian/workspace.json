@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "file": "知識/統計/統計學/集合/互斥.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "file": "知識/統計/統計學/集合/互斥.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "file": "知識/統計/統計學/集合/互斥.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md"
+                "file": "知識/統計/統計學/集合/互斥.md"
               }
             }
           },
