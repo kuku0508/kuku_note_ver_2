@@ -14,5 +14,5 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 	- `mstate`：多狀態
 - - -
 # 細節補充：
-- 若一份資料中存在多種設限類型，則在`type`中可以使用`matate
-- `
+- 若一份資料中存在多種設限類型，則在參數`type`中可以使用`matate`
+- 當缺少‵
