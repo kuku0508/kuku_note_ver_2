@@ -23,4 +23,4 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 - 當`type`被省略時，`mstate`狀態將作為一個因子，因子的第一個level表示設限，其餘level表示過渡到給定的狀態。
 - 區間設限數據有兩種方式可以表示：
 	- 第一種方式使用`type="interval"`，在這種情況下，參數`time2`將被忽略，除非`event=3`
-	- 第二種方法是將每個觀測值視為一個時間區間，例如($-\infty\,,\,t_2$)表示
+	- 第二種方法是將每個觀測值視為一個時間區間，例如($-\infty\,,\,t_2$)表示左設限，($t_1\,,\,\infty$)
