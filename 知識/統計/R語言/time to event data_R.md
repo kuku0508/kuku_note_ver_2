@@ -6,5 +6,5 @@ Surv(time,time2,event,type=c("right","left","interval"))
 ```
 `time`：對於右設限函數，這是追蹤時間。對於區間設限數據，第一個參數是區間的起始時間。
 `time2`：對於區間設限數據，這是區間的結束時間。
-`event`：
+`event`：表示事件發生狀態，通常0=存活，1=事件發生。對於區間設限數據
 `type`
