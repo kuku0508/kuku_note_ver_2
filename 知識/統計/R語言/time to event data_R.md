@@ -5,4 +5,6 @@
 Surv(time,time2,event,type=c("right","left","interval"))
 ```
 `time`：
+`time2`：
 `event`：
+`type`
