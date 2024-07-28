@@ -17,50 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1e3b8e995fa82357"
-          }
-        ]
-      },
-      {
-        "id": "a03d49b473d70da7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf4d35444b5307e0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0000000000000007,
-                  "close": false
-                }
-              }
-            },
-            "group": "1e3b8e995fa82357"
+            }
           }
         ]
       }
