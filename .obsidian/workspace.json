@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md"
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
               }
             }
           },
@@ -184,46 +184,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "60ec535e243fae6f",
-        "type": "window",
-        "children": [
-          {
-            "id": "f216b0ec8fed2573",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6d9470cdcdd7b381",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
-                  }
-                }
-              },
-              {
-                "id": "53719cfa68cc477a",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.6.7"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "64954993477f99f9",
         "type": "window",
         "children": [
@@ -254,10 +214,10 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "5e10dfa4988170f6",
   "lastOpenFiles": [
-    "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計學/集合/加法法則.md",
+    "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計學/機率/機率三公理.md",
     "知識/統計/統計學/集合/互斥.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
