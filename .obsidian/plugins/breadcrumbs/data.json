@@ -119,8 +119,8 @@
   "impliedRelations": {
     "siblingIdentity": false,
     "sameParentIsSibling": true,
-    "siblingsSiblingIsSibling": false,
-    "siblingsParentIsParent": false,
+    "siblingsSiblingIsSibling": true,
+    "siblingsParentIsParent": true,
     "parentsSiblingsIsParents": false,
     "parentsParentsIsParent": false,
     "cousinsIsSibling": false
