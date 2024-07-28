@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/機率/條件機率.md",
-                "mode": "preview",
+                "file": "此筆記介紹.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/機率/條件機率.md",
+                "file": "此筆記介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/機率/條件機率.md",
+                "file": "此筆記介紹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/機率/條件機率.md"
+                "file": "此筆記介紹.md"
               }
             }
           },
@@ -215,12 +215,13 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "程式語言基礎知識目錄.md",
+    "知識/統計/統計學/機率/條件機率.md",
     "知識/統計/統計學/機率/機率.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/四分位數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/加權平均數.md",
     "知識/統計/統計學/機率/經驗機率.md",
-    "知識/統計/統計學/機率/條件機率.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
@@ -240,7 +241,6 @@
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
-    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
