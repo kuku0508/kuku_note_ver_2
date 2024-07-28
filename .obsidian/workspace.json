@@ -11,8 +11,12 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/機率/條件機率.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/機率/條件機率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/機率/條件機率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/機率/條件機率.md"
+              }
             }
           },
           {
@@ -208,6 +216,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+    "知識/統計/統計學/機率/條件機率.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/R語言/time to event data_R.md",
@@ -216,7 +226,6 @@
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/聯集.md",
     "知識/統計/統計學/集合/加法法則.md",
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計學/機率/機率三公理.md",
@@ -234,7 +243,6 @@
     "知識/程式語言/程式語言總目錄.md",
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/SAS",
-    "知識/程式語言/Latex/Latex知識總目錄.md",
-    "知識/程式語言/HTML/HTML知識總目錄.md"
+    "知識/程式語言/Latex/Latex知識總目錄.md"
   ]
 }
