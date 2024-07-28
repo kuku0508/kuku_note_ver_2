@@ -10,7 +10,9 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 - `type`：整體數據的設限類型，幫助`surv`函數正確解數`event`參數的訊息。
 	- `right`：右設限
 	- `left`：左設限
-	- `interval`：區間設
+	- `interval`：區間設限
+	- `mstate`：多狀態
 - - -
 # 細節補充：
-- 
+- 若一份資料中存在多種設限類型，則在`type`中可以使用`matate
+- `
