@@ -24,4 +24,5 @@ Surv(time,time2,event,type=("right","left","interval","mstate"))
 - 區間設限數據有兩種方式可以表示：
 	- 第一種方式使用`type="interval"`，在這種情況下，參數`time2`將被忽略，除非`event=3`
 	- 第二種方法是將每個觀測值視為一個時間區間，例如($-\infty\,,\,t_2$)表示左設限，($t_1\,,\,\infty$)表示右設限，($t_1,\,,\,t_2$)表示精確值。
-- 目前，允許區間設限數據的唯一
+- - -
+parent::[[Time to event data]]
