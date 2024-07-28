@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/R語言/time to event data_R.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/區間設限.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/R語言/time to event data_R.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/區間設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/R語言/time to event data_R.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/區間設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/R語言/time to event data_R.md"
+                "file": "知識/統計/存活分析/基礎知識/設限/區間設限.md"
               }
             }
           },
@@ -217,6 +216,7 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/R語言/time to event data_R.md",
     "知識/統計/R語言/R語言目錄.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/聯集.md",
@@ -243,7 +243,6 @@
     "知識/程式語言/HTML/HTML知識總目錄.md",
     "知識/程式語言/MarkDown/Markdown知識總目錄.md",
     "知識/程式語言/MarkDown/語法表/Markdown語法表.md",
-    "程式語言基礎知識目錄.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/中位數.md"
+    "程式語言基礎知識目錄.md"
   ]
 }
