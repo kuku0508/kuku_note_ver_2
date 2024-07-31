@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/資料/資料.md",
+                "file": "此筆記介紹.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/資料/資料.md",
+                "file": "此筆記介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/資料/資料.md",
+                "file": "此筆記介紹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/資料/資料.md"
+                "file": "此筆記介紹.md"
               }
             }
           },
@@ -213,8 +213,9 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/資料/資料.md",
     "此筆記介紹.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
@@ -247,7 +248,6 @@
     "知識/統計/統計學/集合/互斥.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
