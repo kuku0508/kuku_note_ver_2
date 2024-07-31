@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/事件.md",
+                "file": "知識/統計/統計學/集合/獨立事件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/集合/事件.md",
+                "file": "知識/統計/統計學/集合/獨立事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/集合/事件.md",
+                "file": "知識/統計/統計學/集合/獨立事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/集合/事件.md"
+                "file": "知識/統計/統計學/集合/獨立事件.md"
               }
             }
           },
@@ -215,6 +215,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/事件.md",
+    "知識/統計/統計學/集合/獨立事件.md",
     "知識/統計/統計學/機率/條件機率.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "此筆記庫介紹.md",
@@ -242,12 +244,10 @@
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/聯集.md",
     "知識/統計/統計學/集合/加法法則.md",
-    "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計學/機率/機率三公理.md",
     "知識/統計/統計學/集合/互斥.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
