@@ -11,8 +11,12 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文本/名言/違背本性的愛你.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/名言/違背本性的愛你.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/名言/違背本性的愛你.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "文本/名言/違背本性的愛你.md"
               }
             }
           },
@@ -210,8 +214,11 @@
       }
     ]
   },
-  "active": "5e10dfa4988170f6",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/名言/宿儺與漏瑚對決.md",
+    "文本/名言/違背本性的愛你.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/集合/乘法原則.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/加法法則.md",
@@ -221,7 +228,6 @@
     "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/集合/互斥.md",
     "知識/統計/統計學/集合/獨立事件.md",
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "此筆記庫介紹.md",
     "知識/統計/統計學/資料/資料.md",
     "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
@@ -243,8 +249,6 @@
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/R語言/time to event data_R.md",
     "知識/統計/存活分析/基礎知識/設限/區間設限.md",
-    "知識/統計/R語言/R語言目錄.md",
-    "知識/統計/統計學/集合/聯集.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
