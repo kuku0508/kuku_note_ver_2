@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/違背本性的愛你.md",
+                "file": "文本/名言/柯柏-雜菜煲食後感.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/名言/違背本性的愛你.md",
+                "file": "文本/名言/柯柏-雜菜煲食後感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/名言/違背本性的愛你.md",
+                "file": "文本/名言/柯柏-雜菜煲食後感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/名言/違背本性的愛你.md"
+                "file": "文本/名言/柯柏-雜菜煲食後感.md"
               }
             }
           },
@@ -216,8 +216,9 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "文本/名言/宿儺與漏瑚對決.md",
+    "文本/名言/未命名",
     "文本/名言/違背本性的愛你.md",
+    "文本/名言/宿儺與漏瑚對決.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/集合/乘法原則.md",
     "知識/統計/統計學/集合/交集.md",
@@ -248,7 +249,6 @@
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/R語言/time to event data_R.md",
-    "知識/統計/存活分析/基礎知識/設限/區間設限.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
