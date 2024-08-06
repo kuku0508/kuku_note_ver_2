@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/名言/柯柏-雜菜煲食後感.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/名言/柯柏-雜菜煲食後感.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/名言/柯柏-雜菜煲食後感.md"
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
               }
             }
           },
@@ -214,10 +214,10 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "5e10dfa4988170f6",
   "lastOpenFiles": [
-    "文本/名言/有遺憾挺好.md",
     "文本/名言/柯柏-雜菜煲食後感.md",
+    "文本/名言/有遺憾挺好.md",
     "文本/名言/未命名",
     "文本/名言/違背本性的愛你.md",
     "文本/名言/宿儺與漏瑚對決.md",
