@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/有遺憾挺好.md",
+                "file": "文本/名言/宿儺與漏瑚對決.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/名言/有遺憾挺好.md",
+                "file": "文本/名言/宿儺與漏瑚對決.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/名言/有遺憾挺好.md",
+                "file": "文本/名言/宿儺與漏瑚對決.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/名言/有遺憾挺好.md"
+                "file": "文本/名言/宿儺與漏瑚對決.md"
               }
             }
           },
@@ -216,9 +216,11 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
+    "文本/名言/價值觀",
+    "文本/名言/人生/有遺憾挺好.md",
+    "文本/名言/人生",
     "文本/名言/辯論/粉紅色的雪.md",
-    "文本/名言/有遺憾挺好.md",
-    "文本/名言/柯柏-雜菜煲食後感.md",
     "文本/名言/宿儺與漏瑚對決.md",
     "文本/名言/違背本性的愛你.md",
     "文本/名言/節日的意義.md",
@@ -249,8 +251,6 @@
     "知識/統計/統計學/機率/機率.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/四分位數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/加權平均數.md",
-    "知識/統計/SQL",
-    "知識/統計/SAS"
+    "知識/統計/SQL"
   ]
 }
