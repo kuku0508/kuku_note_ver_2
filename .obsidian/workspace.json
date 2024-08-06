@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/宿儺與漏瑚對決.md",
+                "file": "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "standard",
+                "query": "tag:#名言",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/名言/宿儺與漏瑚對決.md",
+                "file": "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/名言/宿儺與漏瑚對決.md",
+                "file": "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/名言/宿儺與漏瑚對決.md"
+                "file": "文本/名言/價值觀/柯柏-雜菜煲食後感.md"
               }
             }
           },
@@ -216,12 +216,12 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/名言/價值觀/宿儺與漏瑚對決.md",
     "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
     "文本/名言/價值觀",
     "文本/名言/人生/有遺憾挺好.md",
     "文本/名言/人生",
     "文本/名言/辯論/粉紅色的雪.md",
-    "文本/名言/宿儺與漏瑚對決.md",
     "文本/名言/違背本性的愛你.md",
     "文本/名言/節日的意義.md",
     "文本/名言/辯論/羅南森學長-寫給辯論門外的少年.md",
