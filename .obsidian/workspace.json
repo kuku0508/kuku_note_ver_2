@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/柯柏-雜菜煲食後感.md",
+                "file": "文本/名言/有遺憾挺好.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/名言/有遺憾挺好.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/名言/有遺憾挺好.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "文本/名言/有遺憾挺好.md"
               }
             }
           },
@@ -214,14 +214,17 @@
       }
     ]
   },
-  "active": "5e10dfa4988170f6",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "文本/名言/柯柏-雜菜煲食後感.md",
+    "文本/名言/辯論/粉紅色的雪.md",
     "文本/名言/有遺憾挺好.md",
-    "文本/名言/未命名",
-    "文本/名言/違背本性的愛你.md",
+    "文本/名言/柯柏-雜菜煲食後感.md",
     "文本/名言/宿儺與漏瑚對決.md",
+    "文本/名言/違背本性的愛你.md",
+    "文本/名言/節日的意義.md",
+    "文本/名言/辯論/羅南森學長-寫給辯論門外的少年.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+    "文本/名言/辯論",
     "知識/統計/統計學/集合/乘法原則.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/加法法則.md",
@@ -247,9 +250,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/四分位數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/加權平均數.md",
-    "知識/統計/統計學/機率/經驗機率.md",
-    "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
-    "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/SQL",
     "知識/統計/SAS"
   ]
