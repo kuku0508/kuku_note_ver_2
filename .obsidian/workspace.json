@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/分配/柴比雪夫不等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/分配/柴比雪夫不等式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "知識/統計/統計學/分配/柴比雪夫不等式.md"
               }
             }
           },
@@ -200,8 +200,19 @@
                     "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
                   }
                 }
+              },
+              {
+                "id": "e6e62f08cd425c46",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -214,10 +225,11 @@
       }
     ]
   },
-  "active": "5e10dfa4988170f6",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/柴比雪夫不等式.md",
+    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+    "知識/統計/統計學/分配/柴比雪夫不等式.md",
     "知識/統計/統計學/機率/條件機率.md",
     "知識/統計/統計學/機率/經驗機率.md",
     "知識/統計/統計學/機率/貝氏定理.md",
@@ -245,7 +257,6 @@
     "知識/統計/統計學/集合/獨立事件.md",
     "此筆記庫介紹.md",
     "知識/統計/統計學/資料/資料.md",
-    "文本/遊戲/rimworld/日記/新世支配者/5500年1月11號.md",
     "文本/遊戲/rimworld/日記/新世支配者",
     "文本/遊戲/rimworld/日記",
     "文本/遊戲/rimworld",
