@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/機率/貝氏定理.md",
+                "file": "知識/統計/統計學/機率/樹形圖.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/機率/貝氏定理.md",
+                "file": "知識/統計/統計學/機率/樹形圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/機率/貝氏定理.md",
+                "file": "知識/統計/統計學/機率/樹形圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/機率/貝氏定理.md"
+                "file": "知識/統計/統計學/機率/樹形圖.md"
               }
             }
           },
@@ -192,16 +192,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "5e10dfa4988170f6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
-                  }
-                }
-              },
-              {
                 "id": "e6e62f08cd425c46",
                 "type": "leaf",
                 "state": {
@@ -211,8 +201,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -227,9 +216,10 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/統計學/機率/條件機率.md",
     "知識/統計/統計學/機率/貝氏定理.md",
+    "知識/統計/統計學/機率/樹形圖.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
+    "知識/統計/統計學/機率/條件機率.md",
     "Pasted image 20240808022822.png",
     "知識/統計/時間數列.md",
     "知識/統計/統計學/分配/柴比雪夫不等式.md",
