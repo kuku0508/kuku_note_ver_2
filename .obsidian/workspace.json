@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/樣本空間.md",
+                "file": "知識/統計/統計學/集合/元素.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/集合/樣本空間.md",
+                "file": "知識/統計/統計學/集合/元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/集合/樣本空間.md",
+                "file": "知識/統計/統計學/集合/元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/集合/樣本空間.md"
+                "file": "知識/統計/統計學/集合/元素.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/樣本空間.md",
+    "知識/統計/統計學/集合/隨機實驗.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/機率/樹形圖.md",
     "文本/統計/統計學/講義/ch6.md",
@@ -229,7 +231,6 @@
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/機率/經驗機率.md",
     "知識/統計/統計學/機率/全機率定理.md",
-    "知識/統計/統計學/集合/隨機實驗.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計學/集合/互斥.md",
     "文本/名言/愛/違背本性的愛你.md",
@@ -246,7 +247,6 @@
     "知識/統計/統計學/集合/乘法原則.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/加法法則.md",
-    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "文本/遊戲/rimworld/日記/新世支配者",
     "文本/遊戲/rimworld/日記",
     "文本/遊戲/rimworld",
