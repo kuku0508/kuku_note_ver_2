@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/機率/樹形圖.md",
+                "file": "知識/統計/統計學/集合/樣本空間.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch6.md",
+                "file": "知識/統計/統計學/集合/樣本空間.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch6.md",
+                "file": "知識/統計/統計學/集合/樣本空間.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch6.md"
+                "file": "知識/統計/統計學/集合/樣本空間.md"
               }
             }
           },
@@ -214,8 +214,9 @@
       }
     ]
   },
-  "active": "e6e62f08cd425c46",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/機率/樹形圖.md",
     "文本/統計/統計學/講義/ch6.md",
     "文本/統計/統計學/講義/ch5.md",
@@ -246,7 +247,6 @@
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/加法法則.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
-    "知識/統計/統計學/集合/事件.md",
     "文本/遊戲/rimworld/日記/新世支配者",
     "文本/遊戲/rimworld/日記",
     "文本/遊戲/rimworld",
