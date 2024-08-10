@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/集合/元素.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/集合/元素.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/集合/元素.md"
+                "file": "文本/統計/統計學/講義/ch6.md"
               }
             }
           },
@@ -214,8 +214,9 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "e6e62f08cd425c46",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/集合/樣本空間.md",
     "知識/統計/統計學/集合/隨機實驗.md",
     "知識/統計/統計學/集合/事件.md",
@@ -246,7 +247,6 @@
     "文本/名言/辯論",
     "知識/統計/統計學/集合/乘法原則.md",
     "知識/統計/統計學/集合/交集.md",
-    "知識/統計/統計學/集合/加法法則.md",
     "文本/遊戲/rimworld/日記/新世支配者",
     "文本/遊戲/rimworld/日記",
     "文本/遊戲/rimworld",
