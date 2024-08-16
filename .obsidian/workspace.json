@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md"
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md"
               }
             }
           },
@@ -216,6 +216,9 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/聯集.md",
+    "知識/統計/統計學/集合/隨機實驗.md",
+    "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch6.md",
@@ -231,7 +234,6 @@
     "math-teacher-library.excalidrawlib",
     "graphs.excalidrawlib",
     "知識/統計/統計學/集合/樣本空間.md",
-    "知識/統計/統計學/集合/隨機實驗.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/機率/樹形圖.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
@@ -251,8 +253,6 @@
     "文本/名言/辯論/粉紅色的雪.md",
     "文本/名言/人生/有遺憾挺好.md",
     "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
-    "文本/名言/價值觀/宿儺與漏瑚對決.md",
-    "知識/統計/統計學/集合/乘法原則.md",
     "文本/未分類/圖/obsidian放大鏡.png"
   ]
 }
