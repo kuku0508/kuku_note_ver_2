@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "隨機變數",
+                "query": "機率分",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
     "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
