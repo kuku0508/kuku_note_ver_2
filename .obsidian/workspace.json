@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md"
               }
             }
           },
@@ -216,6 +216,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
@@ -251,8 +253,6 @@
     "知識/統計/統計學/機率/經驗機率.md",
     "知識/統計/統計學/機率/全機率定理.md",
     "知識/統計/統計學/集合/餘集合法則.md",
-    "知識/統計/統計學/集合/互斥.md",
-    "文本/名言/愛/違背本性的愛你.md",
     "文本/未分類/圖/obsidian放大鏡.png"
   ]
 }

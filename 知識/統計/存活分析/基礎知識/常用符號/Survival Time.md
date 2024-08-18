@@ -12,4 +12,4 @@ Survival Time(存活時間)，一般以T表示。是指從開始觀察到感興�
 - - -
 ![[time to event data.png]]
 - - -
-parent::[[Time to event data]]
+parent::[[Time to event data]],[[隨機變數]]
