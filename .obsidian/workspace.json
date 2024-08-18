@@ -11,12 +11,8 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,13 +208,13 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
+    "文本/統計/統計學/講義/ch5.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
-    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/集合/聯集.md",
