@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md"
+                "file": "知識/統計/統計學/分配/分配.md"
               }
             }
           },
@@ -214,11 +214,11 @@
       }
     ]
   },
-  "active": "e6e62f08cd425c46",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/分配.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
-    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
