@@ -11,9 +11,56 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/分配/分配.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "9aa4492f9a4442ed"
+          }
+        ]
+      },
+      {
+        "id": "6e266fafabf8f0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891aac8a0885ed48",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/分配/分配.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": false
+                }
+              }
+            },
+            "group": "9aa4492f9a4442ed"
           }
         ]
       }
@@ -82,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/分配/分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/分配/分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/分配/分配.md"
+              }
             }
           },
           {
@@ -209,6 +260,7 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
@@ -244,7 +296,6 @@
     "知識/統計/統計學/機率/樹形圖.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "知識/統計/統計學/機率/貝氏定理.md",
-    "知識/統計/統計學/機率/條件機率.md",
     "Pasted image 20240808022822.png",
     "文本/未分類/圖/obsidian放大鏡.png"
   ]
