@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md"
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md"
               }
             }
           },
@@ -215,11 +214,11 @@
       }
     ]
   },
-  "active": "e6e62f08cd425c46",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
-    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
