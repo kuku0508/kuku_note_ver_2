@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md",
+                "file": "文本/名言/奧本海默.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md",
+                "file": "文本/名言/奧本海默.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md",
+                "file": "文本/名言/奧本海默.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md"
+                "file": "文本/名言/奧本海默.md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,12 +216,13 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/分配.md",
+    "文本/名言/奧本海默.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "文本/統計/統計學/講義/ch6.md",
     "文本/統計/統計學/講義/ch5.md",
-    "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
@@ -250,7 +252,6 @@
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/機率/樹形圖.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
-    "知識/統計/統計學/機率/貝氏定理.md",
     "Pasted image 20240808022822.png",
     "文本/未分類/圖/obsidian放大鏡.png"
   ]
