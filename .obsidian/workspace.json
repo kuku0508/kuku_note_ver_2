@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md"
+                "file": "文本/統計/統計學/講義/ch5.md"
               }
             }
           },
@@ -215,8 +215,9 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "e6e62f08cd425c46",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/分配.md",
@@ -226,7 +227,6 @@
     "知識/統計/R語言/time to event data_R.md",
     "知識/統計/統計學/分配/分配種類/連續型機率分配.md",
     "知識/統計/統計學/分配/分配種類",
-    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
