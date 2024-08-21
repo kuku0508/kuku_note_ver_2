@@ -11,8 +11,12 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md"
+              }
             }
           },
           {
@@ -209,8 +217,9 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/分配.md",
+    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "文本/統計/統計學/講義/ch5.md",
+    "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
@@ -219,7 +228,6 @@
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
