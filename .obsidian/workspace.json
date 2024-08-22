@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/人生/有遺憾挺好.md",
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/名言/人生/有遺憾挺好.md",
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/名言/人生/有遺憾挺好.md",
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/名言/人生/有遺憾挺好.md"
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md"
               }
             }
           },
@@ -216,6 +216,12 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
+    "知識/統計/統計學/分配/分配種類/連續型機率分配.md",
+    "知識/統計/統計學/分配/分配種類/分配.md",
+    "文本/名言/人生/有遺憾挺好.md",
+    "文本/統計/統計學/講義/ch6.md",
     "文本/名言/無力感/奧本海默.md",
     "文本/名言/愛/違背本性的愛你.md",
     "文本/名言/辯論/囍.md",
@@ -226,24 +232,18 @@
     "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
     "文本/名言/價值觀/節日的意義.md",
     "文本/名言/價值觀/親子不同頻.md",
-    "文本/統計/統計學/講義/ch6.md",
     "文本/名言/無力感",
-    "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
-    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
     "知識/統計/R語言/time to event data_R.md",
-    "知識/統計/統計學/分配/分配種類/連續型機率分配.md",
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "知識/統計/統計學/分配/隨機變數",
     "UML-ER-library.excalidrawlib",
     "forms.excalidrawlib",
