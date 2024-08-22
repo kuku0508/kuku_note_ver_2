@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "file": "均勻分配.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "file": "均勻分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "file": "均勻分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md"
+                "file": "均勻分配.md"
               }
             }
           },
@@ -216,9 +216,10 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+    "均勻分配.md",
+    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/統計學/分配/分配種類/連續型機率分配.md",
     "知識/統計/統計學/分配/分配種類/分配.md",
@@ -243,7 +244,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
-    "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/統計學/分配/隨機變數",
     "UML-ER-library.excalidrawlib",
     "forms.excalidrawlib",
