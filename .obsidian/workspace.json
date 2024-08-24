@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md"
+                "file": "文本/統計/統計學/講義/ch6.md"
               }
             }
           },
@@ -257,10 +257,10 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "e6e62f08cd425c46",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch6.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+    "文本/統計/統計學/講義/ch6.md",
     "離散均勻分配.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
