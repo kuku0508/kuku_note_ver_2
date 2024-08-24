@@ -13,54 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "aa1234a6370cb4ee"
-          }
-        ]
-      },
-      {
-        "id": "e2210c7eda360ebc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "013e999b40f1be08",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224421,
-                  "close": false
-                }
-              }
-            },
-            "group": "aa1234a6370cb4ee"
+            }
           }
         ]
       }
@@ -128,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch6.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch6.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch6.md"
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md"
               }
             }
           },
@@ -257,15 +214,15 @@
       }
     ]
   },
-  "active": "e6e62f08cd425c46",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
-    "文本/統計/統計學/講義/ch6.md",
-    "離散均勻分配.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
+    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+    "離散均勻分配.md",
     "知識/統計/統計學/分配/分配種類/連續型機率分配.md",
+    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
+    "文本/統計/統計學/講義/ch6.md",
+    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/分配種類/分配.md",
     "文本/名言/人生/有遺憾挺好.md",
     "文本/名言/無力感/奧本海默.md",
