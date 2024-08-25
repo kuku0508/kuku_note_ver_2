@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "未處理"
+  "newFileFolderPath": "未處理",
+  "attachmentFolderPath": "未處理"
 }
