@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "未處理/連續型隨機變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "未處理/連續型隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "未處理/連續型隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/機率質量函數.md"
+                "file": "未處理/連續型隨機變數.md"
               }
             }
           },
@@ -216,13 +216,13 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+    "未處理/連續型隨機變數.md",
+    "離散型機率分配.md",
     "未處理/機率質量函數.md",
-    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
-    "知識/統計/統計學/分配/分配種類/連續型機率分配.md",
+    "未處理",
+    "連續型機率分配.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/統計學/基礎知識/變數.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
@@ -251,7 +251,6 @@
     "storytelling.excalidrawlib",
     "data-viz.excalidrawlib",
     "data-platform.excalidrawlib",
-    "some-handdrawn-signs.excalidrawlib",
     "Pasted image 20240808022822.png",
     "文本/未分類/圖/obsidian放大鏡.png"
   ]
