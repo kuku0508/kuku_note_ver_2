@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "9816c1fe113711e2"
+          }
+        ]
+      },
+      {
+        "id": "4594460dc28d5cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137c887319afc252",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "9816c1fe113711e2"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/機率質量函數.md"
+                "file": "知識/統計/統計學/分配/分配種類/離散型機率分配.md"
               }
             }
           },
@@ -217,8 +260,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch5.md",
     "未處理/機率質量函數.md",
+    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
