@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/累積分布函數.md",
+                "file": "知識/統計/統計學/分配/累積分布函數.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/累積分布函數.md",
+                "file": "知識/統計/統計學/分配/累積分布函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/累積分布函數.md",
+                "file": "知識/統計/統計學/分配/累積分布函數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/累積分布函數.md"
+                "file": "知識/統計/統計學/分配/累積分布函數.md"
               }
             }
           },
@@ -227,10 +227,10 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "未處理/機率質量函數.md",
-    "未處理/累積分布函數.md",
+    "知識/統計/統計學/分配/累積分布函數.md",
     "文本/統計/統計學/圖/機率質量函數 骰子.png",
     "知識/統計/統計學/分配/分配種類/分配.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
