@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "未處理/機率質量函數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "未處理/機率質量函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "未處理/機率質量函數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md"
+                "file": "未處理/機率質量函數.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "未處理/機率質量函數.md",
     "未處理/超幾何分配.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
@@ -253,7 +254,6 @@
     "知識/統計/統計學/基礎知識/變數.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
-    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "文本/名言/無力感",
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/統計學/分配/隨機變數",
