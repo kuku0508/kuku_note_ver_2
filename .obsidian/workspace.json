@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/機率質量函數.md",
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/機率質量函數.md"
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md"
               }
             }
           },
@@ -217,11 +217,11 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
+    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "未處理/機率質量函數.md",
+    "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
     "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "文本/統計/統計學/圖/相對次數直方圖 範例.png",
     "文本/統計/統計學/圖/散佈圖 相關性說明.png",
     "文本/統計/統計學/圖/散佈圖 預測與實際變數.png",
