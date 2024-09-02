@@ -229,6 +229,7 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/統計/統計學/圖/CDF B-A.png",
     "文本/事件",
     "未處理/機率質量函數.md",
     "知識/統計/統計學/分配/累積分布函數.md",
@@ -273,7 +274,6 @@
     "forms.excalidrawlib",
     "dev_ops.excalidrawlib",
     "storytelling.excalidrawlib",
-    "data-viz.excalidrawlib",
-    "data-platform.excalidrawlib"
+    "data-viz.excalidrawlib"
   ]
 }
