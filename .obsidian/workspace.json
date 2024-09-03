@@ -11,12 +11,8 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/分配/累積分布函數.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/累積分布函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/累積分布函數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/分配/累積分布函數.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,10 +221,10 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/累積分布函數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "未處理/機率質量函數.md",
     "知識/統計/統計學/分配/分配種類/離散型機率分配.md",
-    "知識/統計/統計學/分配/累積分布函數.md",
     "文本/統計/統計學/圖/直方圖範例 分數.png",
     "文本/統計/統計學/圖/長條圖範例 學歷.png",
     "文本/統計/統計學/圖/次數多邊形圖範例.png",
