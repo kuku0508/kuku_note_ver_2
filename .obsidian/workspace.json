@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/分配種類/累積分布函數.md",
+                "file": "未處理/連續型隨機變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/分配種類/累積分布函數.md",
+                "file": "未處理/連續型隨機變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/分配種類/累積分布函數.md",
+                "file": "未處理/連續型隨機變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/分配種類/累積分布函數.md"
+                "file": "未處理/連續型隨機變數.md"
               }
             }
           },
@@ -227,8 +227,9 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "未處理/連續型機率分配.md",
     "知識/統計/統計學/分配/分配種類/累積分布函數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/機率/機率質量函數.md",
@@ -261,7 +262,6 @@
     "文本/名言/辯論/囍.md",
     "文本/名言/辯論/羅南森學長-寫給辯論門外的少年.md",
     "文本/名言/價值觀/節日的意義.md",
-    "文本/名言/價值觀/宿儺與漏瑚對決.md",
     "文本/統計/統計學/圖/相對次數直方圖 範例.png",
     "文本/統計/統計學/圖/散佈圖 相關性說明.png",
     "文本/統計/統計學/圖/散佈圖 預測與實際變數.png",
