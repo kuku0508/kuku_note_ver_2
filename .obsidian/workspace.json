@@ -17,7 +17,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "38eb3aa63e167329"
           },
           {
             "id": "344a26449fc3ed44",
@@ -30,6 +31,48 @@
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "c824983751f8ddbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f065c81a986469a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "未處理/期望值.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "38eb3aa63e167329"
           }
         ]
       }
@@ -228,7 +271,7 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "6f065c81a986469a",
   "lastOpenFiles": [
     "文本/統計/統計學/講義/ch5.md",
     "未處理/期望值.md",
