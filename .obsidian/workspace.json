@@ -11,8 +11,12 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md"
+              }
             }
           },
           {
