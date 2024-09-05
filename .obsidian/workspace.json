@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/均勻分配.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/均勻分配.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/均勻分配.md"
+                "file": "文本/統計/統計學/講義/ch6.md"
               }
             }
           },
@@ -235,8 +235,9 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "e246d50533abb81a",
   "lastOpenFiles": [
+    "未處理/均勻分配.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "文本/統計/統計學/講義/ch6.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
@@ -264,7 +265,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/三角函數.md",
     "知識/程式語言/Latex/基礎知識/語法表/組合.md",
     "知識/程式語言/Latex/基礎知識/語法表/上標.md",
-    "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
