@@ -195,9 +195,17 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "74ffd3cdb4d9f137",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -259,7 +267,7 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "74ffd3cdb4d9f137",
   "lastOpenFiles": [
     "知識/程式語言/Latex/基礎知識/語法表/三角函數.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
