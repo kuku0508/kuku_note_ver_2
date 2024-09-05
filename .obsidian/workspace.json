@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/組合.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/組合.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/組合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/組合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/二項分配.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/組合.md"
               }
             }
           },
@@ -269,8 +269,11 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/程式語言/HTML/語法表/跑馬燈.md",
     "知識/程式語言/Latex/基礎知識/語法表/三角函數.md",
+    "知識/程式語言/Latex/基礎知識/語法表/上標.md",
+    "知識/程式語言/Latex/基礎知識/語法表/組合.md",
+    "未處理/二項分配.md",
+    "知識/程式語言/HTML/語法表/跑馬燈.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "知識/程式語言/Latex/基礎知識/語法表/分數.md",
@@ -292,9 +295,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/連分數.md",
     "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
-    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/程式語言/Latex/基礎知識/語法表/備註.md",
-    "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
