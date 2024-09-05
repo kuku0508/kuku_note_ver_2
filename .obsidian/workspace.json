@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/統計/統計學/分配/常見分配種類/伯努利分配.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/統計/統計學/分配/常見分配種類/伯努利分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/二項分配.md",
+                "file": "知識/統計/統計學/分配/常見分配種類/伯努利分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/二項分配.md"
+                "file": "知識/統計/統計學/分配/常見分配種類/伯努利分配.md"
               }
             }
           },
@@ -226,9 +226,9 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "未處理/二項分配.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "未處理/二項分配.md",
     "知識/統計/統計學/分配/常見分配種類/伯努利分配.md",
     "知識/程式語言/HTML/語法表/跑馬燈.md",
     "知識/程式語言/Latex/基礎知識/語法表/三角函數.md",
