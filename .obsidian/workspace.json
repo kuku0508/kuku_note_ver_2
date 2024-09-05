@@ -11,9 +11,11 @@
             "id": "e808eb1b95114877",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md"
+                "file": "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -187,9 +189,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e808eb1b95114877",
+  "floating": {
+    "id": "2a386c794dbaecc4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5dbdee28ed31f21e",
+        "type": "window",
+        "children": [
+          {
+            "id": "0bc605be9d2fa844",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c630bad589803d50",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch5.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c630bad589803d50",
   "lastOpenFiles": [
     "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
+    "文本/統計/統計學/講義/ch5.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "知識/統計/統計學/分配/常見分配種類/離散",
@@ -215,7 +253,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
     "知識/程式語言/Latex/基礎知識/語法表/刪除線.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
