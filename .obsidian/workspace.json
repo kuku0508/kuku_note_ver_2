@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md"
+                "file": "文本/統計/統計學/講義/ch6.md"
               }
             }
           },
@@ -210,8 +210,19 @@
                     "file": "文本/統計/統計學/講義/ch5.md"
                   }
                 }
+              },
+              {
+                "id": "e246d50533abb81a",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch6.md"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -224,8 +235,9 @@
       }
     ]
   },
-  "active": "c630bad589803d50",
+  "active": "e246d50533abb81a",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "知識/統計/統計學/分配/累積分布函數.md",
     "知識/統計/統計學/分配/連續型機率分配.md",
@@ -243,7 +255,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
-    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/機率質量函數.md",
     "文本/統計/統計學/講義/ch8.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
