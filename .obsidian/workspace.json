@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
+                "file": "文本/統計/統計學/講義/ch6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md"
+                "file": "文本/統計/統計學/講義/ch6.md"
               }
             }
           },
@@ -235,13 +235,13 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "e246d50533abb81a",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "知識/統計/統計學/分配/連續型機率分配.md",
     "知識/統計/統計學/分配/機率質量函數.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
-    "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "文本/統計/統計學/圖/超幾何分配 機率分配圖.png",
     "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
     "文本/統計/統計學/圖/伯努利分配 機率分配圖.png",
