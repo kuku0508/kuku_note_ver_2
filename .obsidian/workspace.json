@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
+                "file": "知識/統計/統計學/分配/機率質量函數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+                "file": "知識/統計/統計學/分配/機率質量函數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+                "file": "知識/統計/統計學/分配/機率質量函數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md"
+                "file": "知識/統計/統計學/分配/機率質量函數.md"
               }
             }
           },
@@ -216,10 +216,10 @@
       }
     ]
   },
-  "active": "e6e62f08cd425c46",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
     "文本/統計/統計學/講義/ch5.md",
     "未處理/機率密度函數.md",
     "未處理/二項分配.md",
