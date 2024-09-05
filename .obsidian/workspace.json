@@ -17,7 +17,50 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "74b9c73a52891c92"
+          }
+        ]
+      },
+      {
+        "id": "3e62552abc4db3fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc1b106aeb9eb7fe",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/分配/隨機變數/隨機變數.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": false
+                }
+              }
+            },
+            "group": "74b9c73a52891c92"
           }
         ]
       }
@@ -218,6 +261,9 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "知識/統計/統計學/集合/事件.md",
+    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
+    "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/分配/常見分配種類/伯努利分配.md",
     "未處理/二項分配.md",
@@ -241,9 +287,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "知識/程式語言/Latex/基礎知識/語法表/分數.md",
     "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
-    "知識/程式語言/Latex/基礎知識/語法表/方程組.md",
-    "知識/程式語言/Latex/基礎知識/語法表/交集.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
