@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/二項分配.md",
+                "file": "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/二項分配.md",
+                "file": "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/二項分配.md",
+                "file": "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/二項分配.md"
+                "file": "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md"
               }
             }
           },
@@ -189,46 +189,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "2a386c794dbaecc4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "64954993477f99f9",
-        "type": "window",
-        "children": [
-          {
-            "id": "97ac9e33e4ce2064",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e6e62f08cd425c46",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1e03ebbc8f771b90",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+    "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
+    "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "知識/統計/統計學/分配/常見分配種類/離散",
-    "知識/統計/統計學/分配/常見分配種類/伯努利分配.md",
-    "知識/統計/統計學/分配/常見分配種類/二項分配.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/HTML/語法表/跑馬燈.md",
@@ -270,7 +236,6 @@
     "UML-ER-library.excalidrawlib",
     "forms.excalidrawlib",
     "dev_ops.excalidrawlib",
-    "storytelling.excalidrawlib",
-    "data-viz.excalidrawlib"
+    "storytelling.excalidrawlib"
   ]
 }
