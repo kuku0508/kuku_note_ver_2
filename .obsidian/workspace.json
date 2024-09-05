@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md"
+                "file": "文本/統計/統計學/講義/ch5.md"
               }
             }
           },
@@ -224,11 +224,11 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "c630bad589803d50",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
     "知識/統計/統計學/分配/機率質量函數.md",
-    "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "未處理/卜瓦松分配.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch8.md",
