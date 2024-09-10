@@ -41,9 +41,16 @@
         "a": 1,
         "rgb": 16668760
       }
+    },
+    {
+      "query": "path:知識/統計/迴歸分析  ",
+      "color": {
+        "a": 1,
+        "rgb": 1778312
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1.171875,
@@ -53,6 +60,6 @@
   "repelStrength": 11.1458333333333,
   "linkStrength": 0.822916666666667,
   "linkDistance": 312,
-  "scale": 0.18462326225859707,
+  "scale": 0.18462326225859718,
   "close": true
 }
