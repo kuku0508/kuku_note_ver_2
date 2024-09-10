@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d2ced4581c934d9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/統計/迴歸分析/Drawing 2024-09-10 19.24.25.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未處理/機率密度函數.md",
+                "file": "文本/統計/迴歸分析/Drawing 2024-09-10 19.24.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未處理/機率密度函數.md",
+                "file": "文本/統計/迴歸分析/Drawing 2024-09-10 19.24.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未處理/機率密度函數.md"
+                "file": "文本/統計/迴歸分析/Drawing 2024-09-10 19.24.25.excalidraw.md"
               }
             }
           },
@@ -235,10 +246,12 @@
       }
     ]
   },
-  "active": "e808eb1b95114877",
+  "active": "2d2ced4581c934d9",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/機率質量函數.md",
     "未處理/機率密度函數.md",
+    "文本/統計/迴歸分析/Drawing 2024-09-10 19.24.25.excalidraw.md",
+    "文本/統計/迴歸分析",
+    "知識/統計/統計學/分配/機率質量函數.md",
     "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "知識/統計/統計學/分配/常見分配種類/連續",
     "文本/統計/統計學/講義/ch6.md",
@@ -269,7 +282,6 @@
     "知識/統計/統計學/分配/常見分配種類/離散",
     "知識/程式語言/HTML/語法表/跑馬燈.md",
     "知識/程式語言/Latex/基礎知識/語法表/三角函數.md",
-    "知識/程式語言/Latex/基礎知識/語法表/組合.md",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
@@ -281,7 +293,6 @@
     "知識/統計/統計學/分配/常見分配種類",
     "知識/統計/統計學/分配/隨機變數",
     "UML-ER-library.excalidrawlib",
-    "forms.excalidrawlib",
-    "dev_ops.excalidrawlib"
+    "forms.excalidrawlib"
   ]
 }
