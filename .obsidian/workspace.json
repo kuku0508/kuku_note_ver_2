@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/機率密度函數.md",
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md"
               }
             }
           },
@@ -224,8 +224,10 @@
       }
     ]
   },
-  "active": "2d2ced4581c934d9",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/講義/unit 2.md",
+    "知識/統計/無母數統計/中位數檢定/未命名.md",
     "文本/統計/無母數統計/講義/unit 1.md",
     "知識/統計/無母數統計/中位數檢定/符號檢定.md",
     "文本/統計/統計學/講義/ch5.md",
@@ -257,8 +259,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
-    "文本/統計/統計學/講義/ch8.md",
     "知識/統計/統計學/分配/常見分配種類/離散",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
