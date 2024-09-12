@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2d2ced4581c934d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,6 +188,41 @@
       "widgets:Add widget": false,
       "obsidian-git:Open Git source control": false
     }
+  },
+  "floating": {
+    "id": "2a386c794dbaecc4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "68007524698b4185",
+        "type": "window",
+        "children": [
+          {
+            "id": "2be1c24355d1df45",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d2ced4581c934d9",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/無母數統計/講義/unit 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "2d2ced4581c934d9",
   "lastOpenFiles": [
