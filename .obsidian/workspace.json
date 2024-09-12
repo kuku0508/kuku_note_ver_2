@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/口袋裡的哲學書.md"
+                "file": "文本/統計/無母數統計/講義/unit 2.md"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/口袋裡的哲學書.md",
+                "file": "文本/統計/無母數統計/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/口袋裡的哲學書.md",
+                "file": "文本/統計/無母數統計/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/口袋裡的哲學書.md"
+                "file": "文本/統計/無母數統計/講義/unit 2.md"
               }
             }
           },
@@ -200,61 +200,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "2a386c794dbaecc4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5dbdee28ed31f21e",
-        "type": "window",
-        "children": [
-          {
-            "id": "0bc605be9d2fa844",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c630bad589803d50",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch5.md"
-                  }
-                }
-              },
-              {
-                "id": "e246d50533abb81a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch6.md"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "2d2ced4581c934d9",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/講義/unit 1.md",
+    "知識/統計/無母數統計/中位數檢定/符號檢定.md",
+    "文本/統計/統計學/講義/ch5.md",
+    "文本/統計/統計學/講義/ch6.md",
+    "文本/書/口袋裡的哲學書.md",
     "未處理/機率密度函數.md",
     "文本/統計/迴歸分析/Drawing 2024-09-10 19.24.25.excalidraw.md",
     "文本/統計/迴歸分析",
     "知識/統計/統計學/分配/機率質量函數.md",
     "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "知識/統計/統計學/分配/常見分配種類/連續",
-    "文本/統計/統計學/講義/ch6.md",
     "知識/統計/統計學/分配/連續型機率分配.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
@@ -266,7 +224,6 @@
     "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "文本/統計/統計學/圖/二項分配 機率分配圖.png",
     "未處理/均勻分配.md",
-    "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/分配/累積分布函數.md",
     "知識/統計/統計學/分配/離散型機率分配.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
@@ -278,10 +235,7 @@
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/統計/統計學/講義/ch8.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/統計學/分配/常見分配種類/離散",
-    "知識/程式語言/HTML/語法表/跑馬燈.md",
-    "知識/程式語言/Latex/基礎知識/語法表/三角函數.md",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
