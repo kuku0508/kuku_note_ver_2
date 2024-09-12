@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md"
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md"
               }
             }
           },
@@ -226,8 +226,8 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/統計/無母數統計/圖/Frank Wilcoxon.png",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 1.md",
