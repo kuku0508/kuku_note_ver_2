@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
+                "file": "知識/統計/無母數統計/中位數檢定/未命名.md"
               }
             }
           },
@@ -224,11 +224,11 @@
       }
     ]
   },
-  "active": "2d2ced4581c934d9",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/中位數檢定/未命名.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 1.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch6.md",
