@@ -13,11 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/統計學/資料/區間尺度.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "58dce999ad1fb550"
+          }
+        ]
+      },
+      {
+        "id": "171eedc149eb3abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c567e8b6b0f7cc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/資料/區間尺度.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": false
+                }
+              }
+            },
+            "group": "58dce999ad1fb550"
           }
         ]
       }
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/統計學/資料/區間尺度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/統計學/資料/區間尺度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md"
+                "file": "知識/統計/統計學/資料/區間尺度.md"
               }
             }
           },
@@ -224,10 +267,15 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/講義/unit 2.md",
+    "知識/統計/統計學/資料/量性資料.md",
+    "知識/統計/統計學/資料/區間尺度.md",
+    "知識/統計/統計學/資料/資料.md",
+    "知識/統計/統計學/資料/類別資料.md",
+    "知識/統計/類別資料分析/有序.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/統計/無母數統計/圖/Frank Wilcoxon.png",
     "文本/統計/無母數統計/講義/unit 1.md",
@@ -254,11 +302,7 @@
     "知識/統計/統計學/分配/累積分布函數.md",
     "知識/統計/統計學/分配/離散型機率分配.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "未處理/指數分配.md",
     "文本/統計/統計學/圖/超幾何分配 威力彩.png",
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "知識/統計/統計學/分配/常見分配種類/離散",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
     "文本/統計/統計學/圖/normal distribution example.png",
