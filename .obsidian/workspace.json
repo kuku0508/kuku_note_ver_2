@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md"
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md"
               }
             }
           },
@@ -184,7 +184,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "sheet-plus:Create excel file": false,
+      "widgets:Add widget": false
     }
   },
   "floating": {
@@ -215,8 +217,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 533,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
@@ -225,9 +227,9 @@
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 1.md",
     "知識/統計/類別資料分析/有序.md",
     "知識/統計/統計學/資料/類別資料.md",
