@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md",
+                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md",
+                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md",
+                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md"
+                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md"
               }
             }
           },
@@ -227,7 +227,7 @@
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
-    "知識/統計/無母數統計/比例檢定/test for proportion.md",
+    "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
     "知識/統計/無母數統計/比例檢定",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/基礎知識/相對效率.md",
