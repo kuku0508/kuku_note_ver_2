@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion.md"
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md"
               }
             }
           },
@@ -171,22 +171,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "widgets:Add widget": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -217,8 +217,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 960,
-        "height": 1032,
+        "width": 1280,
+        "height": 533,
         "maximize": false,
         "zoom": 0
       }
@@ -226,14 +226,12 @@
   },
   "active": "e808eb1b95114877",
   "lastOpenFiles": [
-    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/比例檢定/test for proportion.md",
+    "知識/統計/無母數統計/比例檢定/Untitled.md",
     "知識/統計/無母數統計/比例檢定",
+    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "知識/統計/無母數統計/基礎知識/相對效率.md",
-    "知識/統計/無母數統計/基礎知識/無母數統計.md",
     "文本/統計/無母數統計/講義/unit 2.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
     "文本/統計/無母數統計/講義/unit 1.md",
     "知識/統計/類別資料分析/有序.md",
     "知識/統計/統計學/資料/類別資料.md",
@@ -260,6 +258,8 @@
     "文本/統計/統計學/圖/卜瓦松分配 機率分配圖.png",
     "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "文本/統計/統計學/圖/二項分配 機率分配圖.png",
+    "未處理/均勻分配.md",
+    "知識/統計/統計學/分配/累積分布函數.md",
     "文本/統計/統計學/圖/超幾何分配 威力彩.png",
     "知識/統計/統計學/分配/常見分配種類/離散",
     "文本/統計/統計學/圖/連續型隨機變數 指數分配.png",
