@@ -53,7 +53,7 @@
       "query": "path:知識/統計/無母數統計  ",
       "color": {
         "a": 1,
-        "rgb": 14653120
+        "rgb": 16446429
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 15,
   "linkStrength": 0.822916666666667,
   "linkDistance": 312,
-  "scale": 0.18462326225860307,
-  "close": false
+  "scale": 0.13168724279836969,
+  "close": true
 }
