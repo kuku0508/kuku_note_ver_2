@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
+                "file": "文本/統計/無母數統計/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
+                "file": "文本/統計/無母數統計/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md"
+                "file": "文本/統計/無母數統計/講義/unit 2.md"
               }
             }
           },
@@ -218,23 +218,23 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 533,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "2d2ced4581c934d9",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "conflict-files-obsidian-git.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "知識/統計/無母數統計/比例檢定/test for proportion in nonparametric method.md",
     "知識/統計/無母數統計/比例檢定/test for proportion.md",
     "知識/統計/無母數統計/比例檢定/Untitled.md",
     "知識/統計/無母數統計/比例檢定",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 1.md",
     "知識/統計/類別資料分析/有序.md",
     "知識/統計/統計學/資料/類別資料.md",
