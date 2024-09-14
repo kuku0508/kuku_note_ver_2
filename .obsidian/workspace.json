@@ -11,8 +11,12 @@
             "id": "6c71098566330bf6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/迴歸分析/基礎知識/預測變數.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/迴歸分析/基礎知識/預測變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/迴歸分析/基礎知識/預測變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/迴歸分析/基礎知識/預測變數.md"
+              }
             }
           },
           {
@@ -219,10 +227,10 @@
   "active": "6c71098566330bf6",
   "lastOpenFiles": [
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
+    "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
     "知識/統計/迴歸分析/基礎知識/迴歸分析.md",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
-    "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/無母數統計/講義/unit 2.md",
