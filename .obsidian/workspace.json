@@ -171,22 +171,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false
+      "widgets:Add widget": false
     }
   },
   "floating": {
@@ -217,8 +217,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 696,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
