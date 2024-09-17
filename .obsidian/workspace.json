@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           },
@@ -224,10 +224,10 @@
       }
     ]
   },
-  "active": "6c71098566330bf6",
+  "active": "9985b635ef5c44ce",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
