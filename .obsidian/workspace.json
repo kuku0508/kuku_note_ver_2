@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "~",
+                "query": "partial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md"
               }
             }
           },
@@ -224,27 +224,27 @@
       }
     ]
   },
-  "active": "9985b635ef5c44ce",
+  "active": "6c71098566330bf6",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
-    "知識/程式語言/Latex/基礎知識/語法表/表格.md",
-    "知識/程式語言/Latex/基礎知識/語法表/空格.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
-    "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
-    "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
-    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "知識/程式語言/Latex/基礎知識/語法表/極限.md",
-    "知識/程式語言/Latex/基礎知識/語法表/對數.md",
-    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
-    "知識/程式語言/Latex/基礎知識/語法表/積分.md",
     "知識/程式語言/Latex/基礎知識/語法表/微分.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
+    "知識/程式語言/Latex/基礎知識/語法表/積分.md",
+    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
+    "知識/程式語言/Latex/基礎知識/語法表/對數.md",
+    "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
+    "知識/程式語言/Latex/基礎知識/語法表/表格.md",
+    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
+    "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
+    "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
+    "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
+    "知識/程式語言/Latex/基礎知識/語法表/空格.md",
+    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
+    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
