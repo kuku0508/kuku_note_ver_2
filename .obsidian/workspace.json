@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e601539125f4da7",
+        "id": "9474c553efb501d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6c71098566330bf6",
+            "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md"
+                "file": "文本/統計/應用統計方法/作業/議題討論/Untitled.md"
               }
             }
           },
@@ -226,9 +220,11 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/統計/應用統計方法/作業/議題討論/Untitled.md",
+    "未處理/Untitled.md",
+    "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
     "文本/統計/應用統計方法/作業/議題討論",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
-    "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
     "文本/統計/應用統計方法/作業",
     "文本/統計/應用統計方法",
     "知識/統計/線性代數",
@@ -254,7 +250,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
     "知識/程式語言/Latex/基礎知識/語法表/表格.md",
     "知識/程式語言/Latex/基礎知識/語法表/字體.md",
-    "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
     "知識/統計/無母數統計/比例檢定",
     "文本/統計/無母數統計/圖/Frank Wilcoxon.png",
     "文本/統計/迴歸分析",
@@ -270,7 +265,6 @@
     "文本/統計/統計學/圖/全機率定理 交集圖.png",
     "文本/統計/統計學/圖/次數多邊形圖範例.png",
     "文本/事件",
-    "未處理",
-    "文本/名言/無力感"
+    "未處理"
   ]
 }
