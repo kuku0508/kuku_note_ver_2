@@ -189,46 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "2a386c794dbaecc4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "752209f251c4f653",
-        "type": "window",
-        "children": [
-          {
-            "id": "1c65bd0c1baa2e15",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9985b635ef5c44ce",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/迴歸分析/講義/unit 2.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 696,
-        "width": 1280,
-        "height": 696,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
-    "文本/統計/應用統計方法/作業/議題討論/第二次議題討論.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
+    "文本/統計/應用統計方法/作業/議題討論/第二次議題討論.md",
+    "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md",
     "模板/作業.md",
     "模板",
     "未處理/Untitled.md",
