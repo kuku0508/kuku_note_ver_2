@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/次數分配表.md",
+                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/次數分配表.md",
+                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/次數分配表.md",
+                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/次數分配表.md"
+                "file": "知識/統計/統計學/圖表/圖/長條圖.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/統計學/資料/量性資料.md",
     "知識/統計/統計學/圖表/圖/時間序列圖.md",
@@ -221,7 +222,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/程式語言/Latex/基礎知識/語法表/極限.md",
-    "知識/程式語言/Latex/基礎知識/語法表/積分.md",
     "知識/統計/無母數統計/比例檢定",
     "文本/統計/無母數統計/圖/Frank Wilcoxon.png",
     "文本/統計/迴歸分析",
