@@ -8,8 +8,8 @@ $$
 $$
 而我們把題目給的$\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}$代入至上式中，可以得到：
 $$\begin{align}
-\hat{\beta}_0=\\
-\bar{y}-(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2})\bar{x}
+\hat{\beta}_0=\bar{y}-\hat{\beta}_1\bar{x}&\\
+&\bar{y}-(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2})\bar{x}
 \end{align}$$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
