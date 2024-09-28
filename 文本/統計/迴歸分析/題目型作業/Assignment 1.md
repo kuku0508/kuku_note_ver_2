@@ -4,7 +4,7 @@
 ## (a) Show that $\hat{\beta}_0$ is a linear combination of $y_i$
 我們先把題目的$\hat{\beta}_1$整理一下
 $$
-\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}=\frac{\sum(x_i)}{}
+\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}=\frac{\sum(x_i-\bar{x})}{\sum(x_i-\bar{x})}y_i
 $$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
