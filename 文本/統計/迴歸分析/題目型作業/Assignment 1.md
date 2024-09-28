@@ -10,7 +10,8 @@ $$
 $$\begin{align}
 \hat{\beta}_0&=\bar{y}-\hat{\beta}_1\bar{x}\\
 &=\bar{y}-\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}\\
-&=\bar{y}-\left(\frac{\sum(x_i-\bar{x})}{}\right)
+&=\bar{y}-\left(\frac{\sum(x_i-\bar{x})\bar{x}}{\sum(x_i-\bar{x})}\right)y_i\\
+&=
 \end{align}$$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
