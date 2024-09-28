@@ -2,7 +2,10 @@
 ![[Regression analysis Assignment 1.pdf]]
 # 回答：
 ## (a) Show that $\hat{\beta}_0$ is a linear combination of $y_i$
+我們先推導$\hat{\beta_1}$是$y_i的線$
+$$
 
+$$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
