@@ -1,8 +1,8 @@
 # 問題：
 ![[Regression analysis Assignment 1.pdf]]
 # 回答：
-## (a) Show that $\hat{\beta}_0$ is a linear combination 
-## (b)
-## (c)
+## (a) Show that $\hat{\beta}_0$ is a linear combination of $y_i$
+## (b) Show that E($\hat{\beta}_1$)=$\beta_1$
+## (c) Show that E($\beta$)
 ## (d)
 ## (e)
