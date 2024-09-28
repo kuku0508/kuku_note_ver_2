@@ -14,7 +14,7 @@ $$
 &=\frac{\sum y_i}{n}-\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}
 \end{align}
 $$
-我們可以看到，$\hat{\beta}_0$中的兩個項，裡面都有$y_i$。在$\frac{\sum y_i}{n}$中，$y_i$的係數為$\frac1n$；而在$\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}$中，$y_i$的係數為$\left(\frac{\sum(x_i-\bar{x})}{\sum(x_i-\bar{x})^2}\right)\bar{x}$。因此我們可以說$\hat{\beta}_0$可以表示成一個包含所有$y_i$的線性加權和，因此我們可以說$\hat{\beta}$
+我們可以看到，$\hat{\beta}_0$中的兩個項，裡面都有$y_i$。在$\frac{\sum y_i}{n}$中，$y_i$的係數為$\frac1n$；而在$\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}$中，$y_i$的係數為$\left(\frac{\sum(x_i-\bar{x})}{\sum(x_i-\bar{x})^2}\right)\bar{x}$。因此我們可以說$\hat{\beta}_0$可以表示成一個包含所有$y_i$的線性加權和，因此我們可以說$\hat{\beta}_0$是$y_i$的線性組合。
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
