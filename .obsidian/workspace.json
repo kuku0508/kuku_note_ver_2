@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md"
+                "file": "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md"
               }
             }
           },
@@ -189,10 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "107e017c33897a13",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/Pasted image 20240928160906.png",
+    "未處理/應用統計方法 第二次作業 DONE.png",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+    "未處理/Pasted image 20240928160906.png",
     "未處理/F2024_Homework.pdf",
     "文本/統計/迴歸分析/題目型作業/題目pdf",
     "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md",
