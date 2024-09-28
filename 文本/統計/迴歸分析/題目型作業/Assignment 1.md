@@ -5,7 +5,7 @@
 我們先推導$\hat{\beta_1}$是$y_i$的線性組合：
 $$
 \begin{align}
-\hat{}
+\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})}
 \end{align}
 $$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
