@@ -11,10 +11,10 @@ $$
 \begin{align}
 \hat{\beta}_0&=\bar{y}-\hat{\beta}_1\bar{x}\\
 &=\bar{y}-\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}\\
-&=\frac{\sum y_i}{n}-\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)
+&=\frac{\sum y_i}{n}-\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}
 \end{align}
 $$
-我們可以看到在$\hat{\beta}_0$中，每一項都有$y_i$，所以我們可以說$\hat{\beta}_0$是$y_i$的線性組合。
+我們可以看到，$\hat{\beta}$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
