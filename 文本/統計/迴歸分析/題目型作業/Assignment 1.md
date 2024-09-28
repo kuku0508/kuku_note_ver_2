@@ -6,7 +6,10 @@
 $$
 \hat{\beta}_0=\bar{y}-\hat{\beta}_1\bar{x}
 $$
-而我們把題目給的$\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}$代入
+而我們把題目給的$\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}$代入至上式中，可以得到：
+$$
+\hat{\beta}_0=\bar{y}-
+$$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
