@@ -2,9 +2,9 @@
 ![[Regression analysis Assignment 1.pdf]]
 # 回答：
 ## (a) Show that $\hat{\beta}_0$ is a linear combination of $y_i$
-我們先把題目的$\hat{\beta}_1$整理一下
+由題目可以知道
 $$
-\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}=\frac{\sum(x_i-\bar{x})}{\sum(x_i-\bar{x})}y_i
+\hat{\beta}_0=\bar{y}-\hat{\beta}
 $$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
