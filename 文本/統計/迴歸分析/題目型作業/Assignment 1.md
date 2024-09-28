@@ -14,7 +14,7 @@ $$
 &=\frac{\sum y_i}{n}-\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}
 \end{align}
 $$
-我們可以看到，$\hat{\beta}_0$中的兩個項，裡面都有$y_i$。在$\frac{\sum y_i}{n}$中，$y_i$的係數為$\frac1n$；而在$\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}$
+我們可以看到，$\hat{\beta}_0$中的兩個項，裡面都有$y_i$。在$\frac{\sum y_i}{n}$中，$y_i$的係數為$\frac1n$；而在$\left(\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right)\bar{x}$中，$y_i$的係數為$$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
