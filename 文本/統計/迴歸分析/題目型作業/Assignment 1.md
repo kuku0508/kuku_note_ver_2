@@ -22,7 +22,9 @@ E(\hat{\beta}_1)&=E\left[\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right]
 &=\frac{1}{\sum(x_i-\bar{x})^2}E\left[\sum(x_i-\bar{x})y_i\right]\\
 &=\frac{1}{\sum(x_i-\bar{x})^2}E\left[\sum(x_i-\bar{x})(\beta_0+\beta_1x_i)\right]\\
 &=\frac{1}{\sum(x_i-\bar{x})^2}E\left[\cancel{\sum(x_i-\bar{x})\beta_0}^{\,\,0}+\sum(x_i-\bar{x})\beta_1x_i\right]\\
-&=\frac{1}{\sum(x_i-\bar{x})^2}\left[\sum(x_i-\bar{x})\beta_1x_i)\right]
+&=\frac{1}{\sum(x_i-\bar{x})^2}\left[\sum(x_i-\bar{x})\beta_1x_i)\right]\\
+&=\frac{1}{\sum(x_i-\bar{x})^2}\left[\beta_1\sum(x_i-\bar{x})x_i)\right]\\
+&=\frac{1}{\sum(x_i-\bar{x})^2}\left[\beta_1\sum(x_i-\bar{x})x_i)\right]\\
 \end{align}
 $$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
