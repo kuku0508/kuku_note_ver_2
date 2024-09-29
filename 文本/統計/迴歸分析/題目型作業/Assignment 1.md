@@ -80,7 +80,9 @@ $$
 Var(\bar{y})&=Var(\frac1n\sum y_i)\\
 &=\frac{1}{n^2}Var(\sum y_i)\\
 &=\frac{1}{n^2}\sum Var(y_i)\\
-&=\frac{1}{n^2}\sum
+&=\frac{1}{n^2}\sum \sigma^2\\
+&=\frac{1}{n^2}\times n \times \sigma^2\\
+&=\frac{\sigma^2}{n}{}
 \end{align}$$
 $$
 \begin{align}
