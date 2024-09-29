@@ -79,7 +79,8 @@ $$
 \begin{align}
 Var(\bar{y})&=Var(\frac1n\sum y_i)\\
 &=\frac{1}{n^2}Var(\sum y_i)\\
-&=\frac{1}{n^2}\sumVar
+&=\frac{1}{n^2}\sum Var(y_i)\\
+&=\frac{1}{n^2}\sum
 \end{align}$$
 $$
 \begin{align}
