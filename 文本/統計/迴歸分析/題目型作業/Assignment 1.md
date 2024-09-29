@@ -18,8 +18,9 @@ $$
 ## (b) Show that $E(\hat{\beta}_1)=\beta_1$
 $$
 \begin{align}
-E(\hat{\beta}_1)=E\left[\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right]
-\
+E(\hat{\beta}_1)&=E\left[\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right]\\
+&=\frac{1}{\sum}
+\end{align}
 $$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
