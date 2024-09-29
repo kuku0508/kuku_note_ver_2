@@ -53,10 +53,10 @@ $$
 \begin{align}
 \hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}&=\frac{\sum(x_i-\bar{x})(\beta_0+\beta_1x_i+\epsilon_i)}{\sum(x_i-\bar{x})^2}\\
 &=\frac{\cancel{\sum(x_i-\bar{x})\beta_0}^{\,0}+\sum(x_i-\bar{x})\beta_1x_i+\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}\\
-&=\beta_1\frac{\sum(x_i-\bar{x})\epsilon_i}{}
+&=\beta_1+\frac{\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}
 \end{align}
 $$
 $$
-Var(\hat{\beta}_1)=\frac{\sum(\hat{\beta}_1-)}{}
+Var(\hat{\beta}_1)=Var(\hat{\beta})
 $$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
