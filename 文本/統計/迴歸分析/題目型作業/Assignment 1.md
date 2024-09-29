@@ -32,7 +32,7 @@ $$
 $$
 \begin{align}
 E(\hat{\beta}_0)&=E(\bar{y}-\hat{\beta}_1\bar{x})\\
-&=E
+&=E(\bar{y})-E(\beta_1\bar{x})
 \end{align}$$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
