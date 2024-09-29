@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md"
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md"
               }
             }
           },
@@ -191,10 +191,12 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異係數.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
     "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md",
+    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 DONE.png",
     "未處理/Pasted image 20240928160906.png",
     "文本/統計/迴歸分析/題目型作業/題目pdf",
@@ -234,8 +236,6 @@
     "知識/統計/迴歸分析/基礎知識/迴歸分析.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "知識/程式語言/HTML/語法表/文字顏色.md",
-    "知識/程式語言/Latex/基礎知識/語法表/微分.md",
-    "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
-    "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md"
+    "知識/程式語言/Latex/基礎知識/語法表/微分.md"
   ]
 }
