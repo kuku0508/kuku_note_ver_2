@@ -88,5 +88,5 @@ Var(\bar{y})&=Var(\frac1n\sum y_i)\\
 $$
 \begin{align}
 Var(\hat{\beta}_0)&=Var(\bar{y})-\bar{x}^2Var(\hat{\beta}_1)-2\bar{x}Cov(\bar{y},\hat{\beta}_1)\\
-&=Var(\bar{y})-\bar{x}^2\left[\frac{\sigma^2}{\sum(x_i-\bar{x})^2}\right])-2\bar{x}\times0\\\end{align}
+&=\frac{\sigma^2}{n}-\bar{x}^2\left[\frac{\sigma^2}{\sum(x_i-\bar{x})^2}\right])-2\bar{x}\times0\\\end{align}
 $$
