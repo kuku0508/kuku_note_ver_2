@@ -77,7 +77,8 @@ $$
 因為前面已經推導了$Cov(\bar{y},\hat{\beta}_1)=0$還有$Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$，所以其實可以直接帶入，最後在計算$Var(\bar{y})$即可：
 $$
 \begin{align}
-Var(\bar{y})=Var)\frac{}{}
+Var(\bar{y})&=Var(\frac1n\sum y_i)\\
+&=\frac{1}{n^2}Var(y_i)
 \end{align}$$
 $$
 \begin{align}
