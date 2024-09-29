@@ -52,7 +52,8 @@ $$
 $$
 \begin{align}
 \hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}&=\frac{\sum(x_i-\bar{x})(\beta_0+\beta_1x_i+\epsilon_i)}{\sum(x_i-\bar{x})^2}\\
-&=\frac{\cancel{\sum(x_i-\bar{x})\beta_0}^{\,0}+\sum(x_i-\bar{x})\beta_1x_i+\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}
+&=\frac{\cancel{\sum(x_i-\bar{x})\beta_0}^{\,0}+\sum(x_i-\bar{x})\beta_1x_i+\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}\\
+&=\beta_1\frac{\sum(x_i-\bar{x})\epsilon_i}{}
 \end{align}
 $$
 $$
