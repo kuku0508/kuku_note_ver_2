@@ -40,6 +40,6 @@ E(\hat{\beta}_0)&=E(\bar{y}-\hat{\beta}_1\bar{x})\\
 \end{align}
 $$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
-
+Cov(X,Y)=\frac{1}{n-1}\sum^n_{i=1}(x_i-\bar{x})(y_i-\bar{y})
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
