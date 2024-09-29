@@ -29,7 +29,9 @@ E(\hat{\beta}_1)&=E\left[\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right]
 \end{align}
 $$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
-
+$$
+E(\hat{\beta}_0)=\bar{}
+$$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
