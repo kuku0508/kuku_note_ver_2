@@ -42,7 +42,7 @@ $$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 $$
 \begin{align}
-Cov(X,Y)=\frac{1}{n-1}\sum^n_{i=1}(x_i-\bar{x})(y_i-\bar{y})
+Cov(\bar{y},)=E\left[(x_i-\bar{x})(y_i-\bar{y})\right]=E\left\lbrace\left[x_i-E(x)\right]\left[y_i-E(y)\right]\right\rbrace
 \end{align}
 $$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
