@@ -70,6 +70,7 @@ $$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
 $$
 \begin{align}
-Var(\hat{\beta}_0)=Var(\bar{y}-\hat{\beta)_1
+Var(\hat{\beta}_0)&=Var(\bar{y}-\hat{\beta}_1\bar{x})\\
+&=Var(\bar{y})-\bar{x}^2Var(\hat{\beta})
 \end{align}
 $$
