@@ -50,7 +50,10 @@ $$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$
 我們可以先整理$\hat{\beta}_1$，好讓我們後續比較好處理。
 $$
-\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}=\frac{\sum(x_i-\bar{x})(\beta_0+\beta_1x_i+\epsilon_i)}{\sum(x_i-\bar{x})^2}
+\begin{align}
+\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}&=\frac{\sum(x_i-\bar{x})(\beta_0+\beta_1x_i+\epsilon_i)}{\sum(x_i-\bar{x})^2}\\
+&=\frac{\sum(x_i-\bar{x})}{}
+\end{align}
 $$
 $$
 Var(\hat{\beta}_1)=\frac{\sum(\hat{\beta}_1-)}{}
