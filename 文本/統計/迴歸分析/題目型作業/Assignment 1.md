@@ -49,6 +49,6 @@ Cov(\bar{y},\hat{\beta}_1)&=E\left[(\bar{y}-\bar{\bar{y}})(\hat{\beta}_1-\bar{\h
 $$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$
 $$
-Var(\hat{\beta}_1)=\frac{\sum()}{}
+Var(\hat{\beta}_1)=\frac{\sum(\hat{\beta}_1-)}{}
 $$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
