@@ -35,8 +35,11 @@ E(\hat{\beta}_0)&=E(\bar{y}-\hat{\beta}_1\bar{x})\\
 &=E(\bar{y})-E(\beta_1\bar{x})\\
 &=E(\frac{1}{n}\sum y_i)-E(\beta_1\bar{x})\\
 &=E(\frac{\cancel n\beta_0+\beta_1\cancel{\sum(x_i)}^{\bar{x}}+\cancel{\bar{\epsilon}}}{\cancel{n}})-E(\beta_1\bar{x})\\
-&=\beta_0+\beta_1\bar{x}-\beta_1\bar{x}
-\end{align}$$
+&=\beta_0+\beta_1\bar{x}-\beta_1\bar{x}\\
+&=\beta_0
+\end{align}
+$$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
+
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
