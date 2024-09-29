@@ -42,7 +42,8 @@ $$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 $$
 \begin{align}
-Cov(\bar{y},\hat{\beta}_1)=E\left[(\bar{y}-\bar{\bar{y}})(\hat{\beta}_1-\bar{\hat{\beta}_1})\right]=E\left\lbrace\left[\bar{y}-E(\bar{y})\right]\left[\hat{\beta}_1-E(\hat{\beta}_1)\right]\right\rbrace
+Cov(\bar{y},\hat{\beta}_1)&=E\left[(\bar{y}-\bar{\bar{y}})(\hat{\beta}_1-\bar{\hat{\beta}_1})\right]\\&=E\left\lbrace\left[\bar{y}-E(\bar{y})\right]\left[\hat{\beta}_1-E(\hat{\beta}_1)\right]\right\rbrace\\
+&=E\left\lbrace(\bar{y}-\bar{y})\left[\hat{\beta}_1-E(\hat{\beta}_1)\right]\right\rbrace\\
 \end{align}
 $$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
