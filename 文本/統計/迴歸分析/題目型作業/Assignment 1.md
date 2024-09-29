@@ -58,9 +58,10 @@ $$
 $$
 $$
 \begin{align}
-Var(\hat{\beta}_1)&=Var\left(\beta_1+\frac{\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2})\\
+Var(\hat{\beta}_1)&=Var\left(\beta_1+\frac{\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}\right)\\
 &=Var\left(\frac{\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}\right)\\\\
-&=\frac{1}{\sum(x_i-\bar{x})^2}Var\left(\sum(x_i-\bar{x})\epsilon_i\right)
+&=\frac{1}{\sum(x_i-\bar{x})^2}Var\left(\sum(x_i-\bar{x})\epsilon_i\right)\\
+&=\frac{1}{\sum(x_i-\bar{x})^2}\sum(x_i-\bar{x})
 \end{align}
 $$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
