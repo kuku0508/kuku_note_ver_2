@@ -71,6 +71,6 @@ $$
 $$
 \begin{align}
 Var(\hat{\beta}_0)&=Var(\bar{y}-\hat{\beta}_1\bar{x})\\
-&=Var(\bar{y})-\bar{x}^2Var(\hat{\beta})
+&=Var(\bar{y})-\bar{x}^2Var(\hat{\beta}_1)-2\bar{x}Cov(\bar{y},\hat{\beta}_1)
 \end{align}
 $$
