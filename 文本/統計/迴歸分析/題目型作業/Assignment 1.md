@@ -24,10 +24,12 @@ E(\hat{\beta}_1)&=E\left[\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right]
 &=\frac{1}{\sum(x_i-\bar{x})^2}E\left[\cancel{\sum(x_i-\bar{x})\beta_0}^{\,\,0}+\sum(x_i-\bar{x})\beta_1x_i\right]\\
 &=\frac{1}{\sum(x_i-\bar{x})^2}\left[\sum(x_i-\bar{x})\beta_1x_i)\right]\\
 &=\frac{1}{\sum(x_i-\bar{x})^2}\left[\beta_1\sum(x_i-\bar{x})x_i)\right]\\
-&=\frac{1}\cancel{{\sum(x_i-\bar{x})^2}}\left[\beta_1\cancel{\sum(x_i-\bar{x})(x_i-\bar{x})}\right]\\
+&=\frac{1}{\cancel{\sum(x_i-\bar{x})^2}}\left[\beta_1\cancel{\sum(x_i-\bar{x})(x_i-\bar{x})}\right]\\\\
+&=\beta_1
 \end{align}
 $$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
+
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\alpha^2}{\sum(x_i-\bar{x})^2}$
 ## (f) Show that $Var(\hat{\beta}_0)=\sigma^2\left[\frac1n + \frac{\bar{x}^2}{\sum (x_i-\bar{x})^2}\right]$
