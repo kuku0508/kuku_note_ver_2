@@ -5,7 +5,7 @@
   "newFileFolderPath": "未處理",
   "attachmentFolderPath": "未處理",
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
