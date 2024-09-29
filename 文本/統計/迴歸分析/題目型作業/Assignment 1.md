@@ -59,8 +59,8 @@ $$
 $$
 \begin{align}
 Var(\hat{\beta}_1)&=Var\left(\beta_1+\frac{\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}\right)\\
-&=Var\left(\frac{\sum(x_i-\bar{x})\epsilon_i}{\sum(x_i-\bar{x})^2}\right)\\\\
-&=\frac{1}{\sum(x_i-\bar{x})^2}Var\left(\sum(x_i-\bar{x})\epsilon_i\right)\\
+&=Var\left(\frac{\sum(x_i-\bar{x})\epsilon_i}{\left[\sum(x_i-\bar{x})^2\right]^2}\right)\\\\
+&=\frac{1}{\left[\sum(x_i-\bar{x})^2\right]^2}Var\left(\sum(x_i-\bar{x})\epsilon_i\right)\\
 &=\frac{1}{\sum(x_i-\bar{x})^2}\times\cancel{\left[\sum(x_i-\bar{x})\right]}^{\,0}\times Var(\epsilon)\\
 
 \end{align}
