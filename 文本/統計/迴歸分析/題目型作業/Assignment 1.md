@@ -19,7 +19,7 @@ $$
 $$
 \begin{align}
 E(\hat{\beta}_1)&=E\left[\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}\right]\\
-&=\frac{1}{\sum}
+&=\frac{1}{\sum(x_I-\bar{x})^2}E
 \end{align}
 $$
 ## (c) Show that $E(\hat{\beta}_0)=\beta_0$
