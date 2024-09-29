@@ -74,7 +74,7 @@ Var(\hat{\beta}_0)&=Var(\bar{y}-\hat{\beta}_1\bar{x})\\
 &=Var(\bar{y})-\bar{x}^2Var(\hat{\beta}_1)-2\bar{x}Cov(\bar{y},\hat{\beta}_1)\\
 \end{align}
 $$
-因為前面已經推導了$Cov(\bar{y},\hat{\beta}_1)=0$還有$Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$，所以其實可以直接帶入，最後在計算$Var(\bar{y})$即可：
+因為前面已經推導了$Cov(\bar{y},\hat{\beta}_1)=0$還有$Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$，最後再計算$Var(\bar{y})$即可直接帶入上式：
 $$
 \begin{align}
 Var(\bar{y})&=Var(\frac1n\sum y_i)\\
@@ -82,12 +82,11 @@ Var(\bar{y})&=Var(\frac1n\sum y_i)\\
 &=\frac{1}{n^2}\sum Var(y_i)\\
 &=\frac{1}{n^2}\sum \sigma^2\\
 &=\frac{1}{n^2}\times n \times \sigma^2\\
-&=\frac{\sigma^2}{n}{}
+&=\frac{\sigma^2}{n}
 \end{align}$$
+算完了，直接帶入吧：
 $$
 \begin{align}
 Var(\hat{\beta}_0)&=Var(\bar{y})-\bar{x}^2Var(\hat{\beta}_1)-2\bar{x}Cov(\bar{y},\hat{\beta}_1)\\
-&=Var(\bar{y})-\bar{x}^2\left[\frac{\sigma^2}{\sum(x_i-\bar{x})^2}\right])-2\bar{x}\times0\\
-&=Var(\bar{y})-\bar{x}^2\left[\frac{\sigma^2}{\sum(x_i-\bar{x})^2}\right])
-\end{align}
+&=Var(\bar{y})-\bar{x}^2\left[\frac{\sigma^2}{\sum(x_i-\bar{x})^2}\right])-2\bar{x}\times0\\\end{align}
 $$
