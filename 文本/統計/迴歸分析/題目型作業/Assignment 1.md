@@ -52,7 +52,8 @@ $$
 
 $$
 \begin{align}
-Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i,\sum \frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2} \right)
+Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i, \frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2} \right)\\
+
 \end{align}
 $$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$
