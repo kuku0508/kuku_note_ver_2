@@ -52,8 +52,8 @@ $$
 
 $$
 \begin{align}
-Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i, \frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2} \right)\\
-&=\frac1n\times \frac{1}{\sum(x_i-\bar{x})^2}\times Cov\left(\sum y_i , \sum(x_i-\bar{x})y_i\right)\\
+Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i, \sum c_iy_i\right)\\
+&=\frac1n
 \end{align}
 $$
 
