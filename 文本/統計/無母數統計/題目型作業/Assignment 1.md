@@ -28,5 +28,5 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 1. 我先把第一次吸食海洛因的年齡從小到大排序：
 	14,15,15,16,16,17,18,18,20,22,22,23,24,28,37
 2. 確定假設：
-	$$
-3.$$
+	$$H_0：M=20 ,\quad H_1：M\neq 20$$
+3. 標記正負號（大於）
