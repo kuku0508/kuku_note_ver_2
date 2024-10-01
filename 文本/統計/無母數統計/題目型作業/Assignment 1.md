@@ -31,8 +31,8 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 	$$H_0：M=20 ,\quad H_1：M\neq 20$$
 3. 標記正負號（大於20標記為+，小於20標記為-，等於20無視）
 	-,-,-,-,-,-,-,-,+,+,+,+,+,+
-	「-」有8個
+	「-」有8個，「+」有6個
 4. 計算P-Value
 	When hypothesis is $H_0：M=20 ,\quad H_1：M\neq 20$，P-value will be $$
 \text{p-value}=2\times P(K\leq k \mid n,0.5),\;\text{where k is the number of signs with the fewer occurrences}$$
-	$$\text{p-value}=2\times P(K\leq)$$
+	$$\text{p-value}=2\times P(K\leq 6\mid 14,0.5)$$
