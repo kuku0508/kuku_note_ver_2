@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 1.md"
               }
             }
           },
@@ -189,12 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/題目pdf/Assignment 1.pdf",
+    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+    "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+    "文本/統計/無母數統計/題目型作業/題目pdf",
     "文本/統計/無母數統計/題目型作業",
     "文本/統計/迴歸分析/講義/unit 1.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
-    "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
@@ -226,16 +229,12 @@
     "文本/統計/應用統計方法/圖/作業/第二次作業",
     "文本/統計/應用統計方法/圖/作業",
     "知識/統計/統計學/圖表/圖/直方圖.md",
-    "未處理/utomp3.com - 溫蒂漫步 Wendy Wander  我想和你一起 Official music video_360P.mp4",
     "未處理/Untitled.md",
-    "文本/統計/應用統計方法/圖",
-    "homework_unit2.xls",
     "知識/統計/統計學/圖表/圖/長條圖.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/統計學/資料/量性資料.md",
     "知識/統計/統計學/圖表/圖/時間序列圖.md",
-    "知識/統計/統計學/圖表/圖/圓餅圖.md",
-    "文本/統計/應用統計方法/作業/議題討論/第二次議題討論.md"
+    "知識/統計/統計學/圖表/圖/圓餅圖.md"
   ]
 }
