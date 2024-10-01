@@ -42,21 +42,12 @@ $$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 $$
 \begin{align}
-Cov(\bar{y},\hat{\beta}_1)&=E\left[(\bar{y}-\bar{\bar{y}})(\hat{\beta}_1-\bar{\hat{\beta}_1})\right]\\&=E\left\lbrace\left[\bar{y}-E(\bar{y})\right]\left[\hat{\beta}_1-E(\hat{\beta}_1)\right]\right\rbrace\\
-&=E\left\lbrace\cancel{(\bar{y}-\bar{y})}^{\,0}\left[\hat{\beta}_1-E(\hat{\beta}_1)\right]\right\rbrace\\\\
-&=0
-\end{align}
-$$
-
-
-
-$$
-\begin{align}
 Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i, \sum c_iy_i\right)\\
 &=\frac1n\sum c_i \times Var(y_i)\\
 &=\frac{\sigma^2}{n}\sum c_i\\
-&=\frac{\sigma^2}{n}\frac{\cancel{\sum(x_i-\bar{x})}^{\,}}{\sum(x_i-\bar{x})^2}\\
-&=\frac{\sigma^2}{n}\frac{0}{}
+&=\frac{\sigma^2}{n}\frac{\cancel{\sum(x_i-\bar{x})}^{\,0}}{\sum(x_i-\bar{x})^2}\\
+&=\frac{\sigma^2}{n}\frac{0}{\sum(x_i-\bar{x})^2}\\
+&=0
 \end{align}
 $$
 
