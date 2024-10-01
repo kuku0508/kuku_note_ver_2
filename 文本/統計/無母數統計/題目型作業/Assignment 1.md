@@ -14,4 +14,8 @@ Table 2.25 Age at which 15 heroin addicts first used the drug.
 ## 2.29
 A test to measure knowledge of current events was given to a sample of 25 elementary school children from an inner-city neighborhood. The scores are sown in Table 2.26.Can one conclude from these data that the population median is less than 70?Use the Wilcxon test and determine the P-Value.
 
-Table
+Table 2.26 Scores made on a current-events test by 25 elementary school students from an inner-city neighborhood
+
+|     |     |
+| --- | --- |
+
