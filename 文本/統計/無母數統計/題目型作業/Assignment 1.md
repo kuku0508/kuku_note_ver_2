@@ -55,4 +55,8 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 5. 將所有負數加總$T_-$(加總時要加絕對值)，所有正號加總$T_+$。
 	$T_+=4+12=16$
 	$T_- =\mid1+1.5+1.5+4+4+6+7.5+7.5+9.5+9.5+11$$+13+14+15.5+ 15.5+17+18+19+20+21+22+23+24\mid=285$
-6. 
+6. 假設檢定
+	$$
+H_0：M\geq M_0 ,\quad H_1：M< M_0
+$$
+	
