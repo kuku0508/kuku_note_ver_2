@@ -11,3 +11,5 @@ Table 2.25 Age at which 15 heroin addicts first used the drug.
 
 
 
+## 2.29
+A test to measure knowledge of current events was given to a sample pf 25 ele
