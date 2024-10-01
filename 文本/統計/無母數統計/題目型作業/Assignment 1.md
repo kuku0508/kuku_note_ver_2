@@ -42,3 +42,4 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 
 
 ## 2.29
+1. 我先把
