@@ -53,7 +53,8 @@ $$
 $$
 \begin{align}
 Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i, \frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2} \right)\\
-&=\frac1n\times \frac{1}{\sum(x_i-\bar{x})^2}\times Cov\left(\sum y_i , \sum(x_i-\b)\right)
+&=\frac1n\times \frac{1}{\sum(x_i-\bar{x})^2}\times Cov\left(\sum y_i , \sum(x_i-\bar{x})y_i\right)\\
+&=
 
 \end{align}
 $$
