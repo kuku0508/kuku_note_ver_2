@@ -57,7 +57,7 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 	$T_- =\mid1+1.5+1.5+4+4+6+7.5+7.5+9.5+9.5+11$$+13+14+15.5+ 15.5+17+18+19+20+21+22+23+24\mid=285$
 6. 假設檢定
 	$$
-H_0：M\geq M_0 ,\quad H_1：M< M_0
+H_0：M\geq M_0 ,\quad H_1：M< 70
 $$
 	P-value要查表，檢定統計量是$T_+=16$ $n=24$ 
 	 查表後得到p-value<0.001
