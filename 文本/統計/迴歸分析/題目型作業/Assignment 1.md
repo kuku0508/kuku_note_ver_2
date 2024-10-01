@@ -55,7 +55,7 @@ $$
 Cov(\bar{y},\hat{\beta}_1)&=Cov\left(\frac1n\sum y_i, \sum c_iy_i\right)\\
 &=\frac1n\sum c_i \times Var(y_i)\\
 &=\frac{\sigma^2}{n}\sum c_i\\
-&=\frac{\sigma^2}{n}\sum\frac{()}{}
+&=\frac{\sigma^2}{n}\frac{\sum(x_i-\bar{x})}{\sum(x_i-\bar{x})^2}
 \end{align}
 $$
 
