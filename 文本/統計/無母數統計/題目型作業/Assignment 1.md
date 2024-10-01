@@ -23,5 +23,6 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 | 62  | 56  | 46  | 48  | 39  | 72  | 36  | 69  | 40  | 61  | 54  | 53  |
 | 25  |     |     |     |     |     |     |     |     |     |     |     |
 
-
-
+# 解答
+## 2.25
+1. 我先排列
