@@ -30,4 +30,5 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 2. 確定假設：
 	$$H_0：M=20 ,\quad H_1：M\neq 20$$
 3. 標記正負號（大於20標記為+，小於20標記為-，等於20無視）
-	-,-,-,-,-,-,-,-,=,=,=,=,=,=,
+	-,-,-,-,-,-,-,-,+,+,+,+,+,+
+4. 計算P-Value
