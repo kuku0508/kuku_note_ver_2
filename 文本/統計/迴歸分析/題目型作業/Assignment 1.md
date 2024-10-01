@@ -41,7 +41,7 @@ E(\hat{\beta}_0)&=E(\bar{y}-\hat{\beta}_1\bar{x})\\
 $$
 ## (d) Show that $Cov(\bar{y},\hat{\beta}_1)=0$
 $$
-\hat{\beta}_1=
+\hat{\beta}_1=\frac{\sum(x_i-\bar{x})y_i}{\sum(x_i-\bar{x})^2}=\sum c_iy_i
 $$
 
 $$
