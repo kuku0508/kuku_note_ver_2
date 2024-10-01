@@ -43,4 +43,4 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 
 ## 2.29
 1. 我先把大家測驗分數的資料從小到大排序：
-	
+	25,29,30,36,39,40,46,48,53,53,54,56,61,62,62,65,65,67,68,68,69,69,70,72,80
