@@ -42,4 +42,5 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 
 
 ## 2.29
-1. 我先把25歲
+1. 我先把大家測驗分數的資料從小到大排序：
+	
