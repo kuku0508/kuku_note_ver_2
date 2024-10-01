@@ -47,3 +47,4 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 2. 把這些觀測值減70
 	-45,-41,-40,-34,-31,-30,-24,-22,-17,-17,-16,-14,-9,-8,-8,-5,-5,-3,-2,-2,-1,-1,2,10
 3. 把減去的值套絕對值排序，並從小到大標記名次
+	45,
