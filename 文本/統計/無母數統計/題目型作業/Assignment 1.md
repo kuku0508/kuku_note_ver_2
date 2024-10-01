@@ -36,5 +36,8 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 	When hypothesis is $H_0：M=20 ,\quad H_1：M\neq 20$，P-value will be $$
 \text{p-value}=2\times P(K\leq k \mid n,0.5),\;\text{where k is the number of signs with the fewer occurrences}$$
 	$$\text{p-value}=2\times P(K\leq 6\mid 14,0.5)=2\times(C^{14}_0+C^{14}_1+C^{14}_2\ldots C^{14}_6)\times0.5^{14}\approx0.7905$$
-5. 得出結論
+1. 得出結論
 	因為p-value遠大於顯著性水準0.05，故我們不拒絕$H_0$，我們沒有足夠的證據說第一次吸食海洛因的年齡之中位數不是20歲。
+
+
+
