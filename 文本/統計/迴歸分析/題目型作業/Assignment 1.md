@@ -52,7 +52,7 @@ $$
 
 $$
 \begin{align}
-Cov(\bar{y})
+Cov(\bar{y},\hat{})
 \end{align}
 $$
 ## (e) Show that $Var(\hat{\beta}_1)=\frac{\sigma^2}{\sum(x_i-\bar{x})^2}$
