@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,10 +189,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "107e017c33897a13",
+  "floating": {
+    "id": "955440135e9d41b9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f3dc6f865f3f9a44",
+        "type": "window",
+        "children": [
+          {
+            "id": "48d7d7841221bfb3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "376c66019b00b22c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "376c66019b00b22c",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "文本/統計/無母數統計/題目型作業/題目pdf",
     "文本/統計/無母數統計/題目型作業",
