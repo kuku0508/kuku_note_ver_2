@@ -11,9 +11,11 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md",
+                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md",
+                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md"
               }
             }
           },
@@ -190,6 +192,7 @@
   "active": "107e017c33897a13",
   "lastOpenFiles": [
     "文本/統計/迴歸分析/講義/unit 1.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
@@ -233,7 +236,6 @@
     "知識/統計/統計學/圖表/圖/時間序列圖.md",
     "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "文本/統計/應用統計方法/作業/議題討論/第二次議題討論.md",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/應用統計方法/作業/議題討論/第一次議題討論.md"
   ]
 }
