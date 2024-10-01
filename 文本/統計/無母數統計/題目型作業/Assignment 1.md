@@ -59,5 +59,5 @@ Table 2.26 Scores made on a current-events test by 25 elementary school students
 	$$
 H_0：M\geq M_0 ,\quad H_1：M< M_0
 $$
-	P-value要查表，檢定統計量是$T_+$
-	
+	P-value要查表，檢定統計量是$T_+=16$ $n=24$ 
+	 查表後得到p-val
