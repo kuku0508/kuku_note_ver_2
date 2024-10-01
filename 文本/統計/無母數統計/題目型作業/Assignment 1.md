@@ -16,6 +16,8 @@ A test to measure knowledge of current events was given to a sample of 25 elemen
 
 Table 2.26 Scores made on a current-events test by 25 elementary school students from an inner-city neighborhood
 
-|     |     |
-| --- | --- |
+| 80  | 68  | 30  | 6   | 70  | 62  | 69  | 65  | 53  | 29  | 65  | 68  | 62  | 56  | 46  | 48  | 39  | 72  | 36  | 69  | 40  | 61  | 54  | 53  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 25  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
+
 
