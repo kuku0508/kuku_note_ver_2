@@ -102,4 +102,4 @@ Var(\hat{\beta}_0)&=Var(\bar{y})-\bar{x}^2Var(\hat{\beta}_1)-2\bar{x}Cov(\bar{y}
 $$
 done
 - - -
-parent::[[殘差]],[[最小平方法]]
+parent::[[殘差]],[[最小平方法]],[[變異數]],[[共變異數]]
