@@ -11,9 +11,11 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/殘差.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/殘差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/殘差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/殘差.md"
               }
             }
           },
@@ -187,8 +189,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "d5967cd880c5313d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "32206f8b5fa5940a",
+        "type": "window",
+        "children": [
+          {
+            "id": "5a6efa064d97cc87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "46bffc328a33bb0e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
+    "知識/統計/迴歸分析/簡單線性迴歸/殘差.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/講義/unit 1.md",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
@@ -197,7 +237,6 @@
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "文本/統計/無母數統計/題目型作業/題目pdf",
     "文本/統計/無母數統計/題目型作業",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
@@ -206,8 +245,6 @@
     "文本/雜項/札記",
     "文本/雜項",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/殘差.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
