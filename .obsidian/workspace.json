@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           },
@@ -224,10 +224,10 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "46bffc328a33bb0e",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/基礎知識/殘差.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "未處理/假設檢定.md",
