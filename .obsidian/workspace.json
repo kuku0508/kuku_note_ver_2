@@ -11,8 +11,12 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md"
+              }
             }
           },
           {
@@ -228,8 +236,9 @@
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/未命名",
     "此筆記庫介紹.md",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
     "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
@@ -274,7 +283,6 @@
     "文本/統計/應用統計方法/圖/作業/第二次作業",
     "文本/統計/應用統計方法/圖/作業",
     "知識/統計/統計學/圖表/圖/直方圖.md",
-    "未處理/Untitled.md",
-    "知識/統計/統計學/圖表/圖/長條圖.md"
+    "未處理/Untitled.md"
   ]
 }
