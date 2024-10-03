@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5f41a40fc1a8e18c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "此筆記庫介紹.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "此筆記庫介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "此筆記庫介紹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "此筆記庫介紹.md"
+              }
             }
           },
           {
@@ -216,7 +233,7 @@
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "5f41a40fc1a8e18c",
   "lastOpenFiles": [
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
     "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
