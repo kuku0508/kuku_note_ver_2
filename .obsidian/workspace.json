@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           },
@@ -236,8 +236,9 @@
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "46bffc328a33bb0e",
   "lastOpenFiles": [
+    "知識/統計/迴歸分析/基礎知識/殘差.md",
     "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
     "文本/說服/《說服力指南》/筆記/《表達的目的》/《表達的痛點》/《表達的痛點 - 編碼失敗》.md",
@@ -254,7 +255,6 @@
     "此筆記庫介紹.md",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
     "文本/統計/迴歸分析/講義/unit 1.md",
-    "知識/統計/迴歸分析/基礎知識/殘差.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "未處理/假設檢定.md",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
