@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           },
@@ -221,17 +221,46 @@
         "height": 695,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "356a82dba0e43ed4",
+        "type": "window",
+        "children": [
+          {
+            "id": "39758b467e60da16",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cf56042e8860ba18",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "cf56042e8860ba18",
   "lastOpenFiles": [
-    "此筆記庫介紹.md",
+    "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/基礎知識/殘差.md",
+    "此筆記庫介紹.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
     "文本/說服/《說服力指南》/筆記/《表達的目的》/《表達的痛點》/《表達的痛點 - 編碼失敗》.md",
     "文本/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
