@@ -7,8 +7,9 @@ In an article on quality control, Purcell(E30) gives the set of typical data sho
 
 Typical data for life of incandescent lamps in hours, before establishment of control
 $$
-\begin{array}{c|lcr}
-n&\text{左}&\text{置中}&\text{右}\\
+\begin{array}{clcr}
+\hline
+\text{Sample}&\text{左}&\text{置中}&\text{右}\\
  \hline
  1&0.24&1&125\\
  2&-1&189&-8\\
