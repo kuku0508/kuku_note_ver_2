@@ -31,7 +31,9 @@ $$
 \hline
 \text{Patient with cancer of he urinary bladder}&\text{Control subjects}\\
 \hline
-5.0&8.3\\
+5.0&2.1\\
+8.3&4.6\\
+6.7&3.2\\
 
 
 \end{array}
