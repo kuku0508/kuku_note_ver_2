@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md"
               }
             }
           },
@@ -224,10 +224,10 @@
       }
     ]
   },
-  "active": "702edaca07856804",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/講義/unit 2.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "知識/程式語言/Latex/基礎知識/語法表/表格.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
