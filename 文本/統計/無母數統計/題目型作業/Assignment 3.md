@@ -25,5 +25,5 @@ $$
 \end{array}
 $$
 ## 3.22：
-Grrrod et al
+Grrrod et al.(E26) measured the nicotine metabolites, cotinine, and nicotine-1
 # 回答：
