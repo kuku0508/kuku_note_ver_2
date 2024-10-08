@@ -5,7 +5,7 @@ The Federal Crop Insurance Corporation's Annual Report to Congress for 1973(E33)
 $$
 \begin{array}{cccc}
 \hline
-\text{Year}&\text{Crops insured}&\text{Year}&\text{Crops}\\
+\text{Year}&\text{Crops insured}&\text{Year}&\text{Crops insured}\\
 \hline
 \end{array}
 $$
