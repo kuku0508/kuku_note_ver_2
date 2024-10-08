@@ -29,7 +29,11 @@ Grrrod et al.(E26) measured the nicotine metabolites, cotinine, and nicotine-1'-
 $$
 \begin{array}{cc}
 \hline
-\text{Patient with cancer of he urinary bladder}&\text{Control subjects}
-\hli\end{array}
+\text{Patient with cancer of he urinary bladder}&\text{Control subjects}\\
+\hline
+5.0&8.3\\
+
+
+\end{array}
 $$
 # 回答：
