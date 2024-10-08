@@ -27,6 +27,8 @@ $$
 ## 3.22：
 Grrrod et al.(E26) measured the nicotine metabolites, cotinine, and nicotine-1'-N-oxide, in 24-hour urine collections from normal healthy male cigarette smokers and cigarette smokers with cancer of the urinary bladder. Table 3.40 shows the ratio of cotinine to nicotine-1'-Noxide in the two groups of subjects. Test for a difference between population medians at the 0.01 level. Use the median test and determine the P value.
 $$
-\begin{array}{}
+\begin{array}{cccc}
+
+\end{array}
 $$
 # 回答：
