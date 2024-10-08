@@ -6,4 +6,13 @@ Chin et al.(E20) did indirect fluorescent antibody tests on pretreatment sera ag
 In an article on quality control, Purcell(E30) gives the set of typical data shown in Table 2.21. Categorize each observation according to whether it falls above or below 1435, and test the pattern for randomness.
 
 Typical data for life of incandescent lamps in hours, before establishment of control
+$$
+\begin{array}{c|lcr}
+n&\text{左}&\text{置中}&\text{右}\\
+ \hline
+ 1&0.24&1&125\\
+ 2&-1&189&-8\\
+ 3&-20&2000&1+10i
+ \end{array}
+$$
 # 回答：
