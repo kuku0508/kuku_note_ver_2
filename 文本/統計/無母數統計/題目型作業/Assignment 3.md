@@ -25,5 +25,5 @@ $$
 \end{array}
 $$
 ## 3.22：
-Grrrod et al.(E26) measured the nicotine metabolites, cotinine, and nicotine-1'-N-oxide
+Grrrod et al.(E26) measured the nicotine metabolites, cotinine, and nicotine-1'-N-oxide, in 24-hour urine collections from normal healthy male cigarette smokers and cigarette smokers with cancer of the urinary bladder. Table 
 # 回答：
