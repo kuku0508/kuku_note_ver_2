@@ -11,9 +11,11 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf"
+                "file": "文本/統計/無母數統計/題目型作業/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
+                "file": "文本/統計/無母數統計/題目型作業/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
+                "file": "文本/統計/無母數統計/題目型作業/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf"
+                "file": "文本/統計/無母數統計/題目型作業/Untitled.md"
               }
             }
           },
@@ -214,9 +216,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "y": 696,
+        "width": 1277,
+        "height": 696,
         "maximize": false,
         "zoom": 0
       }
@@ -224,10 +226,11 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
-    "知識/程式語言/Latex/基礎知識/語法表/表格.md",
+    "文本/統計/無母數統計/題目型作業/Untitled.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
+    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+    "知識/程式語言/Latex/基礎知識/語法表/表格.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 2.pdf",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
