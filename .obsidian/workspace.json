@@ -11,11 +11,9 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1).pdf"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 409.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
+                "file": "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
+                "file": "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md"
+                "file": "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1).pdf"
               }
             }
           },
@@ -224,10 +222,12 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 2.md",
+    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
+    "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1).pdf",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
     "知識/統計/迴歸分析/基礎知識/殘差.md",
@@ -254,14 +254,12 @@
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf",
-    "文本/統計/無母數統計/題目型作業",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "文本/統計/應用統計方法/作業/題目型作業/第二次作業.md",
     "文本/雜項/札記/ame畢業.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
-    "文本/統計/統計學/講義/ch5.md",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 DONE.png",
     "未處理/Pasted image 20240928160906.png",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法  第二次作業 標籤位置.png",
