@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           },
@@ -216,18 +216,18 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 516,
         "width": 960,
-        "height": 1032,
+        "height": 516,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "54ccdca8a7c7b8c1",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "知識/統計/迴歸分析/基礎知識/殘差.md",
     "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
