@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 317.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md",
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/迴歸分析/基礎知識/殘差.md"
+                "file": "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md"
               }
             }
           },
@@ -226,11 +226,12 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "文本/統計/迴歸分析/講義/unit 2.md",
+    "知識/統計/迴歸分析/基礎知識/殘差.md",
     "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
     "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
@@ -242,7 +243,6 @@
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
-    "知識/統計/迴歸分析/基礎知識/殘差.md",
     "此筆記庫介紹.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
