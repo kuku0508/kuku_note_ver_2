@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md"
               }
             }
           },
@@ -221,11 +221,43 @@
         "height": 696,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "bd03297114a34b6a",
+        "type": "window",
+        "children": [
+          {
+            "id": "cead3e7692b14f78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aed439f25598b323",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "aed439f25598b323",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/無母數統計/講義/unit 2.md",
@@ -261,7 +293,6 @@
     "未處理/假設檢定.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 DONE.png",
     "未處理/Pasted image 20240928160906.png",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法  第二次作業 標籤位置.png",
