@@ -64,3 +64,5 @@ RUN;
 
 ![[Assignment 2 2.14 SAS.png]]
 我們可以看到在Exact test的單邊P-value的值跟我們試算的結果一樣是0.0082。
+
+# 2.21：
