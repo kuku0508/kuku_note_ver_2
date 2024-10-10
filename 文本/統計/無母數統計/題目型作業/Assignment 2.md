@@ -62,3 +62,4 @@ TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
 
+| Markdown | Rendered HTML ||--------------|---------------| | *Italic* | *Italic* | \ | | | | - Item 1 | - Item 1 | \ | - Item 2 | - Item 2 | | ```python | ```python \ | .1 + .2 | .1 + .2 \ | ``` | ``` |
