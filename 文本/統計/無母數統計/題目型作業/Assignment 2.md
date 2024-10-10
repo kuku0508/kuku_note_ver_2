@@ -61,13 +61,3 @@ WEIGHT count;
 TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
-$$
-\begin{array}{|l|c|}
-\hline
-\text{h0 的檢定：比例=0.5}\\
-\hline
-\text{result=Positive}\\
-\hline
-比例(p)&
-\end{array}
-$$
