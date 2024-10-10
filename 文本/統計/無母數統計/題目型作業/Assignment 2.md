@@ -41,4 +41,8 @@ $$
 而在該假設的情況下，p-value為：$P(S\geq s\mid n,\rho_0)$
 然後由題目可以知道，$n=57$、$s=38$，$\rho_0=0.5$。
 
-$P()$
+$$
+\begin{align}
+P(S\leq38\mid 57,0.5)
+\end{align}
+$$
