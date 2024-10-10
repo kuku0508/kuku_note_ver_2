@@ -62,6 +62,8 @@ TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
 $$
-\begin{array}{lc}
+\begin{array}{|l|c|}
+\hline
+\text{h0 的檢定：比例=}
 \end{array}
 $$
