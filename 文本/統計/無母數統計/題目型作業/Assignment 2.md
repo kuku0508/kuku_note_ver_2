@@ -30,7 +30,9 @@ $$
 \hline
 \end{array}
 $$
-\*
+
+\*Each sample contains five lamps
+
  - - -
 # 回答：
 ## 2.14
