@@ -73,8 +73,17 @@ RUN;
 | 單邊 Pr >= P       | 0.0082 |
 | 雙邊 = 2 * 單邊      | 0.0163 |
 $$
-\begin{array}{c}
+\begin{array}{}
+\begin{array}{|c|}
 \hline
-H0 的檢定:比例=0.5
+H0 的檢定:比例=0.5\\
+\hline
 \end{array}
+
+\begin{array}{|c|}
+\hline
+H0 的檢定:比例=0.5\\
+\hline
+\end{array}
+
 $$
