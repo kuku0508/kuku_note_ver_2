@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md"
+                "file": "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png"
               }
             }
           },
@@ -260,12 +260,13 @@
       }
     ]
   },
-  "active": "aed439f25598b323",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+    "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
     "文本/統計/無母數統計/表",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/題目型作業/program output",
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/講義/unit 2.md",
@@ -305,7 +306,6 @@
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 修改時間數列圖.png",
     "未處理/Pasted image 20240928153800.png",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 時間數列圖 選取資料.png",
-    "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 開啟直方圖.png",
-    "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 直方圖教學.png"
+    "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 開啟直方圖.png"
   ]
 }

@@ -135,9 +135,4 @@ reduced_data=c(raw_data-1435)
 runs.test(reduced_data,threshold = 0)
 ```
 
-Runs Test
-
-data:  reduced_data
-statistic = 0.022553, runs = 17, n1 = 15,
-n2 = 17, n = 32, p-value = 0.982
-alternative hypothesis: nonrandomness
+![[Assignment 2 runs test output.png]]
