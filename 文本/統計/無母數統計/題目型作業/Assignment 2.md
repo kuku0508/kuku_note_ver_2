@@ -136,3 +136,6 @@ runs.test(reduced_data,threshold = 0)
 ```
 
 ![[Assignment 2 runs test output.png]]
+![[Pasted image 20241011024704.png]]
+
+![[Pasted image 20241011024717.png]]
