@@ -49,4 +49,15 @@ P(S\geq38\mid 57,0.5)&=\left(C^{57}_{38}+ C^{57}_{39}+ C^{57}_{40}\ldots + C^{57
 $$
 我們可以看到最後的p-value等於0.0082，遠小於顯著水準$\alpha$的0.05，故我們可以說，我們有強烈的證據去拒絕虛無假設，並說明在在感染瘧疾後成功康復的患者，有超過50%的人產生了抗體。
 
-我們透過
+我們透過SAS來進一步驗證，
+DATA non-parametric assignment;
+INPUT OUTCOME $ COUNT;
+CARDS;
+S 11
+F 14
+;
+PROC FREQ ORDER=DATA;
+WEIGHT COUNT;
+TABLE OUTCOME/BINOMIAL(P=0.27);
+EXACT BINOMIAL;
+RUN;
