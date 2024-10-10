@@ -70,7 +70,9 @@ RUN;
 
 # 2.21：
 題目這邊直接問下面的資料集呈現的資料，建立兩個分類，分別是大於及小於1435，並檢視該模式是否呈現隨機性。於是我們先將其原始資料減去1435，並進行One-sample runs test：
-
+$$\text{H_0: Data are randomly distributed.
+H_1: Data are not randomly distributed.}
+$$
 $$
 \begin{array}{|ccr|ccr|}
 \hline
