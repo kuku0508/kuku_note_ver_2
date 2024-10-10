@@ -62,4 +62,5 @@ TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
 
-![[Pasted image 20241010202349.png]]
+![[Assignment 2 2.14 SAS.png]]
+我們可以ㄎㄢ
