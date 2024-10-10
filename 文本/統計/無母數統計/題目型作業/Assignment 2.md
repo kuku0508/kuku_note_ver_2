@@ -63,4 +63,4 @@ EXACT BINOMIAL;
 RUN;
 
 ![[Assignment 2 2.14 SAS.png]]
-我們可以看到在Excat
+我們可以看到在Exact test的One-sided P-value的值跟我們試算的結果是一樣的
