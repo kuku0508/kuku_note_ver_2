@@ -63,4 +63,4 @@ EXACT BINOMIAL;
 RUN;
 
 ![[Assignment 2 2.14 SAS.png]]
-我們可以ㄎㄢ
+我們可以看到在Excat
