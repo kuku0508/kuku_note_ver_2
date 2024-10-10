@@ -44,6 +44,6 @@ $$
 $$
 \begin{align}
 P(S\geq38\mid 57,0.5)&=\left(C^{57}_{38}+ C^{57}_{39}+ C^{57}_{40}\ldots + C^{57}_{57}\right)\times0.5^{57}\\
-&=
+&\approx0.082
 \end{align}
 $$
