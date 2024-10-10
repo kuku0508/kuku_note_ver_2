@@ -43,6 +43,6 @@ $$
 
 $$
 \begin{align}
-P(S\leq38\mid 57,0.5)=C^{57}_0
+P(S\geq38\mid 57,0.5)=C^{57}_{38}\times C^{57}_{39}\times C^{57}_{40}\dlots
 \end{align}
 $$
