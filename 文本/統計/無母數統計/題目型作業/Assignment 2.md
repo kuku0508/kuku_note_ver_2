@@ -39,3 +39,4 @@ $$
 H_0：\rho\leq0.5\quad H_1：\rho>0.5
 $$
 而在該假設的情況下，p-value為：$P(S\geq s\mid n,\rho_0)$
+然後由題目可以知道，n=57、s=38
