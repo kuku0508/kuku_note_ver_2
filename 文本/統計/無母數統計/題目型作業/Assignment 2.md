@@ -68,6 +68,6 @@ $$
 \hline
 \text{result=Positive}\\
 \hline
-比例(p)
+比例(p)&
 \end{array}
 $$
