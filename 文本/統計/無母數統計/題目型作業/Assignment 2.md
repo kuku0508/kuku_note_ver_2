@@ -51,13 +51,13 @@ $$
 
 我們透過SAS來進一步驗證，
 data non-parametric assignment 2;
-input RESULT $ COUNT;
+input result $ count;
 cards;
 Positive 38
 Negative 19
 ;
-PROC FREQ ORDER=non-parametric assignment 2;
-WEIGHT COUNT;
-TABLE OUTCOME/BINOMIAL(P=0.27);
+PROC FREQ order=non-parametric assignment 2;
+WEIGHT count;
+TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
