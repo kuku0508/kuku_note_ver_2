@@ -61,3 +61,7 @@ WEIGHT count;
 TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
+
+
+| | |
+|...|...|
