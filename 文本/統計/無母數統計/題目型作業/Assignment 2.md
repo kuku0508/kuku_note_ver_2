@@ -43,6 +43,6 @@ $$
 
 $$
 \begin{align}
-P(S\leq38\mid 57,0.5)
+P(S\leq38\mid 57,0.5)=C^{57}_0
 \end{align}
 $$
