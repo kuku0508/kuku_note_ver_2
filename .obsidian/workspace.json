@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md"
+                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md"
               }
             }
           },
@@ -160,14 +160,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "892a332b82a61cfd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,10 +262,10 @@
       }
     ]
   },
-  "active": "aed439f25598b323",
+  "active": "892a332b82a61cfd",
   "lastOpenFiles": [
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
