@@ -136,4 +136,4 @@ runs.test(reduced_data,threshold = 0)
 ```
 
 ![[Assignment 2 runs test output.png]]
-我們可以看到p-value為0.982，故我們沒有足夠強烈的證據去證明，這些樣本的
+我們可以看到p-value為0.982，故我們沒有足夠強烈的證據去證明，這些樣本的白誌燈的壽命之中位數，呈現ㄒㄧ
