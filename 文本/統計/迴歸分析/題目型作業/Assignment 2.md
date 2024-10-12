@@ -14,5 +14,7 @@ d. Find a 95% CI on the mean gasoline mileage if the engine displacement is 275 
 e. Suppose that we wish to predict the gasoline mileage obtained from a car with a 275-in$.^3$ engine.Give a point estimate of mileage.Find a 95% prediction interval on the mileage.
 
 f. Compare the two intervals obtained in parts d and e . Explain the differnce between them.Which ine is wider,and why?
+
+![[dbd808cb69aa872c.pdf]]
 ## Problem 2.5
 Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b and c ) using vehicle weright $x_{10}$ as the regressor variable . Based on a comparison of the two models, can youconclude that $x_1$ is a better choice of tegressor that $x_{10}$.
