@@ -11,7 +11,7 @@ c. What percent of hte total variability in gasoline mileage is accounted for by
 
 d. Find a 95% CI on the mean gasoline mileage if the engine displacement is 275 in$.^3$
 
-e. Suppose that we wish to predict the gasoline 
+e. Suppose that we wish to predict the gasoline mileage obtained from a car with a 275-in$.^3$ engine.Give a point estimate of mileage.Find a 95%
 
 | Automoblie  | y     | x1    | x2  | x3  | x4     | x5     | x6  | x7  | x8    | x9   | x10  | x11 |
 | ----------- | ----- | ----- | --- | --- | ------ | ------ | --- | --- | ----- | ---- | ---- | --- |
