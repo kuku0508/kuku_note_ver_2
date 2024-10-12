@@ -20,4 +20,5 @@ f. Compare the two intervals obtained in parts d and e . Explain the differnce b
 Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b and c ) using vehicle weright $x_{10}$ as the regressor variable . Based on a comparison of the two models, can youconclude that $x_1$ is a better choice of tegressor that $x_{10}$.
 
 # 回答：
-#
+## Problem 2.4：
+a. 
