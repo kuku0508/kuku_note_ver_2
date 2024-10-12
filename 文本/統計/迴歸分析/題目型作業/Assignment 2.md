@@ -3,6 +3,7 @@
 ## Problem 2.4
 Table B.3 presents data on the gasoline mileage performance of 32 different automoblies.
 
+a. Fit a simple linear regression model relating gasoline mileage y(miles per gallon) to engine displacement
 
 | Automoblie  | y     | x1    | x2  | x3  | x4     | x5     | x6  | x7  | x8    | x9   | x10  | x11 |
 | ----------- | ----- | ----- | --- | --- | ------ | ------ | --- | --- | ----- | ---- | ---- | --- |
