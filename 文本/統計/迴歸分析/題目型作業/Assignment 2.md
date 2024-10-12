@@ -15,4 +15,4 @@ e. Suppose that we wish to predict the gasoline mileage obtained from a car with
 
 f. Compare the two intervals obtained in parts d and e . Explain the differnce between them.Which ine is wider,and why?
 ## Problem 2.5
-Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b and c ) using vehicle weright $x_10$ as the regressor variable . Based on a comparison of the two models, can youconclude that $x_1$ is a better choice of te
+Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b and c ) using vehicle weright $x_{10}$ as the regressor variable . Based on a comparison of the two models, can youconclude that $x_1$ is a better choice of tegressor that $x_{10}$.
