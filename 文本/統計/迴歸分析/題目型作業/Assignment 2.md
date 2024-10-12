@@ -9,7 +9,9 @@ b. Construct the analysis-of-variance table and test for significance of regress
 
 c. What percent of hte total variability in gasoline mileage is accounted for by the linear relationship with engine displacement?
 
-d. Find a 95& CI on the mean gasoline mileage if the e
+d. Find a 95% CI on the mean gasoline mileage if the engine displacement is 275 in$.^3$
+
+e. Suppose that we wish to predict the gasoline 
 
 | Automoblie  | y     | x1    | x2  | x3  | x4     | x5     | x6  | x7  | x8    | x9   | x10  | x11 |
 | ----------- | ----- | ----- | --- | --- | ------ | ------ | --- | --- | ----- | ---- | ---- | --- |
