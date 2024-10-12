@@ -5,7 +5,9 @@ Table B.3 presents data on the gasoline mileage performance of 32 different auto
 
 a. Fit a simple linear regression model relating gasoline mileage y(miles per gallon) to engine displacement $x_1$ (cubic inches).
 
-b.Construct the analysis-of-variance table and test for signifi
+b. Construct the analysis-of-variance table and test for significance of regression.
+
+c. What percent of hte total variability in gasoline mileage is accounted for 
 
 | Automoblie  | y     | x1    | x2  | x3  | x4     | x5     | x6  | x7  | x8    | x9   | x10  | x11 |
 | ----------- | ----- | ----- | --- | --- | ------ | ------ | --- | --- | ----- | ---- | ---- | --- |
