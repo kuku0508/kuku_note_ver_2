@@ -11,9 +11,9 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png"
+                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md"
+                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf"
               }
             }
           },
@@ -260,12 +260,13 @@
       }
     ]
   },
-  "active": "aed439f25598b323",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
+    "文本/統計/迴歸分析/題目型作業/未命名",
+    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
     "未處理/常態分配.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
     "未處理/Pasted image 20241011024704.png",
     "文本/統計/無母數統計/表",
@@ -298,7 +299,6 @@
     "文本/說服/《說服力指南》/筆記",
     "文本/說服/《說服力指南》/筆記/《表達的目的》",
     "模板/筆記.md",
-    "文本/說服/《說服力指南》",
     "文本/統計/迴歸分析/講義/unit 1.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "未處理/假設檢定.md",
