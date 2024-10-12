@@ -23,7 +23,7 @@ Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b 
 ## Problem 2.4：
 a. 
 我們先使用SAS將發動機排量$x_1$作為預測變數，汽油里程$y$作為反應變數，建構一個簡單線性迴歸。程式碼如下：
-```sAS
+```SAS
 PROC IMPORT OUT= WORK.assignment2_data 
    DATAFILE= "C:\Users\kuku\Downloads\Linear Regression assignment 2 data.xlsx" 
    DBMS=EXCEL REPLACE;
@@ -34,9 +34,11 @@ PROC IMPORT OUT= WORK.assignment2_data
  USEDATE=YES;
  SCANTIME=YES;
 RUN;
+
 PROC PRINT;
 RUN;
+
 PROC REG;
 model y=x1/p clm cli;
-run;
+RUN;
 ```
