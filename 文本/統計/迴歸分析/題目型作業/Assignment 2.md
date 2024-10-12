@@ -25,14 +25,14 @@ a.
 我們先使用SAS將發動機排量$x_1$作為預測變數，汽油里程$y$作為反應變數，建構一個簡單線性迴歸。程式碼如下：
 ```sAS
 PROC IMPORT OUT= WORK.assignment2_data 
-            DATAFILE= "C:\Users\kuku\Downloads\Linear Regression assignment 2 data.xlsx" 
-            DBMS=EXCEL REPLACE;
-     RANGE="sheet 1$"; 
-     GETNAMES=YES;
-     MIXED=NO;
-     SCANTEXT=YES;
-     USEDATE=YES;
-     SCANTIME=YES;
+   DATAFILE= "C:\Users\kuku\Downloads\Linear Regression assignment 2 data.xlsx" 
+   DBMS=EXCEL REPLACE;
+ RANGE="sheet 1$"; 
+ GETNAMES=YES;
+ MIXED=NO;
+ SCANTEXT=YES;
+ USEDATE=YES;
+ SCANTIME=YES;
 RUN;
 PROC PRINT;
 RUN;
