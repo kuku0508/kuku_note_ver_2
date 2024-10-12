@@ -22,3 +22,4 @@ Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b 
 # 回答：
 ## Problem 2.4：
 a. 
+我們先使用SAS將
