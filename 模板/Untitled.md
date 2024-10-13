@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Element Links
-GzUDL7FU: {{tp.system.prompt("請輸入你的PPT連結")}}
+GzUDL7FU: <% tp.system.prompt("請輸入你的PPT連結") %>
 
 %%
 ## Drawing
