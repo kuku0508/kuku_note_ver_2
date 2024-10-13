@@ -42,4 +42,6 @@ PROC REG;
 model y=x1/p clm cli;
 RUN;
 ```
+
+SAS輸出結果如下，我們可以看到
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS output.png]]
