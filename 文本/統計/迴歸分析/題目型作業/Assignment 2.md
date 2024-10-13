@@ -42,3 +42,4 @@ PROC REG;
 model y=x1/p clm cli;
 RUN;
 ```
+![[Pasted image 20241013120757.png]]
