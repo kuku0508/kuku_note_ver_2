@@ -6,6 +6,7 @@ tags: [excalidraw]
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+<%* let newTitle = await tp.system.prompt("請輸入標題"); await tp.file.rename(newTitle); %>
 
 # Excalidraw Data
 ## Text Elements
