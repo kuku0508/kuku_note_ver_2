@@ -45,4 +45,4 @@ RUN;
 
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS output.png]]
 SAS輸出結果如上，我們可以看到：
-- $\beta_0$的估計值為$33.72744$，其
+- $\beta_0$的估計值為$33.72744$，其p-value為
