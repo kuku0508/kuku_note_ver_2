@@ -10,9 +10,9 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Element Links
-bg6YcscB: <% tp.system.prompt("請輸入你的PPT連結") %>
+bg6YcscB: https://drive.google.com/file/d/1I21kD72HDX6vjwLHqGichDjz_4cbqG-p/view?usp=drive_link
 %%
-<%* let newTitle = await tp.system.prompt("請輸入標題"); await tp.file.rename(newTitle); %>
+
 
 ## Drawing
 ```compressed-json
