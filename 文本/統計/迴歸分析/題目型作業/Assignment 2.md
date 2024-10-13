@@ -53,5 +53,5 @@ $$
 y=33.72744-0.04743\times x_1
 $$
 ### b
-在SAS的OUTPUT中，我們可以看到他已經幫我們建構了一個ANOVA table。我們可以看到這個ANOVA table，最後得出來的p-value，其值是小於0.0001，故我們可以說我們有強烈的證據去說，
+在SAS的OUTPUT中，我們可以看到他已經幫我們建構了一個ANOVA table。我們可以看到這個ANOVA table，最後得出來的p-value，其值是小於0.0001，故我們可以說我們有強烈的證據去說，引擎排量與汽油里程具有顯著的線性關係。
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png]]
