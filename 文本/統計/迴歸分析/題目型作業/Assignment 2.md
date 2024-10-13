@@ -58,3 +58,4 @@ $$
 ### c
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS other output.png]]
 在SAS的output裡面，我們可以看到引擎排量跟汽油里程建構的簡單線性迴歸，他的$R^2$為$0.772$。故我們可以知道說這個引擎排量與汽油里程的簡單線性迴歸模型可以解釋77.2%的汽油里程變異量。
+### d
