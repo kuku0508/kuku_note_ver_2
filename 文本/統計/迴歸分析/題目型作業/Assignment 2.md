@@ -43,7 +43,7 @@ model y=x1/p clm cli;
 RUN;
 ```
 
-![[文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS Parameter output.png]]
+![[Linear Regression Assignment 2 Problem 2.4 a SAS Parameter output.png]]
 SAS輸出結果如上，我們可以看到：
 - $\beta_0$的估計值為$33.72744$，其p-value小於$0.0001$，遠小於顯著水準$0.05$，故我們有強烈的證據可以說，當引擎排量等於0的時候，預測的汽油里程的平均為$33.72744$英里/加侖。
 
