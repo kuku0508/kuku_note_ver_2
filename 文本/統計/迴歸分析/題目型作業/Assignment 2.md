@@ -42,4 +42,4 @@ PROC REG;
 model y=x1/p clm cli;
 RUN;
 ```
-![[Pasted image 20241013120757.png]]
+![[Linear Regression Assignment 2 Problem 2.4 a SAS output.png]]
