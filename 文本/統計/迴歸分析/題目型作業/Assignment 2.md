@@ -54,5 +54,5 @@ y=33.72744-0.04743\times x_1
 $$
 
 ### b
-在SAS的OUTPUT，
+在SAS的OUTPUT中，我們可以看到
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png]]
