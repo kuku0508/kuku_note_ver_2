@@ -22,7 +22,7 @@ Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b 
 # 回答：
 ## Problem 2.4：
 a. 
-我們先使用SAS將發動機排量$x_1$作為預測變數，汽油里程$y$作為反應變數，建構一個簡單線性迴歸。程式碼如下：
+我們先使用SAS將引擎排量$x_1$作為預測變數，汽油里程$y$作為反應變數，建構一個簡單線性迴歸。程式碼如下：
 ```SAS
 PROC IMPORT OUT= WORK.assignment2_data 
    DATAFILE= "C:\Users\kuku\Downloads\Linear Regression assignment 2 data.xlsx" 
@@ -45,4 +45,4 @@ RUN;
 
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS output.png]]
 SAS輸出結果如上，我們可以看到：
-- $\beta_0$的估計值為$33.72744$，其p-value小於0.0001，遠小於顯著水準0.05，故我們有強烈的證據可以說，
+- $\beta_0$的估計值為$33.72744$，其p-value小於0.0001，遠小於顯著水準0.05，故我們有強烈的證據可以說，引擎排量跟汽油里程的
