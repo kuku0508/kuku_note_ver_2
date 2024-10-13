@@ -105,4 +105,6 @@ model y=x1/p clm cli;
 run;
 ```
 
+輸出結果如下：
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS prediction output.png]]
+我們可以看到在地3
