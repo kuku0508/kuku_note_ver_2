@@ -105,4 +105,4 @@ model y=x1/p clm cli;
 run;
 ```
 
-![[Pasted image 20241013154454.png]]
+![[Linear Regression Assignment 2 Problem 2.4 a SAS prediction output.png]]
