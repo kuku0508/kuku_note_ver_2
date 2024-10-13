@@ -21,7 +21,7 @@ Consider the gasoline mileage data in Table B.3. Repeat Problem 2.4(parts a , b 
 
 # 回答：
 ## Problem 2.4：
-a. 
+### a. 
 我們先使用SAS將引擎排量$x_1$作為預測變數，汽油里程$y$作為反應變數，建構一個簡單線性迴歸。程式碼如下：
 ```SAS
 PROC IMPORT OUT= WORK.assignment2_data 
@@ -52,3 +52,5 @@ SAS輸出結果如上，我們可以看到：
 $$
 y=33.72744-0.04743\times x_1
 $$
+
+### b
