@@ -104,3 +104,5 @@ proc reg;
 model y=x1/p clm cli;
 run;
 ```
+
+![[Pasted image 20241013154454.png]]
