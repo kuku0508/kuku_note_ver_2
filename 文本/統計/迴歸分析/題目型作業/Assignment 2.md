@@ -107,4 +107,4 @@ run;
 
 輸出結果如下：
 ![[Linear Regression Assignment 2 Problem 2.4 a SAS prediction output.png]]
-我們可以看到在地3
+我們可以看到在第33筆觀察值，95% CL Mean那邊，SAS已經幫我們自動計算好平均汽油里程的信賴區間，其範圍為\[19.5734,21.7959\]
