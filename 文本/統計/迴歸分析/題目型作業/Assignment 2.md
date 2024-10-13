@@ -7,7 +7,7 @@ a. Fit a simple linear regression model relating gasoline mileage y(miles per ga
 
 b. Construct the analysis-of-variance table and test for significance of regression.
 
-c. What percent of hte total variability in gasoline mileage is accounted for by the linear relationship with engine displacement?
+c. What percent of the total variability in gasoline mileage is accounted for by the linear relationship with engine displacement?
 
 d. Find a 95% CI on the mean gasoline mileage if the engine displacement is 275 in$.^3$
 
