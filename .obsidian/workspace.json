@@ -11,9 +11,11 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5,
-    "collapsed": true
+    "width": 312.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md"
               }
             }
           },
@@ -228,45 +229,15 @@
         "height": 696,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "bd03297114a34b6a",
-        "type": "window",
-        "children": [
-          {
-            "id": "cead3e7692b14f78",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aed439f25598b323",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "702edaca07856804",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
     "文本/統計/迴歸分析/講義/unit 2.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 3.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/講義/unit 2.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
@@ -276,7 +247,6 @@
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
     "文本/統計/迴歸分析/題目型作業/未命名",
-    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
     "未處理/常態分配.md",
     "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
