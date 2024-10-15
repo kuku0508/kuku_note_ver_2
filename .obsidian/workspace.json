@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 489.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -234,9 +234,11 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "未處理/Pasted image 20241016033151.png",
-    "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
+    "文本/統計/無母數統計/題目型作業/program output/Assignment 2 runs test output.png",
+    "文本/統計/無母數統計/題目型作業/program output/Assignment 2 runs test output.png",
+    "未處理/Pasted image 20241016033224.png",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+    "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
@@ -250,9 +252,7 @@
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
     "文本/統計/迴歸分析/題目型作業/未命名",
-    "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
     "未處理/常態分配.md",
-    "文本/統計/無母數統計/表/Assignment 2 runs test output.png",
     "未處理/Pasted image 20241011024704.png",
     "文本/統計/無母數統計/表",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
@@ -277,8 +277,6 @@
     "模板/筆記.md",
     "文本/統計/迴歸分析/講義/unit 1.md",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 DONE.png",
-    "未處理/Pasted image 20240928160906.png",
-    "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法  第二次作業 標籤位置.png",
-    "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 修改時間數列圖.png"
+    "未處理/Pasted image 20240928160906.png"
   ]
 }
