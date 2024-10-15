@@ -41,7 +41,8 @@ $$
 我們可以使用二項檢定（binomial test）來檢定母體的比例。以下逐步進行：
 - - -
 ## 基本假設：
-
+- 本次試驗
+n inderpendent bernoulli traials with the probability of successes p.
 
 
 而題目又表示這個樣本符合二項檢定的假設，故我們這邊可以使用二項檢定來檢測母體比例是否大於50%。
