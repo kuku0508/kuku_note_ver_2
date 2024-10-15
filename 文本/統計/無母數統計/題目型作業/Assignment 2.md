@@ -79,7 +79,7 @@ RUN;
 題目這邊直接問下面的資料集呈現的資料，建立兩個分類，分別是大於及小於1435，並檢視該模式是否呈現隨機性。我們可以使用One-sample runs test來檢定其是否具有隨機性。
 - - -
 ## 基本假設：
-- 
+- 本樣本由控制前白翅ㄉ
 
 於是我們先將其原始資料減去1435，並進行One-sample runs test：
 $$H_0\text{: Data are randomly distributed.}\quad\text{v.s.}\quad
