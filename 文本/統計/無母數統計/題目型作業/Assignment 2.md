@@ -81,10 +81,11 @@ RUN;
 ## 基本假設：
 - 本樣本由控制前白熾燈的壽命（以小時為單位）組成，且將其分為了大於1435以及小於1435這種類型的資料。
 - - - 
-於是我們先將其原始資料減去1435，並進行One-sample runs test：
+### 假設檢定：
 $$H_0\text{: Data are randomly distributed.}\quad\text{v.s.}\quad
 H_1\text{: Data are not randomly distributed.}
 $$
+於是我們先將其原始資料減去1435，並進行One-sample runs test：
 $$
 \begin{array}{|ccr|ccr|}
 \hline
@@ -147,6 +148,5 @@ reduced_data=c(raw_data-1435)
 runs.test(reduced_data,threshold = 0)
 ```
 
-![[]]
-![[Pasted image 20241016033224.png]]
+![[Assignment 2 runs test output.png]]
 我們可以看到p-value為0.982，故我們沒有足夠強烈的證據去證明，這些樣本的白熾燈的壽命之中位數，呈現顯著的非隨機性模式。
