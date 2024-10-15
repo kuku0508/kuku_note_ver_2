@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/Assignment 2.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md"
               }
             }
           },
@@ -265,8 +265,8 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
+    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "未處理/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
     "未處理/Linear Regression assignment 2 data.pdf",
