@@ -81,8 +81,6 @@ RUN;
 ## 基本假設：
 - 本樣本由控制前白熾燈的壽命（以小時為單位）組成，且將其分為了大於1435以及小於1435這種類型的資料。
 - - - 
-
-
 於是我們先將其原始資料減去1435，並進行One-sample runs test：
 $$H_0\text{: Data are randomly distributed.}\quad\text{v.s.}\quad
 H_1\text{: Data are not randomly distributed.}
@@ -111,6 +109,7 @@ $$
 \hline
 \end{array}
 $$
+現在我們跟ㄐ
 然後我們來算一下這邊有幾個runs，
 1. \[1-6\]
 2. \[7\]
