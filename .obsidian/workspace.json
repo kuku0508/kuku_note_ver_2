@@ -11,11 +11,9 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 635.5,
+    "collapsed": true
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
+                "file": "文本/統計/迴歸分析/講義/unit 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               }
             }
           },
@@ -265,6 +264,8 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/Assignment 3.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
@@ -283,9 +284,7 @@
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/無母數統計/題目型作業/program output",
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "知識/程式語言/Latex/基礎知識/語法表/表格.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
