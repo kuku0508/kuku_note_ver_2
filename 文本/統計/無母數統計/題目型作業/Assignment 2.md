@@ -41,7 +41,9 @@ $$
 我們可以使用二項檢定（binomial test）來檢定母體的比例。以下逐步進行：
 - - -
 ## 基本假設：
-- 本次鹽由57次相互獨立的伯努利試驗建立，
+- 本次實驗由57次相互獨立的伯努利試驗建立，其中成功事件次數為38次。而題目也提到
+- - -
+  
 n inderpendent bernoulli traials with the probability of successes p.
 
 
