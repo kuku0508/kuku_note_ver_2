@@ -25,12 +25,14 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/SAS/講義/SAS Charpter 4.md"
+                "file": "知識/線性代數/線性代數目錄.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "SAS Charpter 4"
+              "icon": "lucide-file",
+              "title": "線性代數目錄"
             }
           }
         ],
@@ -237,6 +239,9 @@
   },
   "active": "927b44409629329d",
   "lastOpenFiles": [
+    "文本/統計/SAS/講義/SAS Charpter 4.md",
+    "知識/線性代數/線性代數目錄.md",
+    "知識/線性代數",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 runs test output.png",
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 runs test output.png",
@@ -264,7 +269,6 @@
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/程式語言/Latex/基礎知識/語法表/表格.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 3.pdf",
-    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 2.pdf",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
@@ -278,7 +282,6 @@
     "文本/說服/《說服力指南》/筆記/《表達的目的》/《表達的痛點》/《表達的痛點 - 編碼失敗》.md",
     "文本/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
     "模板/筆記.md",
-    "文本/統計/迴歸分析/講義/unit 1.md",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 DONE.png",
     "未處理/Pasted image 20240928160906.png"
   ]
