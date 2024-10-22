@@ -13,5 +13,5 @@ $$
 
 $$
 ## Exercise 3.36：
-A manufaturer compared the viscosity of two brands of motor oil.A simple random sample of specimens of 
+A manufaturer compared the viscosity of two brands of motor oil.A simple random sample of specimens of brand A and an independent simple random sample of specimens of brand B yielded the results（coded for ease of computation） shown
 # 回答：
