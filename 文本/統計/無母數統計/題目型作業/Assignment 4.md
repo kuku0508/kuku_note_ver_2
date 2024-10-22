@@ -19,7 +19,10 @@ A manufaturer compared the viscosity of two brands of motor oil.A simple random 
 $$
 \begin{array}{lcccccccccccccccc}
 \hline
-\text{Brand A }
+\text{Brand A}&25&39&35&18&50&11&42&47&19&16&45&41&25&32&44&35\\
+ &24&55&36&11&11&10&38&25&52&35&25&60&51&21&17&13
+ \\\\
+ \text{Brand B }
 \end{array}
 $$
 # 回答：
