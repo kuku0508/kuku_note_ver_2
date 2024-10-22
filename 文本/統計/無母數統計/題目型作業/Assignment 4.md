@@ -17,6 +17,9 @@ A manufaturer compared the viscosity of two brands of motor oil.A simple random 
 
 **Data for Exercise 3.36**
 $$
-\begin{array}
+\begin{array}{lcccccccccccccccc}
+\hline
+\text{Brand A }
+\end{array}
 $$
 # 回答：
