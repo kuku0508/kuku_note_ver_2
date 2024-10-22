@@ -6,7 +6,7 @@ $$
 \begin{array}{cccccccc}
 \hline
 \text{Unsprayed}&6.01& 2.48&1.76&5.10&0.75&7.13&4.88\\
-\text{Sprayed(at least )}
+\text{Sprayed(at least 14 months prior to sampling)}&5.68&5.68&16.30&21.46&11.63&44.20&
 \end{array}
 
 $$
