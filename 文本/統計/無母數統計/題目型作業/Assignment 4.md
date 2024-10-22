@@ -5,7 +5,8 @@ Griffiths（E25）reported data on the extent of coffee-berry disease on farms n
 $$
 \begin{array}{cccccccc}
 \hline
-\text{U} 
+\text{Unsprayed}&6.01& 2.48&1.76&5.10&0.75&7.13&4.88\\
+\text{Sprayed(at least )}
 \end{array}
 
 $$
