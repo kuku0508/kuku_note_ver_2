@@ -25,12 +25,12 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1)(2).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 2"
+              "icon": "lucide-file-text",
+              "title": "F2024_Homework(1)(2)"
             }
           }
         ],
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5,
-    "collapsed": true
+    "width": 489.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -236,8 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "927b44409629329d",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/統計/迴歸分析/講義/unit 2.md",
+    "文本/統計/無母數統計/題目型作業/題目pdf/F2024_Homework(1)(2).pdf",
     "文本/未分類/文本/情緒管理 師介.md",
     "文本/未分類/文本/Langton's ant.md",
     "知識/線性代數/基礎知識/線性代數.md",
@@ -262,7 +263,6 @@
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
@@ -274,14 +274,12 @@
     "文本/統計/迴歸分析/題目型作業/未命名",
     "未處理/常態分配.md",
     "未處理/Pasted image 20241011024704.png",
-    "文本/統計/無母數統計/表",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/程式語言/Latex/基礎知識/語法表/表格.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸 - 重定義預測變數.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
     "文本/統計/應用統計方法/圖/作業/第二次作業/應用統計方法 第二次作業 DONE.png",
     "未處理/Pasted image 20240928160906.png"
   ]
