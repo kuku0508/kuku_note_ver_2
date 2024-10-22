@@ -3,7 +3,7 @@
 ## Exercise 3.21：
 Griffiths（E25）reported data on the extent of coffee-berry disease on farms not sprayed and on those sprayed with a fungicide. The results are shown in Table 3.39, in therms of percentage infections in test berries. Do these data provide sufficient evidence to indicate a difference in population ocation parameters？Let $\alpha=0.01$. Use the Mann-Whitney test and determine the P-value.
 
-**Extent of coffee-berry disease(percentage infections in test berries) on farms sprayed and not sprayed with a fungicide*
+**Extent of coffee-berry disease(percentage infections in test berries) on farms sprayed and not sprayed with a fungicide**
 $$
 \begin{array}{lccccccc}
 \hline
