@@ -6,6 +6,11 @@ a. Find a regression line relating sytolic blood pressure to weight.
 b. Estimate the corrlation coefficient.
 c. Test the hypothesis that $\rho=0$
 d. Test the hypothesis that $\rho=0.6$.
-
+e. Find a 95% CI for $\rho$
+$$
+\begin{array}{lcc|}
+\end{array}
+$$
 ## Problem 2.11
+
 # 回答：
