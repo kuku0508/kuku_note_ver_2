@@ -10,7 +10,10 @@ e. Find a 95% CI for $\rho$
 $$
 \begin{array}{lcc|ccc}
 \hline
-\text{Subject}&\text{Weight}&\text{Systolic BP}&\text{}
+\text{Subject}&\text{Weight}&\text{Systolic BP}&\text{Subject}&\text{Weight}&\text{Systolic BP}\\
+\hline
+1&165&130&14&172&153\\
+2&167&133&15&159&
 \end{array}
 $$
 ## Problem 2.11
