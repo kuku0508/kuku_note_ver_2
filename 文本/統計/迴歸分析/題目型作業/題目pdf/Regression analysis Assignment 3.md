@@ -13,7 +13,8 @@ $$
 \text{Subject}&\text{Weight}&\text{Systolic BP}&\text{Subject}&\text{Weight}&\text{Systolic BP}\\
 \hline
 1&165&130&14&172&153\\
-2&167&133&15&159&
+2&167&133&15&159&128\\
+
 \end{array}
 $$
 ## Problem 2.11
