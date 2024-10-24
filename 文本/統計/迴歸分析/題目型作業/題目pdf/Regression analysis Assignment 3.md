@@ -4,6 +4,8 @@
 The weight and systolic blood pressure of 26 randomly selected males in the age group 25-30 are shown below.Assume that weight and blood pressure（BP）are jointly normally distributed.
 a. Find a regression line relating sytolic blood pressure to weight.
 b. Estimate the corrlation coefficient.
-c. Test the hypothesis that $\plo$
+c. Test the hypothesis that $\rho=0$
+d. Test the hypothesis that $\rho=0.6$.
+
 ## Problem 2.11
 # 回答：
