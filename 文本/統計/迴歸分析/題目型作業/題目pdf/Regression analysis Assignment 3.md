@@ -25,8 +25,10 @@ $$
 11& 158& 133& 24& 235& 165\\ 
 12& 169& 135& 25& 192& 160\\ 
 13& 170& 150& 26& 187& 159\\ 
+\hline
 \end{array}
 $$
 ## Problem 2.11
+Consider the weight and blood pressure data in Problem 2.10
 
 # 回答：
