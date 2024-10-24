@@ -29,6 +29,5 @@ $$
 \end{array}
 $$
 ## Problem 2.11
-Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot model to the data and compare it to the model obtained in Problem 2.10. Which model would
-
+Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot model to the data and compare it to the model obtained in Problem 2.10. Which model would you conclude is superior?
 # 回答：
