@@ -8,7 +8,9 @@ c. Test the hypothesis that $\rho=0$
 d. Test the hypothesis that $\rho=0.6$.
 e. Find a 95% CI for $\rho$
 $$
-\begin{array}{lcc|}
+\begin{array}{lcc|ccc}
+\hline
+\text{Subject}&\text{Weight}&\text{Systolic BP}&\text{}
 \end{array}
 $$
 ## Problem 2.11
