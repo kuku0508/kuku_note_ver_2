@@ -25,12 +25,12 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
+                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/F2024_Homework(1).pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 2"
+              "icon": "lucide-file-text",
+              "title": "F2024_Homework(1)"
             }
           }
         ],
@@ -235,8 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "927b44409629329d",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/講義/unit 2.md",
+    "文本/統計/迴歸分析/題目型作業/題目pdf/F2024_Homework(1).pdf",
     "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 4.pdf",
     "文本/統計/迴歸分析/講義/unit 2.md",
@@ -264,7 +266,6 @@
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "未處理/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
@@ -272,7 +273,6 @@
     "文本/統計/迴歸分析/題目型作業/題目pdf/Linear Regression assignment 2 data.xlsx",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
-    "文本/統計/迴歸分析/題目型作業/未命名",
     "未處理/常態分配.md",
     "未處理/Pasted image 20241011024704.png",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
