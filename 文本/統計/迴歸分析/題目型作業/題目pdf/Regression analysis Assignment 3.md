@@ -31,5 +31,5 @@ $$
 ## Problem 2.11
 Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot model to the data and compare it to the model obtained in Problem 2.10. Which model would you conclude is superior?
 # 回答：
-我們有一份資料是取樣於25歲到30歲的ㄋㄢ
+我們有一份資料是隨機選擇了26位25歲到30歲的男人，並記錄了她們的體重以及寫
 2.10
