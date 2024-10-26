@@ -237,15 +237,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "floating": {
+    "id": "36704baa96f35325",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2f18605bb2ef5a02",
+        "type": "window",
+        "children": [
+          {
+            "id": "02ea430eb63fa559",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f15c4e0b8854017",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "unit 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 696,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2f15c4e0b8854017",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 4.pdf",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/未分類/文本/情緒管理 師介.md",
     "文本/未分類/文本/Langton's ant.md",
     "知識/線性代數/基礎知識/線性代數.md",
