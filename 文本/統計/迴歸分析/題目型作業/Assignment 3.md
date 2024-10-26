@@ -35,4 +35,5 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 2.10.且我們假設體重以及血壓為聯合常態分配。
 ## a. 求體重對收縮壓關聯之迴歸線
 我們使用SAS，用附件一的程式碼輸出如下：
-![[Assignment 3 2.11 a.png]]我們可以看到
+![[Assignment 3 2.11 a.png]]
+我們可以看到
