@@ -36,4 +36,4 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 ## a. 求體重對收縮壓關聯之迴歸線
 我們使用SAS，用附件一的程式碼輸出如下：
 ![[Assignment 3 2.11 a.png]]
-我們可以看到在截距為69.10437
+我們可以看到截距估計值為69.10437，
