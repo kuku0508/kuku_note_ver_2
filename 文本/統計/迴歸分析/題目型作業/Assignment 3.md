@@ -33,4 +33,4 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 # 回答：
 我們有一份資料是隨機選擇了26位25歲到30歲的男人，並記錄了她們的體重以及收縮壓
 2.10.且我們假設體重以及血壓為聯合常態分配。
-a. 求收縮壓對體重關聯之迴歸縣
+a. 求收縮壓對體重關聯之迴歸線
