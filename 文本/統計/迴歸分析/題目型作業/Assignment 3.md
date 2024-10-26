@@ -80,3 +80,9 @@ PROC REG;
 MODEL Systolic_BP = Weight;
 RUN;
 ```
+### b.
+```SAS
+PROC CORR PEARSON;
+	VAR Weight Systolic_BP;
+RUN;
+```
