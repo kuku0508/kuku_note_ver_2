@@ -40,4 +40,4 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 $$
 \hat{y}=69.10437+0.41942\times x
 $$
-## b. 
+## b. 估計相關係數
