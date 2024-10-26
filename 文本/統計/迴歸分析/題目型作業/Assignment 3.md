@@ -28,4 +28,12 @@ $$
 \hline
 \end{array}
 $$
-## Problem 2.
+## Problem 2.11
+Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot model to the data and compare it to the model obtained in Problem 2.10. Which model would you conclude is superior?
+# 回答：
+我們有一份資料是隨機選擇了26位25歲到30歲的男人，並記錄了她們的體重以及收縮壓
+2.10.且我們假設體重以及血壓為聯合常態分配。
+## a. 求體重對收縮壓關聯之迴歸線
+我們使用SAS，用附件一的程式碼輸出如下：
+![[Assignment 3 2.11 a.png]]
+我們可以看到截距估計值為69.10437，
