@@ -35,7 +35,7 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 2.10.且我們假設體重以及血壓為聯合常態分配。
 ## a. 求體重對收縮壓關聯之迴歸線
 我們使用SAS，用附件a的程式碼輸出如下：
-![[Assignment 3 2.11 a.png]]
+![[Assignment 3 2.10 a.png]]
 我們可以看到截距估計值為69.10437，斜率估計值為0.41942。且截距以及斜率的Pr > | t |皆小於0.0001，故我們有很強的證據證明，截距以及斜率皆不為0。故我們可以知道其簡單線性迴歸模型為：
 $$
 \hat{y}=69.10437+0.41942\times x

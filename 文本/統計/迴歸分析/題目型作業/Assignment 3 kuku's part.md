@@ -30,9 +30,9 @@ $$
 Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot model to the data and compare it to the model obtained in Problem 2.10. Which model would you conclude is superior?
 
 ## e
-![[Assignment 3 2.11 e.png]]
+![[Assignment 3 2.10 e.png]]
 從SAS輸出的結果我們可以看到，在95%的信心水準之下，相關係數的信賴區間為\[0.540462 , 0.890051\]，也就是說在95%的信心水準之下，相關係數的值落在\[0.540462 , 0.890051\]。
 
 ## 2.11
-
-![[Pasted image 20241027121309.png]]
+![[Pasted image 20241027121414.png]]
+![[Assignment 3 2.11.png]]
