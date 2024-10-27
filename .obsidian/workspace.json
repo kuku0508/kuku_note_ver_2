@@ -237,47 +237,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "36704baa96f35325",
-    "type": "floating",
-    "children": [
-      {
-        "id": "38fb62515f016226",
-        "type": "window",
-        "children": [
-          {
-            "id": "07b5e86dd67cd03b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9cbd38561990fe72",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/迴歸分析/講義/unit 2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 696,
-        "width": 1280,
-        "height": 696,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9cbd38561990fe72",
+  "active": "927b44409629329d",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
+    "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
