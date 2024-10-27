@@ -237,53 +237,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "36704baa96f35325",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2f18605bb2ef5a02",
-        "type": "window",
-        "children": [
-          {
-            "id": "02ea430eb63fa559",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2f15c4e0b8854017",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/迴歸分析/講義/unit 2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 720,
-        "width": 1280,
-        "height": 720,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "927b44409629329d",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
+    "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 e.png",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/program output",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 a.png",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
