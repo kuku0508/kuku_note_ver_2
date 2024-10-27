@@ -48,4 +48,4 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 我們可以看到考慮截距的模型，其$R^2$為0.5983，MSE為75.35719。
 無截距的模型，其$R^2$為0.9929，MSE為158.70727。
 
-雖然無截距的模型，其$R^2$高出
+雖然無截距的模型，其$R^2$遠高於有截距的模型，但是在模型
