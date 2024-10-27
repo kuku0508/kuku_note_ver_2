@@ -38,7 +38,7 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 ## 2.11
 
 ![[Assignment 3 2.11 regression.png]]
-**【圖二 體重與】**
+**【圖二 體重與收縮壓的迴歸模型 - 截距不為0】**
 
 ![[Assignment 3 2.11 no intercept.png]]
-**【圖三 】**
+**【圖三 體重與收縮壓的迴歸模型 - 截距為0】**
