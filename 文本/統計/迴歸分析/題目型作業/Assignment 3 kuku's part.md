@@ -31,13 +31,14 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 
 ## e
 ![[Assignment 3 2.10 e.png]]
-**【圖一 體重與收縮壓之相關係數的信賴區間**
+**【圖一 體重與收縮壓之相關係數的信賴區間】**
 
 從SAS輸出的結果我們可以看到，在95%的信心水準之下，相關係數的信賴區間為\[0.540462 , 0.890051\]，也就是說在95%的信心水準之下，相關係數的值落在\[0.540462 , 0.890051\]。
 
 ## 2.11
 
 ![[Assignment 3 2.11 regression.png]]
-**圖二 有考慮截距的模型**
+**【圖二 體重與】**
 
 ![[Assignment 3 2.11 no intercept.png]]
+**【圖三 】**
