@@ -43,4 +43,4 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 ![[Assignment 3 2.11 no intercept.png]]
 **【圖三 體重與收縮壓的迴歸模型 - 截距為0】**
 
-我們使用了程式碼來得到了，有截距
+我們使用了程式碼來配適了，體重以及收縮壓的模型，圖二為有截距
