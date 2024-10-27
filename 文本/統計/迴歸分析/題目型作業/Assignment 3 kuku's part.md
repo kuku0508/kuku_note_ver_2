@@ -51,3 +51,42 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 雖然無截距的模型，其$R^2$遠高於有截距的模型，但是在比較有截距以及無截距的模型時，$R^2$並不會是一個特別有效的評估指標。特別是當今天將模型強制通過原點時，$R^2$時常被高估。
 故我們這邊會使用MSE作為模型評估標準。
 而在兩模型間，有截距的模型具有更小的MSE（75.35719），故我們這邊選擇有截距的模型。
+```SAS
+DATA Systolic_Weight;
+input Weight Systolic_BP;
+cards;
+165 130
+167 133
+180 150
+155 128
+212 151
+175 146
+190 150
+210 140
+200 148
+149 125
+158 133
+169 135
+170 150
+172 153
+159 128
+168 132
+174 149
+183 158
+215 150
+195 163
+180 156
+143 124
+240 170
+235 165
+192 160
+187 159
+;
+PROC REG;
+MODEL Systolic_BP = Weight;
+RUN;
+
+PROC REG;
+ MODEL Systolic_BP = Weight / noint;
+RUN;
+```
