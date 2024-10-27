@@ -31,5 +31,5 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 
 ## e
 ![[Assignment 3 2.11 e.png]]
-從SAS輸出的結果我們可以看到，在95%的信賴水準之下，
+從SAS輸出的結果我們可以看到，相關係數，在95%的信ㄌㄞ之下，
 ## 2.11
