@@ -79,10 +79,8 @@ cards;
 PROC REG;
 MODEL Systolic_BP = Weight;
 RUN;
-```
-### b.
-```SAS
-PROC CORR PEARSON;
-	VAR Weight Systolic_BP;
+
+PROC CORR fisher;
+ VAR Weight Systolic_BP;
 RUN;
 ```
