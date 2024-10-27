@@ -30,5 +30,6 @@ $$
 Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot model to the data and compare it to the model obtained in Problem 2.10. Which model would you conclude is superior?
 
 ## e
-![[Pasted image 20241027105858.png]]
+![[Assignment 3 2.11 e.png]]
+從SAS輸出的結果我們可以看到，在95%的信賴水準之下，
 ## 2.11
