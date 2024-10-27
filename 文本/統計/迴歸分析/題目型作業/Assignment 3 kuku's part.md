@@ -36,5 +36,6 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 ## 2.11
 
 ![[Assignment 3 2.11 regression.png]]
-\[\]
+**有考慮截距的模型**
+
 ![[Assignment 3 2.11 no intercept.png]]
