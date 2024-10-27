@@ -35,3 +35,4 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 
 ## 2.11
 
+![[Pasted image 20241027121309.png]]
