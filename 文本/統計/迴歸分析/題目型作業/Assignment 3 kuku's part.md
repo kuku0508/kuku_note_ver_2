@@ -31,5 +31,5 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 
 ## e
 ![[Assignment 3 2.11 e.png]]
-從SAS輸出的結果我們可以看到，相關係數，在95%的信心水準之下，相關係數的信賴區間為\[0.540462]
+從SAS輸出的結果我們可以看到，在95%的信心水準之下，相關係數的信賴區間為\[0.540462 , 0.890051\]，也就是說在95%的信心水準之
 ## 2.11
