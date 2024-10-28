@@ -57,7 +57,7 @@ $$
 
 而在無截距的模型中，$R^2$會變成：
 $$
-R^2=\frac{\sum^n_{i=1}\hat{y_i}}{\sum^n_{i=1} y_i^2}
+R^2=\frac{\sum^n_{i=1}\hat{y_i}^2}{\sum^n_{i=1} y_i^2}
 $$
 
 
