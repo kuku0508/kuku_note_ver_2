@@ -56,7 +56,7 @@ R^2=\frac{\sum^n_{i=1}\hat{y_i}}{\sum^n_{i=1} y_i^2}
 $$
 而一般有截距的模型中，$R^2$的公式如下：
 $$
-R^2=\frac{\sum^n_{i=1}(y_i-\hat{y_i})^2}{\sum^n_{i=1} (y_i-\bar{y})^2}
+R^2=1-\frac{\sum^n_{i=1}(y_i-\hat{y_i})^2}{\sum^n_{i=1} (y_i-\bar{y})^2}
 $$
 
 故我們這邊會使用MSE作為模型評估標準。
