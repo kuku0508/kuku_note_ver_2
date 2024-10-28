@@ -52,8 +52,9 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 
 在無截距的模型中，$R^2$會變成：
 $$
-R^2=\frac{\sum}{}
+R^2=\frac{\sum^n_{i=1}\hat{y_i}}{\sum^n_{i=1} y_i^2}
 $$
+
 
 故我們這邊會使用MSE作為模型評估標準。
 而在兩模型間，有截距的模型具有更小的MSE（75.35719），故我們這邊選擇有截距的模型。
