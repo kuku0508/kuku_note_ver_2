@@ -25,12 +25,14 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf"
+                "file": "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Regression analysis Assignment 3"
+              "icon": "lucide-file",
+              "title": "Assignment 3"
             }
           }
         ],
@@ -237,13 +239,14 @@
   },
   "active": "927b44409629329d",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
+    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf",
+    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 e.png",
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
     "文本/統計/迴歸分析/題目型作業/program output",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 a.png",
@@ -274,7 +277,6 @@
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/題目型作業/program output/Assignment 2 2.14 SAS.png",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "未處理/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
     "未處理/Linear Regression assignment 2 data.pdf",
