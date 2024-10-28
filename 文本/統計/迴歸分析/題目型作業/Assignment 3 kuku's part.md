@@ -50,6 +50,10 @@ Consider the weight and blood pressure data in Problem 2.10. Fit a no-interceot 
 
 雖然無截距的模型，其$R^2$遠高於有截距的模型，但是在比較有截距以及無截距的模型時，$R^2$並不會是一個特別有效的評估指標。特別是當今天將模型強制通過原點時，$R^2$時常被高估。
 
+$$
+R^2=\frac{\sum^n_}{}
+$$
+
 在無截距的模型中，$R^2$會變成：
 $$
 R^2=\frac{\sum^n_{i=1}\hat{y_i}}{\sum^n_{i=1} y_i^2}
