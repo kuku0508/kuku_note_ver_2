@@ -88,7 +88,7 @@ $$
 # 附件
 ### a.
 ```SAS
-data;
+DATA;
 input weight bp;
 cards;
 165 130
