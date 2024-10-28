@@ -88,8 +88,8 @@ $$
 # 附件
 ### a.
 ```SAS
-DATA Systolic_Weight;
-input Weight Systolic_BP;
+data;
+input weight bp;
 cards;
 165 130
 167 133
@@ -118,11 +118,19 @@ cards;
 192 160
 187 159
 ;
-PROC REG;
-MODEL Systolic_BP = Weight;
-RUN;
+proc reg;
+model bp=weight;
+run;
 
-PROC CORR fisher;
- VAR Weight Systolic_BP;
-RUN;
+proc corr fisher (RHO0=0); 
+var weight bp;
+run;
+
+proc corr fisher (RHO0=0.6);
+var weight bp;
+run;
+
+proc reg;
+model bp=weight/noint;
+run;
 ```
