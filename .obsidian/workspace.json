@@ -25,12 +25,12 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 2"
+              "icon": "lucide-file-text",
+              "title": "Regression analysis Assignment 3"
             }
           }
         ],
@@ -237,8 +237,8 @@
   },
   "active": "927b44409629329d",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
     "文本/統計/迴歸分析/講義/unit 2.md",
+    "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
