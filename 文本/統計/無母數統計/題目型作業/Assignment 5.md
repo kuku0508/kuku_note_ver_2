@@ -89,3 +89,5 @@ $$
 $r=9$
 
 我們將最多以及最少的$r$取平均，得出$\frac{11+9}{2}=10$，後查表
+![[Runs test Lower and Upper Table.png]]
+當今天Runs落在$$
