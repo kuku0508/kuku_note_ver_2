@@ -35,7 +35,8 @@ Smite and Di Girolamo（E4）exanined the morphological changes in epididymal fa
 $$
 \begin{array}{lcccccc}
 \hline
-\text{}&
+\text{Rat}&1&2&3&4&5&6\\
+\text{Before（X）}&&&&&&\\
 \end{array}
 $$
 
