@@ -14,6 +14,6 @@ $$
 $$
 
 ## Exercise 3.15
-
+Gill and Murray（E19）conducted an experiment designed to test discrimination of song ability among blue-
 ## Exercise 4.3
 # 回答：
