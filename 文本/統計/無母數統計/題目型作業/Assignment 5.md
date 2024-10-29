@@ -94,7 +94,10 @@ $r=9$
 而我們的$r=10$
 故我們拒絕$H_0$
 我們沒有足夠強烈的證據證明，兩組樣本之母體服從不同分配。
-Wald-Wo
+
+我們透過R的書出來進一步檢驗結果。R的輸出如下：
+
+Wald-Wolfowitz Runs Test
 data：x and y
 $$
 \begin{array}{ccccc}
@@ -103,3 +106,4 @@ $$
 \end{array}
 $$
 alternative hypothesis: true number of runs is not equal the expected number
+
