@@ -21,7 +21,7 @@ V . chrysopetra）of southeastern Michigan.Within the hearing range of territori
 $$
 \begin{array}{llll}
 \hline
-\text{Species}\\
+\text{Species}&\text{Discriminaotrs}&\text{Nondiscriminators}&\t\\
 \\\text{Experimental} \\\text{subjects（Y）}60&59&72&73&56&53&43&50&65&56&56&56&57&36
 \end{array}
 
