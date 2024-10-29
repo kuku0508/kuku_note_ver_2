@@ -183,8 +183,44 @@ RunsTest(x,y,exAact=F)
 ```
 3.15
 ``` SAS
+data birds;
+    input Species $ Response $ Count;
+    datalines;
+G NonDiscriminator 9
+G Discriminator 3
+B NonDiscriminator 6
+B Discriminator 4
+;
+run;
 
+
+proc freq data=birds;
+    weight Count;
+    tables Species*Response / fisher;
+run;
 ```
 4.3
-```
+```SAS
+data;
+input pair before after @@;
+diff=before-after;
+cards;
+1 84.4 62.9
+2 86.0 75.4
+3 87.9 78.2
+4 93.9 83.6
+5 95.2 57.6
+6 96.6 58.0
+7 97.5 69.6
+8 101.4 76.5
+9 103.8 73.9
+10 115.2 88.0
+11 116.4 73.8
+12 134.5 94.1
+;
+proc ttest;
+paired before*after;
+proc univariate;
+var diff;
+run;
 ```
