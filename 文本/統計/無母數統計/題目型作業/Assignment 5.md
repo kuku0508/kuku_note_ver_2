@@ -15,6 +15,6 @@ $$
 
 ## Exercise 3.15
 Gill and Murray（E19）conducted an experiment designed to test discrimination of song ability among blue-winged and golden-winged warblers（Vermivora pinus and
-V . chrysopetra）of southeastern Michigan.Within the hearing range of territorial malesm te experimenters played tape recordings of songs of the listening bird and songs of the other species. Discminatory behavior of the birds was ba
+V . chrysopetra）of southeastern Michigan.Within the hearing range of territorial malesm te experimenters played tape recordings of songs of the listening bird and songs of the other species. Discminatory behavior of the birds was based on whether they reponded to the recordings. Table 3.33 shows 22 birds classified
 ## Exercise 4.3
 # 回答：
