@@ -15,6 +15,6 @@ $$
 
 ## Exercise 3.15
 Gill and Murray（E19）conducted an experiment designed to test discrimination of song ability among blue-winged and golden-winged warblers（Vermivora pinus and
-V . chrysopetra）
+V . chrysopetra）of southeastern Michigan.Within the hearing
 ## Exercise 4.3
 # 回答：
