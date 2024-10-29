@@ -87,3 +87,4 @@ x&y&y&x&x&y&x&x&x&x&x
 \end{array}
 $$
 $r=8$
+
