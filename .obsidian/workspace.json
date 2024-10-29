@@ -25,11 +25,13 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/題目pdf/Assignment 5.pdf"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "Assignment 5"
             }
           }
@@ -237,8 +239,9 @@
   },
   "active": "927b44409629329d",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 5.pdf",
+    "文本/統計/無母數統計/題目型作業/Assignment 5.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
-    "文本/統計/無母數統計/題目型作業/題目pdf/Assignment 5.pdf",
     "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/SAS/講義/SAS Charpter 5.md",
     "文本/統計/SAS/講義/SAS Charpter 4.md",
@@ -280,8 +283,6 @@
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "未處理/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
-    "未處理/Linear Regression assignment 2 data.pdf",
-    "未處理/常態分配.md",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md"
+    "未處理/常態分配.md"
   ]
 }
