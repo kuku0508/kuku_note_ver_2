@@ -69,3 +69,9 @@ $H_1$：對照組之母體與實驗組之母體為不同分配。
 令合併兩組樣本之Runs的個數為$r$
 
 最多的Runs的情況為：
+$$
+\begin{array}{ccccc}
+\hline
+43&
+\end{array}
+$$
