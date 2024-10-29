@@ -76,3 +76,13 @@ $$
 x&y&x&y&x&y&x&x&x&x&x
 \end{array}
 $$
+$r=10$
+
+最少的Runs的情況為：
+$$
+\begin{array}{ccccc}
+\hline
+36&43&50&53&55&56&56&56&56&57&\\y&y&y&y&x&y&y&y&y&y\\58&59&60&60&62&65&67&67&68&72&73\\
+x&y&x&y&x&y&x&x&x&x&x
+\end{array}
+$$
