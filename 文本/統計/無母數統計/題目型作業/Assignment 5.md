@@ -94,3 +94,11 @@ $r=9$
 而我們的$r=10$
 故我們拒絕$H_0$
 我們沒有足夠強烈的證據證明，兩組樣本之母體服從不同分配。
+
+$$
+\begin{array}{ccccc}
+\hline
+\text{runs}=11&\text{m}=7&\text{n}=14&\text{p-value}=0.8155\\
+\text{alternative hypothesis: true number of runs is not equal the expected number
+\end{array}
+$$
