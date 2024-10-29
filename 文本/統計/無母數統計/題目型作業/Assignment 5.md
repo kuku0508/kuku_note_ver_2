@@ -51,8 +51,7 @@ Von Burg 和 Rustam (E15) 報告了表 3.23 中顯示的正中神經傳導速度
 $$
 \begin{array}{lcccccccccccc}
 \hline
-\text{Controls（X）}&68&67&58&62&55&60&67\\
-\\\text{Experimental} \\\text{subjects（Y）}&60&59&72&73&56&53&43&50&65&56&56&56&57&36
+\text{對照組（X）}&68&67&58&62&55&60&67\\
+\\\text{實驗組（Y）}&60&59&72&73&56&53&43&50&65&56&56&56&57&36
 \end{array}
-
 $$
