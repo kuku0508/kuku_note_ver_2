@@ -5,8 +5,8 @@ Von Burg and Rustam (E15) reported values of the median nerve motor conduction v
 $$
 \begin{array}{lccccccc}
 \hline
-\text{Unsprayed}&6.01& 2.48&1.76&5.10&0.75&7.13&4.88\\
-\\\text{Sprayed(at least} \\\text{14 months prior to sampling)}&5.68&5.68&16.30&21.46&11.63&44.20&33.30
+\text{Controls（X）}&6.01& 2.48&1.76&5.10&0.75&7.13&4.88\\
+\\\text{Experimental} \\\text{14 months prior to sampling)}&5.68&5.68&16.30&21.46&11.63&44.20&33.30
 \end{array}
 
 $$
