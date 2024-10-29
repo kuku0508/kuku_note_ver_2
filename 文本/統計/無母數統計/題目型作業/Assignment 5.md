@@ -17,7 +17,16 @@ $$
 Gill and Murray（E19）conducted an experiment designed to test discrimination of song ability among blue-winged and golden-winged warblers（Vermivora pinus and
 V . chrysopetra）of southeastern Michigan.Within the hearing range of territorial malesm te experimenters played tape recordings of songs of the listening bird and songs of the other species. Discminatory behavior of the birds was based on whether they reponded to the recordings. Table 3.33 shows 22 birds classified according to species and discriminatory behavior. Can we conclude on the basis of these data that the proportion on nondiscriminators is higher among golden-wings than amoong blue-wings ? Let $\alpha = 0.05$. Determine the P value. 
 
-Discriminatory behav
+**Discriminatory behavior of territorial male Vermivora**
+$$
+\begin{array}{lcccccccccccc}
+\hline
+\text{Controls（X）}68&67&58&62&55&60&67\\
+\\\text{Experimental} \\\text{subjects（Y）}60&59&72&73&56&53&43&50&65&56&56&56&57&36
+\end{array}
+
+$$
+
 ## Exercise 4.3
 
 # 回答：
