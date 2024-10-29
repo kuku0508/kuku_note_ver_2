@@ -25,12 +25,14 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/SAS/講義/SAS Charpter 5.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "SAS Charpter 5"
+              "icon": "lucide-file",
+              "title": "Assignment 4"
             }
           }
         ],
@@ -235,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "927b44409629329d",
   "lastOpenFiles": [
+    "文本/統計/SAS/講義/SAS Charpter 5.md",
     "文本/統計/SAS/講義/SAS Charpter 4.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
     "未處理/Pasted image 20241028224714.png",
