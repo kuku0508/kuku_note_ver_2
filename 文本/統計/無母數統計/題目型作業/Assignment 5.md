@@ -172,4 +172,19 @@ $H_1：M_D\leq0$
 
 
 
-# 副ㄐㄧㄢ
+# 附件
+3.10
+```R
+install.packages("DescTools")
+library(DescTools)
+x<-c(68,67,58,62,55,60,67)
+y<-c(60,59,72,73,56,53,43,50,65,56,56,56,57,36)
+RunsTest(x,y,exAact=F)
+```
+3.15
+``` SAS
+
+```
+4.3
+```
+```
