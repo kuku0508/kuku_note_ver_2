@@ -5,8 +5,8 @@ Von Burg and Rustam (E15) reported values of the median nerve motor conduction v
 $$
 \begin{array}{lccccccc}
 \hline
-\text{Controls（X）}&6.01& 2.48&1.76&5.10&0.75&7.13&4.88\\
-\\\text{Experimental} \\\text{14 months prior to sampling)}&5.68&5.68&16.30&21.46&11.63&44.20&33.30
+\text{Controls（X）}68&67&58&62&55&60&67\\
+\\\text{Experimental} \\\text{subjects（Y）}60^59^72^73^56^53^43^50^65^56^56^56^57^36
 \end{array}
 
 $$
