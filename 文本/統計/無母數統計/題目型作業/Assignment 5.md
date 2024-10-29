@@ -25,11 +25,10 @@ $$
 \hline
 \text{Michigan blue-wings}&4&6&10 \\
 \text{Michigan golden-wings}&3&9&12\\
-\text
+\text{Total}&7&15&22
 \end{array}
-
 $$
-
 ## Exercise 4.3
+
 
 # 回答：
