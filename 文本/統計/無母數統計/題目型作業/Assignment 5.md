@@ -23,7 +23,9 @@ $$
 \hline
 \text{Species}&\text{Discriminaotrs}&\text{Nondiscriminators}&\text{Total}\\
 \hline
-\text{Michigan blue-wings} \\\text{subjects（Y）}60&59&72&73&56&53&43&50&65&56&56&56&57&36
+\text{Michigan blue-wings}&4&6&10 \\
+\text{Michigan golden-wings}&3&9&12\\
+\text
 \end{array}
 
 $$
