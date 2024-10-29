@@ -25,14 +25,12 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 4.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/無母數統計/題目型作業/題目pdf/Assignment 5.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Assignment 4"
+              "icon": "lucide-file-text",
+              "title": "Assignment 5"
             }
           }
         ],
@@ -239,6 +237,9 @@
   },
   "active": "927b44409629329d",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
+    "文本/統計/無母數統計/題目型作業/題目pdf/Assignment 5.pdf",
+    "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/SAS/講義/SAS Charpter 5.md",
     "文本/統計/SAS/講義/SAS Charpter 4.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
@@ -260,7 +261,6 @@
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 a.png",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/統計/無母數統計/講義/unit 2.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 4.pdf",
     "文本/未分類/文本/情緒管理 師介.md",
     "文本/未分類/文本/Langton's ant.md",
@@ -281,9 +281,7 @@
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "未處理/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
     "未處理/Linear Regression assignment 2 data.pdf",
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Linear Regression assignment 2 data.xlsx",
     "未處理/常態分配.md",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md"
+    "知識/統計/無母數統計/比例檢定/二項檢定.md"
   ]
 }
