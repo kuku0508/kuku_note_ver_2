@@ -116,9 +116,9 @@ Gill 和 Murray（E19）進行了一項實驗，旨在測試密西根州東南�
 $$
 \begin{array}{llll}
 \hline
-\text{物種}&\text{}&\text{Nondiscriminators}&\text{Total}\\
+\text{物種}&\text{辨別鳥}&\text{無辨別鳥}&\text{總計}\\
 \hline
-\text{Michigan blue-wings}&4&6&10 \\
+\text{密西根藍翼林鶯}&4&6&10 \\
 \text{Michigan golden-wings}&3&9&12\\
 \text{Total}&7&15&22
 \end{array}
