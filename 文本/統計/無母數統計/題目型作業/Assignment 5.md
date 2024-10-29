@@ -29,6 +29,9 @@ $$
 \end{array}
 $$
 ## Exercise 4.3
-Smite and Di Girolamo（E4）exanined the morphological changes in epididymal fat cells of mature,moderately obese rat during reduction of body weight and adipose tissue mass. Table4.5 shows part of their results. Do these data provide sufficient evidence at the 0.05 level of significance to indicate that reduction of body weight reduces the dia
+Smite and Di Girolamo（E4）exanined the morphological changes in epididymal fat cells of mature,moderately obese rat during reduction of body weight and adipose tissue mass. Table4.5 shows part of their results. Do these data provide sufficient evidence at the 0.05 level of significance to indicate that reduction of body weight reduces the diameter of fat cells?
+
+**Mean\* fat cell diameters, in **
+
 
 # 回答：
