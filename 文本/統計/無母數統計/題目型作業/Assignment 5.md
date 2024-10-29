@@ -7,8 +7,8 @@ Von Burg and Rustam (E15) reported values of the median nerve motor conduction v
 $$
 \begin{array}{lcccccccccccc}
 \hline
-\text{Controls（X）}68&67&58&62&55&60&67\\
-\\\text{Experimental} \\\text{subjects（Y）}60&59&72&73&56&53&43&50&65&56&56&56&57&36
+\text{Controls（X）}&68&67&58&62&55&60&67\\
+\\\text{Experimental} \\\text{subjects（Y）}&60&59&72&73&56&53&43&50&65&56&56&56&57&36
 \end{array}
 
 $$
@@ -19,9 +19,9 @@ V . chrysopetra）of southeastern Michigan.Within the hearing range of territori
 
 **Discriminatory behavior of territorial male Vermivora**
 $$
-\begin{array}{lcccccccccccc}
+\begin{array}{llll}
 \hline
-\text{Controls（X）}68&67&58&62&55&60&67\\
+\text{Species}\\
 \\\text{Experimental} \\\text{subjects（Y）}60&59&72&73&56&53&43&50&65&56&56&56&57&36
 \end{array}
 
