@@ -72,6 +72,6 @@ $H_1$：對照組之母體與實驗組之母體為不同分配。
 $$
 \begin{array}{ccccc}
 \hline
-43&
+36&43&
 \end{array}
 $$
