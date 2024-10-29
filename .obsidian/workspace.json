@@ -25,12 +25,14 @@
             "id": "927b44409629329d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 3.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 3"
+              "icon": "lucide-file",
+              "title": "Assignment 5"
             }
           }
         ],
@@ -235,12 +237,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
+  "floating": {
+    "id": "78a72e34b37b35c6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "befe277f39e27c92",
+        "type": "window",
+        "children": [
+          {
+            "id": "3197cb05c75772f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1a4ff459cab49e8e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/無母數統計/講義/unit 3.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "unit 3"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 696,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "927b44409629329d",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/講義/unit 4.md",
     "文本/統計/無母數統計/講義/unit 3.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 5.md",
+    "文本/統計/無母數統計/講義/unit 4.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 5.pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
