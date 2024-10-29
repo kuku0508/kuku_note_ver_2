@@ -36,7 +36,8 @@ $$
 \begin{array}{lcccccc}
 \hline
 \text{Rat}&1&2&3&4&5&6\\
-\text{Before（X）}&&&&&&\\
+\text{Before（X）}&84.4&86.0&84.9&93.9&95.2&96.6\\
+\text{After（Y）}&62.9&75.4&78.2&83.&&\\
 \end{array}
 $$
 
