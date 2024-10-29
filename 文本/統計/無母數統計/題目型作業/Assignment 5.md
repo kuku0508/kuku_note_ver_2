@@ -110,16 +110,18 @@ alternative hypothesis: true number of runs is not equal the expected number
 其P-value=0.8155大於顯著水準，故我們不拒絕虛無假設$H_0$。與我們手算得出的結論一致。
 
 
-### Exercise 3.15
+## Exercise 3.15
 Gill 和 Murray（E19）進行了一項實驗，旨在測試密西根州東南部藍翼和金翼林鶯（Vermivora pinus 和 V.chrysopetra）的歌曲辨別能力。在領地，雄性鳥的聽覺範圍內，實驗者播放了該鳥種和其他物種的歌曲錄音。鳥類的辨別行為基於牠們是否對錄音做出反應。表 3.33 顯示了 22 隻鳥，根據物種和辨別行為進行分類。基於這些數據，我們能否得出結論，金翼林鶯中的不辨別者比例高於藍翼林鶯？設$\alpha = 0.05$。請計算P值。 
 
 $$
 \begin{array}{llll}
 \hline
-\text{Species}&\text{Discriminaotrs}&\text{Nondiscriminators}&\text{Total}\\
+\text{物種}&\text{}&\text{Nondiscriminators}&\text{Total}\\
 \hline
 \text{Michigan blue-wings}&4&6&10 \\
 \text{Michigan golden-wings}&3&9&12\\
 \text{Total}&7&15&22
 \end{array}
 $$
+### 基本假設
+- 
