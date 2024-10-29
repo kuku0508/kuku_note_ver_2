@@ -29,6 +29,6 @@ $$
 \end{array}
 $$
 ## Exercise 4.3
-Smite and Di Girolamo（E4）exanined the morphological changes in epididymal fat cells of mature,moderately obese rat during reduction of body weigh and 
+Smite and Di Girolamo（E4）exanined the morphological changes in epididymal fat cells of mature,moderately obese rat during reduction of body weight and adipose tissue mass. Table4.5 shows part of their results. Do
 
 # 回答：
