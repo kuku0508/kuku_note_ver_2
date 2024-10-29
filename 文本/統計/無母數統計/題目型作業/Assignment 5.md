@@ -107,3 +107,4 @@ $$
 $$
 alternative hypothesis: true number of runs is not equal the expected number
 
+其P-value=0.8155大於顯著水準，故我們不拒絕虛無假設
