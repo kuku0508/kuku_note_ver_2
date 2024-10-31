@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignment 2"
-            }
-          },
-          {
-            "id": "927b44409629329d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "未處理/Pasted image 20241028221935.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241028221935"
+              "title": "Assignment 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,29 +259,30 @@
       }
     ]
   },
-  "active": "927b44409629329d",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+    "未處理/Pasted image 20241029232548.png",
+    "未處理/Pasted image 20241029235254.png",
+    "未處理/Pasted image 20241028224714.png",
+    "未處理/Pasted image 20241028224649.png",
+    "未處理/Pasted image 20241028222310.png",
+    "未處理/Pasted image 20241028221935.png",
     "未處理/Pasted image 20241028221709.png",
     "文本/統計/無母數統計/題目型作業/Assignment 5.md",
-    "未處理/Pasted image 20241029235254.png",
+    "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/無母數統計/講義/unit 4.md",
-    "未處理/Pasted image 20241029232548.png",
-    "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/無母數統計/講義/unit 3.md",
     "文本/統計/無母數統計/講義/unit 2.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 4.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 5.pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
     "文本/統計/SAS/講義/SAS Charpter 5.md",
     "文本/統計/SAS/講義/SAS Charpter 4.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
-    "未處理/Pasted image 20241028224714.png",
-    "未處理/Pasted image 20241028224649.png",
     "文本/統計/迴歸分析/題目型作業/Assignment 3 kuku's part.md",
-    "未處理/Pasted image 20241028222310.png",
     "未處理/Pasted image 20241028222240.png",
-    "未處理/Pasted image 20241028221935.png",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "文本/統計/迴歸分析/講義/unit 2.md",
@@ -317,7 +305,6 @@
     "知識/統計/無母數統計/基礎知識/無母數統計.md",
     "知識/線性代數/線性代數目錄.md",
     "知識/線性代數",
-    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
     "未處理/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf"
   ]
 }
