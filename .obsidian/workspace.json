@@ -256,12 +256,44 @@
         "height": 1392,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "5eeeec372e66b717",
+        "type": "window",
+        "children": [
+          {
+            "id": "1f5775cf42c0c5da",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8bdc88efc2efe023",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/無母數統計/講義/unit 2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "unit 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 696,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "66b942f21daa9e49",
+  "active": "8bdc88efc2efe023",
   "lastOpenFiles": [
     "知識/線性代數/基礎知識/線性代數.md",
+    "文本/統計/無母數統計/講義/unit 4.md",
     "文本/統計/無母數統計/題目型作業/Assignment 3.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
@@ -274,7 +306,6 @@
     "未處理/Pasted image 20241028221709.png",
     "文本/統計/無母數統計/題目型作業/Assignment 5.md",
     "文本/統計/無母數統計/題目型作業/Assignment 4.md",
-    "文本/統計/無母數統計/講義/unit 4.md",
     "文本/統計/無母數統計/講義/unit 3.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 5.pdf",
