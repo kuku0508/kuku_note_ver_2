@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/線性代數/考卷/期中考練習題.md",
+                "file": "文本/線性代數/考卷/期中考練習題答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "期中考練習題 的反向連結"
+              "title": "期中考練習題答案 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/線性代數/考卷/期中考練習題.md",
+                "file": "文本/線性代數/考卷/期中考練習題答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "期中考練習題 的對外連結"
+              "title": "期中考練習題答案 的對外連結"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/線性代數/考卷/期中考練習題.md"
+                "file": "文本/線性代數/考卷/期中考練習題答案.md"
               },
               "icon": "lucide-list",
-              "title": "期中考練習題 的大綱"
+              "title": "期中考練習題答案 的大綱"
             }
           },
           {
@@ -293,8 +293,9 @@
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "c72151fedb61878d",
   "lastOpenFiles": [
+    "文本/線性代數/考卷/期中考練習題.md",
     "文本/線性代數/雜亂筆記.md",
     "文本/線性代數/考卷/期中考練習題答案.md",
     "文本/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
@@ -311,7 +312,6 @@
     "文本/統計/無母數統計/講義/unit 4.md",
     "文本/線性代數/考卷/期中考練習題ANS.pdf",
     "文本/線性代數/考卷/線性代數期中考練習題.pdf",
-    "文本/線性代數/考卷/期中考練習題.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/程式語言/Latex/基礎知識/語法表/向量.md",
