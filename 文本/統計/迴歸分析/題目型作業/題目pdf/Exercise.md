@@ -175,7 +175,14 @@ $$
 H&=X(X'X)^{-1}X'\\
 &=
 \begin{bmatrix}
-
+1\\2\\3\\4\\5
 \end{bmatrix}
+
+\left(\begin{bmatrix}
+1&2&3&4&5
+\end{bmatrix}
+
+
+\right)^{-1}
 \end{align}
 $$
