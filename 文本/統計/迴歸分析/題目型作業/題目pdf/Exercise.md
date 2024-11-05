@@ -216,6 +216,10 @@ H&=X(X'X)^{-1}X'\\
 \frac{8}{10}&-\frac{2}{10}\\\frac{5}{10}&-\frac{1}{10}\\\frac{2}{10}&\frac{0}{10}\\-\frac{1}{10}&\frac{1}{10}\\-\frac{4}{10}&\frac{2}{10}
 \end{bmatrix}
 
+\begin{bmatrix}
+1&1&1&1&1\\
+1&2&3&4&5
+\end{bmatrix}
 
 \end{align}
 $$
