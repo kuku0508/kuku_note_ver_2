@@ -42,5 +42,5 @@ $$
 ## b
 
 $$
-\hat{\beta}=(X'X)
+\hat{\beta}=(X'X)^{-1}X'y
 $$
