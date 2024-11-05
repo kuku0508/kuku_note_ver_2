@@ -241,3 +241,7 @@ H&=X(X'X)^{-1}X'\\
 
 \end{align}
 $$
+## d
+$$
+MS_{Res}=\frac{SS_{Res}}{n-p}
+$$
