@@ -178,11 +178,23 @@ H&=X(X'X)^{-1}X'\\
 1\\2\\3\\4\\5
 \end{bmatrix}
 
-\left(\begin{bmatrix}
+\left(
+\begin{bmatrix}
 1&2&3&4&5
 \end{bmatrix}
 
+\begin{bmatrix}
+1\\2\\3\\4\\5
+\end{bmatrix}
 
 \right)^{-1}
+\begin{bmatrix}
+1&2&3&4&5
+\end{bmatrix}
+\\
+&=
+\begin{bmatrix}
+1&2&3&4&5
+\end{bmatrix}
 \end{align}
 $$
