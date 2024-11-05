@@ -40,3 +40,6 @@ $$
 y=x\beta+\epsilon
 $$
 ## b
+$$
+\beta
+$$
