@@ -223,7 +223,7 @@ H&=X(X'X)^{-1}X'\\
 \\
 &=
 \begin{bmatrix}
-1
+\frac{6}{10}
 \end{bmatrix}
 
 \end{align}
