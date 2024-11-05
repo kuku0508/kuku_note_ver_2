@@ -237,7 +237,7 @@ H&=X(X'X)^{-1}X'\\
 \frac{1}{5}&\frac{1}{5}&\frac{1}{5}&\frac{1}{5}&\frac{1}{5}\\
 0&\frac{1}{10}&\frac{1}{5}&\frac{3}{10}&\frac{2}{5}\\
 -\frac{1}{5}&0&\frac{1}{5}&\frac{2}{5}&\frac{3}{5}\\
-
+\end{bmatrix}
 
 \end{align}
 $$
