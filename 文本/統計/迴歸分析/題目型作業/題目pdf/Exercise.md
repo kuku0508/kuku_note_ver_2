@@ -139,6 +139,19 @@ $$
 4
 \end{bmatrix}
 
+\\
+&=
+\begin{bmatrix}
+\frac{4}{10}
+\end{bmatrix}
+
+\begin{bmatrix}
+1\\
+1\\
+2\\
+2\\
+4
+\end{bmatrix}
 
 \end{align}
 $$
