@@ -48,7 +48,7 @@ $X'$是轉置矩陣
 $$
 \begin{align}
 \hat{\beta}=
-\begin{bmatrix}
+\left(\begin{bmatrix}
 1&1&1&1&1\\
 1&2&3&4&5
 \end{bmatrix}
@@ -59,6 +59,7 @@ $$
 1&3\\
 1&4\\
 1&5
-\end{bmatrix}
+\end{bmatrix}\right)^{-1}
+
 \end{align}
 $$
