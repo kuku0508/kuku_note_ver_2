@@ -163,8 +163,8 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac}|}\\
-18
+\frac{-1}{10}\\
+\frac{7}{10}
 \end{bmatrix}
 
 \end{align}
