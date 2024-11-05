@@ -247,5 +247,6 @@ MS_{Res}=\frac{SS_{Res}}{n-p}
 $$
 $$
 \begin{align}
-SS_Res=y-X\hat{\beta}
+SS_Res&=(y-X\hat{\beta})'(y-X\hat{\beta})\\
+&=y'y-\hat{\beta}x'y-y'
 \end{align}$$
