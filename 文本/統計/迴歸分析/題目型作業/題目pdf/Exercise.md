@@ -220,8 +220,12 @@ H&=X(X'X)^{-1}X'\\
 1&1&1&1&1\\
 1&2&3&4&5
 \end{bmatrix}
-
-
+\\
+&=
+\begin{bmatrix}
+1&1&1&1&1\\
+1&2&3&4&5
+\end{bmatrix}
 
 \end{align}
 $$
