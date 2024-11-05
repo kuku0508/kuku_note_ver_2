@@ -170,3 +170,8 @@ $$
 \end{align}
 $$
 ## c
+$$
+\begin{bmatrix}
+H=X(X'X)^{-1}X'
+\end{align}
+$$
