@@ -164,7 +164,7 @@ $$
 &=
 \begin{bmatrix}
 5\\
-\frac{14+25+36+47+58}{10}
+18
 \end{bmatrix}
 
 \end{align}
