@@ -142,7 +142,7 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac{8}{10}&\frac{7}{10}&1&\frac{13}{10}&\frac{8}{5}\\
+\frac{8}{10}&\frac{5}{10}&1&\frac{2}{10}&-\frac{1}{10}\\
 \frac{7}{5}&\frac{5}{2}&\frac{36}{10}&\frac{47}{10}&\frac{58}{10}
 \end{bmatrix}
 
