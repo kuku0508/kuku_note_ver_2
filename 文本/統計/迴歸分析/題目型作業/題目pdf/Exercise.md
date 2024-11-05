@@ -186,18 +186,19 @@ H&=X(X'X)^{-1}X'\\
 
 \begin{bmatrix}
 
-1\\2\\3\\4\\5
+1&1\\1&2\\1&3\\1&4\\1&5
 \end{bmatrix}
 
 \right)^{-1}
 \begin{bmatrix}
+1&1&1&1&1\\
 1&2&3&4&5
 \end{bmatrix}
 \\
 &=
 \begin{bmatrix}
-1\\2\\3\\4\\5
+1&1\\1&2\\1&3\\1&4\\1&5
 \end{bmatrix}
-55
+
 \end{align}
 $$
