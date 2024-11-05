@@ -248,6 +248,7 @@ $$
 $$
 \begin{align}
 SS_Res&=(y-X\hat{\beta})'(y-X\hat{\beta})\\
-&=y'y-\hat{\beta}X'y-y'X\hat{\beta}+\hat{\beta}X'X\hat{\beta}\\
-&=y'y-2
+&=y'y-\hat{\beta}'X'y-y'X\hat{\beta}+\hat{\beta}'X'X\hat{\beta}\\
+&=y'y-2\hat{\beta}'X'y+\hat{\beta}'X'X\hat{\beta}
+
 \end{align}$$
