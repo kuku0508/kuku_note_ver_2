@@ -75,11 +75,12 @@ $$
 \end{bmatrix}
 \\
 &=
-
+\left(
 \begin{bmatrix}
-1+1+1+1+1
+1+1+1+1+1&1+2+3+4+5\\
+1+2+3+4+5&1+4+9+16+25
 \end{bmatrix}
-
+\right)
 
 \begin{bmatrix}
 1&1&1&1&1\\
