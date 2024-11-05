@@ -157,7 +157,14 @@ $$
 &=
 \begin{bmatrix}
 \frac{4+7+10+13+16}{10}\\
-\frac{14+}{10}
+\frac{14+25+36+47+58}{10}
+\end{bmatrix}
+
+\\
+&=
+\begin{bmatrix}
+5\\
+\frac{14+25+36+47+58}{10}
 \end{bmatrix}
 
 \end{align}
