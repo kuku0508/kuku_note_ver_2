@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.md",
+                "file": "文本/統計/SAS/講義/SAS Charpter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Exercise 的反向連結"
+              "title": "SAS Charpter 4 的反向連結"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.md",
+                "file": "文本/統計/SAS/講義/SAS Charpter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Exercise 的對外連結"
+              "title": "SAS Charpter 4 的對外連結"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.md"
+                "file": "文本/統計/SAS/講義/SAS Charpter 4.md"
               },
               "icon": "lucide-list",
-              "title": "Exercise 的大綱"
+              "title": "SAS Charpter 4 的大綱"
             }
           },
           {
@@ -217,9 +217,9 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
       "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false
+      "widgets:Add widget": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -253,7 +253,7 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 1032,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       },
@@ -286,16 +286,16 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 1032,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "c72151fedb61878d",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.md",
+    "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/線性代數/考卷/期中考練習題.md",
     "文本/線性代數/考卷/期中考練習題答案.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
