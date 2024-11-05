@@ -143,9 +143,29 @@ $$
 &=
 \begin{bmatrix}
 \frac{8}{10}&\frac{5}{10}&\frac{2}{10}&-\frac{1}{10}&-\frac{4}{10}\\
--\frac{2}{10}&-\frac{1}{10}&\frac{36}{10}&\frac{47}{10}&\frac{58}{10}
+-\frac{2}{10}&-\frac{1}{10}&\frac{0}{10}&\frac{1}{10}&\frac{2}{10}
 \end{bmatrix}
 
+\begin{bmatrix}
+1\\
+1\\
+2\\
+2\\
+4
+\end{bmatrix}
+\\
+&=
+\begin{bmatrix}
+\frac{4+7+10+13+16}{10}\\
+\frac{14+25+36+47+58}{10}
+\end{bmatrix}
+
+\\
+&=
+\begin{bmatrix}
+5\\
+18
+\end{bmatrix}
 
 \end{align}
 $$
