@@ -142,7 +142,7 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac{4}{10}
+\frac{4}{10}&\frac{7}{10}&1&\frac{13}{}&
 \end{bmatrix}
 
 \begin{bmatrix}
