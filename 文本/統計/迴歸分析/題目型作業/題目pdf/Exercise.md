@@ -119,6 +119,25 @@ $$
 4
 \end{bmatrix}
 
+\begin{bmatrix}
+\frac{5}{50}&\frac{15\\
+15&55
+\end{bmatrix}
+
+
+\begin{bmatrix}
+1&1&1&1&1\\
+1&2&3&4&5
+\end{bmatrix}
+
+\begin{bmatrix}
+1\\
+1\\
+2\\
+2\\
+4
+\end{bmatrix}
+
 
 \end{align}
 $$
