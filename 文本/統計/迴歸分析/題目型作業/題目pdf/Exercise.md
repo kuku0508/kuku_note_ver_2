@@ -46,5 +46,9 @@ $$
 $X'$是轉置矩陣
 那個-1，反矩陣
 $$
-
+\begin{align}
+\hat{\beta}=
+\begin{bmatrix}
+\end{bmatrix}
+\end{align}
 $$
