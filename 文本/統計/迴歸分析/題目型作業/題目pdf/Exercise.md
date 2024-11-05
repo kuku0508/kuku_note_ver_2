@@ -156,7 +156,8 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac{}{}
+\frac{4+7+10+13+16}{10}\\
+\frac{14+}{10}
 \end{bmatrix}
 
 \end{align}
