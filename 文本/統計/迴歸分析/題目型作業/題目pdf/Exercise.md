@@ -21,6 +21,14 @@ x=
 \quad
 \beta=
 \begin{bmatrix}
+\beta_0\\
+\beta_1
+\end{bmatrix}
+\quad
 
+\epsilon=
+\begin{bmatrix}
+\epsilon_1\\
+\epsilon_2\\
 \end{bmatrix}
 $$
