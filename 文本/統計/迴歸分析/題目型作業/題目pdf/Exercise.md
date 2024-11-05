@@ -224,7 +224,10 @@ H&=X(X'X)^{-1}X'\\
 &=
 \begin{bmatrix}
 \frac{6}{10}&\frac{4}{10}&\frac{2}{10}&\frac{0}{10}&-\frac{2}{10}\\
-\frac{6}{10}&\frac{4}{10}&\frac{2}{10}&\frac{0}{10}&-\frac{2}{10}\\
+\frac{4}{10}&\frac{3}{10}&\frac{2}{10}&\frac{1}{10}&\frac{0}{10}\\
+\frac{2}{10}&\frac{2}{10}&\frac{2}{10}&\frac{2}{10}&\frac{2}{10}\\
+\frac{0}{10}&-\frac{3}{10}&\frac{2}{10}&\frac{1}{10}&\frac{0}{10}\\
+\frac{4}{10}&\frac{3}{10}&\frac{2}{10}&\frac{1}{10}&\frac{0}{10}\\
 \end{bmatrix}
 
 \end{align}
