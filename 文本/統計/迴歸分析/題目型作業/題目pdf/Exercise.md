@@ -10,7 +10,7 @@ y=
 4
 \end{bmatrix}
 \quad
-x=
+X=
 \begin{bmatrix}
 1&1\\
 1&2\\
@@ -37,10 +37,10 @@ x=
 
 $$
 可以把簡單線性迴歸的公式以下列形式表達 $$
-y=x\beta+\epsilon
+y=X\beta+\epsilon
 $$
 ## b
 
 $$
-y-
+\beta_
 $$
