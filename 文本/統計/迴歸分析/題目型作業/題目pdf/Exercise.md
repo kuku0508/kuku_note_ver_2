@@ -40,7 +40,7 @@ $$
 y=x\beta+\epsilon
 $$
 ## b
-要把$\epsilon$最小化
+
 $$
 y-
 $$
