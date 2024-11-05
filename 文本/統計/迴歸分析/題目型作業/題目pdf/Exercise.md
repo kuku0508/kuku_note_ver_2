@@ -30,5 +30,12 @@ x=
 \begin{bmatrix}
 \epsilon_1\\
 \epsilon_2\\
+\epsilon_3\\
+\epsilon_4\\
+\epsilon_5
 \end{bmatrix}
+
+$$
+$$
+y=x\be
 $$
