@@ -36,7 +36,7 @@ x=
 \end{bmatrix}
 
 $$
-## $$
+可以把舉ㄓㄣ $$
 y=x\beta+\epsilon
 $$
-
+## b
