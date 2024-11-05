@@ -200,5 +200,15 @@ H&=X(X'X)^{-1}X'\\
 1&1\\1&2\\1&3\\1&4\\1&5
 \end{bmatrix}
 
+\begin{bmatrix}
+\frac{11}{10}&-\frac{3}{10}\\
+-\frac{3}{10}&\frac{1}{10}
+\end{bmatrix}
+
+\begin{bmatrix}
+1&1&1&1&1\\
+1&2&3&4&5
+\end{bmatrix}
+
 \end{align}
 $$
