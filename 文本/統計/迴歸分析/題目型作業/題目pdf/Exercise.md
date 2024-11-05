@@ -156,14 +156,14 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac{4+7+10+13+16}{10}\\
-\frac{14+25+36+47+58}{10}
+\frac{8+5+4-2-16}{10}\\
+\frac{-2-1-0+2+8}{10}
 \end{bmatrix}
 
 \\
 &=
 \begin{bmatrix}
-5\\
+\frac}|}\\
 18
 \end{bmatrix}
 
