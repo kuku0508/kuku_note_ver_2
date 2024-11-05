@@ -171,7 +171,11 @@ $$
 $$
 ## c
 $$
+\begin{align}
+H&=X(X'X)^{-1}X'\\
+&=
 \begin{bmatrix}
-H=X(X'X)^{-1}X'
+
+\end{bmatrix}
 \end{align}
 $$
