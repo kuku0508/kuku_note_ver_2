@@ -142,8 +142,8 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac{8}{10}&\frac{5}{10}&1&\frac{2}{10}&-\frac{1}{10}\\
-\frac{7}{5}&\frac{5}{2}&\frac{36}{10}&\frac{47}{10}&\frac{58}{10}
+\frac{8}{10}&\frac{5}{10}&\frac{2}{10}&-\frac{1}{10}&-\frac{4}{10}\\
+-\frac{2}{10}&-\frac{1}{10}&\frac{36}{10}&\frac{47}{10}&\frac{58}{10}
 \end{bmatrix}
 
 
