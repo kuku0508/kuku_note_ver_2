@@ -75,12 +75,13 @@ $$
 \end{bmatrix}
 \\
 &=
+
 \left(
 \begin{bmatrix}
 1+1+1+1+1&1+2+3+4+5\\
 1+2+3+4+5&1+4+9+16+25
 \end{bmatrix}
-\right)
+\right)^{-1}
 
 \begin{bmatrix}
 1&1&1&1&1\\
@@ -94,6 +95,30 @@ $$
 2\\
 4
 \end{bmatrix}
+
+\\
+&=
+
+\left(
+\begin{bmatrix}
+5&15\\
+15&55
+\end{bmatrix}
+\right)^{-1}
+
+\begin{bmatrix}
+1&1&1&1&1\\
+1&2&3&4&5
+\end{bmatrix}
+
+\begin{bmatrix}
+1\\
+1\\
+2\\
+2\\
+4
+\end{bmatrix}
+
 
 \end{align}
 $$
