@@ -246,5 +246,6 @@ $$
 MS_{Res}=\frac{SS_{Res}}{n-p}
 $$
 $$
-SS_
-$$
+\begin{align}
+SS_Res=y-X\hat{\beta}
+\end{align}$$
