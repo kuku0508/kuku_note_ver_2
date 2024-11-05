@@ -47,7 +47,7 @@ $X'$是轉置矩陣
 那個-1，反矩陣
 $$
 \begin{align}
-\hat{\beta}=
+\hat{\beta}&=
 \left(\begin{bmatrix}
 1&1&1&1&1\\
 1&2&3&4&5
@@ -61,6 +61,20 @@ $$
 1&5
 \end{bmatrix}\right)^{-1}
 
+\begin{bmatrix}
+1&1&1&1&1\\
+1&2&3&4&5
+\end{bmatrix}
+
+\begin{bmatrix}
+1\\
+1\\
+2\\
+2\\
+4
+\end{bmatrix}
+\\
+&=
 \begin{bmatrix}
 1&1&1&1&1\\
 1&2&3&4&5
