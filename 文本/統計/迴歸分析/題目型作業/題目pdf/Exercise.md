@@ -101,8 +101,8 @@ $$
 
 \left(
 \begin{bmatrix}
-5&15\\
-15&55
+55&-15\\
+-15&5
 \end{bmatrix}
 \right)^{-1}
 
@@ -121,8 +121,8 @@ $$
 \\
 &=
 \begin{bmatrix}
-\frac{1}{10}&\frac{3}{10}\\
-\frac{3}{10}&\frac{11}{10}
+\frac{11}{10}&-\frac{3}{10}\\
+-\frac{3}{10}&\frac{1}{10}
 \end{bmatrix}
 
 
