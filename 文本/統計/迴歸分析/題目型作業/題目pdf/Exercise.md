@@ -36,6 +36,7 @@ x=
 \end{bmatrix}
 
 $$
+## $$
+y=x\beta+\epsilon
 $$
-y=x\be
-$$
+
