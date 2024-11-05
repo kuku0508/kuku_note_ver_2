@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Exercise"
             }
-          },
-          {
-            "id": "b49865d628565bbd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,7 +292,7 @@
       }
     ]
   },
-  "active": "b49865d628565bbd",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.md",
