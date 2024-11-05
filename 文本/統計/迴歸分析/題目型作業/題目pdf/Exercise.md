@@ -18,4 +18,9 @@ x=
 1&4\\
 1&5\\
 \end{bmatrix}
+\quad
+\beta=
+\begin{bmatrix}
+
+\end{bmatrix}
 $$
