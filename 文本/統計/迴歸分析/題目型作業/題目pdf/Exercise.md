@@ -118,10 +118,11 @@ $$
 2\\
 4
 \end{bmatrix}
-
+\\
+&=
 \begin{bmatrix}
-\frac{5}{50}&\frac{15\\
-15&55
+\frac{1}{10}&\frac{3}{10}\\
+\frac{3}{10}&\frac{11}{10}
 \end{bmatrix}
 
 
