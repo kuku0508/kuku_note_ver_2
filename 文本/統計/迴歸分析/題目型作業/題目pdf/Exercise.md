@@ -153,6 +153,11 @@ $$
 2\\
 4
 \end{bmatrix}
+\\
+&=
+\begin{bmatrix}
+\frac{}{}
+\end{bmatrix}
 
 \end{align}
 $$
