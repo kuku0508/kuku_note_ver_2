@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "線性代數"
             }
+          },
+          {
+            "id": "6ea72d9adfc1e420",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,7 +305,7 @@
       }
     ]
   },
-  "active": "107e017c33897a13",
+  "active": "6ea72d9adfc1e420",
   "lastOpenFiles": [
     "知識/線性代數/線性代數目錄.md",
     "知識/線性代數/基礎知識/線性代數.md",
