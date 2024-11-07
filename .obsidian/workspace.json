@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/統計/SAS/講義/SAS Charpter 10.md"
+                "file": "文本/統計/SAS/講義/SAS Charpter 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter 10"
+              "title": "SAS Charpter 2"
             }
           }
         ]
@@ -292,6 +292,9 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "文本/統計/SAS/講義/SAS Charpter 1.md",
+    "文本/統計/SAS/講義/SAS Charpter 7.md",
+    "文本/統計/SAS/講義/SAS Charpter 10.md",
     "文本/統計/SAS/講義/SAS Charpter GPLOT.md",
     "文本/統計/SAS/講義/SAS Charpter CORR.md",
     "文本/統計/SAS/講義/SAS Charpter FORMAT.md",
@@ -319,9 +322,6 @@
     "文本/線性代數/考卷/期中考練習題.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
-    "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
-    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
-    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "文本/線性代數/考卷/線性代數期中考練習題.pdf",
     "文本/線性代數/考卷/期中考練習題ANS.pdf",
     "文本/線性代數/考卷",
