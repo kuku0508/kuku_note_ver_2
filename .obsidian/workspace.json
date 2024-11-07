@@ -11,12 +11,14 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/SAS/講義/SAS Charpter 2.md"
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "SAS Charpter 2"
+              "icon": "lucide-file",
+              "title": "One-sample runs test"
             }
           }
         ]
@@ -290,9 +292,13 @@
       }
     ]
   },
-  "active": "c61cfc535988b63c",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/SAS/講義/SAS Charpter 2.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
+    "文本/行銷管理/雜亂筆記.md",
     "文本/統計/SAS/講義/SAS Charpter 1.md",
     "文本/統計/SAS/講義/SAS Charpter 7.md",
     "文本/統計/SAS/講義/SAS Charpter 10.md",
@@ -300,7 +306,6 @@
     "文本/統計/SAS/講義/SAS Charpter CORR.md",
     "文本/統計/SAS/講義/SAS Charpter FORMAT.md",
     "文本/行銷管理/講義/CH01 行銷的本質.md",
-    "文本/行銷管理/雜亂筆記.md",
     "文本/行銷管理/講義/CH04 組織市場與購買行為.md",
     "文本/行銷管理/講義/CH05 市場區隔、目標市場與定位.md",
     "文本/行銷管理/講義/CH03 消費者市場與消費者行為.md",
@@ -310,7 +315,6 @@
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "文本/行銷管理/講義",
     "文本/行銷管理",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/線性代數/線性代數目錄.md",
     "知識/統計/迴歸分析/迴歸分析目錄.md",
     "知識/統計/統計知識總目錄.md",
@@ -320,8 +324,6 @@
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.md",
     "文本/線性代數/考卷/期中考練習題答案.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
-    "文本/線性代數/考卷/期中考練習題.md",
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "文本/線性代數/考卷/線性代數期中考練習題.pdf",
     "文本/線性代數/考卷/期中考練習題ANS.pdf",
     "文本/線性代數/考卷",
