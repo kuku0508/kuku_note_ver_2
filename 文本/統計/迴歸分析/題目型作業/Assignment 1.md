@@ -103,5 +103,3 @@ $$
 done
 - - -
 parent::[[殘差]],[[最小平方法]],[[變異數]],[[共變異數]]
-
-https://www.youtube.com/watch?v=ltFNlTWDgU8

@@ -307,8 +307,10 @@
       }
     ]
   },
-  "active": "6ea72d9adfc1e420",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/行銷管理/講義",
+    "文本/行銷管理",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
     "知識/線性代數/線性代數目錄.md",
@@ -338,7 +340,6 @@
     "文本/統計/無母數統計/講義/unit 3.md",
     "文本/統計/無母數統計/講義/unit 4.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
-    "知識/程式語言/Latex/基礎知識/語法表/向量.md",
     "文本/線性代數/考卷",
     "文本/統計/無母數統計/圖/Abraham Wald.png",
     "未處理/Pasted image 20241102110154.png",
@@ -353,7 +354,6 @@
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 5.pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf",
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
-    "文本/統計/迴歸分析/題目型作業/program output"
+    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf"
   ]
 }
