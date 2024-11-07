@@ -25,12 +25,14 @@
             "id": "6ea72d9adfc1e420",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Assignment 1"
             }
           }
         ],
