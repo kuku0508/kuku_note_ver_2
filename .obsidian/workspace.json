@@ -11,14 +11,12 @@
             "id": "107e017c33897a13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/行銷管理/講義/CH04 組織市場與購買行為.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/行銷管理/講義/CH01 行銷的本質.md"
               },
-              "icon": "lucide-file",
-              "title": "CH04 組織市場與購買行為"
+              "icon": "excalidraw-icon",
+              "title": "CH01 行銷的本質"
             }
           }
         ]
@@ -292,13 +290,13 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/行銷管理/講義/Untitled.md",
-    "知識/線性代數/基礎知識/線性代數.md",
     "文本/行銷管理/講義/CH04 組織市場與購買行為.md",
-    "文本/行銷管理/講義/Excel 2024-11-07 20.24.33.univer.md",
+    "文本/行銷管理/講義/CH05 市場區隔、目標市場與定位.md",
     "文本/行銷管理/講義/CH03 消費者市場與消費者行為.md",
+    "知識/線性代數/基礎知識/線性代數.md",
+    "文本/行銷管理/講義/Excel 2024-11-07 20.24.33.univer.md",
     "文本/行銷管理/講義/CH02 行銷環境.md",
     "文本/行銷管理/講義/CH01 行銷的本質.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
