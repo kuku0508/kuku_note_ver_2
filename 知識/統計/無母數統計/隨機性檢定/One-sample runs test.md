@@ -50,6 +50,7 @@ $$
 - 定義：
 令$n_1$以及$n_2$分別為，新客的樣本數以及熟客的樣本數；$r$為runs的個數。
 $$
-\underbrace{熟客}_{run1}\quad\underbrace{新客}_{run2}\quad\underbrace{熟客\quad熟客}_{run3}\quad\underbrace{新客\quad 新客}_{run4}\quad\underbrace{熟客}_{run5}
+\underbrace{熟客}_{run1}\quad\underbrace{新客}_{run2}\quad\underbrace{熟客\quad熟客}_{run3}\quad\underbrace{新客\quad 新客}_{run4}\quad\underbrace{熟客}_{run5}\quad\underbrace{新客}_{run6}\quad\underbrace{熟客\quad熟客}_{run7}\quad\underbrace{新客}_{run8}
 $$
+我們可以看到有8個runs
 parent::[[無母數統計目錄]],[[無母數統計]],[[假設檢定]]
