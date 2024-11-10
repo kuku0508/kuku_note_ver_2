@@ -22,6 +22,7 @@ Abraham Wald
 當今天有一種類別由一至複數個相連，直到出現另外一類別，我們就稱其為一個連。
 用文字不太好表達，我用範例的方式來表示給你看。
 $$
-\underbrace{男、男、男}_{run}
+\underbrace{男、男、男}_{run1}、\underbrace{女、女、女}_{run2}、\underbrace{男}_{run3}、\underbrace{女、女}_{run4}
 $$
+
 - - -
