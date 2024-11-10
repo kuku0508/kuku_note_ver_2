@@ -17,3 +17,4 @@ Abraham Wald
 - - -
 # 統計檢定量：
 - runs（連）的總數，R。
+K
