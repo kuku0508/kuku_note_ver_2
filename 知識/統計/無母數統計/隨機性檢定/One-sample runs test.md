@@ -29,4 +29,6 @@ $$
 # 虛無假設＆決策方式：
 $$H_0\text{：感興趣的模式不是隨機的}\quad v.s \quad H_1\text{：感興趣的模式是隨機的}$$
 
-One-sample runs test 的決策方式，如果是用手算的話，比較不看p-value，而是看他的runs數量有沒有超過下界以及上界。上下界的決定方式取決於，兩類別的連數（runs）$n_1$＆$n_2$，
+One-sample runs test 的決策方式，如果是用手算的話，比較不看p-value，而是看他的runs數量有沒有超過下界以及上界。上下界的決定方式取決於，兩類別的樣本數$n_1$＆$n_2$，來決定。
+![[Runs test Lower and Upper Table.png]]
+你可以看到這邊就是其ㄉㄨ
