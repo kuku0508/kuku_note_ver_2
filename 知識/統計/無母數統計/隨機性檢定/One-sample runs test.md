@@ -52,5 +52,8 @@ $$
 $$
 \underbrace{熟客}_{run1}\quad\underbrace{新客}_{run2}\quad\underbrace{熟客\quad熟客}_{run3}\quad\underbrace{新客\quad 新客}_{run4}\quad\underbrace{熟客}_{run5}\quad\underbrace{新客}_{run6}\quad\underbrace{熟客\quad熟客}_{run7}\quad\underbrace{新客}_{run8}
 $$
-我們可以看到有8個runs，然後我們的$n_1跟n_2$分別為5以及6。那我們就可以開始查表，得出上界值以及下界值分別為3
+我們可以看到有8個runs，然後我們的$n_1跟n_2$分別為5以及6。那我們就可以開始查表，
+得出上界值以及下界值分別為3以及10。
+我們可以發現3<8<10，runs的數量在上界值以及下界值ㄓ
+
 parent::[[無母數統計目錄]],[[無母數統計]],[[假設檢定]]
