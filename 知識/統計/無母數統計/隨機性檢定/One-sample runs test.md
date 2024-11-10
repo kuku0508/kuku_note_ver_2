@@ -38,7 +38,7 @@ One-sample runs test 的決策方式，如果是用手算的話，比較不看p-
 $$
 \begin{array}{ccccccc}
 \hline
-熟客&新客&
+熟客&新客&熟客&熟客&新客&新客&熟客&新客&熟客&熟客&新客
 \end{array}
 $$
 
