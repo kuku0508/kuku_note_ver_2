@@ -33,3 +33,4 @@ One-sample runs test 的決策方式，如果是用手算的話，比較不看p-
 ![[Runs test Lower and Upper Table.png]]
 你可以看到這邊就是其對應的表。
 - - -
+parent::[[無母數統計目錄]]
