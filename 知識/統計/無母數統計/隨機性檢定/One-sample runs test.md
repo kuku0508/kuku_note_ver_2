@@ -24,5 +24,6 @@ Abraham Wald
 $$
 \underbrace{男、男、男}_{run1}、\underbrace{女、女、女}_{run2}、\underbrace{男}_{run3}、\underbrace{女、女}_{run4}
 $$
-
+大概就是這樣，只要是互斥的數據都可以得到她的runs，不僅限於類別型的資料。
 - - -
+- 
