@@ -12,3 +12,4 @@ Abraham Wald
 ![[二戰飛機 Abraham Wald.png]]
 
 - - -
+# 基本假設：
