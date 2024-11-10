@@ -37,7 +37,8 @@ One-sample runs test 的決策方式，如果是用手算的話，比較不看p-
 假設今天蛋糕店裡面的來客為
 $$
 \begin{array}{ccccccc}
-熟客&新客
+\hline
+熟客&新客&
 \end{array}
 $$
 
