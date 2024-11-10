@@ -50,6 +50,6 @@ $$
 - 定義：
 令$n_1$以及$n_2$分別為，新客的樣本數以及熟客的樣本數；$r$為runs的個數。
 $$
-\underbrace{\熟客}_{}
+\underbrace{熟客}_{run1}\quad\underbrace{新客}_{run2}\quad\underbrace{熟客}_{runs}
 $$
 parent::[[無母數統計目錄]],[[無母數統計]],[[假設檢定]]
