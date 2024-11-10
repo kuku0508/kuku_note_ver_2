@@ -30,7 +30,8 @@ $$
 $$H_0\text{：感興趣的模式是隨機的}\quad v.s \quad H_1\text{：感興趣的模式是不隨機的}$$
 
 One-sample runs test 的決策方式，如果是用手算的話，比較不看p-value，而是看他的runs數量有沒有超過下界以及上界。上下界的決定方式取決於，兩類別的樣本數$n_1$＆$n_2$，來決定。
-倘若我們的runs的數量高於等於
+
+若我們的runs的數量大於等於上界值，或runs的數量小於等於下界值，則我們拒絕H_0
 ![[Runs test Lower and Upper Table.png]]
 你可以看到這邊就是其對應的表。
 - - -
