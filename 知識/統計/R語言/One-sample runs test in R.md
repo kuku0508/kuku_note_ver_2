@@ -6,5 +6,5 @@
 install.packages("randtests")
 # 載入套件randtest
 library("rantests")
-sample<-c(12,13,12,11,5,2,)
+sample<-c(12,13,12,11,5,2,-1,2,-1,3,2,-6,-7,-7,-12,-9,6,7,10,6,1,1)
 ```
