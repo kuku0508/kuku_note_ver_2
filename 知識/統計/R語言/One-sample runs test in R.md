@@ -20,7 +20,8 @@ runs.test(temp,threshold=0)
 # 類別資料
 ```R
 # 輸入樣本（定義sample為向量）
-sample<-c("a")
+sample<-c("A","B","A","A","B","B","A","B","A","B","A","B","A","A")
+
 ```
 
 而今天R使用的檢定統計量是以最多runs，的情況
