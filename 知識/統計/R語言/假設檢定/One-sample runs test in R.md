@@ -24,7 +24,10 @@ runs.test(sample,threshold=0)
 `data`：資料名稱
 `statistic`：檢定統計量
 `runs`：runs數量（最多runs的情況）
-$n_1$：
+$n_1$：類別一的樣本數
+$n_2$：類別二的樣本數
+`n`：總樣本數
+`p-value`：p-value
 - - -
 # 注意事項：
 R使用的檢定統計量是以最多runs的情況。
