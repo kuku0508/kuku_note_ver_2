@@ -14,6 +14,7 @@ runs.test(temp,threshold=0)
 ```
 
 `runs.test(資料,threshold=門檻值)`，
-所謂門檻值就是當他今天大於某個值，他ㄏㄨㄟ
+所謂門檻值就是當數據大於某個值，他是類別1；小於某個值，他是類別2。
+
 - - -
 parent::[[randtests]],[[One-sample runs test]]
