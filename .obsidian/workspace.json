@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md"
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md"
               }
             }
           },
@@ -233,11 +233,12 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/無母數統計/無母數統計目錄.md",
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "知識/統計/時間數列.md",
     "知識/統計/統計知識總目錄.md",
     "文本/統計/無母數統計/圖/Pasted image 20241111113124.png",
-    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/趨勢檢定",
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
@@ -247,7 +248,6 @@
     "文本/名言/名言目錄 - 辯論.md",
     "文本/名言/辯論/囍.md",
     "知識/統計/無母數統計/基礎知識/無母數統計.md",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
