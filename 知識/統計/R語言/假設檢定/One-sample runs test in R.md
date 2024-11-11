@@ -26,7 +26,7 @@ library("randtests")
 # 輸入樣本（定義sample為向量）
 sample<-c("A","B","A","A","B","B","A","B","A","B","A","B","A","A")
 # 進行One-sample runs test
-run.test(sample)
+runs.test(sample)
 ```
 
 在run.test裡面就可以直接輸入資料，不用輸入門檻值。
