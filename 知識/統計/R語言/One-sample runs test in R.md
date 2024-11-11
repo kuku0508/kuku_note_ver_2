@@ -35,4 +35,4 @@ run.test(sample)
 # 注意事項：
 R使用的檢定統計量是以最多runs的情況。
 - - -
-parent::[[randtests]],[[One-sample runs test]]
+parent::[[randtests]],[[One-sample runs test]],[[ㄐ]]
