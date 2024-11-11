@@ -3,7 +3,7 @@
 
 # 連續型資料
 ``` R
-# 安裝套件randtest
+# 安裝套件randtest（如果有裝過那就不用裝）
 install.packages("randtests")
 # 載入套件randtest
 library("randtests")
@@ -19,9 +19,13 @@ runs.test(temp,threshold=0)
 
 # 類別資料
 ```R
+# 安裝套件randtest（如果有裝過那就不用裝）
+install.packages("randtests")
+# 載入套件randtest
+library("randtests")
 # 輸入樣本（定義sample為向量）
 sample<-c("A","B","A","A","B","B","A","B","A","B","A","B","A","A")
-
+# 進行O
 ```
 
 而今天R使用的檢定統計量是以最多runs，的情況
