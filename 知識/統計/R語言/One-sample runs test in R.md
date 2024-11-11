@@ -12,6 +12,6 @@ sample<-c(12,13,12,11,5,2,-1,2,-1,3,2,-6,-7,-7,-12,-9,6,7,10,6,1,1,6,7,-2,-6,-6,
 runs.test(temp,threshold=0)
 ```
 
-`runs.test(資料,threshold=門檻值)`
+`runs.test(資料,threshold=門檻值)`，
 - - -
 parent::[[randtests]],[[One-sample runs test]]
