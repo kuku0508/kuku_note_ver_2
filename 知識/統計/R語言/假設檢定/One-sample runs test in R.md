@@ -21,6 +21,8 @@ runs.test(sample,threshold=0)
 - - -
 # 結果
 ![[one-sample runs test result in R.png]]
+`data`：資料名稱
+`statistic`：檢定統ㄐㄧ
 - - -
 # 注意事項：
 R使用的檢定統計量是以最多runs的情況。
