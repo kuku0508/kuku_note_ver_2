@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+                "file": "知識/統計/無母數統計/無母數統計目錄.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "知識/統計/無母數統計/無母數統計目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md",
+                "file": "知識/統計/無母數統計/無母數統計目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 2.md"
+                "file": "知識/統計/無母數統計/無母數統計目錄.md"
               }
             }
           },
@@ -231,7 +231,7 @@
       }
     ]
   },
-  "active": "8bdc88efc2efe023",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "文本/統計/無母數統計/講義/unit 2.md",
