@@ -1,3 +1,4 @@
 ``` R
-install.packages("rand")
+# 安裝
+install.packages("randtests")
 ```
