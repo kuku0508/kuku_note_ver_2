@@ -1,1 +1,1 @@
-Cox-Stuart test，
+Cox-Stuart test，是一種無母數的統計方法，主要是在檢定
