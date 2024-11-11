@@ -18,7 +18,9 @@ runs.test(sample,threshold=0)
 
 
 在run.test裡面就可以直接輸入資料，不用輸入門檻值。
-
+- - -
+# 結果
+![[Pasted image 20241111234523.png]]
 - - -
 # 注意事項：
 R使用的檢定統計量是以最多runs的情況。
