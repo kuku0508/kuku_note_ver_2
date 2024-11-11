@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/無母數統計目錄.md",
+                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/無母數統計目錄.md",
+                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/無母數統計目錄.md",
+                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/無母數統計目錄.md"
+                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md"
               }
             }
           },
@@ -233,6 +233,9 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/無母數統計目錄.md",
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+    "知識/統計/無母數統計/趨勢檢定",
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/行銷管理/雜亂筆記.md",
@@ -243,7 +246,6 @@
     "知識/統計/無母數統計/基礎知識/無母數統計.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "知識/統計/無母數統計/無母數統計目錄.md",
     "文本/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
@@ -259,7 +261,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/交集.md",
-    "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "文本/統計/無母數統計/圖/二戰飛機 Abraham Wald.png",
     "文本/行銷管理/講義",
     "文本/行銷管理",
@@ -277,7 +278,6 @@
     "未處理/Pasted image 20241028224649.png",
     "未處理/Pasted image 20241028222310.png",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 5.pdf",
-    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf",
-    "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 3.pdf"
+    "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 1.pdf"
   ]
 }
