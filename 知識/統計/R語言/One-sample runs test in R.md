@@ -31,7 +31,8 @@ run.test(sample)
 
 在run.test裡面就可以直接輸入資料，不用輸入門檻值。
 
-
-而今天R使用的檢定統計量是以最多runs的情況
+- - -
+# 注意事項：
+R使用的檢定統計量是以最多runs的情況。
 - - -
 parent::[[randtests]],[[One-sample runs test]]
