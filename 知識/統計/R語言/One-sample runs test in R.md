@@ -17,5 +17,6 @@ runs.test(temp,threshold=0)
 所謂門檻值就是當數據大於某個值，他是類別1；小於某個值，他是類別2。
 如果等於門檻值，
 
+而今天R使用的檢定統計量是以最多runs，的情況
 - - -
 parent::[[randtests]],[[One-sample runs test]]
