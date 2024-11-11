@@ -1,4 +1,4 @@
-- [[Bootstrap Confidence Interval_R]]
+- [[Bootstrap Confidence Interval in R]]
 - [[time to event data in R]]
 - [[Kaplan-Meier_R]]
 - 

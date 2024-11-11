@@ -38,4 +38,4 @@ Bootstrap Confidence Interval，是一種無母數統計方法，用於估計參
 - - -
 parent::[[樣本統計量]],[[信賴區間]]
 sibling::[[confidance Interval of Survival Function]]
-child::[[Bootstrap Confidence Interval_R]]
+child::[[Bootstrap Confidence Interval in R]]
