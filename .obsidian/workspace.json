@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md"
+                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md"
               }
             }
           },
@@ -233,16 +233,16 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "知識/統計/R語言/One-sample runs test in R.md",
+    "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+    "文本/統計/無母數統計/圖/David Cox.png",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/無母數統計/無母數統計目錄.md",
-    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "知識/統計/時間數列.md",
     "知識/統計/統計知識總目錄.md",
-    "文本/統計/無母數統計/圖/Pasted image 20241111113124.png",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/趨勢檢定",
     "文本/行銷管理/雜亂筆記.md",
@@ -261,7 +261,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/備註.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
-    "知識/程式語言/Latex/基礎知識/語法表/積分.md",
     "文本/統計/無母數統計/圖/二戰飛機 Abraham Wald.png",
     "文本/行銷管理/講義",
     "文本/行銷管理",
