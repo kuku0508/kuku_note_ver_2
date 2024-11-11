@@ -1,6 +1,7 @@
 處理事件：[[One-sample runs test]]
 需安裝的套件：[[randtests]]
 
+# 連續型資料
 ``` R
 # 安裝套件randtest
 install.packages("randtests")
@@ -13,5 +14,6 @@ runs.test(temp,threshold=0)
 ```
 
 `runs.test(資料,threshold=門檻值)`，
+所謂門檻值就是當他今天大於某個值，他ㄏㄨㄟ
 - - -
 parent::[[randtests]],[[One-sample runs test]]
