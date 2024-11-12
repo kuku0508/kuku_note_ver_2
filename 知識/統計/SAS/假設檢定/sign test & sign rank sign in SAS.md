@@ -1,5 +1,5 @@
 處理事件：[[單樣本符號檢定]]、[[魏克森符號等級檢定]]
-使用的Procedures：[[UNIVARIATE]]
+使用的Procedure：[[UNIVARIATE]]
 
 ``` SAS
 /*建立資料集*/
@@ -10,5 +10,6 @@ input X @@;
 card;
 180 185 195 190 185 195 195 200
 ;
-# 開始用
+/*開始用Procedure UNIVARIATE & 設定假設檢定的*/
+
 ```
