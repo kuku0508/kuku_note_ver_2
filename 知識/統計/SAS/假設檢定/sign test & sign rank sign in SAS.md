@@ -10,6 +10,6 @@ input X @@;
 card;
 180 185 195 190 185 195 195 200
 ;
-/*開始用Procedure UNIVARIATE & 設定假設檢定的*/
-
+/*開始用Procedure UNIVARIATE & 設定假設檢定的μ*/
+PROC UNIVARIATE Mu0=180
 ```
