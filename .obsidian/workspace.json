@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/假設檢定/SAS.md",
+                "file": "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAS"
+              "title": "sign test & sign rank sign in SAS"
             }
           }
         ]
@@ -259,15 +259,15 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
+    "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/R語言/R語言目錄.md",
-    "知識/統計/SAS/假設檢定/SAS.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/SAS/假設檢定",
