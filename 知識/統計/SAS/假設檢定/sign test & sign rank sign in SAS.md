@@ -2,7 +2,7 @@
 使用的Procedure：[[UNIVARIATE]]
 - - -
 # 範例：
-有一組資料，變數為
+今天在
 ``` SAS
 /*建立資料集*/
 data d1;
