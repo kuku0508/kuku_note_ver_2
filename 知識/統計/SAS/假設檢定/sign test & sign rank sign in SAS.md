@@ -2,7 +2,7 @@
 使用的Procedure：[[UNIVARIATE]]
 - - -
 # 範例：
-今天在
+今天在NBA聯盟中，隨機抽樣
 ``` SAS
 /*建立資料集*/
 data d1;
