@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "魏克森符號等級檢定"
+              "title": "單樣本符號檢定"
             }
           }
         ]
@@ -261,21 +261,21 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
+    "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+    "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
+    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
+    "知識/統計/R語言/R語言目錄.md",
     "知識/統計/SAS/假設檢定/SAS.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/SAS/假設檢定",
-    "文本/統計/無母數統計/講義/unit 2.md",
-    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "文本/統計/無母數統計/表/one-sample runs test result in R.png",
-    "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
-    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/R語言/資料預處理/time to event data in R.md",
-    "知識/統計/R語言/R語言目錄.md",
     "知識/統計/R語言/資料預處理",
     "知識/統計/R語言/假設檢定",
-    "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "知識/統計/無母數統計/趨勢檢定",
     "文本/統計/無母數統計/圖/David Cox.png",
