@@ -25,4 +25,5 @@ RUN;
 `/BINOMIAL(P=0.27)`：這邊是在對變數`event`(前面指定的)，做二項檢定。
 `EXACT BINOMIAL`：讓你對變數`event`做二項檢定。
 - - -
-- 
+# 注意
+你可能發現了，有兩個指令都是在做二項檢定，分別是在`TABLE`後面的`/BINOMIAL(O)`
