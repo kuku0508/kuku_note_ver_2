@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "107e017c33897a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "集合符號"
-            }
-          },
-          {
-            "id": "296b68a225a63cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未處理/UNIVARIATE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UNIVARIATE"
-            }
-          },
-          {
-            "id": "fc0f6544feab7baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sign test & sign rank sign in SAS"
-            }
-          },
-          {
             "id": "434e1ae9c38c7721",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "Binomial test in SAS"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,14 +260,14 @@
       }
     ]
   },
-  "active": "fc0f6544feab7baa",
+  "active": "434e1ae9c38c7721",
   "lastOpenFiles": [
-    "未處理/UNIVARIATE.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+    "未處理/UNIVARIATE.md",
+    "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
-    "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
