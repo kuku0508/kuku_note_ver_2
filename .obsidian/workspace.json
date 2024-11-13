@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png"
+                "file": "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "SAS output of sign test and Wilcoxon sign rank test"
+              "icon": "lucide-file",
+              "title": "Binomial test in SAS"
             }
           }
         ]
@@ -257,8 +259,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
+    "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
+    "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
     "文本/統計/SAS/表/output",
     "文本/統計/SAS/表",
@@ -266,8 +271,6 @@
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
-    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/統計學/機率/機率.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
@@ -275,7 +278,6 @@
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "未處理/UNIVARIATE.md",
-    "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png",
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/無母數統計/基礎知識/相對效率.md",
     "未處理/randtests.md",
