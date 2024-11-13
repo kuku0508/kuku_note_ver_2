@@ -17,4 +17,5 @@ RUN;
 `cards`：
 	`S 11`：S的出現次數為11
 	`F 14`：F的出現次數為14
-`PROC FREQ`：生成
+`PROC FREQ`：生成次數分配表和進行統計檢定。
+	`ORDER=DATA`：指定變數的類別順序
