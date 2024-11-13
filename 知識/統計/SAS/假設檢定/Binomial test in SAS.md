@@ -6,5 +6,7 @@ input event $ count;
 cards;
 S 11
 F 14;
-PROC FREQ ORDER = 
+PROC FREQ ORDER = d1
+	WEIGHT COUNT;
+	
 ```
