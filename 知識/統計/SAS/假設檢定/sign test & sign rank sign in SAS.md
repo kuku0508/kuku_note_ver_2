@@ -21,4 +21,6 @@ RUN;
 `Mu0`：sign test的假設的中位數。
 `VAR`：要進行UNIVARIATE的變數。
 - - -
+# 結果
+
 parent::[[魏克森符號等級檢定]],[[單樣本符號檢定]],[[SAS目錄]]
