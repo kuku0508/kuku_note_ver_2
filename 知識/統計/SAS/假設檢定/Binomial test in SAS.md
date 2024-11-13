@@ -2,7 +2,7 @@
 使用的Procedure：[[FREQ]]
 - - -
 # 輸入
-今天想要調查皮爾托福裡面
+今天想要調查皮爾托福中，有多少人在追思會的襲擊中被攻擊並
 ```SAS
 DATA d1;
 input event $ count;
