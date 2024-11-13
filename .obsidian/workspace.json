@@ -11,14 +11,10 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cox-Stuart test"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -259,7 +255,7 @@
       }
     ]
   },
-  "active": "8bdc88efc2efe023",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/統計/無母數統計/講義/unit 2.md",
