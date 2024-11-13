@@ -2,6 +2,7 @@
 使用的Procedure：[[FREQ]]
 - - -
 # 輸入
+今天想要調查皮爾托福裡面
 ```SAS
 DATA d1;
 input event $ count;
