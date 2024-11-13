@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
+                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "One-sample runs test in R"
+              "title": "二項檢定"
             }
           }
         ]
@@ -261,17 +261,18 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
-    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
-    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
+    "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+    "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
+    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
+    "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "未處理/UNIVARIATE.md",
-    "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "文本/統計/無母數統計/表/SAS output of sign test and Wilcoxon sign rank test.png",
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/無母數統計/基礎知識/相對效率.md",
@@ -282,7 +283,6 @@
     "知識/統計/R語言/資料預處理/time to event data in R.md",
     "知識/統計/R語言/資料預處理",
     "知識/統計/R語言/假設檢定",
-    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "知識/統計/無母數統計/趨勢檢定",
     "文本/統計/無母數統計/圖/David Cox.png",
     "文本/名言/名言目錄 - 辯論.md",
