@@ -1,2 +1,2 @@
 處理事件：[[二項檢定]]
-使用Procedure
+使用的Procedure：FREQ
