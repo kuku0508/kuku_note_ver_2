@@ -12,10 +12,10 @@ input X @@;
 card;
 180 185 195 190 185 195 195 200
 ;
-/*開始用Procedure UNIVARIATE & 設定假設檢定的μ*/
+/*開始用Procedure UNIVARIATE & 設定假設檢定的中位數*/
 PROC UNIVARIATE Mu0=180;
  VAR X;
 RUN;
 ```
 `PROC UNIVARIATE`
-`Mu0`：
+`Mu0`：sign test的中位數
