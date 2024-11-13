@@ -8,5 +8,5 @@ S 11
 F 14;
 PROC FREQ ORDER = d1
 	WEIGHT COUNT;
-	
+	TABLE event/BINOMIAL(P)
 ```
