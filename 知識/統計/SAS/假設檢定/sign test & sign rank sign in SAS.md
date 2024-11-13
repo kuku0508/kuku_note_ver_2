@@ -19,4 +19,6 @@ RUN;
 ```
 `PROC UNIVARIATE`
 `Mu0`：sign test的假設的中位數。
-`VAR`：
+`VAR`：要進行UNIVARIATE的變數。
+- - -
+parent:
