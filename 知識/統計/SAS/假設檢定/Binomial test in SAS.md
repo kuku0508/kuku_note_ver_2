@@ -20,4 +20,4 @@ RUN;
 `PROC FREQ`：指定使用Procedure[[FREQ]]。
 	`ORDER=DATA`：指定變數的類別順序按照資料輸入的順序進行，這樣根據`cards`，`S`和`F`會按照輸入順序排列。
 `WEIGHT`：將`COUNT`視為次數的變數。這樣就可以正確地計算S的次數跟F的次數。
-`TABLE event`：
+`TABLE event`：製作變數`event`的次數分配表
