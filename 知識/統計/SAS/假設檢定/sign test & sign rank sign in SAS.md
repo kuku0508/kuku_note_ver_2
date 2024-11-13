@@ -18,4 +18,5 @@ PROC UNIVARIATE Mu0=180;
 RUN;
 ```
 `PROC UNIVARIATE`
-`Mu0`：sign test的中位數
+`Mu0`：sign test的假設的中位數。
+`VAR`：
