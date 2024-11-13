@@ -11,14 +11,12 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png"
               },
-              "icon": "lucide-file",
-              "title": "Binomial test in SAS"
+              "icon": "lucide-image",
+              "title": "SAS output of sign test and Wilcoxon sign rank test"
             }
           }
         ]
@@ -261,9 +259,11 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/binomial test sas output.png",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
+    "文本/統計/SAS/表/output",
+    "文本/統計/SAS/表",
+    "文本/統計/SAS/表/output/binomial test sas output.png",
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
@@ -275,7 +275,7 @@
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "未處理/UNIVARIATE.md",
-    "文本/統計/無母數統計/表/SAS output of sign test and Wilcoxon sign rank test.png",
+    "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png",
     "知識/統計/SAS/SAS目錄.md",
     "知識/統計/無母數統計/基礎知識/相對效率.md",
     "未處理/randtests.md",
@@ -301,11 +301,8 @@
     "文本/線性代數/古巴比倫人 一元二次陶片.png",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/線性代數/考卷/線性代數期中考練習題.pdf",
-    "文本/線性代數/考卷/期中考練習題ANS.pdf",
-    "文本/線性代數/考卷",
     "文本/統計/無母數統計/圖/Abraham Wald.png",
     "未處理/Pasted image 20241102110154.png",
-    "未處理/Pasted image 20241029232548.png",
-    "未處理/Pasted image 20241029235254.png"
+    "未處理/Pasted image 20241029232548.png"
   ]
 }
