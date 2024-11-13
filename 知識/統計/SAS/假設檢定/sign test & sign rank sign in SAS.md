@@ -2,7 +2,7 @@
 使用的Procedure：[[UNIVARIATE]]
 - - -
 # 範例：
-今天在NBA聯盟中，隨機抽樣
+今天在兩科考試
 ``` SAS
 /*建立資料集*/
 data d1;
@@ -13,6 +13,7 @@ card;
 180 185 195 190 185 195 195 200
 ;
 /*開始用Procedure UNIVARIATE & 設定假設檢定的μ*/
-PROC UNIVARIATE Mu0=180
- 
+PROC UNIVARIATE Mu0=180;
+ VAR X;
+RUN;
 ```
