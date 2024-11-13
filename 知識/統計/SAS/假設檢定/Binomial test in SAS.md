@@ -2,5 +2,9 @@
 使用的Procedure：FREQ
 ```SAS
 DATA d1;
-input out
+input event $ count;
+cards;
+S 11
+F 14;
+PROC FREQ ORDER = 
 ```
