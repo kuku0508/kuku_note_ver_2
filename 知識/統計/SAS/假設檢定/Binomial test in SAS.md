@@ -13,4 +13,4 @@ PROC FREQ ORDER = d1;
 RUN;
 ```
 `input`：定義變數
-	`event $`：這個表示節ㄍㄨㄛ
+	`event $`：這個是表示結果的變數，通常我會用S（Succ）跟F來表示
