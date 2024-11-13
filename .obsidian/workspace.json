@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "434e1ae9c38c7721",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "296b68a225a63cae",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,7 +300,7 @@
       }
     ]
   },
-  "active": "fc0f6544feab7baa",
+  "active": "434e1ae9c38c7721",
   "lastOpenFiles": [
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
