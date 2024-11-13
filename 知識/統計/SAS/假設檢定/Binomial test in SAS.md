@@ -23,4 +23,6 @@ RUN;
 `WEIGHT`：將`COUNT`視為次數的變數。這樣就可以正確地計算S的次數跟F的次數。
 `TABLE event`：製作變數`event`的次數分配表
 `/BINOMIAL(P=0.27)`：這邊是在對變數`event`(前面指定的)，做二項檢定。
-`EXACT BINOMIAL`：讓
+`EXACT BINOMIAL`：讓你對變數`event`做二項檢定。
+- - -
+- 
