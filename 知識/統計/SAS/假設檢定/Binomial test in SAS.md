@@ -15,3 +15,5 @@ RUN;
 `input`：定義變數
 	`event $`：這個是表示結果的變數，通常我會用S（Success）跟F（Fail）來表示。
 `cards`：
+	`S 11`：S的出現次數為11
+	
