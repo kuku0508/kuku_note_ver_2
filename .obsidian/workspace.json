@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
+                "file": "知識/統計/無母數統計/比例檢定/二項檢定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binomial test in SAS"
+              "title": "二項檢定"
             }
           },
           {
@@ -304,11 +304,11 @@
   "active": "107e017c33897a13",
   "lastOpenFiles": [
     "文本/統計/無母數統計/講義/unit 2.md",
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
     "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "文本/統計/無母數統計/表/SAS output of sign test and Wilcoxon sign rank test.png",
