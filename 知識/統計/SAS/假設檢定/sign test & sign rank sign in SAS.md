@@ -22,6 +22,6 @@ RUN;
 `VAR`：要進行UNIVARIATE的變數。
 - - -
 # 結果
-![[Pasted image 20241113111604.png]]
+![[SAS output of sign test and Wilcoxon sign rank test.png]]
 - - -
 parent::[[魏克森符號等級檢定]],[[單樣本符號檢定]],[[SAS目錄]]
