@@ -1,5 +1,7 @@
 處理事件：[[二項檢定]]
 使用的Procedure：[[FREQ]]
+- - -
+# 輸入
 ```SAS
 DATA d1;
 input event $ count;
@@ -25,7 +27,7 @@ RUN;
 `/BINOMIAL(P=0.27)`：這邊是在對變數`event`(前面指定的)，做二項檢定，且將假設的比例設為0.27。
 `EXACT BINOMIAL`：讓你對變數`event`做二項檢定。
 - - -
-
+# 輸出
 - - -
 # 注意
 你可能發現了，有兩個指令都是在做二項檢定，分別是在`TABLE`後面的`/BINOMIAL(P=0.27)`跟`EXACT BINOMIAL`，這兩個的確都在做二項檢定，差別只在於如果你沒有打`EXACT BINOMIAL`，只打了`/BINOMIAL`，那最後跑出來的OUTPUT，統計檢定量只會有近似常態的檢定值，而沒有用binomial test。
