@@ -94,7 +94,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "集合符號",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -303,8 +304,9 @@
   },
   "active": "107e017c33897a13",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/講義/unit 2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
     "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
@@ -336,7 +338,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
-    "知識/程式語言/Latex/基礎知識/語法表/備註.md",
     "文本/統計/無母數統計/圖/二戰飛機 Abraham Wald.png",
     "文本/行銷管理/講義",
     "文本/行銷管理",
