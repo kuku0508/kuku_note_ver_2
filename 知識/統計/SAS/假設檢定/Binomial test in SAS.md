@@ -6,7 +6,9 @@ input event $ count;
 cards;
 S 11
 F 14;
-PROC FREQ ORDER = d1
+PROC FREQ ORDER = d1;
 	WEIGHT COUNT;
-	TABLE event/BINOMIAL(P)
+	TABLE event/BINOMIAL(P=0.27);
+	EXACT BINOMIAL;
+RUN;
 ```
