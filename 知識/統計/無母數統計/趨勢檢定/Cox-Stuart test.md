@@ -6,3 +6,5 @@ Cox-Stuart test主要是由統計學家David Cox發展。除了Cox-Stuart test�
 David Cox
 - - -
 # 基礎假設
+
+- 資料由$n$
