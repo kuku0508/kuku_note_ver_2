@@ -12,4 +12,5 @@ d. Find a 95% CI for $\beta_1$ .
 
 e. Compute the t statistics for testing $H_0 :\beta_1 =\beta_6=0$ . What conclusion can you draw ?
 
-f. Find a 
+f. Find a 95% CI on the mean gasoline mileage when $x_1=275$ in
+
