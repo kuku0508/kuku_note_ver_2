@@ -10,4 +10,4 @@ c. Calculate $R^2$ and $R^2_{adj}$ for this model. Compare this to the $R^2$ and
 
 d. Find a 95% CI for $\beta_1$ .
 
-e. Compute the t statistics for testing $H_0 :\beta$
+e. Compute the t statistics for testing $H_0 :\beta_1 = 0 &$
