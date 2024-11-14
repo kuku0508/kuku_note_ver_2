@@ -14,4 +14,4 @@ e. Compute the t statistics for testing $H_0 :\beta_1 =\beta_6=0$ . What conclus
 
 f. Find a 95% CI on the mean gasoline mileage when $x_1=275$ $\text{in}.^3$ and $x_6=2$ barrels.
 
-g.
+g. Find a 95% prediction interval for a new observation on gasoline nileage when $x_1=275$ $$\text{in.}
