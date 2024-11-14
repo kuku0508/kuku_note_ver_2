@@ -16,7 +16,9 @@ David Cox
 $$
 \begin{array}{|c|c|c|c|}
 \hline
-\text{波數}&\text{蟲族數量}&\text{波數}&\text{蟲族數量}
+\text{波數}&\text{蟲族數量}&\text{波數}&\text{蟲族數量}\\
+\hline
+1&
 \end{array}
 $$
 ## 檢定統計量
