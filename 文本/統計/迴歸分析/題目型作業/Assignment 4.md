@@ -6,4 +6,5 @@ a. Fit a multiple linear regression model relating gasoline mileage y（mile per
 
 b. Construct the analysis-of-variance table and test for significance of regression .
 
-c. Calculate $R^2$ and $R^2_{adj}$ for this model. Compare this to the $R^2$ and the $R^2_{adj}$
+c. Calculate $R^2$ and $R^2_{adj}$ for this model. Compare this to the $R^2$ and the $R^2_{adj}$ for the simple linear regression model relating mileage to engine displacement in Problem 2.4 .
+
