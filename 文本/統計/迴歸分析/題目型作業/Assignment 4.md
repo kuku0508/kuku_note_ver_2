@@ -10,7 +10,7 @@ c. Calculate $R^2$ and $R^2_{adj}$ for this model. Compare this to the $R^2$ and
 
 d. Find a 95% CI for $\beta_1$ .
 
-e. Compute the t statistics for testing $H_0 :\beta_1 =\beta_6=0$ . What conclusion can you draw ?
+e. Compute the t statistics for testing $H_0 :\beta_1 =0\quad \text{and}\quad H_0 :\beta_6=0$ . What conclusion can you draw ?
 
 f. Find a 95% CI on the mean gasoline mileage when $x_1=275$ $\text{in}.^3$ and $x_6=2$ barrels.
 
