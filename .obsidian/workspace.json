@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/SAS/講義/SAS Charpter 4.md"
+                "file": "知識/統計/SAS/假設檢定/Binomial test in SAS.md"
               },
               "icon": "lucide-list",
-              "title": "SAS Charpter 4 的大綱"
+              "title": "Binomial test in SAS 的大綱"
             }
           },
           {
@@ -153,26 +153,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "f75b07cda725b87a",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
-            }
-          },
-          {
-            "id": "c104fb080c05ab63",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -196,11 +176,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,48 +196,11 @@
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
-  },
-  "floating": {
-    "id": "78a72e34b37b35c6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5eeeec372e66b717",
-        "type": "window",
-        "children": [
-          {
-            "id": "1f5775cf42c0c5da",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8bdc88efc2efe023",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/無母數統計/講義/unit 2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
