@@ -21,7 +21,7 @@ $$
 \sqrt{
 9.12571^2
 \begin{bmatrix}
-
+1\\275\\2
 \end{bmatrix}
 }
 $$
