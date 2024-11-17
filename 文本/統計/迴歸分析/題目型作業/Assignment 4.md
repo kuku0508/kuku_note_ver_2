@@ -19,6 +19,7 @@ g. Find a 95% prediction interval for a new observation on gasoline nileage when
 
 $$
 \sqrt{
+9.12571^2
 \begin{bmatrix}
 
 \end{bmatrix}
