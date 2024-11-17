@@ -18,7 +18,9 @@ g. Find a 95% prediction interval for a new observation on gasoline nileage when
 ![[Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf]]
 
 $$
+\sqrt{
 \begin{bmatrix}
 
 \end{bmatrix}
+}
 $$
