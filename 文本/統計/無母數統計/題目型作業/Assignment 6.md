@@ -4,13 +4,17 @@
 ## Exercise 6.20
 A test designed to measure a person's level of mental health was administered to three groups of subjects. The results are shown in Table 6.28. can one conclude from these data that thw status of mental health is different among these three groups? Use the extension of the median test.
 
+**Score made on a level of mental health test by three groups of subjects**
 $$
-\begin{array}{lcccc}
-\text{Score made on a level of mental health test by three groups of subjects}\\
+\begin{array}{lc}
 \hline
 \text{Unwed}&30&40&70&75&15&20&20&32&80&25&25\\
 \text{pregnant}&75&30&90&30&60&85&100&90&75&70&90\\
-\text{girls}&15
+\text{girls}&15\\
+\\
+\text{Married}\\
+\text{pregnant}\\
+
 \end{array}
 $$
 # 回答：
