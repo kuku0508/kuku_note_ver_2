@@ -8,13 +8,14 @@ A test designed to measure a person's level of mental health was administered to
 $$
 \begin{array}{lc}
 \hline
-\text{Unwed}&30&40&70&75&15&20&20&32&80&25&25\\
-\text{pregnant}&75&30&90&30&60&85&100&90&75&70&90\\
+\text{Unwed}&30&40&70&75&15&20&20&32&80&25&25&25\\
+\text{pregnant}&75&30&90&30&60&85&100&90&75&70&90&15\\
 \text{girls}&15\\
 \\
-\text{Married}&15&17&25&30&35&45&50&50&55&60&60\\
-\text{pregnant}&100&95&80&75&70&65&60&80&30&30&25\\
-\text{woman}&6
+\text{Married}&15&17&25&30&35&45&50&50&55&60&60&60\\
+\text{pregnant}&100&95&80&75&70&65&60&80&30&30&25&50\\
+\text{woman}&60&65&65&65&70&70&75&75&90&35&75&30\\
+ &
 \end{array}
 $$
 # 回答：
