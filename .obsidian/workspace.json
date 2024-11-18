@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 3.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 3"
+              "icon": "lucide-file",
+              "title": "Assignment 6"
             }
           }
         ]
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 302.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 3.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "unit 3 的反向連結"
+              "title": "Assignment 6 的反向連結"
             }
           },
           {
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 3.md",
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "unit 3 的對外連結"
+              "title": "Assignment 6 的對外連結"
             }
           },
           {
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 3.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md"
               },
               "icon": "lucide-list",
-              "title": "unit 3 的大綱"
+              "title": "Assignment 6 的大綱"
             }
           },
           {
@@ -221,11 +223,12 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "文本/統計/迴歸分析/講義/unit 3.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 6.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 6.pdf",
     "文本/統計/迴歸分析/講義/unit 2.md",
-    "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 4.md",
     "文本/統計/迴歸分析/講義/unit 1.md",
     "文本/統計/無母數統計/講義/unit 2.md",
@@ -264,7 +267,6 @@
     "文本/統計/無母數統計/表/Runs test Lower and Upper Table.png",
     "文本/統計/無母數統計/圖/二戰飛機 Abraham Wald.png",
     "文本/行銷管理/講義",
-    "文本/行銷管理",
     "文本/線性代數/古巴比倫人 一元二次陶片.png",
     "文本/統計/無母數統計/圖/Abraham Wald.png",
     "未處理/Pasted image 20241102110154.png",
