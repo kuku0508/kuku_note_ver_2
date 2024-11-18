@@ -12,9 +12,9 @@ $$
 \text{pregnant}&75&30&90&30&60&85&100&90&75&70&90\\
 \text{girls}&15\\
 \\
-\text{Married}\\
-\text{pregnant}\\
-
+\text{Married}&15&17&25&30&35&45&50&50&55&60&60\\
+\text{pregnant}&100&95&80&75&70&65&60&80&30&30&25\\
+\text{woman}&6
 \end{array}
 $$
 # 回答：
