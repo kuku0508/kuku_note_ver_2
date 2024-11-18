@@ -6,6 +6,7 @@ A test designed to measure a person's level of mental health was administered to
 
 $$
 \begin{array}{c}
+\text{Score made on a level of mental health test by three groups of sub}\\
 \hline
 
 \end{array}
