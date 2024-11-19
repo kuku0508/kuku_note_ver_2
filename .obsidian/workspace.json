@@ -11,14 +11,12 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
-                "mode": "source",
-                "source": false
+                "file": "未處理/assignment 6 SAS_OUTPUT OF extension of median test.png"
               },
-              "icon": "lucide-file",
-              "title": "Assignment 6"
+              "icon": "lucide-image",
+              "title": "assignment 6 SAS_OUTPUT OF extension of median test"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "未處理/assignment 6 SAS_OUTPUT OF extension of median test.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Assignment 6 的反向連結"
+              "title": "assignment 6 SAS_OUTPUT OF extension of median test 的反向連結"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "未處理/assignment 6 SAS_OUTPUT OF extension of median test.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Assignment 6 的對外連結"
+              "title": "assignment 6 SAS_OUTPUT OF extension of median test 的對外連結"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md"
+                "file": "未處理/assignment 6 SAS_OUTPUT OF extension of median test.png"
               },
               "icon": "lucide-list",
-              "title": "Assignment 6 的大綱"
+              "title": "assignment 6 SAS_OUTPUT OF extension of median test 的大綱"
             }
           },
           {
@@ -260,10 +258,12 @@
       }
     ]
   },
-  "active": "e45fd8ffe5d6d581",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/題目型作業/program output/nonparameter statistic assignment 6.20 SAS_OUTPUT extension of median test.png",
     "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+    "未處理/常態分配.md",
+    "未處理/assignment 6 SAS_OUTPUT OF extension of median test.png",
+    "文本/統計/無母數統計/題目型作業/program output/nonparameter statistic assignment 6.20 SAS_OUTPUT extension of median test.png",
     "文本/統計/無母數統計/題目型作業/Assignment 5.md",
     "文本/統計/無母數統計/講義/unit 5.md",
     "文本/統計/無母數統計/講義/unit 6.md",
@@ -305,7 +305,6 @@
     "文本/統計/無母數統計/圖/二戰飛機 Abraham Wald.png",
     "文本/行銷管理/講義",
     "文本/線性代數/古巴比倫人 一元二次陶片.png",
-    "文本/統計/無母數統計/圖/Abraham Wald.png",
-    "未處理/Pasted image 20241102110154.png"
+    "文本/統計/無母數統計/圖/Abraham Wald.png"
   ]
 }
