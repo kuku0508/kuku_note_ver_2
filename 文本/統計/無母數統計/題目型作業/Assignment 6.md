@@ -87,7 +87,7 @@ $$
 我們沒有足夠的證據去證明，至少有一組的母體中位數於其他組不相同。即無法觀察到「未婚已懷孕的女性」、「已婚已懷孕的女性」以及「未婚未懷孕的女性」的心理健康狀況存在差異。
 
 ## 程式輸出
-從SAS的輸出結果我們也可以看到，在卡方檢定量
+從SAS的輸出結果我們也可以看到，在卡方檢定量的p-value為0.3553。我們也得出了不拒絕虛無假設的結論。
 ![[assignment 6 SAS_OUTPUT OF extension of median test.png]]
 
 ![[nonparameter statistic assignment 6.20 SAS_OUTPUT extension of median test.png]]
