@@ -50,9 +50,13 @@ $$
 
 接下來以60為界線，將各個組別劃分，建構出以下的列聯表：
 $$
-\begin{array}{|c|c}
+\begin{array}{|c|c|c|}
 \hline
- 未婚已懷孕&已婚已懷孕&
+ &未婚已懷孕&已婚已懷孕&未婚未懷孕\\
+ \hline
+ >60\\
+ \hline
+ \leq60
  \hline
 \end{array}
 $$
