@@ -151,5 +151,6 @@ $R_3$為未婚未懷孕的女性的心理狀況分數之名次加總
 接下來計算Kruskal-Wallis檢定量
 $$\begin{align}
 H&=\frac{12}{108(108+1)}\sum^3_{i=1}\frac{R_i^2}{n_i}-3(108+1)\\\\
-&=\frac{12}{108\times109}\left(\frac{(1269)^2}{25}+\frac{(2689.5)^2}{46}+\frac{(1914.5)^2}{37}\right)-3\times109
+&=\frac{12}{108\times109}\left(\frac{(1269)^2}{25}+\frac{(2689.5)^2}{46}+\frac{(1914.5)^2}{37}\right)-3\times109\\
+&\approx-0.0632
 \end{align}$$
