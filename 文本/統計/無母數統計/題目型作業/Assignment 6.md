@@ -39,4 +39,4 @@ $$
 H_0\text{：}M_1=M_2=M_3\quad\text{versus}\quad H_1\text{： }至少有一個M_i\neq M_j \quad i=1,2,3\quad j=1,2,3
 $$
 ## 檢定統計量
-合併
+合併所有數據，並將他們排序，得到一個樣本中位數M。
