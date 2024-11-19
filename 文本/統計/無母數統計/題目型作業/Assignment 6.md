@@ -92,4 +92,5 @@ $$
 ![[assignment 6 SAS_OUTPUT OF extension of median test.png]]
 
 - - -
-## Exercise 6.20（Extension of median test）
+## Exercise 6.20（Kruskal-Wallis test）
+## 基本假設
