@@ -32,7 +32,7 @@ $$
 - 如果每一組的母體中位數皆相同，則觀察值大於或等於母體中位數的機率在每一組中應該也要是相同的。
 ## 虛無假設
 $$
-H_0\text{：}M_1=M_2=M_3\quad\text{versus}\quad H_1\text{： }至少優
+H_0\text{：}M_1=M_2=M_3\quad\text{versus}\quad H_1\text{： }至少有一個M
 $$
 ## 檢定統計量
 合併
