@@ -156,5 +156,5 @@ H&=\frac{12}{108(108+1)}\sum^3_{i=1}\frac{R_i^2}{n_i}-3(108+1)\\\\
 \end{align}$$
 但由於有ties，所以我們必須要帶入Kruskal-Wallis檢定量的修正
 $$
-H_c
+H_c=\frac{H}{1-\frac{}{}
 $$
