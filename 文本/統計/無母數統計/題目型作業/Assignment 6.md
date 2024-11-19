@@ -86,6 +86,6 @@ $$
 查表，自由度為3-1=2的情況下，2.0695<$X^2_{\alpha=0.1}=4.605$，故我們不拒絕虛無假設。
 我們沒有足夠的證據去證明，至少有一組的母體中位數於其他組不相同。即無法觀察到「未婚已懷孕的女性」、「已婚已懷孕的女性」以及「未婚未懷孕的女性」的心理健康狀況存在差異。
 
-![[Pasted image 20241119220557.png]]
+![[nonparameter statistic assignment 6.20 SAS_OUTPUT extension of median test.png]]
 - - -
 ## Exercise 6.20（Extension of median test）
