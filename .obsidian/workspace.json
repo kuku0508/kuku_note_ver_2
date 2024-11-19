@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "Assignment 6"
             }
+          },
+          {
+            "id": "7feb877e757397fd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ]
       }
@@ -181,8 +193,8 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -191,8 +203,8 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           }
         ],
@@ -219,8 +231,7 @@
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
