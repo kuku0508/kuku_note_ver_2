@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "文本/統計/無母數統計/講義/unit 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Assignment 6 的反向連結"
+              "title": "unit 5 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "文本/統計/無母數統計/講義/unit 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Assignment 6 的對外連結"
+              "title": "unit 5 的對外連結"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md"
+                "file": "文本/統計/無母數統計/講義/unit 5.md"
               },
               "icon": "lucide-list",
-              "title": "Assignment 6 的大綱"
+              "title": "unit 5 的大綱"
             }
           },
           {
@@ -261,10 +261,10 @@
       }
     ]
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "56d1476d82b213cc",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/講義/unit 5.md",
     "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+    "文本/統計/無母數統計/講義/unit 5.md",
     "文本/統計/無母數統計/講義/unit 6.md",
     "文本/統計/無母數統計/講義/unit 4.md",
     "文本/統計/迴歸分析/講義/unit 3.md",
