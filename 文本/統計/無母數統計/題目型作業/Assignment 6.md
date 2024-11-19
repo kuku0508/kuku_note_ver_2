@@ -104,5 +104,6 @@ $$
 
 計算Kruskal-Wallis檢定量
 $$
-\frac{12}{N(N+1)}\sum^k_{i=1}\frac{R_i^2}{}
+H=\frac{12}{N(N+1)}\sum^k_{i=1}\frac{R_i^2}{n_i}-3(N+1)
 $$
+N為全部觀察值的數量
