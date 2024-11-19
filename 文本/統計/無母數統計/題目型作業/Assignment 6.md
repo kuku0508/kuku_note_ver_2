@@ -54,9 +54,11 @@ $$
 \hline
  &未婚已懷孕&已婚已懷孕&未婚未懷孕\\
  \hline
- >60\\
+ >60&\\
  \hline
- \leq60
+ \leq60\\
+ \hline
+ 總計\\
  \hline
 \end{array}
 $$
