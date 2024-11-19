@@ -11,14 +11,12 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/無母數統計/講義/unit 4.md"
               },
-              "icon": "lucide-file",
-              "title": "Assignment 6"
+              "icon": "excalidraw-icon",
+              "title": "unit 4"
             }
           }
         ]
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "文本/統計/無母數統計/講義/unit 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Assignment 6 的反向連結"
+              "title": "unit 4 的反向連結"
             }
           },
           {
@@ -112,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "文本/統計/無母數統計/講義/unit 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Assignment 6 的對外連結"
+              "title": "unit 4 的對外連結"
             }
           },
           {
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md"
+                "file": "文本/統計/無母數統計/講義/unit 4.md"
               },
               "icon": "lucide-list",
-              "title": "Assignment 6 的大綱"
+              "title": "unit 4 的大綱"
             }
           },
           {
@@ -225,8 +223,9 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 3.md",
+    "文本/統計/無母數統計/講義/unit 6.md",
     "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+    "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 6.pdf",
     "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 4.md",
@@ -257,7 +256,6 @@
     "知識/統計/統計學/機率/機率.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-    "未處理/UNIVARIATE.md",
     "知識/統計/SAS/假設檢定",
     "文本/統計/無母數統計/表/one-sample runs test result in R.png",
     "知識/統計/R語言/資料預處理",
