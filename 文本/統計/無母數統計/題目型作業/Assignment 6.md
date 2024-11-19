@@ -1,3 +1,4 @@
+![[Pasted image 20241119233154.png]]
 # 問題：
 ![[nonparametric statistic Assignment 6.pdf]]
 
