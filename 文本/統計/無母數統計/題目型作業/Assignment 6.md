@@ -94,3 +94,4 @@ $$
 - - -
 ## Exercise 6.20（Kruskal-Wallis test）
 ## 基本假設
+- 資料由3組獨立隨機樣本，樣本數為
