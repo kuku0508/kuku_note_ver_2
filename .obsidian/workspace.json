@@ -239,15 +239,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "c98cb459e7dca78c",
+        "id": "4a2f162f7ad90e59",
         "type": "window",
         "children": [
           {
-            "id": "3f38b7f3f7d42e6b",
+            "id": "cd46269798c6523f",
             "type": "tabs",
             "children": [
               {
-                "id": "d973cd6c15b520de",
+                "id": "2628fc3e4a9bb92b",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -271,9 +271,10 @@
       }
     ]
   },
-  "active": "d973cd6c15b520de",
+  "active": "2628fc3e4a9bb92b",
   "lastOpenFiles": [
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 5.md",
     "文本/統計/無母數統計/題目型作業/-.md",
     "未處理/Pasted image 20241119233316.png",
@@ -290,7 +291,6 @@
     "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 4.md",
     "文本/統計/迴歸分析/講義/unit 1.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
