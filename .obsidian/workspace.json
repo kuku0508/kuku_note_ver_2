@@ -239,30 +239,30 @@
     "type": "floating",
     "children": [
       {
-        "id": "a510febc74992303",
+        "id": "c98cb459e7dca78c",
         "type": "window",
         "children": [
           {
-            "id": "712f1e0210efa8ba",
+            "id": "3f38b7f3f7d42e6b",
             "type": "tabs",
             "children": [
               {
-                "id": "56d1476d82b213cc",
+                "id": "d973cd6c15b520de",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/統計/無母數統計/講義/unit 5.md"
+                    "file": "文本/統計/無母數統計/講義/unit 2.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "unit 5"
+                  "title": "unit 2"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 0,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -271,11 +271,11 @@
       }
     ]
   },
-  "active": "56d1476d82b213cc",
+  "active": "d973cd6c15b520de",
   "lastOpenFiles": [
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
-    "文本/統計/無母數統計/題目型作業/-.md",
     "文本/統計/無母數統計/講義/unit 5.md",
+    "文本/統計/無母數統計/題目型作業/-.md",
     "未處理/Pasted image 20241119233316.png",
     "未處理/Pasted image 20241119233154.png",
     "未處理/Pasted image 20241119232641.png",
