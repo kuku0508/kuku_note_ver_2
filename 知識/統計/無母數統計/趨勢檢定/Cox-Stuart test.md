@@ -56,6 +56,7 @@ $$
 
 虛無假設分別有：
 
+#### 雙尾
 $$
 H_0\text{： There is no trend present in the data}
 $$
@@ -65,3 +66,4 @@ $$
 $$
 H_1\text{： There is either an upward trend or downward trend}
 $$
+#### 左尾
