@@ -57,5 +57,6 @@ $$
 虛無假設分別有：
 
 $$
-H_0\text{： the}
+H_0\text{： There is no trend present in the data}\quad\text{versus}\quad
+H_1\text{： There is either}
 $$
