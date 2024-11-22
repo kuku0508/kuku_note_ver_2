@@ -66,6 +66,6 @@ $$
 $$
 H_1\text{： There is either an upward trend or downward trend}
 $$
-這時候的P-Value會是$P-Value=2*P(R\leq r \mid n , 0.5)$
+這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中
 
 #### 單尾
