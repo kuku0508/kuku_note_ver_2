@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "此筆記庫介紹.md",
+                "file": "知識/線性代數/線性代數總目錄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "此筆記庫介紹"
+              "title": "線性代數總目錄"
             }
           },
           {
@@ -273,6 +273,7 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "此筆記庫介紹.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
@@ -305,7 +306,6 @@
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf",
     "文本/統計/迴歸分析/題目型作業/Assignment 2.md",
     "文本/統計/迴歸分析/題目型作業/Assignment 1.md",
-    "文本/統計/迴歸分析/題目型作業/Assignment 3.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png",
     "文本/統計/SAS/表/output",
