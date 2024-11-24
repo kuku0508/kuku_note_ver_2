@@ -11,10 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/線性代數/基礎知識/線性代數.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "線性代數"
             }
           },
           {
@@ -269,6 +273,7 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "未處理/機率密度函數.md",
     "此筆記庫介紹.md",
     "知識/線性代數/線性代數總目錄.md",
     "知識/統計/統計知識總目錄.md",
@@ -300,7 +305,6 @@
     "文本/統計/無母數統計/講義/unit 4.md",
     "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/nonparametric statistic Assignment 6.pdf",
-    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/統計/SAS/表/output/SAS output of sign test and Wilcoxon sign rank test.png",
