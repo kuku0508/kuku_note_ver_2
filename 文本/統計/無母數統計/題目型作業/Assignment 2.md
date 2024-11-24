@@ -72,7 +72,7 @@ TABLE result/BINOMIAL(P=0.5);
 EXACT BINOMIAL;
 RUN;
 
-![[Assignment 2 2.14 SAS.png]]
+![[NA Assignment 2 2.14 SAS.png]]
 我們可以看到在Exact test的單邊P-value的值跟我們試算的結果一樣是0.0082。
 
 # 2.21：
@@ -148,5 +148,5 @@ reduced_data=c(raw_data-1435)
 runs.test(reduced_data,threshold = 0)
 ```
 
-![[Assignment 2 runs test output.png]]
+![[NA Assignment 2 runs test output.png]]
 我們可以看到p-value為0.982，故我們沒有足夠強烈的證據去證明，這些樣本的白熾燈的壽命之中位數，呈現顯著的非隨機性模式。

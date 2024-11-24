@@ -90,7 +90,7 @@ $$
 從SAS的輸出結果我們也可以看到，在卡方檢定量的p-value為0.3553。我們也得出了不拒絕虛無假設的結論。
 
 不管是從手算又或是程式的輸出，我們都沒有足夠的證據去證明，至少有一組的母體中位數於其他組不相同。即無法觀察到「未婚已懷孕的女性」、「已婚已懷孕的女性」以及「未婚未懷孕的女性」的心理健康狀況存在差異。
-![[assignment 6 SAS_OUTPUT OF extension of median test.png]]
+![[NA assignment 6 SAS_OUTPUT OF extension of median test.png]]
 
 - - -
 ## Exercise 6.20（Kruskal-Wallis test）
