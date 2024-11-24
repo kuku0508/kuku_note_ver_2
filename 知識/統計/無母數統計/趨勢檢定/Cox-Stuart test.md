@@ -120,6 +120,6 @@ $$
 \text{versus}
 $$
 $$
-H_1\text{： 資料存在趨勢}
+H_1\text{： 資料存在向下趨勢}
 $$
-這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為正號數量。
+這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為負號數量。
