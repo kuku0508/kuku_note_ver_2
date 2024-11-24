@@ -81,7 +81,7 @@ H_1\text{： 可能存在向上趨勢或是向下趨勢}
 $$
 
 
-這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中
+這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量。
 #### 單尾
 $$
 H_0\text{： There is no upward trend present in the data}
@@ -99,5 +99,7 @@ $$
 \text{versus}
 $$
 $$
-H_1\text{： 可能存在向上趨勢或是向下趨勢}
+H_1\text{： 資料存在向上趨勢}
 $$
+
+
