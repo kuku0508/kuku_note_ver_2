@@ -101,4 +101,25 @@ $$
 $$
 H_1\text{： 資料存在向上趨勢}
 $$
-這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量。
+這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為正號數量。
+
+
+$$
+H_0\text{： There is no downward trend present in the data}
+$$
+$$
+\text{versus}
+$$
+$$
+H_1\text{： There is an downward trend}
+$$
+$$
+H_0\text{： 資料中沒有顯示出下降趨勢}
+$$
+$$
+\text{versus}
+$$
+$$
+H_1\text{： 資料存在趨勢}
+$$
+這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為正號數量。
