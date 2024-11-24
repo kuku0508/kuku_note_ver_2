@@ -84,16 +84,16 @@ $$
 這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中
 #### 單尾
 $$
-H_0\text{： There is an upward trend}
+H_0\text{： There is no upward trend present in the data}
 $$
 $$
 \text{versus}
 $$
 $$
-H_1\text{： There is either an upward trend or downward trend}
+H_1\text{： There is an upward trend}
 $$
 $$
-H_0\text{： 資料中沒有顯示出任何趨勢}
+H_0\text{： 資料中沒有顯示出上升趨勢}
 $$
 $$
 \text{versus}
