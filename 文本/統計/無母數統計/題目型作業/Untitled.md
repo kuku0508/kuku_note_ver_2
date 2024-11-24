@@ -8,7 +8,7 @@ Wohl et al.(E13) studied the physiological properties of the lungs in patuents w
 $$
 \begin{array}{c}
 \hline
-71&57&85&67&66&79
+&71&57&85&67&66&79
 \end{array}
 $$
 
