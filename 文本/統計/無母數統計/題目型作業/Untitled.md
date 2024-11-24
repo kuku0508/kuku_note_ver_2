@@ -9,14 +9,11 @@ Wohl et al.(E13) studied the physiological properties of the lungs in patuents w
 Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, halothane, and cyclopropane anesthesia in 10 dogs. The results are shown in Table 7.9. Do these data suggest a difference in treatment effects?Find the P-value.
 
 $$
-\begin{array}{ll}
-&\text{}\text{subject}\\
-\end{array}
-
-\begin{array}{ll}
+\begin{array}{rr}
 \\
-\\
+&\text{subject}\\
 \hline
-\text{Drug}&1&2&3&4&5&6&7&8&9&10
+\text{Drug}&1&2&3&4&5&6&7&8&9&10\\
+A\\
 \end{array}
 $$
