@@ -19,14 +19,14 @@ $$
 $$
 \begin{array}{c}
 \hline
-&71&57&85&67&66&79
+76&94&61&36&42&49
 \end{array}
 $$
-##### Group 3：No pulmonary irr
+##### Group 3：No pulmonary irradiation
 $$
 \begin{array}{c}
 \hline
-&71&57&85&67&66&79
+80&104&81&90&93&85&101&
 \end{array}
 $$
 
