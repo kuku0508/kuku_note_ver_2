@@ -3,4 +3,4 @@
 
 # 回答：
 ## Exercise 6.10
-Wohl et al.(E13) studied the physiological properties of the lungs in patuents who received therapeutic bilateral pulmonary irradiation in early childhood. Their subjects consisted of course of bilateral of children.Group 1 was composed of six children who received a single 
+Wohl et al.(E13) studied the physiological properties of the lungs in patuents who received therapeutic bilateral pulmonary irradiation in early childhood. Their subjects consisted of three groups of child
