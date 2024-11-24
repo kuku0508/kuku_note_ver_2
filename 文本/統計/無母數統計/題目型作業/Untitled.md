@@ -10,8 +10,8 @@ Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, 
 
 $$
 \begin{array}{c}
-&\text{subject\\
+&\text{subject}\\
 \hline
-\text{Drug}
+\text{Drug}&1&2&3&4&5&6&7&8&9&10
 \end{array}
 $$
