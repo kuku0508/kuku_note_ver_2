@@ -15,7 +15,14 @@ $$
 &71&57&85&67&66&79
 \end{array}
 $$
-##### Group 1：Bilateral pulmonary irradiation
+##### Group 2：Additional pulmonary irradiation or thoracic surgery
+$$
+\begin{array}{c}
+\hline
+&71&57&85&67&66&79
+\end{array}
+$$
+##### Group 3：No pulmonary irr
 $$
 \begin{array}{c}
 \hline
