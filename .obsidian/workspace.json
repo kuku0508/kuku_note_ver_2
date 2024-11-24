@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/線性代數.md",
+                "file": "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "線性代數"
+              "title": "Cox-Stuart test"
             }
           },
           {
@@ -271,16 +271,16 @@
       }
     ]
   },
-  "active": "e45fd8ffe5d6d581",
+  "active": "2628fc3e4a9bb92b",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+    "知識/線性代數/基礎知識/線性代數.md",
+    "文本/統計/無母數統計/講義/unit 2.md",
     "未處理/機率密度函數.md",
     "此筆記庫介紹.md",
     "知識/線性代數/線性代數總目錄.md",
     "知識/統計/統計知識總目錄.md",
-    "知識/線性代數/基礎知識/線性代數.md",
     "知識/說服/說服總目錄.md",
-    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
-    "文本/統計/無母數統計/講義/unit 2.md",
     "知識/統計/SAS/假設檢定/Binomial test in SAS.md",
     "知識/統計/SAS/假設檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",

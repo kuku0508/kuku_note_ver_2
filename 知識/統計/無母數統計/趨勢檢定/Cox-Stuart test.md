@@ -83,3 +83,4 @@ $$
 
 這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中
 #### 單尾
+
