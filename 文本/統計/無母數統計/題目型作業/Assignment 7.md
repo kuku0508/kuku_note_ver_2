@@ -34,13 +34,11 @@ Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, 
 **Change in response time(milliseconds) of 10 subjects after receiving one of three drugs**
 $$
 \begin{array}{rr}
-\\
-&\text{subject}\\
 \hline
-\text{Drug}&1&2&3&4&5&6&7&8&9&10\\
+\text{Dog}&1&2&3&4&5&6&7&8&9&10\\
 \hline
-A&10&10&11&8&7&15&14&10&9&10\\
-B&10&15&15&12&12&10&12&14&9&14\\
+\text{Isoflurane}&10&10&11&8&7&15&14&10&9&10\\
+\text{Halothane}&10&15&15&12&12&10&12&14&9&14\\
 C&15&20&12&10&9&15&18&17&12&16\end{array}
 $$
 
