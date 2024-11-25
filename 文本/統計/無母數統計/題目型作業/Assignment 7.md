@@ -57,5 +57,29 @@ $$
 $$
 並決定其p值。
 
+**Vital capacity values,expressed as percentage of predicted values based on standing height, in three groups of subjects**
+
+##### Group 1：Bilateral pulmonary irradiation
+$$
+\begin{array}{c}
+\hline
+&71&57&85&67&66&79
+\end{array}
+$$
+##### Group 2：Additional pulmonary irradiation or thoracic surgery
+$$
+\begin{array}{c}
+\hline
+76&94&61&36&42&49
+\end{array}
+$$
+##### Group 3：No pulmonary irradiation
+$$
+\begin{array}{c}
+\hline
+80&104&81&90&93&85&101&83
+\end{array}
+$$
+
 ## Exercise 7.2
 Perry等人測定了10隻狗在異氟醚（isoflurane）、氟烷（halothane）、環丙烷（cyclopropane）麻醉期間的血漿腎上腺素濃度。下表顯示了10隻狗在接受三種麻醉劑後反應時間的變化。結果如下表所示。這些數據是否顯示三種麻醉劑的治療效果存在差異。
