@@ -57,9 +57,10 @@ $$
 $$
 並決定其p值。
 
-**Vital capacity values,expressed as percentage of predicted values based on standing height, in three groups of subjects**
 
-##### Group 1：Bilateral pulmonary irradiation
+**根據身高預測值百分比計算的三組受試者肺活量數據**
+- - -
+- ##### Group 1：雙側肺部照射
 $$
 \begin{array}{c}
 \hline
