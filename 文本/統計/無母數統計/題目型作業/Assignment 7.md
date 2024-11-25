@@ -5,7 +5,7 @@ Wohl et al.(E13) studied the physiological properties of the lungs in patuents w
 
 
 **Vital capacity values,expressed as percentage of predicted values based on standing height, in three groups of subjects**
-
+- - -
 ##### Group 1：Bilateral pulmonary irradiation
 $$
 \begin{array}{c}
@@ -32,6 +32,7 @@ $$
 Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, halothane, and cyclopropane anesthesia in 10 dogs. The results are shown in Table 7.9. Do these data suggest a difference in treatment effects? Find the P-value.
 
 **Convertrations, nanograms per milliliter, of free catecholamines in arterial plasma in response to isoflurane, halothane and cyclopropane**
+- - -
 $$
 \begin{array}{rr}
 \hline
@@ -83,3 +84,16 @@ $$
 $$
 ## Exercise 7.2
 Perry等人測定了10隻狗在異氟醚（isoflurane）、氟烷（halothane）、環丙烷（cyclopropane）麻醉期間的血漿腎上腺素濃度。下表顯示了10隻狗在接受三種麻醉劑後反應時間的變化。結果如下表所示。這些數據是否顯示三種麻醉劑的治療效果存在差異。
+
+**Convertrations, nanograms per milliliter, of free catecholamines in arterial plasma in response to isoflurane, halothane and cyclopropane**
+- - -
+$$
+\begin{array}{rr}
+\hline
+\text{Dog}&1&2&3&4&5&6&7&8&9&10\\
+\hline
+\text{Isoflurane}&0.28&0.51&1.00&0.39&0.29&0.36&0.32&0.69&0.17&0.33\\
+\text{Halothane}&0.30&0.39&0.63&0.38&0.21&0.88&0.39&0.51&0.32&0.42\\
+\text{Cyclopropane}&1.07&1.35&0.69&0.28&1.24&1.53&0.49&0.56&1.02&0.30
+\end{array}
+$$
