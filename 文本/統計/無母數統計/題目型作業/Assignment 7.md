@@ -58,4 +58,4 @@ $$
 並決定其p值。
 
 ## Exercise 7.2
-Perry等人測定了10隻狗在異氟醚（isoflurane）、氟玩
+Perry等人測定了10隻狗在異氟醚（isoflurane）、氟烷（halothane）、環丙烷（cyclopropane）麻醉期間的血漿腎上腺素濃度。下表顯示了10隻狗在街
