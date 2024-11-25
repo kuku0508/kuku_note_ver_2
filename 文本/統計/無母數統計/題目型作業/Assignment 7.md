@@ -31,7 +31,7 @@ $$
 ## Exercise 7.2
 Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, halothane, and cyclopropane anesthesia in 10 dogs. The results are shown in Table 7.9. Do these data suggest a difference in treatment effects?Find the P-value.
 
-**Change in response time(milliseconds) of 10 subjects after receiving one of three drugs**
+**Convertrations, nanograms per milliliter, of f**
 $$
 \begin{array}{rr}
 \hline
