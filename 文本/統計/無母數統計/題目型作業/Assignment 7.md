@@ -58,4 +58,4 @@ $$
 並決定其p值。
 
 ## Exercise 7.2
-Perry等ㄖ
+Perry等人測定了10隻狗在異氟醚（isoflurane）、氟玩
