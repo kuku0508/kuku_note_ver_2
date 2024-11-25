@@ -67,14 +67,14 @@ $$
 &71&57&85&67&66&79
 \end{array}
 $$
-##### Group 2：Additional pulmonary irradiation or thoracic surgery
+##### 地2：額外肺部照射或胸腔手術
 $$
 \begin{array}{c}
 \hline
 76&94&61&36&42&49
 \end{array}
 $$
-##### Group 3：No pulmonary irradiation
+##### 第3組：未進行肺部照射
 $$
 \begin{array}{c}
 \hline
