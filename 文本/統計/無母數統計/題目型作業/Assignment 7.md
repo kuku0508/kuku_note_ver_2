@@ -82,8 +82,7 @@ $$
 80&104&81&90&93&85&101&83
 \end{array}
 $$
-因為要檢定樣本所代表的母體是否存在顯著差異，且他的假設為「$\text{第二組}\leq\text{第一組}\leq\text{第三組}$」，故我們這邊使用Jonckheere-Terpstra Test來檢驗其假設是否正確。而我們需要先檢驗此資料是否符合Jonckheere-Terpstra Testㄉ
-
+因為要檢定樣本所代表的母體是否存在顯著差異，且他的假設為「$\text{第二組}\leq\text{第一組}\leq\text{第三組}$」，故我們這邊使用Jonckheere-Terpstra Test來檢驗其假設是否正確。而我們需要先檢驗此資料是否符合Jonckheere-Terpstra Test所要求的假設：
 ## 基礎假設：
 
 
