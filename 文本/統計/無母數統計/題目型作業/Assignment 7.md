@@ -29,7 +29,7 @@ $$
 $$
 
 ## Exercise 7.2
-Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, halothane, and cyclopropane anesthesia in 10 dogs. The results are shown in Table 7.9. Do these data suggest a difference in treatment effects?Find the P-value.
+Perry et al.(E2)determined plasma epinephrine concentrations during isoflurane, halothane, and cyclopropane anesthesia in 10 dogs. The results are shown in Table 7.9. Do these data suggest a difference in treatment effects? Find the P-value.
 
 **Convertrations, nanograms per milliliter, of free catecholamines in arterial plasma in response to isoflurane, halothane and cyclopropane**
 $$
