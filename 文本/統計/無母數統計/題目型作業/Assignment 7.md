@@ -162,6 +162,9 @@ H_0\text{：}M_1=M_2=M_3\quad\text{versus}\quad H_1\text{：}至少有一個M_i\
 $$
 ## 檢定統計量
 $$
+\frac{12}{bk(k+1)}\sum^k_{j=1}\left[\right]
+$$
+$$
 \begin{array}{rr}
 \hline
 \text{狗}&1&2&3&4&5&6&7&8&9&10\\
