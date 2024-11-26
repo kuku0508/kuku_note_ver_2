@@ -192,5 +192,8 @@ $$
 $$
 我們將值帶入：
 $$
-\frac{12}{10\times3\times(3+1)}\left\lbrace\left[19-\frac{10\times(3+1)}{2}\right]^2+\left[17-\frac{10\times(3+1)}{2}\right]^2+\left[23-\frac{10\times(3+1)}{2}\right]^2\right\rbrace=1.9$$
+\frac{12}{10\times3\times(3+1)}\left\lbrace\left[19-\frac{10\times(3+1)}{2}\right]^2+\left[17-\frac{10\times(3+1)}{2}\right]^2+\left[23-\frac{10\times(3+1)}{2}\right]^2\right\rbrace=1.9
+$$
 而因為Friedman test統計量近似卡方分配，故我們這邊可以查自由度3-1的卡方分配值
+![[Pasted image 20241126234710.png]]
+我們可以看到卡方值1.9在自由度為2
