@@ -205,5 +205,48 @@ $$
 
 # 附件（程式碼）
 ```SAS
+data ;
+input group index;
+cards;
+1 71
+1 57
+1 85
+1 67
+1 66
+1 79
+2 76
+2 94
+2 61
+2 36
+2 42
+2 49
+3 80
+3 104
+3 81
+3 90
+3 93
+3 85
+3 101
+3 83
+;
+PROC FREQ;
+	TABLES group*index/JT;
+	exact JT;
+RUN;
 
+DATA;
+DO dog=1 TO 10;
+DO anesthetic= 'Isoflurane', 'Halothane','Cyclopropane';
+INPUT catecholamines @@;
+OUTPUT;
+END; END;
+CARDS;
+0.28 0.30 1.07 0.51 0.39 1.35 1.00 0.63 0.69 0.39 0.38 0.28 0.29 0.21 1.24 0.36 0.88 1.53 0.32 0.39 0.49 0.69 0.51 0.56 0.17 0.32 1.02 0.33 0.42 0.30
+;
+proc print;
+run;
+PROC FREQ;
+	TABLES dog*anesthetic*catecholamines /CMH SCORES=RANK
+	NOPRINT;
+RUN;
 ```
