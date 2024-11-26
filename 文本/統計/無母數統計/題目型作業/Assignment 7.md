@@ -1,3 +1,4 @@
+![[Pasted image 20241126235348.png]]
 # 問題：
 ![[NA Assignment 7.pdf]]
 ## Exercise 6.10
