@@ -165,6 +165,10 @@ $$
 $$
 \text{Friedman test statistic}= \frac{12}{bk(k+1)}\sum^k_{j=1}\left[R_j-\frac{b(k+1)}{2}\right]^2
 $$
+b為樣本數
+k為麻醉劑種類數
+
+以下是在駐ㄕㄜ
 $$
 \begin{array}{rr}
 \hline
