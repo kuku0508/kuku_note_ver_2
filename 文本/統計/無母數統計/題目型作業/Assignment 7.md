@@ -161,8 +161,9 @@ $$
 H_0\text{：}M_1=M_2=M_3\quad\text{versus}\quad H_1\text{：}至少有一個M_i\neq M_j \quad i=1,2,3\quad j=1,2,3
 $$
 ## 檢定統計量
+
 $$
-\frac{12}{bk(k+1)}\sum^k_{j=1}\left[\right]
+\text{Friedman test statistic}= \frac{12}{bk(k+1)}\sum^k_{j=1}\left[R_j-\frac{b(k+1)}{2}\right]^2
 $$
 $$
 \begin{array}{rr}
