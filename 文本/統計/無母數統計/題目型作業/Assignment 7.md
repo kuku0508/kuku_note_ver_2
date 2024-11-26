@@ -93,7 +93,9 @@ $$
 最後加總所有紀錄值，得到Jonckheere-Terpstra test統計量$J=\sum_{i<j}U_{ij}$。
 最後進行查表。
 $$
-
+\begin{array}{|c|c}
+第一組&第二組&第三組&U_{21}&
+\end{array}
 $$
 
 ## Exercise 7.2
