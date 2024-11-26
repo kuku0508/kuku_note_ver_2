@@ -263,7 +263,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 1280,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -272,11 +272,11 @@
       }
     ]
   },
-  "active": "e45fd8ffe5d6d581",
+  "active": "bc7e0993fbe75ef2",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/Assignment 7.md",
     "文本/統計/無母數統計/講義/unit 6.md",
     "文本/統計/無母數統計/講義/unit 5.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 7.md",
     "未處理/Pasted image 20241126223333.png",
     "文本/統計/無母數統計/表/Jonckheere terpstra查表 6 6 8.png",
     "文本/統計/迴歸分析/講義/unit 3.md",
