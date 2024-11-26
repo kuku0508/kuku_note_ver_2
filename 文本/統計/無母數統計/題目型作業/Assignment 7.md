@@ -113,7 +113,7 @@ $$
 $$
 J=\sum_{i<j}U_{ij}=25+44.5+42=111.5
 $$
-
+![[Jonckheere terpstra查表 6 6 8.png]]
 ## Exercise 7.2
 Perry等人測定了10隻狗在異氟醚（isoflurane）、氟烷（halothane）、環丙烷（cyclopropane）麻醉期間的血漿腎上腺素濃度。下表顯示了10隻狗在接受三種麻醉劑後反應時間的變化。結果如下表所示。這些數據是否顯示三種麻醉劑的治療效果存在差異。
 
