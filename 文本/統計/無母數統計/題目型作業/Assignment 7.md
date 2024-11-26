@@ -192,5 +192,5 @@ $$
 $$
 我們將值帶入：
 $$
-\frac{12}{10\times3\times(3+1)}
+\frac{12}{10\times3\times(3+1)}\left[19-\frac{}{}\right]^2
 $$
