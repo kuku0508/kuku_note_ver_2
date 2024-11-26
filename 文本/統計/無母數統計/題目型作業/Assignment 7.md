@@ -196,7 +196,7 @@ $$
 \frac{12}{10\times3\times(3+1)}\left\lbrace\left[19-\frac{10\times(3+1)}{2}\right]^2+\left[17-\frac{10\times(3+1)}{2}\right]^2+\left[23-\frac{10\times(3+1)}{2}\right]^2\right\rbrace=1.9
 $$
 而因為Friedman test統計量近似卡方分配，故我們這邊可以查自由度3-1=2的卡方分配值
-![[Pasted image 20241126234940.png]]
+![[NA Assignment 7 chi-square table.png]]
 我們可以看到卡方值1.9在自由度為2底下，1.9的p-value在0.1以及0.9之間。
 故我們這邊不拒絕虛無假設，我們沒有足夠的證據證明注射異服醚、氟烷以及環丙烷時各自在動脈血漿中的游離兒茶酚胺濃度有顯著差異。
 # SAS
