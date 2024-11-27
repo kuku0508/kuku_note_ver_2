@@ -130,6 +130,9 @@ $$
 我們就用Cox-Stuart test 來看每一波的蟲族數量有沒有顯著的上升趨勢
 我們的虛無假設就會是
 $$
+H_0\text{：}資料沒有呈現上升的趨勢\quad\text{versus}\quad H_1\text{：}資料呈現顯著ㄉㄜ
+$$
+$$
 \begin{array}{|c|c|c|c|}
 \hline
 \text{波數}&\text{蟲族數量}&\text{波數}&\text{蟲族數量}\\
