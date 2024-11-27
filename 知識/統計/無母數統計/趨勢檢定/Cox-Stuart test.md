@@ -60,6 +60,7 @@ $$
 我們這邊會有三種類型的虛無假設，而每一個虛無假設都是用二項分配的方式去計算其P-value，根據假設的不同，p-value的成功事件也會有所不同。
 
 虛無假設分別有：
+- - -
 #### 雙尾
 $$
 H_0\text{： There is no trend present in the data}
@@ -82,6 +83,7 @@ $$
 
 
 這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量。
+- - -
 #### 單尾
 $$
 H_0\text{： There is no upward trend present in the data}
@@ -103,7 +105,7 @@ H_1\text{： 資料存在向上趨勢}
 $$
 這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為正號數量。
 
-
+- - -
 $$
 H_0\text{： There is no downward trend present in the data}
 $$
@@ -123,3 +125,5 @@ $$
 H_1\text{： 資料存在向下趨勢}
 $$
 這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為負號數量。
+
+##
