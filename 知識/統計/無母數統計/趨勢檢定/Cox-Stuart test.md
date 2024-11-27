@@ -82,7 +82,7 @@ H_1\text{： 可能存在向上趨勢或是向下趨勢}
 $$
 
 
-這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量，n為。
+這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量，n為組數。
 - - -
 #### 單尾
 $$
@@ -103,7 +103,7 @@ $$
 $$
 H_1\text{： 資料存在向上趨勢}
 $$
-這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為正號數量。
+這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為正號數量，n為組數。
 
 - - -
 $$
@@ -124,7 +124,7 @@ $$
 $$
 H_1\text{： 資料存在向下趨勢}
 $$
-這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為負號數量。
+這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為負號數量，n為組數。
 
 ## 應用
 我們就用Cox-Stuart test 來看每一波的蟲族數量有沒有顯著的上升趨勢
