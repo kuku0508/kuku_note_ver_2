@@ -82,7 +82,7 @@ H_1\text{： 可能存在向上趨勢或是向下趨勢}
 $$
 
 
-這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量。
+這時候的P-Value會是 $\text{p-value}=2*P(R\leq r \mid n , 0.5)$，其中r為比較少的符號數量，n為。
 - - -
 #### 單尾
 $$
