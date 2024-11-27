@@ -127,7 +127,8 @@ $$
 這時候的P-Value會是 $\text{p-value}=P(R\leq r \mid n , 0.5)$，其中r為負號數量。
 
 ## 應用
-我們就用剛剛的蟲族數量的
+我們就用Cox-Stuart test 來看每一波的蟲族數量有沒有顯著的上升趨勢
+我們的虛無假設就會是
 $$
 \begin{array}{|c|c|c|c|}
 \hline
