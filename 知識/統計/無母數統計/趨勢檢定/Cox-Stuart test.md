@@ -206,7 +206,10 @@ $$
 故我們拒絕虛無假設，蟲族的數量有隨著波數增長的趨勢。
 
 # 備註：
-- 你可能注意到了，Cox-stuart test的P-value的計算方式跟[[單樣本符號檢定|sign test]]的計算方式一模一樣，所以妳就可以知道，在大樣本的情況下，Cox-stuart test近四
+- 你可能注意到了，Cox-stuart test的P-value的計算方式跟[[單樣本符號檢定|sign test]]的計算方式一模一樣，所以妳就可以知道，在大樣本的情況下，Cox-stuart test近似常態的呈現，也是跟[[單樣本符號檢定|sign test]]一樣，為：
+$$
+Z=\frac{K}{}
+$$
 - - -
 parent::[[無母數統計目錄]]
 sibling::[[單樣本符號檢定]]
