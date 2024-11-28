@@ -2,7 +2,7 @@
 使用的Procedure：[[UNIVARIATE]]
 - - -
 # 範例：
-今天在兩科考試
+今天kuku建造了一條產線生產處理器，
 ``` SAS
 /*建立資料集*/
 data d1;
