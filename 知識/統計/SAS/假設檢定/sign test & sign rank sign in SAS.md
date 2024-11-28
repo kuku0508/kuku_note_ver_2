@@ -23,6 +23,6 @@ RUN;
 - - -
 # 結果
 ![[SAS output of sign test and Wilcoxon sign rank test.png]]
-我們可以看到不論是在Sign test的P-value，或是在Willco
+我們可以看到不論是在[[單樣本符號檢定|Sign test]]的P-value，或是在[[魏克森符號等級檢定|Wilcoxon signed-ranks test]]
 - - -
 parent::[[魏克森符號等級檢定]],[[單樣本符號檢定]],[[SAS目錄]]
