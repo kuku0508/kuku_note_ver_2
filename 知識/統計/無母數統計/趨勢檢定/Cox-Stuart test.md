@@ -211,6 +211,7 @@ $$
 Z=\frac{(K+0.5)-0.5n}{0.5\sqrt{n}}\approx N(0,1)
 $$
 # 程式：
+詳見[[Cox-Stuart test in SAS]]
 - - -
 parent::[[無母數統計目錄]]
 sibling::[[單樣本符號檢定]]
