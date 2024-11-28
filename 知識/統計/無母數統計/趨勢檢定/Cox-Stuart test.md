@@ -208,7 +208,7 @@ $$
 # 備註：
 - 你可能注意到了，Cox-stuart test的P-value的計算方式跟[[單樣本符號檢定|sign test]]的計算方式一模一樣，所以妳就可以知道，在大樣本的情況下，Cox-stuart test近似常態的呈現，也是跟[[單樣本符號檢定|sign test]]一樣，為：
 $$
-Z=\frac{K}{}
+Z=\frac{(K+0.5)-0.5n}{0.5\sqrt{n}}\approx N(0,1)
 $$
 - - -
 parent::[[無母數統計目錄]]
