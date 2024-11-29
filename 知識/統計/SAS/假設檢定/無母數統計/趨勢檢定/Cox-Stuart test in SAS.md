@@ -80,4 +80,4 @@ RUN;
 
 # 輸出
 ![[Cox-stuart test in SAS output.png|500]]
-你可以看到，因為Cox-stuart test的p-value計算方式跟
+你可以看到，因為Cox-stuart test的p-value計算方式跟Sign test一樣，所以我們這邊可以看跟Sign test一樣的部分，來
