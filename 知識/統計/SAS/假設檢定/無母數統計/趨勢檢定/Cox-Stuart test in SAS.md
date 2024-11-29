@@ -72,5 +72,5 @@ PROC UNIVARIATE;
 	VAR DIFF;
 RUN;
 ```
-`worm1`、`worm2`：我們這邊將蟲族數量劃分成了兩個變數，
+`worm1`、`worm2`：我們這邊將50波的蟲族數量劃分成了兩個變數，`worm1`主要是前25波的蟲族數量，`worm2`是第26波到第
 `DIFF`：你可以看到我們把
