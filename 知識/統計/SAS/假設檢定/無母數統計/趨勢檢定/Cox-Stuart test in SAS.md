@@ -79,4 +79,5 @@ RUN;
 - `RUN`：執行程式碼。
 
 # 輸出
-![[Cox-stuart test in SAS output.png]]
+![[Cox-stuart test in SAS output.png|500]]
+你可以看到，因為Cox-stuart test的p-value計算方式跟
