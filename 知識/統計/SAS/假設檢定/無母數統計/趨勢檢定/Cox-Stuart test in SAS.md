@@ -74,5 +74,5 @@ RUN;
 ```
 - `worm1`、`worm2`：我們這邊將50波的蟲族數量劃分成了兩個變數，`worm1`主要是前25波的蟲族數量，`worm2`是第26波到第50波的蟲族數量。會這樣劃分的原因是因為，在[[Cox-Stuart test]]裡面，我們也會把資料分半成兩組，將其相減，以進行[[Cox-Stuart test]]。
 - `DIFF`：你可以看到我們把前25波的蟲族數量減去了後25波的蟲族數量，就如前面所說在[[Cox-Stuart test]]，我們會將資料前半後半進行相減，檢視相減後的正負號數。所以這個變數你可以把他想成[[Cox-Stuart test]]裡面的配對結果。
-`PROC UNIVARIATE`
+`PROC UNIVARIATE`：指定使用Procedure [[UNIVARIATE]]，
 - 
