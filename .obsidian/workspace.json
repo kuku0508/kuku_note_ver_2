@@ -259,8 +259,9 @@
       }
     ]
   },
-  "active": "e45fd8ffe5d6d581",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/統計/SAS/表/Cox-stuart test in SAS output.png",
     "知識/統計/SAS/假設檢定/無母數統計/比例檢定/Binomial test in SAS.md",
     "知識/統計/SAS/假設檢定/無母數統計/趨勢檢定/Cox-Stuart test in SAS.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
@@ -305,7 +306,6 @@
     "知識/說服/說服總目錄.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "知識/統計/無母數統計/基礎知識/無母數統計.md",
     "文本/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf"
   ]
 }

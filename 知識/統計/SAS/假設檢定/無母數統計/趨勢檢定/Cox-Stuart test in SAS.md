@@ -79,3 +79,4 @@ RUN;
 - `RUN`：執行程式碼。
 
 # 輸出
+![[Cox-stuart test in SAS output.png]]
