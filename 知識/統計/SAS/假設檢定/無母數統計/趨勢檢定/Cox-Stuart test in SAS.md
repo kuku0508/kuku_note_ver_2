@@ -1,2 +1,2 @@
-處理事件：[[二項檢定]]
-使用的Procedure：[[UNIVA]]
+處理事件：[[Cox-Stuart test]]
+使用的Procedure：[[UNIVARIATE]]
