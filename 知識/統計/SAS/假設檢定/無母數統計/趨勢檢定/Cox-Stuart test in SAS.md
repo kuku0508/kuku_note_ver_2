@@ -42,6 +42,19 @@ data worm1 worm2;
 input worm;
 DIFF=worm1-worm2;
 cards;
-;
+37 52
+34 53
+33 57
+37 54
+39 61
+35 52
+41 53
+38 62
+42 53
+39 59
 
+;
+PROC UNIVARIATE;
+	VAR DIFF;
+RUN;
 ```
