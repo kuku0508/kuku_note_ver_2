@@ -72,9 +72,11 @@ cards;
 48 10
 50 1
 ;
-/*使用Proc*/
+/*使用Procedure UNIVARIATE*/
 PROC UNIVARIATE;
+/*指定處理變數DIFF*/
 	VAR DIFF;
+/*執行程式碼*/
 RUN;
 ```
 - `worm1`、`worm2`：我們這邊將50波的蟲族數量劃分成了兩個變數，`worm1`主要是前25波的蟲族數量，`worm2`是第26波到第50波的蟲族數量。會這樣劃分的原因是因為，在[[Cox-Stuart test]]裡面，我們也會把資料分半成兩組，將其相減，以進行[[Cox-Stuart test]]。
