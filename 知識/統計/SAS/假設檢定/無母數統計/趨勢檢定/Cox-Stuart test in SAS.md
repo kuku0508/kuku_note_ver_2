@@ -72,3 +72,5 @@ PROC UNIVARIATE;
 	VAR DIFF;
 RUN;
 ```
+`worm1`、`worm2`：我們這邊將蟲族數量劃分成了兩個變數
+`DIFF`：你可以看到我們把
