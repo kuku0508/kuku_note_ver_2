@@ -38,8 +38,8 @@ $$
 $$
 # 輸入
 ``` SAS
-data worm1 worm2;
-input worm;
+data worm;
+input worm1 worm2;
 DIFF=worm1-worm2;
 cards;
 37 52
