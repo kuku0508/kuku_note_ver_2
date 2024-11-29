@@ -38,9 +38,13 @@ $$
 $$
 # 輸入
 ``` SAS
+/*建立資料集*/
 data worm;
+/*辨識變數*/
 input worm1 worm2;
+/*定義配對變數*/
 DIFF=worm1-worm2;
+/*輸出資料*/
 cards;
 37 52
 34 53
@@ -68,6 +72,7 @@ cards;
 48 10
 50 1
 ;
+/*使用Proc*/
 PROC UNIVARIATE;
 	VAR DIFF;
 RUN;
