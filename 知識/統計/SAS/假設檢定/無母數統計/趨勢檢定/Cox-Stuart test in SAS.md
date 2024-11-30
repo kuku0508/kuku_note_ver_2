@@ -43,7 +43,7 @@ data worm;
 /*辨識變數*/
 input worm1 worm2;
 /*定義配對變數*/
-DIFF=worm1-worm2;
+DIFF=worm2-worm1;
 /*輸出資料*/
 cards;
 37 52
