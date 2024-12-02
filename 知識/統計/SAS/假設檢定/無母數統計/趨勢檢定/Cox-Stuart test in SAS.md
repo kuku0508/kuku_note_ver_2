@@ -95,6 +95,6 @@ RUN;
 >PROC UNIVARIATE calculates the sign test statistic as
 >$$M=\frac{n^+-n^-}{2}$$
 >where $n^+$ is the number of values that are greater than $\mu_0$ , and $n^-$ is the number of values that are less than $\mu_0$ . Values equal to $\mu_0$ are discarded. Under the null hypothesis that the population median is equal to $\mu_0$ , the p-value for the observed statistic $M_{obs}$ is 
->$$ Pr(\mid M_{obs}\mid\geq\mid M\mid)=0.5^{(n_t-1)}\sum^{min(n^+,\,n^-)}_{J=0}\binom{n_i}{i}$$
->where $n_t$
+>$$ Pr(\mid M_{obs}\mid\geq\mid M\mid)=0.5^{(n_t-1)}\sum^{min(n^+,\,n^-)}_{J=0}\binom{n_t}{i}$$
+>where $n_t=n^++n^-$ is the number of $x_i$ values not equal to $\mu$
 >
