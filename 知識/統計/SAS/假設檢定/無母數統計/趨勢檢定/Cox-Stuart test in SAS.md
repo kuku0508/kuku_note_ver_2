@@ -93,6 +93,6 @@ RUN;
 你可能注意到了，在SAS的檢定統計量裡面，跟我筆記裡面的Cox-stuart test的檢定統計量的表示是不一樣的，這個是因為SAS在認定Sign test的檢定統計量的時候，他的計算方式不是看正號有多少個或是負號有多少個，在SAS裡面是這樣敘述的：
 >Sign test
 >PROC UNIVARIATE calculates the sign test statistic as
->$M=\frac{n^+-n^-}{2}$
+>$$M=\frac{n^+-n^-}{2}$$
 >where $n^+$ is the number of values that are greater than $\mu_0$ , and $n^-$ is the number of values that are less than $\mu_0$ . Values equal to $\mu_0$ are discarded. Under the null hypothesis that the population median is equal to $\mu_0$ , the p-value for the observed statistic $M_{obs}$ is 
->$$ Pr(\mid M_{obs}\mid)$$
+>$$ Pr(\mid M_{obs}\mid\geq\mid M\mid)=0.5^{(n_t-1)}$$
