@@ -92,4 +92,6 @@ RUN;
 # 備註
 你可能注意到了，在SAS的檢定統計量裡面，跟我筆記裡面的Cox-stuart test的檢定統計量的表示是不一樣的，這個是因為SAS在認定Sign test的檢定統計量的時候，他的計算方式不是看正號有多少個或是負號有多少個，在SAS裡面是這樣敘述的：
 >Sign test
->PROC UNIVARIATE
+>PROC UNIVARIATE calculates the sign test statistic as
+>$M=\frac{n^+-n^-}{2}$
+>where 
