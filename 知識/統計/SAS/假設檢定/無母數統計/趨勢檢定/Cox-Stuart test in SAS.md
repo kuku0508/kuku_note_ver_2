@@ -87,4 +87,6 @@ RUN;
 
 # 輸出
 ![[Cox-stuart test in SAS output.png|500]]
-你可以看到，因為Cox-stuart test的p-value計算方式跟Sign test一樣，所以我們這邊可以看跟Sign test一樣的部分，你可以看到他的雙尾的p-value為0.0002，而這時候你可以看到他的檢定統計量是顯示正號，代表正數的數量大於負數。故我們這邊將p-value直接除以2就會等於是否有上升趨勢的假設檢定。
+你可以看到，因為Cox-stuart test的p-value計算方式跟Sign test一樣，所以我們這邊可以看跟Sign test一樣的部分，你可以看到他的雙尾的p-value為0.0002，而這時候你可以看到他的檢定統計量是顯示正號，代表正數的數量大於負數。故我們這邊將p-value直接除以2就會等於是否有上升趨勢的假設檢定的檢定統計量。
+
+# 備註
