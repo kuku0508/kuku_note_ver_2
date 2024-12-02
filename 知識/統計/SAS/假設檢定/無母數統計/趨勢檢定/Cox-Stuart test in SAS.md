@@ -98,3 +98,5 @@ RUN;
 >$$ Pr(\mid M_{obs}\mid\geq\mid M\mid)=0.5^{(n_t-1)}\sum^{min(n^+,\,n^-)}_{J=0}\binom{n_t}{i}$$
 >where $n_t=n^++n^-$ is the number of $x_i$ values not equal to $\mu_0$
 >**Note**：If $n^+$ and $n^-$ are equal, the p-value is equal to one.
+
+這段大致是在講，在SAS裡面，
