@@ -99,4 +99,4 @@ RUN;
 >where $n_t=n^++n^-$ is the number of $x_i$ values not equal to $\mu_0$
 >**Note**：If $n^+$ and $n^-$ are equal, the p-value is equal to one.
 
-這段大致是在講，在SAS裡面，對於[[單樣本符號檢定|Sign test]]的檢定統計量的計算方式是採取，正負號相減後除以2的方法，之後再透過
+這段大致是在講，在SAS裡面，對於[[單樣本符號檢定|Sign test]]的檢定統計量的計算方式是採取，正負號相減後除以2的方法，之後再透過二項分配的方式來計算他的雙尾p-value。
