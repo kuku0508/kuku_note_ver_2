@@ -94,4 +94,4 @@ RUN;
 >Sign test
 >PROC UNIVARIATE calculates the sign test statistic as
 >$M=\frac{n^+-n^-}{2}$
->where 
+>where $n^+$ is the number of values that are greater than $\mu_0$ , and $n^-$ is the number of values that are less than $\mu_0$ . 
