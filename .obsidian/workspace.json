@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/統計/SAS/講義/SAS Charpter 9.md"
+                "file": "文本/統計/SAS/講義/SAS Charpter 8.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter 9"
+              "title": "SAS Charpter 8"
             }
           }
         ]
@@ -222,13 +222,14 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "文本/統計/SAS/講義/SAS Charpter 4.md",
+    "文本/統計/SAS/講義/SAS Charpter 3.md",
+    "文本/統計/SAS/講義/SAS Charpter 2.md",
+    "文本/統計/SAS/講義/SAS Charpter 9.md",
     "文本/統計/SAS/講義/SAS Charpter 8.md",
     "文本/統計/SAS/講義/SAS Charpter 7.md",
     "文本/統計/SAS/講義/SAS Charpter 6.md",
     "文本/統計/SAS/講義/SAS Charpter 5.md",
-    "文本/統計/SAS/講義/SAS Charpter 4.md",
-    "文本/統計/SAS/講義/SAS Charpter 3.md",
-    "文本/統計/SAS/講義/SAS Charpter 9.md",
     "知識/統計/SAS/假設檢定/無母數統計/趨勢檢定/Cox-Stuart test in SAS.md",
     "文本/統計/無母數統計/講義/unit 2.md",
     "README.md",
@@ -253,7 +254,6 @@
     "知識/統計/R語言/Bootstrap Confidence Interval in R.md",
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
     "知識/統計/無母數統計/無母數統計目錄.md",
-    "知識/程式語言/HTML/語法表/底線_.md",
     "未處理/Pasted image 20241119233316.png",
     "未處理/Pasted image 20241126235348.png",
     "文本/統計/無母數統計/題目型作業/表/NA Assignment 7 chi-square table.png",
