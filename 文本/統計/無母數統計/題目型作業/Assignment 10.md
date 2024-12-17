@@ -14,7 +14,7 @@ $$
 ## Exercise 9.33
 In an animal-behavior study, 15 domestic animals reared together were ranked according to their relative positions in the group's pecking order and also on the basis of their "friendliness" toward humans. The results are shown in Table 9.44.
 1. Compute $r_s$ and determine whether one can conclude that animals higher in the pecking order tend to be friendlier toward humans.
-2. compute $\hat{\tau}$ and determine whether the two variables are direct;y related. Do you reach the same conclusion? Explain.
+2. compute $\hat{\tau}$ and determine whether the two variables are directly related. Do you reach the same conclusion? Explain.
 **Table 9.44 15 domestic animals ranked on pecking order and "friedliness" toward humans**
 $$
 \begin{array}{ccc}
@@ -37,5 +37,5 @@ $$
 $$
 ## Exercise 9.33
 在一樣動物行為研究中，15之一起飼養的家畜根據他們在群體「啄食順序」中的相對位置，以及他們對人類的「友好程度」進行排明。結果於表 9.44顯示。
-1. 計算$r_s$值以及判斷是否可以得出啄食順序排名較高的動物對人類更友好。
-2. 計算$\hat{\tau}$
+1. 計算$r_s$值並判斷是否可以得出啄食順序排名較高的動物對人類更友好。
+2. 計算$\hat{\tau}$值並判斷這兩個變數是否直接相關。
