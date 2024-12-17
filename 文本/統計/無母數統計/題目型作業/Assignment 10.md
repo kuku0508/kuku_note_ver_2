@@ -12,5 +12,5 @@ $$
 \end{array}
 $$
 ## Exercise 9.33
-
+In an animal-behavior study, 15 domestic animals reared together were ranked according to their relative positions in the gro
 # 回答：
