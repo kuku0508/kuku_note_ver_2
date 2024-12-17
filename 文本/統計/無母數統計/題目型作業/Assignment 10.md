@@ -46,7 +46,7 @@ $$
 令
 $F_1(x)$為受雇於州政府的男性之機率分配
 $F_2(x)$為受雇於州政府的女性之機率分配
-$S_1$為
+$S_1(x)$為受雇於州政府的男性
 
 $$
 H_0\text{：}F_1(x)=F_2(x) \quad,\forall\,x\quad versus \quad H_0\text{：}F_1(x)\neq F_2(x)\quad ,\exists \,x 
