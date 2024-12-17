@@ -12,5 +12,5 @@ $$
 \end{array}
 $$
 ## Exercise 9.33
-In an animal-behavior study, 15 domestic animals reared together were ranked according to their relative positions in the group's pecking order and also on the basis of their "friendliness" toward humans. The results are shown in Ta
+In an animal-behavior study, 15 domestic animals reared together were ranked according to their relative positions in the group's pecking order and also on the basis of their "friendliness" toward humans. The results are shown in Table 9.44. Compute $r_s$ and determine whether one can conclude that animals higher in the pecking order tend to be friendlier
 # 回答：
