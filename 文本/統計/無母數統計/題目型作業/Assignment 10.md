@@ -44,7 +44,7 @@ $$
 ### 虛無假設＆檢定統計量：
 #### 虛無假設：
 $$
-H_0\text{：}F_1(x)=F_2(x) \quad\forall\,x\quad versus \quad H_0\text{：}F_1(x)\neq F_2(x)\quad 
+H_0\text{：}F_1(x)=F_2(x) \quad\forall\,x\quad versus \quad H_0\text{：}F_1(x)\neq F_2(x)\quad \exists \,x 
 $$
 
 ## Exercise 9.33
