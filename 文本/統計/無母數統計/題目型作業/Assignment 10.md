@@ -18,9 +18,9 @@ In an animal-behavior study, 15 domestic animals reared together were ranked acc
 $$
 \begin{array}{ccc}
 \hline
-\text{Animal}&\\
-\text{Pecking order}&\\
-\texy{Fri}
+\text{Animal}&1&2&3&4&5&6&7&8&9&10&11&12&13&14&15\\
+\text{Pecking order}&12&5&11&8&4&6&7&1&14&3&10&15&2&9&13\\
+\text{Friendliness}&8&1&9&10&6&5&3&7&11
 \end{array}
 $$
 # 回答：
