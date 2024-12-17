@@ -1,6 +1,6 @@
 ![[NA Assignment 10.pdf]]
 # 問題：
-## Exercise 8.2
+## Exercise 8.29
 Table 8.40 shows the ages of samples of 10 men and 10 women who are employed by a state government. Can one conclude on the basis of these data that the age compositions of the two populations are different?Use a 0.05 level of significance.
 
 **Table 8.40.  Age of 10 men and 10 women employed by a state government**
@@ -25,7 +25,7 @@ $$
 \end{array}
 $$
 # 回答：
-## Exercise 8.2
+## Exercise 8.29
 表8.40 為受雇於州政府的10位男性與10位女性的年齡數據。根據這些數據，是否可以判斷兩個族群的年齡組成有所不同？使用顯著水準為0.05進行檢定。
 
 **表8.40.  受雇於州政府的10位男性與10位女性之年齡數據**
