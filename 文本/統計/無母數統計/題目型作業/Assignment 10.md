@@ -8,7 +8,9 @@ $$
 \begin{array}{ccc}
 \hline
 \text{women}&21&37&35&54&31&33&42&27&47&26\\
-\text{men}&
+\text{men}&56&25&43&42&54&33&34&35&47&39
 \end{array}
 $$
+## Exercise 9.33.
+
 # 回答：
