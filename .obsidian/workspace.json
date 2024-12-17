@@ -11,14 +11,12 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/統計學/集合/事件.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/無母數統計/講義/unit 7.md"
               },
-              "icon": "lucide-file",
-              "title": "事件"
+              "icon": "excalidraw-icon",
+              "title": "unit 7"
             }
           }
         ]
@@ -261,13 +259,13 @@
       }
     ]
   },
-  "active": "289b822283ac39e4",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "知識/統計/統計學/集合/事件.md",
-    "知識/統計/統計學/集合/元素.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 10.md",
-    "文本/統計/無母數統計/講義/unit 7.md",
     "文本/統計/無母數統計/講義/unit 8.md",
+    "知識/統計/統計學/集合/事件.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 10.md",
+    "知識/統計/統計學/集合/元素.md",
+    "文本/統計/無母數統計/講義/unit 7.md",
     "文本/統計/無母數統計/講義/unit 6.md",
     "文本/統計/無母數統計/講義/unit 5.md",
     "未處理/Pasted image 20241119233316.png",
