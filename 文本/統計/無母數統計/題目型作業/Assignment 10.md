@@ -50,10 +50,13 @@ $S_1(x)$為受雇於州政府的男性年齡經驗分配函數（empirical distr
 $S_2(x)$為受雇於州政府的女性年齡經驗分配函數（empirical distribution functions）
 
 $$
-H_0\text{：}F_1(x)=F_2(x) \quad,\forall\,x\quad versus \quad H_0\text{：}F_1(x)\neq F_2(x)\quad ,\exists \,x 
+H_0\text{：}F_1(x)=F_2(x) \quad,\forall\,x\quad versus \quad H_1\text{：}F_1(x)\neq F_2(x)\quad ,\exists \,x 
 $$
 #### 檢定統計量：
-由於我們要進行的假設檢定
+由於我們要進行的假設檢定$H_1\text{：}F_1(x)\neq F_2(x)$，所以我們的檢定統計量會是：
+$$
+D=max\mid S_1(x)
+$$
 ## Exercise 9.33
 在一樣動物行為研究中，15之一起飼養的家畜根據他們在群體「啄食順序」中的相對位置，以及他們對人類的「友好程度」進行排明。結果於表 9.44顯示。
 1. 計算$r_s$值並判斷是否可以得出啄食順序排名較高的動物對人類更友好。
