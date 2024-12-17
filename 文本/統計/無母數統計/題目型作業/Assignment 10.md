@@ -43,9 +43,12 @@ $$
 - 受雇於州政府的男性及女性，其年齡的測量尺度為等比尺度（ratio），至少為有序尺度（ordinal）
 ### 虛無假設＆檢定統計量：
 #### 虛無假設：
+令$F_1(x)$為受雇於州政府的男性之年齡
 $$
-H_0\text{：}F_1(x)=F_2(x) \quad\forall\,x\quad versus \quad H_0\text{：}F_1(x)\neq F_2(x)\quad \exists \,x 
+H_0\text{：}F_1(x)=F_2(x) \quad,\forall\,x\quad versus \quad H_0\text{：}F_1(x)\neq F_2(x)\quad ,\exists \,x 
 $$
+#### 檢定統計量：
+
 
 ## Exercise 9.33
 在一樣動物行為研究中，15之一起飼養的家畜根據他們在群體「啄食順序」中的相對位置，以及他們對人類的「友好程度」進行排明。結果於表 9.44顯示。
