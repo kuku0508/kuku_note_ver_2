@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 7.md"
+                "file": "知識/統計/統計學/集合/元素.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 7"
+              "icon": "lucide-file",
+              "title": "元素"
             }
           }
         ]
@@ -261,8 +263,9 @@
   },
   "active": "289b822283ac39e4",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/講義/unit 7.md",
+    "知識/統計/統計學/集合/元素.md",
     "文本/統計/無母數統計/題目型作業/Assignment 10.md",
+    "文本/統計/無母數統計/講義/unit 7.md",
     "文本/統計/無母數統計/講義/unit 8.md",
     "文本/統計/無母數統計/講義/unit 6.md",
     "文本/統計/無母數統計/講義/unit 5.md",
@@ -292,7 +295,6 @@
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/SAS/假設檢定/無母數統計/比例檢定/Binomial test in SAS.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
     "知識/統計/SAS/假設檢定/無母數統計",
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定",
     "知識/統計/SAS/假設檢定/無母數統計/比例檢定",
