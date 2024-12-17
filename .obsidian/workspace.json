@@ -11,14 +11,12 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/無母數統計/講義/unit 7.md"
               },
-              "icon": "lucide-file",
-              "title": "邏輯運算"
+              "icon": "excalidraw-icon",
+              "title": "unit 7"
             }
           }
         ]
@@ -261,16 +259,16 @@
       }
     ]
   },
-  "active": "289b822283ac39e4",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/組合.md",
+    "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "文本/統計/無母數統計/題目型作業/Assignment 10.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
-    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
-    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
-    "知識/程式語言/Latex/基礎知識/語法表/組合.md",
     "文本/統計/無母數統計/講義/unit 7.md",
     "知識/統計/統計學/資料/資料.md",
     "知識/統計/統計學/資料/時間數列資料.md",
