@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 3.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 3"
+              "icon": "lucide-file",
+              "title": "Assignment 6"
             }
           }
         ]
@@ -261,10 +263,14 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "文本/統計/無母數統計/題目型作業/Assignment 10.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 1.md",
+    "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
+    "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/迴歸分析/講義/unit 4.md",
     "文本/統計/迴歸分析/資料集/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
     "文本/統計/無母數統計/講義/unit 7.md",
-    "文本/統計/無母數統計/題目型作業/Assignment 10.md",
     "知識/程式語言/Latex/基礎知識/語法表/組合.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
@@ -288,9 +294,7 @@
     "未處理/Pasted image 20241126235348.png",
     "未處理/F2024_Homework(10).pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
-    "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/SAS/講義/SAS Charpter 10.md",
-    "文本/統計/SAS/講義/SAS Charpter 9.md",
     "文本/統計/SAS/表/output/Cox-stuart test in SAS output.png",
     "文本/統計/SAS/表/Cox-stuart test in SAS output.png",
     "知識/統計/SAS/假設檢定/無母數統計",
@@ -304,7 +308,6 @@
     "文本/統計/無母數統計/題目型作業/表/one-sample runs test result in R.png",
     "文本/統計/無母數統計/題目型作業/表",
     "文本/統計/無母數統計/題目型作業/program output/NA Assignment 7 Jonckheere-Terpstra test SAS output.png",
-    "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 6.pdf"
   ]
 }
