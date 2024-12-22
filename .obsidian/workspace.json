@@ -11,14 +11,12 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/類別資料分析/有序尺度.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/統計/無母數統計/講義/unit 8.md"
               },
-              "icon": "lucide-file",
-              "title": "有序尺度"
+              "icon": "excalidraw-icon",
+              "title": "unit 8"
             }
           }
         ]
@@ -265,6 +263,7 @@
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
     "知識/統計/統計學/資料/區間尺度.md",
+    "知識/統計/類別資料分析/有序尺度.md",
     "文本/統計/無母數統計/講義/unit 8.md",
     "文本/統計/無母數統計/講義/unit 7.md",
     "文本/統計/無母數統計/題目型作業/Assignment 10.md",
@@ -287,7 +286,6 @@
     "知識/統計/統計學/資料/非結構化資料.md",
     "知識/統計/統計學/資料/結構化資料.md",
     "知識/統計/統計學/資料/類別資料.md",
-    "知識/統計/類別資料分析/有序尺度.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/元素.md",
     "文本/統計/無母數統計/講義/unit 6.md",
