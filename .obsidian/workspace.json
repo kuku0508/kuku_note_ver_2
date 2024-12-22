@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 8.md"
+                "file": "文本/統計/無母數統計/題目型作業/Assignment 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 8"
+              "icon": "lucide-file",
+              "title": "Assignment 10"
             }
           }
         ]
@@ -262,10 +264,10 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "知識/統計/統計學/資料/區間尺度.md",
-    "知識/統計/類別資料分析/有序尺度.md",
     "文本/統計/無母數統計/講義/unit 8.md",
     "文本/統計/無母數統計/講義/unit 7.md",
+    "知識/統計/統計學/資料/區間尺度.md",
+    "知識/統計/類別資料分析/有序尺度.md",
     "文本/統計/無母數統計/題目型作業/Assignment 10.md",
     "文本/統計/無母數統計/題目型作業/Assignment 6.md",
     "文本/統計/無母數統計/題目型作業/Assignment 1.md",
