@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/統計/無母數統計/講義/unit 8.md"
+                "file": "文本/統計/SAS/講義/SAS Charpter 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "unit 8"
+              "title": "SAS Charpter 11"
             }
           }
         ]
@@ -71,8 +71,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,10 +220,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "文本/統計/無母數統計/題目型作業/Assignment 10.md",
+    "文本/統計/SAS/講義/SAS Charpter 10.md",
+    "文本/統計/SAS/講義/SAS Charpter 9.md",
     "文本/統計/無母數統計/講義/unit 8.md",
+    "文本/統計/無母數統計/題目型作業/Assignment 10.md",
     "文本/統計/無母數統計/講義/unit 7.md",
     "知識/統計/統計學/資料/區間尺度.md",
     "知識/統計/類別資料分析/有序尺度.md",
@@ -249,8 +250,6 @@
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/元素.md",
-    "文本/統計/無母數統計/講義/unit 6.md",
-    "文本/統計/無母數統計/講義/unit 5.md",
     "未處理/Pasted image 20241119233316.png",
     "未處理/Pasted image 20241126235348.png",
     "未處理/F2024_Homework(10).pdf",
