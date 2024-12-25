@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 3.md"
+                "file": "文本/統計/迴歸分析/講義/unit 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "unit 3"
+              "title": "unit 2"
             }
           }
         ]
@@ -222,8 +222,10 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "未處理/Pasted image 20241119233316.png",
+    "文本/統計/迴歸分析/講義/unit 1.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
     "文本/統計/迴歸分析/講義/unit 3.md",
+    "未處理/Pasted image 20241119233316.png",
     "未處理/Pasted image 20241126235348.png",
     "未處理/Pasted Image 20241225185947_503.png",
     "文本/未分類/文本/Drawing 2024-12-25 18.59.15.excalidraw.md",
@@ -251,7 +253,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "未處理/F2024_Homework(10).pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
     "文本/統計/SAS/表/output/Cox-stuart test in SAS output.png",
