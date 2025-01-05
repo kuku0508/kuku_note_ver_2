@@ -33,8 +33,7 @@
               "title": "unit 5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "220ff52ed3950b2d",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 6.md",
     "文本/統計/迴歸分析/講義/unit 5.md",
+    "文本/統計/迴歸分析/講義/unit 6.md",
     "文本/統計/迴歸分析/講義/Drawing 2025-01-06 01.24.04.excalidraw.md",
     "文本/統計/迴歸分析/講義/unit 4.md",
     "文本/統計/迴歸分析/講義/unit 3.md",
