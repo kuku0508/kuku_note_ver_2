@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS other output.png"
+                "file": "文本/統計/迴歸分析/報告/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Linear Regression Assignment 2 Problem 2.4 a SAS other output"
+              "icon": "lucide-file",
+              "title": "《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記"
             }
           },
           {
@@ -234,8 +236,11 @@
   },
   "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
+    "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS prediction output.png",
+    "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS Parameter output.png",
+    "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS other output.png",
     "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png",
-    "文本/統計/迴歸分析/報告/迴歸分析 - 克卜勒EDA.png",
+    "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
     "文本/統計/迴歸分析/報告/表",
     "文本/統計/迴歸分析/報告/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
     "未處理/機率密度函數.md",
@@ -273,12 +278,9 @@
     "未處理/F2024_Homework(10).pdf",
     "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
     "文本/統計/SAS/表/output/Cox-stuart test in SAS output.png",
-    "文本/統計/SAS/表/Cox-stuart test in SAS output.png",
     "知識/統計/SAS/假設檢定/無母數統計",
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定",
     "知識/統計/SAS/假設檢定/無母數統計/比例檢定",
-    "知識/統計/SAS/假設檢定/無母數統計/趨勢檢定",
-    "文本/統計/無母數統計/題目型作業/表/NA Assignment 7 chi-square table.png",
-    "文本/統計/無母數統計/題目型作業/表/NA Assignment 7 Friedman test SAS output.png"
+    "知識/統計/SAS/假設檢定/無母數統計/趨勢檢定"
   ]
 }
