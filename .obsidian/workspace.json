@@ -11,12 +11,14 @@
             "id": "e45fd8ffe5d6d581",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/報告/Pasted image 20241227122522.png"
+                "file": "文本/統計/迴歸分析/報告/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241227122522"
+              "icon": "lucide-file",
+              "title": "《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記"
             }
           },
           {
@@ -232,12 +234,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e45fd8ffe5d6d581",
   "lastOpenFiles": [
     "未處理/時間數列.md",
     "文本/統計/迴歸分析/報告/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
-    "知識/統計/時間數列",
     "文本/統計/迴歸分析/講義/unit 5.md",
+    "文本/統計/迴歸分析/報告/Pasted image 20241227122522.png",
+    "知識/統計/時間數列",
     "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/迴歸分析/講義/unit 4.md",
     "文本/統計/迴歸分析/講義/unit 6.md",
@@ -253,7 +256,6 @@
     "未處理/機率密度函數.md",
     "文本/統計/迴歸分析/講義/Drawing 2025-01-06 01.24.04.excalidraw.md",
     "未處理/Pasted image 20250104151053.png",
-    "文本/統計/迴歸分析/報告/Pasted image 20241227122522.png",
     "文本/統計/無母數統計/講義/unit 2.md",
     "文本/統計/無母數統計/講義/unit 5.md",
     "文本/統計/無母數統計/講義/unit 6.md",
@@ -272,7 +274,6 @@
     "文本/統計/SAS/講義/SAS Charpter 5.md",
     "文本/統計/SAS/講義/SAS Charpter 8.md",
     "文本/統計/SAS/講義/SAS Charpter 9.md",
-    "文本/統計/SAS/講義/SAS Charpter 10.md",
     "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
     "文本/統計/迴歸分析/資料集/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
     "未處理/F2024_Homework(10).pdf",
