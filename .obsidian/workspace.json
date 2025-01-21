@@ -245,8 +245,21 @@
                   "icon": "excalidraw-icon",
                   "title": "ch5"
                 }
+              },
+              {
+                "id": "4105b99401f83e15",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch3.7~ch4.2"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -259,17 +272,19 @@
       }
     ]
   },
-  "active": "00fe231084204c45",
+  "active": "4105b99401f83e15",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
+    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
+    "文本/統計/統計學/講義/ch5.md",
+    "文本/統計/統計學/講義/ch6.md",
     "知識/統計/統計學/分配/常見分配種類/離散/卜瓦松分配.md",
+    "未處理/未命名.md",
+    "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
     "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/統計/統計學/分配/離散型機率分配.md",
     "知識/統計/統計學/分配/機率質量函數.md",
     "知識/統計/統計學/分配/累積分布函數.md",
-    "文本/統計/統計學/講義/ch5.md",
-    "文本/統計/統計學/講義/ch6.md",
     "知識/統計/統計學/分配/常見分配種類/連續/均勻分配.md",
     "未處理/離散均勻分配.md",
     "未處理/指數分配.md",
@@ -287,8 +302,6 @@
     "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/迴歸分析/講義/unit 4.md",
     "文本/統計/迴歸分析/講義/unit 6.md",
-    "文本/統計/迴歸分析/講義/unit 2.md",
-    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
     "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS prediction output.png",
     "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS Parameter output.png",
