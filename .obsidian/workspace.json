@@ -245,21 +245,8 @@
                   "icon": "excalidraw-icon",
                   "title": "ch5"
                 }
-              },
-              {
-                "id": "4105b99401f83e15",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch3.7~ch4.2"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -272,8 +259,9 @@
       }
     ]
   },
-  "active": "4105b99401f83e15",
+  "active": "47f8ad7f22dbcec4",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch6.md",
@@ -301,7 +289,6 @@
     "知識/統計/時間數列",
     "文本/統計/迴歸分析/講義/unit 3.md",
     "文本/統計/迴歸分析/講義/unit 4.md",
-    "文本/統計/迴歸分析/講義/unit 6.md",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
     "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS prediction output.png",
     "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS Parameter output.png",
