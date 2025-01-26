@@ -218,8 +218,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -238,12 +237,12 @@
                 "id": "47f8ad7f22dbcec4",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "文本/統計/統計學/講義/ch6.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "ch6"
+                  "icon": "lucide-file",
+                  "title": "Loading Excalidraw... ch6"
                 }
               },
               {
