@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/交集.md",
+                "file": "知識/統計/統計學/集合/聯集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交集"
+              "title": "聯集"
             }
           }
         ]
@@ -273,8 +273,8 @@
   },
   "active": "043a14b4c229ba4f",
   "lastOpenFiles": [
-    "知識/統計/統計學/集合/聯集.md",
     "知識/統計/統計學/集合/交集.md",
+    "知識/統計/統計學/集合/聯集.md",
     "知識/統計/統計學/機率/條件機率.md",
     "知識/統計/統計學/機率/貝氏定理.md",
     "文本/統計/統計學/講義/ch6.md",
