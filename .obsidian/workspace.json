@@ -19,52 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "期望值"
-            },
-            "group": "db89e7e464be80f2"
-          }
-        ]
-      },
-      {
-        "id": "09fbdc46de75047e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14c931b0bb874cea",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224422,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "期望值 的關聯圖"
-            },
-            "group": "db89e7e464be80f2"
+            }
           }
         ]
       }
