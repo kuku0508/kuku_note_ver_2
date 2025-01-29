@@ -118,8 +118,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,7 +317,7 @@
       }
     ]
   },
-  "active": "043a14b4c229ba4f",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "知識/統計/統計學/基礎知識/母體參數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
