@@ -29,6 +29,32 @@
             ]
           },
           {
+            "id": "c05cc2705aafed57",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef3fd3dc1eda0695",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "期望值 的反向連結"
+                },
+                "group": "1582640cf3e176b9"
+              }
+            ]
+          },
+          {
             "id": "79951c4e4ebc65d0",
             "type": "tabs",
             "children": [
@@ -302,7 +328,7 @@
       }
     ]
   },
-  "active": "da8c196027f1dffa",
+  "active": "ef3fd3dc1eda0695",
   "lastOpenFiles": [
     "知識/統計/統計學/基礎知識/母體參數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
