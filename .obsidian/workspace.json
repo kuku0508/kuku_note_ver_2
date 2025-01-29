@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
+                    "file": "知識/統計/統計學/分配/常見分配種類/離散/卜瓦松分配.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "期望值"
+                  "title": "卜瓦松分配"
                 },
                 "group": "1582640cf3e176b9"
               }
@@ -38,38 +38,17 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
+                    "file": "知識/統計/統計學/分配/常見分配種類/離散/卜瓦松分配.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "期望值 的反向連結"
-                },
-                "group": "1582640cf3e176b9"
-              }
-            ]
-          },
-          {
-            "id": "79951c4e4ebc65d0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "da8c196027f1dffa",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "期望值 的對外連結"
+                  "title": "卜瓦松分配 的反向連結"
                 },
                 "group": "1582640cf3e176b9"
               }
@@ -328,11 +307,13 @@
       }
     ]
   },
-  "active": "ef3fd3dc1eda0695",
+  "active": "043a14b4c229ba4f",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/母體參數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/期望值.md",
+    "知識/統計/統計學/基礎知識/母體參數.md",
     "知識/統計/統計學/分配/常見分配種類/離散/二項分配.md",
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
+    "知識/統計/SAS/假設檢定/無母數統計/比例檢定/Binomial test in SAS.md",
     "知識/統計/統計學/分配/常見分配種類/連續/連續型均勻分配.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
     "此筆記庫介紹.md",
@@ -354,8 +335,6 @@
     "文本/統計/統計學/講義/ch1.1~ch2.2.md",
     "文本/統計/統計學/講義/ch5.md",
     "知識/統計/統計學/機率/全機率定理.md",
-    "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
-    "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "文本/統計/迴歸分析/報告/Pasted image 20241227122522.png",
     "知識/統計/時間數列",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
