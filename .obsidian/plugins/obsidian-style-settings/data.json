@@ -1,4 +1,9 @@
 {
   "minimal-style@@ui3@@light": "#00000000",
-  "minimal-style@@h1-weight": 900
+  "minimal-style@@h1-weight": 600,
+  "minimal-style@@h1-size": "2.125em",
+  "minimal-style@@h1-variant": "normal",
+  "minimal-style@@h1-style": "normal",
+  "minimal-style@@h1-l": false,
+  "minimal-style@@h2-size": "2em"
 }
