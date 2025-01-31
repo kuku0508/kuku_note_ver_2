@@ -222,43 +222,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "793b4464db6ea2a9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "91251712ab75943e",
-        "type": "window",
-        "children": [
-          {
-            "id": "1dbf49ee5a129e19",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47f8ad7f22dbcec4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch6.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch6"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "043a14b4c229ba4f",
   "lastOpenFiles": [
     "文本/統計/統計學/講義/ch6.md",
