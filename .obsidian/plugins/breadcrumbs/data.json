@@ -130,9 +130,9 @@
     "sameParentIsSibling": true,
     "siblingsSiblingIsSibling": true,
     "siblingsParentIsParent": true,
-    "parentsSiblingsIsParents": false,
+    "parentsSiblingsIsParents": true,
     "parentsParentsIsParent": false,
-    "cousinsIsSibling": false
+    "cousinsIsSibling": true
   },
   "refreshOnNoteSave": false,
   "showUpInJuggl": false
