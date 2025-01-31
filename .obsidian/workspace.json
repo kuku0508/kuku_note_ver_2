@@ -267,7 +267,8 @@
       "widgets:Add widget": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "workspaces:管理工作區配置": false
     }
   },
   "active": "266a3f9fcaa8e941",
