@@ -278,7 +278,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5b334ae4189edec2",
