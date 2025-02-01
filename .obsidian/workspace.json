@@ -279,8 +279,7 @@
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "5b334ae4189edec2",
