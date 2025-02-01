@@ -56,9 +56,21 @@
               "icon": "lucide-file",
               "title": "常態分配"
             }
+          },
+          {
+            "id": "5b334ae4189edec2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -218,8 +231,8 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -238,8 +251,8 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "外掛程式已不復活躍"
             }
           }
         ],
@@ -265,13 +278,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "workspaces:管理工作區配置": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266a3f9fcaa8e941",
+  "active": "5b334ae4189edec2",
   "lastOpenFiles": [
     "知識/統計/統計學/分配/常見分配種類/離散/超幾何分配.md",
     "知識/統計/統計學/分配/常見分配種類/離散/伯努利分配.md",
