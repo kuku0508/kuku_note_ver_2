@@ -6,5 +6,6 @@
   "textFontFamily": "Jf open 粉圓 2.0,俐方體11號",
   "interfaceFontFamily": "俐方體11號,Jf open 粉圓 2.0",
   "monospaceFontFamily": "俐方體11號,Jf open 粉圓 2.0",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
