@@ -11,14 +11,12 @@
             "id": "523a35aba79176a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "未處理/中央極限定理.md",
-                "mode": "source",
-                "source": false
+                "file": "未處理/中央極限定理 骰子抽樣分配 n=2.png"
               },
-              "icon": "lucide-file",
-              "title": "中央極限定理"
+              "icon": "lucide-image",
+              "title": "中央極限定理 骰子抽樣分配 n=2"
             }
           }
         ]
@@ -273,8 +271,8 @@
   },
   "active": "523a35aba79176a6",
   "lastOpenFiles": [
-    "未處理/Pasted image 20250210084727.png",
-    "未處理/中央極限定理 一顆骰子.png",
+    "未處理/中央極限定理 骰子抽樣分配 n=1.png",
+    "未處理/中央極限定理 骰子抽樣分配 n=2.png",
     "未處理/中央極限定理.md",
     "知識/統計/統計學/圖表/圖/長條圖.md",
     "知識/統計/統計學/圖表/圖/直方圖.md",
