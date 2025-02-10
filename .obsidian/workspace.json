@@ -11,14 +11,12 @@
             "id": "523a35aba79176a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "未處理/中央極限定理.md",
-                "mode": "source",
-                "source": false
+                "file": "未處理/黑龍 圖示.png"
               },
-              "icon": "lucide-file",
-              "title": "中央極限定理"
+              "icon": "lucide-image",
+              "title": "黑龍 圖示"
             }
           }
         ]
@@ -271,12 +269,14 @@
       }
     ]
   },
-  "active": "523a35aba79176a6",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/Pasted image 20250210121151.png",
-    "未處理/Pasted image 20250210121120.png",
-    "未處理/離散均勻分配.md",
+    "文本/遊戲/魔物獵人/未命名",
+    "文本/遊戲/魔物獵人",
+    "未處理/黑龍的邪眼.png",
+    "未處理/黑龍 圖示.png",
     "未處理/中央極限定理.md",
+    "未處理/離散均勻分配.md",
     "未處理/中央極限定理 骰子抽樣分配 n=2.png",
     "未處理/中央極限定理 骰子抽樣分配 n=3.png",
     "未處理/中央極限定理 骰子抽樣分配 n=1.png",
@@ -312,12 +312,10 @@
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
     "文本/統計/統計學/圖/CDF B-A.png",
-    "文本/統計/統計學/圖/散佈圖 相關性說明.png",
     "知識/統計/時間數列",
     "文本/統計/迴歸分析/報告/表",
     "文本/統計/迴歸分析/報告",
     "文本/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
-    "文本/統計/迴歸分析/資料集/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
-    "未處理/F2024_Homework(10).pdf"
+    "文本/統計/迴歸分析/資料集/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf"
   ]
 }
