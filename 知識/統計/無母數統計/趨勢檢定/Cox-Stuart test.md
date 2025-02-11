@@ -213,5 +213,5 @@ $$
 # 程式：
 詳見[[Cox-Stuart test in SAS]]
 - - -
-parent::[[無母數統計目錄]]
+parent::[[無母數統計目錄]],[[假設檢定]]
 sibling::[[單樣本符號檢定]]
