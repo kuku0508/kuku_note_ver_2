@@ -11,12 +11,14 @@
             "id": "523a35aba79176a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/時間數列/講義/老師筆記/Time Series-Session 1.md"
+                "file": "未處理/時間數列.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Time Series-Session 1"
+              "icon": "lucide-file",
+              "title": "時間數列"
             }
           }
         ]
@@ -237,23 +239,23 @@
     "type": "floating",
     "children": [
       {
-        "id": "83b1fa4778ff23d5",
+        "id": "2f977211f5719b6d",
         "type": "window",
         "children": [
           {
-            "id": "cf3db10f842958ab",
+            "id": "b19e2d690f28928c",
             "type": "tabs",
             "children": [
               {
-                "id": "95a5639f2c55bf26",
+                "id": "a3c79983b5397008",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/統計/統計學/講義/ch7.1~ch7.2.md"
+                    "file": "文本/統計/時間數列/講義/老師筆記/Time Series-Session 1.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch7.1~ch7.2"
+                  "title": "Time Series-Session 1"
                 }
               }
             ]
@@ -269,9 +271,11 @@
       }
     ]
   },
-  "active": "523a35aba79176a6",
+  "active": "a3c79983b5397008",
   "lastOpenFiles": [
     "未處理/時間數列.md",
+    "文本/統計/時間數列/講義/老師筆記/Time Series-Session 1.md",
+    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
     "未處理/信賴區間.md",
     "未處理/抽樣分配.md",
     "未處理/UNIVARIATE.md",
@@ -296,7 +300,6 @@
     "知識/統計/統計學/分配/機率分配/分配.md",
     "知識/統計/統計學/分配/機率分配/累積分配函數.md",
     "知識/統計/統計學/分配/機率分配",
-    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/機率分配/連續型機率分配.md",
@@ -313,7 +316,6 @@
     "知識/統計/統計學/圖表/圖/時間序列圖.md",
     "知識/統計/統計學/圖表/圖/莖葉圖.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
-    "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "知識/統計/統計學/抽樣/抽樣方法",
     "知識/統計/統計學/抽樣",
     "文本/統計/統計學/文本/證明"
