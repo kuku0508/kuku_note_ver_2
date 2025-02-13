@@ -11,12 +11,14 @@
             "id": "523a35aba79176a6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/迴歸分析/講義/unit 2.md"
+                "file": "未處理/時間數列.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 2"
+              "icon": "lucide-file",
+              "title": "時間數列"
             }
           },
           {
@@ -299,16 +301,17 @@
   },
   "active": "523a35aba79176a6",
   "lastOpenFiles": [
-    "文本/統計/迴歸分析/講義/unit 1.md",
-    "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png",
-    "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
-    "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
-    "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
-    "知識/統計/迴歸分析/迴歸分析目錄.md",
-    "知識/統計/迴歸分析/基礎知識/預測變數.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/基礎知識/迴歸分析.md",
+    "知識/統計/迴歸分析/基礎知識/預測變數.md",
+    "知識/統計/迴歸分析/迴歸分析目錄.md",
+    "知識/統計/迴歸分析/簡單線性迴歸/最小平方法.md",
+    "知識/統計/迴歸分析/簡單線性迴歸/簡單線性迴歸.md",
+    "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
+    "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
+    "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png",
+    "文本/統計/迴歸分析/講義/unit 1.md",
+    "文本/統計/迴歸分析/講義/unit 2.md",
+    "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
     "知識/統計/迴歸分析/基礎知識/反應變數.md",
     "未處理/時間數列.md",
     "知識/統計/統計學/基礎知識/統計學.md",
@@ -326,8 +329,6 @@
     "知識/統計/統計學/資料/區間尺度.md",
     "知識/統計/統計學/資料/比例尺度.md",
     "知識/統計/統計學/資料/資料.md",
-    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
-    "未處理/randtests.md",
     "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/統計/統計學/圖/normal distribution example.png",
     "文本/統計/統計學/表/Z table",
