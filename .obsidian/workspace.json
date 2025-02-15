@@ -275,15 +275,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a3c79983b5397008",
+                "id": "2c753f77c0b896ee",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/統計/時間數列/講義/老師筆記/Time Series-Session 1.md"
+                    "file": "文本/統計/統計學/講義/ch7.1~ch7.2.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Time Series-Session 1"
+                  "title": "ch7.1~ch7.2"
                 }
               }
             ]
@@ -299,8 +299,10 @@
       }
     ]
   },
-  "active": "a3c79983b5397008",
+  "active": "523a35aba79176a6",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
+    "文本/統計/時間數列/講義/老師筆記/Time Series-Session 1.md",
     "未處理/抽樣分配.md",
     "未處理/信賴區間.md",
     "未處理/假設檢定.md",
@@ -327,8 +329,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/對數.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
     "文本/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png",
