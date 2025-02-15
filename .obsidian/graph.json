@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "path:文本/統計/時間數列  ",
+      "query": "path:知識/統計/時間數列  ",
       "color": {
         "a": 1,
         "rgb": 10104769
@@ -74,6 +74,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.32133638605038445,
-  "close": false
+  "scale": 0.6316046762908003,
+  "close": true
 }
