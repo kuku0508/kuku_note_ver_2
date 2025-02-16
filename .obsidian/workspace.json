@@ -275,15 +275,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2c753f77c0b896ee",
+                "id": "05af7221fa7651e4",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/統計/統計學/講義/ch7.1~ch7.2.md"
+                    "file": "文本/統計/統計學/講義/ch7.3~ch7.4.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch7.1~ch7.2"
+                  "title": "ch7.3~ch7.4"
                 }
               }
             ]
@@ -301,11 +301,12 @@
   },
   "active": "523a35aba79176a6",
   "lastOpenFiles": [
-    "未處理/信賴區間.md",
+    "文本/統計/統計學/講義/ch7.3~ch7.4.md",
+    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
     "未處理/抽樣分配.md",
+    "未處理/信賴區間.md",
     "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/統計/統計學/表/Z table/Z table 0-4.09.png",
-    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
     "知識/統計/統計學/分配/機率分配/中央極限定理.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "文本/統計/時間數列/講義/老師筆記/Time Series-Session 1.md",
