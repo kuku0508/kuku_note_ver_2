@@ -12,7 +12,7 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Element Links
-MZO1eY2h: <% tp.system.prompt(&quot;請輸入你的PPT連結&quot;) %>
+MZO1eY2h: <% tp.system.prompt("請輸入你的PPT連結") %>
 
 %%
 ## Drawing
