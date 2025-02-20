@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Applied Miltivariate Statistical Analysis.md"
+                "file": "文本/書/Linear Algebra With Applications.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Applied Miltivariate Statistical Analysis"
+              "title": "Linear Algebra With Applications"
             }
           },
           {
@@ -338,11 +338,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "503aa5899e496b3f",
   "lastOpenFiles": [
-    "文本/書/Untitled.md",
-    "文本/書/Applied Multivariate Techniques.md",
     "文本/書/Applied Miltivariate Statistical Analysis.md",
+    "文本/書/Linear Algebra With Applications.md",
+    "文本/書/Applied Multivariate Techniques.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
     "文本/書/A Course In Mathematical Statistics.md",
