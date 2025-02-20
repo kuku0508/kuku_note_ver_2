@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c00ce3df62e7e20",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Linear Algebra With Applications.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Linear Algebra With Applications"
-            }
-          },
-          {
             "id": "d2ccd21d5817665e",
             "type": "leaf",
             "state": {
@@ -324,15 +312,15 @@
       }
     ]
   },
-  "active": "6c00ce3df62e7e20",
+  "active": "d2ccd21d5817665e",
   "lastOpenFiles": [
+    "文本/書/Linear Algebra With Applications.md",
     "文本/書/口袋裡的哲學書.md",
     "未處理/抽樣.md",
     "未處理/信賴區間.md",
     "未處理/機率密度函數.md",
     "文本/未分類/文本/Drawing 2024-12-25 18.59.15.excalidraw.md",
     "文本/書/Applied Miltivariate Statistical Analysis.md",
-    "文本/書/Linear Algebra With Applications.md",
     "文本/書/Applied Multivariate Techniques.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
