@@ -298,8 +298,21 @@
                   "icon": "excalidraw-icon",
                   "title": "ch7.3~ch7.4"
                 }
+              },
+              {
+                "id": "5af8fad7eabc176d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch6.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch6"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -312,8 +325,10 @@
       }
     ]
   },
-  "active": "d2ccd21d5817665e",
+  "active": "5af8fad7eabc176d",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch7.1~ch7.2.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
     "文本/書/Linear Algebra With Applications.md",
     "文本/書/口袋裡的哲學書.md",
     "未處理/抽樣.md",
@@ -338,8 +353,6 @@
     "模板/SAS 筆記.md",
     "知識/線性代數/1523.md",
     "未命名.md",
-    "模板/作業.md",
-    "未處理/randtests.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/未命名",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配",
     "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
