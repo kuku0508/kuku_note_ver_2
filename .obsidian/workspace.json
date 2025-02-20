@@ -287,7 +287,8 @@
       "widgets:Add widget": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:管理工作區配置": false
+      "workspaces:管理工作區配置": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "floating": {
