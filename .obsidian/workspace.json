@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "模板/Drawing 2025-02-20 17.32.11.excalidraw.md"
+                "file": "文本/書/自卑與超越.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-20 17.32.11.excalidraw"
+              "title": "自卑與超越"
             }
           },
           {
@@ -352,10 +352,11 @@
       }
     ]
   },
-  "active": "503aa5899e496b3f",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/書/Untitled.md",
+    "模板/書.md",
     "模板/SAS 筆記.md",
-    "模板/Drawing 2025-02-20 17.32.11.excalidraw.md",
     "模板/PPT講義.md",
     "文本/統計/統計學/講義/ch7.1~ch7.2.md",
     "未處理/抽樣.md",
@@ -383,7 +384,6 @@
     "未處理/簡單隨機抽樣.md",
     "未處理/離散均勻分配.md",
     "未處理/關聯性.md",
-    "未處理/變異數異質性.md",
     "知識/統計/時間數列/基礎知識",
     "文本/統計/時間數列/圖/時間數列 時間數列與迴歸變數關係.png",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
