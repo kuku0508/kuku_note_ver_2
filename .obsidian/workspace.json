@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -190,8 +190,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -200,8 +200,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -252,14 +252,13 @@
       "command-palette:開啟命令面板": false,
       "random-note:開始漫遊筆記": false,
       "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:Create excel file": false,
+      "widgets:Add widget": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:管理工作區配置": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
@@ -286,28 +285,15 @@
                   "icon": "excalidraw-icon",
                   "title": "ch7.3~ch7.4"
                 }
-              },
-              {
-                "id": "addc33dbdb0344ac",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch7.1~ch7.2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch7.1~ch7.2"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "width": 960,
+        "height": 1040,
         "maximize": false,
         "zoom": 0
       }
@@ -315,6 +301,7 @@
   },
   "active": "d2ccd21d5817665e",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch7.3~ch7.4.md",
     "知識/統計/統計學/抽樣/抽樣方法/分層抽樣.md",
     "文本/統計/統計學/講義/ch7.1~ch7.2.md",
     "知識/統計/統計學/抽樣/抽樣.md",
@@ -323,7 +310,6 @@
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/基礎知識/推論統計.md",
     "知識/統計/統計學/基礎知識/描述統計.md",
-    "文本/統計/統計學/講義/ch7.3~ch7.4.md",
     "文本/統計/統計學/講義/ch6.md",
     "未處理/滾雪球抽樣.md",
     "未處理/配額抽樣.md",
