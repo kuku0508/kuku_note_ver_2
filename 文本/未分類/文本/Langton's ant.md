@@ -13,3 +13,4 @@ Langton's ant，由Christopher Langton提出的細胞自動機。這個系統展
 Langton's ant 展現給我們看了即使是僅有兩條的簡單規則，亦可以產生複雜且難以預測行為的特性。
 - - -
 parent::[[細胞自動機]]
+
