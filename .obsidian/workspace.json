@@ -25,10 +25,14 @@
             "id": "8e9a1dc11bbbe186",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/Latex/Latex知識總目錄.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latex知識總目錄"
             }
           }
         ],
