@@ -14,7 +14,7 @@
               "type": "3d_graph_view",
               "state": {},
               "icon": "lucide-file",
-              "title": "3D-Graph"
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -54,9 +54,19 @@
               "icon": "orbit",
               "title": "Global 3D Graph"
             }
+          },
+          {
+            "id": "50f1439dc55fe382",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "orbit",
+              "title": "Global 3D Graph"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -267,7 +277,6 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph:3D Graph": false,
       "3d-graph-new:Global 3D Graph": false
     }
   },
@@ -307,25 +316,24 @@
                   "title": "ch7.1~ch7.2"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 960,
-        "height": 1040,
+        "width": 1280,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "26f22d4f526d4ae3",
+  "active": "50f1439dc55fe382",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch7.3~ch7.4.md",
     "知識/統計/統計學/抽樣/抽樣方法/分層抽樣.md",
     "文本/統計/統計學/講義/ch7.1~ch7.2.md",
-    "文本/統計/統計學/講義/ch7.3~ch7.4.md",
     "知識/統計/統計學/抽樣/抽樣.md",
     "知識/統計/統計學/抽樣/抽樣方法/簡單隨機抽樣.md",
     "未處理/集群抽樣.md",
