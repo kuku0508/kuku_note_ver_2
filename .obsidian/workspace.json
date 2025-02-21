@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2ccd21d5817665e",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
-            }
-          },
-          {
             "id": "ec4d3297620883a5",
             "type": "leaf",
             "state": {
@@ -44,29 +34,9 @@
               "icon": "lucide-file",
               "title": "時間數列資料"
             }
-          },
-          {
-            "id": "26f22d4f526d4ae3",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-global",
-              "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
-            }
-          },
-          {
-            "id": "50f1439dc55fe382",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view-global",
-              "state": {},
-              "icon": "orbit",
-              "title": "Global 3D Graph"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,8 +299,11 @@
       }
     ]
   },
-  "active": "50f1439dc55fe382",
+  "active": "5c6fef701f01c9d1",
   "lastOpenFiles": [
+    "知識/統計/統計學/資料/時間數列資料.md",
+    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+    "知識/統計/統計學/圖表/圖/時間數列圖.md",
     "文本/統計/統計學/講義/ch7.3~ch7.4.md",
     "知識/統計/統計學/抽樣/抽樣方法/分層抽樣.md",
     "文本/統計/統計學/講義/ch7.1~ch7.2.md",
@@ -354,9 +327,6 @@
     "未處理/機率密度函數.md",
     "文本/未分類/文本/Drawing 2024-12-25 18.59.15.excalidraw.md",
     "文本/書/Applied Miltivariate Statistical Analysis.md",
-    "文本/書/Applied Multivariate Techniques.md",
-    "文本/書/A First Course In Probability.md",
-    "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/未命名",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配",
     "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
