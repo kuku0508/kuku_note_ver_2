@@ -7,3 +7,5 @@ sideset指令可以讓你在某個符號的左下角跟左上角放任何你想�
 「\\sideset\{\_a\^b\}\{\}\\sum_\{n=1\}\^\\infty」$\rightarrow\sideset{_a^b}{}\sum_{n=1}^\infty$
 - - -
 parent::[[Latex語法表]]
+
+#latex
