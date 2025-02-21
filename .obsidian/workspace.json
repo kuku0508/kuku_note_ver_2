@@ -11,10 +11,10 @@
             "id": "d2ccd21d5817665e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "3d_graph_view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "icon": "lucide-file",
+              "title": "3D-Graph"
             }
           },
           {
@@ -255,7 +255,8 @@
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "3d-graph:3D Graph": false
     }
   },
   "floating": {
