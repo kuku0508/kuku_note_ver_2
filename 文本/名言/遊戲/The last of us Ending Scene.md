@@ -52,3 +52,8 @@ image: "https://i.ytimg.com/vi/coTGONUS6XY/maxresdefault.jpg?sqp=-oaymwEmCIAKENA
 description: "1:20 - When Joel touches the watch that Sara gave him... I took that one right in the feels.A confusing ending to a tremendous game. Some may think that Joel…"
 url: "https://youtu.be/coTGONUS6XY?si=tLXxApowTNb4dy4z"
 ```
+
+- - -
+parent::[[名言目錄 - 遊戲]]
+
+#名言 #遊戲 
