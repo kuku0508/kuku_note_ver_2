@@ -24,4 +24,4 @@ _[Ellie distances herself for a longer beat. With all hesitation, she looks up t
 
 **艾利**：嘿，等等。
 
-**艾利**：在波士頓的時候...我被咬的時候
+**艾利**：在波士頓的時候......我被咬的時候......我不是一個人。我最好的朋友也在場，他也被咬了。我們不知該怎麼辦，所以......他就說「我們先靜觀其變，」
