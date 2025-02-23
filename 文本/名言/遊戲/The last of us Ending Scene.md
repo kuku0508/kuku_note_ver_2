@@ -1,3 +1,5 @@
+**Ellie**: Hey wait.
+
 **Ellie**: Back in Boston... Back when I was bitten... I wasn't alone. My best friend was there. And she got bit too. We didn't know what to do. So... _[...]_ She says... "Let's just wait it out. Y'know, we can be all poetic and just lose our minds together." _[pause]_ I'm still waiting for my turn.
 
 **Joel**: Ellie—
