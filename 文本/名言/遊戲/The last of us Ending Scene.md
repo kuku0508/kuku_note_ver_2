@@ -19,3 +19,4 @@ _[Joel hesitates for a long beat]_
 _[Ellie distances herself for a longer beat. With all hesitation, she looks up to Joel and finally nods]_
 
 **Ellie**: ...Okay.
+
