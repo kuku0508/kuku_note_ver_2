@@ -28,4 +28,6 @@ _[Ellie distances herself for a longer beat. With all hesitation, she looks up t
 
 **喬爾**：艾利......
 
-**艾利**：他的名字是萊利
+**艾利**：他的名字是萊莉，她是第一個犧牲者。接著就是泰絲。然後是山姆。
+
+**喬爾**：這都不是你的錯
