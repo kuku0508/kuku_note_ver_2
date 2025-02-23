@@ -38,8 +38,10 @@ _[Ellie distances herself for a longer beat. With all hesitation, she looks up t
 
 **艾利**：向我發誓。 _[長停頓]_ 你向我發誓，你說過有關火螢的事都是真的。
 
-_[喬爾猶豫了]_
+_[喬爾猶豫了很久]_
 
 **喬爾**：我發誓。
+
+
 
 **艾利**：...OK
