@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "f8c3ab641d116dbe",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+              },
+              "icon": "youtube",
+              "title": "Webpage"
+            }
+          },
+          {
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "抽樣分配 - 樣本平均數"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +259,8 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph-new:Global 3D Graph": false
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open media": false
     }
   },
   "floating": {
@@ -295,43 +309,10 @@
         "height": 696,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "39f91e25151a4eb4",
-        "type": "window",
-        "children": [
-          {
-            "id": "a5feb8c6daa2de6e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "af53c6cc230420e2",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/PKM-er/media-extended",
-                    "title": "GitHub - PKM-er/media-extended: enhanced media(video/audio) playback for obsidian.md",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - PKM-er/media-extended: enhanced media(video/audio) playback for obsidian.md"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "af53c6cc230420e2",
+  "active": "f8c3ab641d116dbe",
   "lastOpenFiles": [
     "文本/名言/遊戲/The last of us Ending Scene.md",
     "文本/名言/價值觀/好奇心 安全感.md",
