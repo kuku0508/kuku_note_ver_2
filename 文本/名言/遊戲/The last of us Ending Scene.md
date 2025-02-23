@@ -46,10 +46,7 @@ _[艾莉停滯了很長的時間。她猶豫後，抬起頭看著喬爾，最後
 
 **艾莉**：...OK
 
-```embed
-title: "The Last of Us - Ending and Credits"
-image: "https://i.ytimg.com/vi/coTGONUS6XY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShNMA8=&rs=AOn4CLD7VG0665Yr4YnLnF4TDv6p78MbGA"
-description: "1:20 - When Joel touches the watch that Sara gave him... I took that one right in the feels.A confusing ending to a tremendous game. Some may think that Joel…"
+
 url: "https://youtu.be/coTGONUS6XY?si=tLXxApowTNb4dy4z"
 ```
 
