@@ -34,4 +34,4 @@ _[Ellie distances herself for a longer beat. With all hesitation, she looks up t
 
 **艾利**：不，你不懂......
 
-**喬爾**：我也是為了生存下去一直努力分ㄉ
+**喬爾**：我也是為了生存下去一直努力奮鬥，而你－不論如何，你都得繼續找到奮鬥的目標。我之
