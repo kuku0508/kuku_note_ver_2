@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "f8c3ab641d116dbe",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
-              },
-              "icon": "youtube",
-              "title": "Webpage"
-            }
-          },
-          {
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "抽樣分配 - 樣本平均數"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,7 +299,7 @@
       }
     ]
   },
-  "active": "f8c3ab641d116dbe",
+  "active": "ec4d3297620883a5",
   "lastOpenFiles": [
     "文本/名言/遊戲/The last of us Ending Scene.md",
     "文本/名言/價值觀/好奇心 安全感.md",
