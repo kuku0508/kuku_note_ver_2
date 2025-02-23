@@ -22,4 +22,6 @@ _[Ellie distances herself for a longer beat. With all hesitation, she looks up t
 
 **Ellie**: ...Okay.
 
+**艾利**：嘿，等等。
 
+**艾利**：在波士頓的時候...我被咬的時候
