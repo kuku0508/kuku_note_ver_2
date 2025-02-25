@@ -11,12 +11,10 @@
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "MA Assignment 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -331,8 +329,10 @@
       }
     ]
   },
-  "active": "34c0f8047d75c54b",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
@@ -367,8 +367,6 @@
     "文本/Department/數學/統計/資料視覺化/講義/visualization_example.md",
     "文本/Department/數學/統計/資料視覺化/講義",
     "文本/Department/數學/統計/金融實務暨行銷培訓",
-    "文本/Department/數學/統計/資料視覺化/講義/visualization_Tableau.md",
-    "文本/Department/數學/統計/資料視覺化",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
