@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/微積分/高微(ch1).md"
+                "file": "文本/Department/數學/微積分/高微Ch1與Ch2的重點整理.md"
               },
               "icon": "excalidraw-icon",
-              "title": "高微(ch1)"
+              "title": "高微Ch1與Ch2的重點整理"
             }
           }
         ]
@@ -287,9 +287,10 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
     "文本/Department/數學/微積分/高微(ch3、4).md",
+    "文本/Department/數學/微積分/高微Ch1與Ch2的重點整理.md",
     "文本/Department/數學/微積分/高微(ch2、3).md",
     "文本/Department/數學/微積分/高微(ch1).md",
     "文本/Department/數學/微積分/高微(ch1-part2).md",
@@ -323,7 +324,6 @@
     "文本/名言/辯論/粉紅色的雪.md",
     "文本/名言/價值觀/親子不同頻.md",
     "文本/名言/價值觀/節日的意義.md",
-    "文本/名言/價值觀/宿儺與漏瑚對決.md",
     "文本/名言/遊戲",
     "知識/統計/抽樣調查",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
