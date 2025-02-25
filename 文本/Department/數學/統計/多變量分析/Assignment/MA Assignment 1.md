@@ -19,7 +19,9 @@ $$
 \text{Mobil}&50976&1809&39080\\
 \text{Philip Morris}&39069&2946&38528\\
 \text{Chrysler}&36156&359&51038\\
-\text{}
+\text{Du Pont}&35209&2480&34715\\
+\text{Texaco}&32416&2413&25636
 \end{array}
 $$
+Extra
  
