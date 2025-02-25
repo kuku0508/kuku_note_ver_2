@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料視覺化/visualization_example.md",
+                "file": "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visualization_example"
+              "title": "金融實務暨行銷培訓 unit 1"
             }
           }
         ]
@@ -289,24 +289,26 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_D3.md",
+    "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 1.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_example.md",
+    "文本/Department/數學/統計/資料視覺化/講義",
     "文本/Department/數學/統計/金融實務暨行銷培訓",
-    "文本/Department/數學/統計/資料視覺化/visualization_Tableau.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_example.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_GAP.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_maokao.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 3.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 7.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_D3.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 6.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 5.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_Gephi.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_Orange3.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 0.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 4.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 2.md",
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 1.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_Tableau.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_GAP.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_maokao.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 3.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 7.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 6.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 5.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_Gephi.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_Orange3.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 0.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 4.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 2.md",
+    "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 1.md",
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit6.md",
     "文本/Department/數學/統計/資料視覺化",
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit5.md",
@@ -325,8 +327,6 @@
     "文本/Department/數學/微積分",
     "文本/Department/數學",
     "文本/Department",
-    "文本/Department/數學/統計/證券市場與投資/講義",
-    "文本/Department/數學/統計/證券市場與投資",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
