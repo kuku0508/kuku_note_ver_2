@@ -11,12 +11,14 @@
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料視覺化/visualization_Orange3.md"
+                "file": "文本/Department/數學/統計/資料視覺化/visualization_unit 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "visualization_Orange3"
+              "icon": "lucide-file",
+              "title": "visualization_unit 6"
             }
           }
         ]
@@ -287,10 +289,13 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料視覺化/visualization_unit 0.md",
+    "文本/Department/數學/統計/資料視覺化/visualization_unit 5.md",
+    "文本/Department/數學/統計/資料視覺化/visualization_unit 6.md",
+    "文本/Department/數學/統計/資料視覺化/visualization_Gephi.md",
     "文本/Department/數學/統計/資料視覺化/visualization_Orange3.md",
+    "文本/Department/數學/統計/資料視覺化/visualization_unit 0.md",
     "文本/Department/數學/統計/資料視覺化/visualization_unit 4.md",
     "文本/Department/數學/統計/資料視覺化/visualization_unit 3.md",
     "文本/Department/數學/統計/資料視覺化/visualization_unit 2.md",
@@ -315,9 +320,6 @@
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch10.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch9.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch8.md",
-    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch7.md",
-    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch6.md",
-    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch5.md",
     "文本/Department/數學/統計/SQL/講義",
     "文本/Department/數學/統計/SQL",
     "文本/Department/數學/微積分",
