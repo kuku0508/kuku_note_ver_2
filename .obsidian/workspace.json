@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md"
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MA chapter2"
+              "title": "MA chapter1"
             }
           }
         ]
@@ -289,8 +289,8 @@
   },
   "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/讀劇/PPT/讀劇概論 寫實主義 unit 2.md",
     "文本/Department/數學/統計/多變量分析/Assignment",
