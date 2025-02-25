@@ -9,7 +9,8 @@ Check whether the following data satisfy the normality assumption.
 $$
 \begin{array}{lrrr}
 \hline
-Company&X_1-\text{Sales&X_2-Profits&X_3-Assets
+\text{Company}&X_1-\text{Sales}&X_2-\text{Profits}&X_3-\text{Assets}\\
+\hline
 \end{array}
 $$
  
