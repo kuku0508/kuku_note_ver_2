@@ -15,7 +15,8 @@ $$
 \text{Ford}&96933&3835&160893\\
 \text{Exxon}&86656&3510&83219\\
 \text{IBM}&63438&3758&77734\\
-
+\text{General Electric}&55264&3939&128344\\
+\text{Mobil}&50976&
 \end{array}
 $$
  
