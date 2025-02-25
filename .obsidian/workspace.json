@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch1.md"
+                "file": "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "資料庫導論與應用 ch1"
+              "title": "資料庫導論與應用 ch3"
             }
           }
         ]
@@ -289,8 +289,10 @@
   },
   "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/數學/微積分/高微(ch1-part2).md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch2.md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch3.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch1.md",
+    "文本/Department/數學/微積分/高微(ch1-part2).md",
     "文本/Department/數學/統計/SQL/講義",
     "文本/Department/數學/統計/SQL",
     "文本/Department/數學/微積分/高微(ch15.9).md",
@@ -318,10 +320,8 @@
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md",
-    "文本/Department/數學/統計/證券市場與投資/講義/ch1 課程介紹與證券市場投資環境.md",
     "文本/Department/數學/統計/證券市場與投資/講義",
     "文本/Department/數學/統計/證券市場與投資",
-    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch1.md",
     "文本/Department/數學/統計/政府統計實務/講義",
     "文本/Department/數學/統計/政府統計實務",
     "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
