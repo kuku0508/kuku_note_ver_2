@@ -11,10 +11,14 @@
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "未命名"
             }
           }
         ]
@@ -331,11 +335,12 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/未命名.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 1.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 巨集指令.md",
@@ -366,7 +371,6 @@
     "文本/Department/數學/統計/資料視覺化/講義/visualization_D3.md",
     "文本/Department/數學/統計/資料視覺化/講義/visualization_example.md",
     "文本/Department/數學/統計/資料視覺化/講義",
-    "文本/Department/數學/統計/金融實務暨行銷培訓",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
