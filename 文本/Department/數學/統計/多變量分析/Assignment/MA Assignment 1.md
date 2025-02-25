@@ -23,5 +23,5 @@ $$
 \text{Texaco}&32416&2413&25636
 \end{array}
 $$
-Extra
+Extra Question creating a plot of a bivariate normal distribution with$\mu_1$
  
