@@ -5,5 +5,10 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
  (b) The distribution of $n(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)$.
 
 ## 2.
-C
+Check whether the following data satisfy the normality assumption.
+$$
+\begin{array}{lrrr}
+\h
+\end{array}
+$$
  
