@@ -11,12 +11,14 @@
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch3.md"
+                "file": "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "資料庫導論與應用 ch3"
+              "icon": "lucide-file",
+              "title": "資料庫導論與應用 ch6"
             }
           }
         ]
@@ -289,8 +291,11 @@
   },
   "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch2.md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch5.md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch6.md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch4.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch3.md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch2.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch1.md",
     "文本/Department/數學/微積分/高微(ch1-part2).md",
     "文本/Department/數學/統計/SQL/講義",
@@ -317,9 +322,6 @@
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-05.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md",
     "文本/Department/數學/統計/證券市場與投資/講義",
     "文本/Department/數學/統計/證券市場與投資",
     "文本/Department/數學/統計/政府統計實務/講義",
