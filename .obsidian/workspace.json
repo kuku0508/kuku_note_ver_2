@@ -11,12 +11,14 @@
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/讀劇/PPT/讀劇概論 寫實主義 unit 2.md"
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "讀劇概論 寫實主義 unit 2"
+              "icon": "lucide-file",
+              "title": "MA Assignment"
             }
           }
         ]
@@ -287,13 +289,14 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/未命名",
+    "文本/Department/讀劇/PPT/讀劇概論 寫實主義 unit 2.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment.md",
+    "文本/Department/數學/統計/多變量分析/Assignment",
     "文本/Department/數學/統計/多變量分析/講義",
     "文本/Department/數學/統計/多變量分析",
     "文本/Department/讀劇/PPT/讀劇概論 寫實主義 unit 1.md",
-    "文本/Department/讀劇/PPT/讀劇概論 寫實主義 unit 2.md",
     "README.md",
     "文本/Department/讀劇/PPT/讀劇概論 intro.md",
     "文本/Department/讀劇/文本/平田織佐的劇場是真正的人類陳列室─看《三姊妹─人形機器人版》.md",
@@ -324,7 +327,6 @@
     "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 7.md",
     "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 6.md",
     "文本/Department/數學/統計/資料視覺化",
-    "文本/Department/程式語言/python/Python 輕鬆上手學",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
