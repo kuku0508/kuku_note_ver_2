@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/微積分/高微(ch2、3).md"
+                "file": "文本/Department/數學/微積分/高微(ch1).md"
               },
               "icon": "excalidraw-icon",
-              "title": "高微(ch2、3)"
+              "title": "高微(ch1)"
             }
           }
         ]
@@ -287,10 +287,12 @@
       }
     ]
   },
-  "active": "34c0f8047d75c54b",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/Department/數學/微積分/高微(ch1).md",
+    "文本/Department/數學/微積分/高微(ch3、4).md",
     "文本/Department/數學/微積分/高微(ch2、3).md",
+    "文本/Department/數學/微積分/高微(ch1).md",
+    "文本/Department/數學/微積分/高微(ch1-part2).md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
     "文本/Department/數學/微積分",
     "文本/Department/數學",
@@ -322,8 +324,6 @@
     "文本/名言/價值觀/親子不同頻.md",
     "文本/名言/價值觀/節日的意義.md",
     "文本/名言/價值觀/宿儺與漏瑚對決.md",
-    "文本/名言/價值觀/柯柏-雜菜煲食後感.md",
-    "文本/名言/價值觀/好奇心 安全感.md",
     "文本/名言/遊戲",
     "知識/統計/抽樣調查",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
