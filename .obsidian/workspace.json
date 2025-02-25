@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "文本/統計/統計學/表/Table of Distributions.pdf"
+                "file": "文本/統計/統計學/表/Table of Distributions.pdf",
+                "page": 1,
+                "left": -19,
+                "top": 577,
+                "zoom": 0.8097562713797036
               },
               "icon": "lucide-file-text",
               "title": "Table of Distributions"
@@ -246,7 +250,10 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open media": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "floating": {
@@ -295,44 +302,12 @@
         "height": 696,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "18a72e4ed7c75b3f",
-        "type": "window",
-        "children": [
-          {
-            "id": "ddf2bc2df77eaba6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a4649df448fc4ce4",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/RyotaUshio/obsidian-pdf-plus",
-                    "title": "GitHub - RyotaUshio/obsidian-pdf-plus: PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - RyotaUshio/obsidian-pdf-plus: PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings."
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "a4649df448fc4ce4",
+  "active": "ec4d3297620883a5",
   "lastOpenFiles": [
+    "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/統計/統計學/表/Table of Distributions.pdf",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/常態分配.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
@@ -370,7 +345,6 @@
     "文本/未分類/圖/obsidian放大鏡.png",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/未命名",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配",
-    "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/統計/統計學/表/Z table/Z table 0-4.09.png",
     "知識/統計/時間數列/基礎知識",
     "文本/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
