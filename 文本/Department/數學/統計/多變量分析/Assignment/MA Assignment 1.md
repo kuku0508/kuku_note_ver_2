@@ -8,7 +8,8 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
 Check whether the following data satisfy the normality assumption.
 $$
 \begin{array}{lrrr}
-\h
+\hline
+Company&X_1-\text{Sales&X_2-Profits&X_3-Assets
 \end{array}
 $$
  
