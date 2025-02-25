@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/讀劇/劇本/閹雞劇本.md"
+                "file": "文本/Department/讀劇/文本/《閹雞》表藝雜誌.md"
               },
               "icon": "excalidraw-icon",
-              "title": "閹雞劇本"
+              "title": "《閹雞》表藝雜誌"
             }
           }
         ]
@@ -289,11 +289,13 @@
   },
   "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
+    "文本/Department/讀劇/劇本/閹雞劇本.md",
+    "文本/Department/讀劇/文本/《閹雞》表藝雜誌.md",
+    "文本/Department/讀劇/文本",
     "文本/Department/讀劇/劇本/達摩劇本.md",
     "文本/Department/讀劇/劇本/服妖之鑑.md",
     "文本/Department/讀劇/劇本/赤鬼.md",
     "文本/Department/讀劇/劇本/三姊妹劇本_平田織佐版.md",
-    "文本/Department/讀劇/劇本/閹雞劇本.md",
     "文本/Department/讀劇/劇本",
     "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 5.md",
     "文本/Department/讀劇",
@@ -318,13 +320,11 @@
     "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 4.md",
     "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 2.md",
     "文本/Department/數學/統計/資料視覺化/講義/visualization_unit 1.md",
-    "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit6.md",
     "文本/Department/數學/統計/資料視覺化",
     "文本/Department/程式語言/python/Python 輕鬆上手學",
     "文本/Department/程式語言/python",
     "文本/Department/數學/統計/SQL/講義",
     "文本/Department/數學/統計/SQL",
-    "文本/Department/數學/微積分",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
