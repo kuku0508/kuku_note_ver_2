@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 5.md",
+                "file": "文本/Department/讀劇/劇本/閹雞劇本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "金融實務暨行銷培訓 unit 5"
+              "title": "閹雞劇本"
             }
           }
         ]
@@ -289,11 +289,14 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
+    "文本/Department/讀劇/劇本/達摩劇本.md",
+    "文本/Department/讀劇/劇本/閹雞劇本.md",
+    "文本/Department/讀劇/劇本",
+    "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 5.md",
     "文本/Department/讀劇",
     "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 4.md",
-    "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 5.md",
     "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 3.md",
     "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 2.md",
     "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 1.md",
@@ -319,14 +322,11 @@
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit5.md",
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit4.md",
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit3.md",
-    "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit2.md",
     "文本/Department/程式語言/python/Python 輕鬆上手學",
     "文本/Department/程式語言/python",
     "文本/Department/數學/統計/SQL/講義",
     "文本/Department/數學/統計/SQL",
     "文本/Department/數學/微積分",
-    "文本/Department/數學",
-    "文本/Department",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
