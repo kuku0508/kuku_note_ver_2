@@ -4,6 +4,9 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
  (a) The distribution of $\bar{X}$.
  (b) The distribution of $n(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)$.
 
+我們今天知道
+
+
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
@@ -25,3 +28,4 @@ $$
 $$
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
+
