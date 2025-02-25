@@ -10,7 +10,7 @@ X\sim N_3(\mu,\Sigma)
 $$
 而我們要求$\bar{X}$的分配，也就是
 $$
-\frac{1}{36}\Sigma^{36}_{i=1}X_i
+\bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
 $$
 
 ## 2.
