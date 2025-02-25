@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/讀劇/劇本/閹雞劇本.md",
+                "file": "文本/Department/讀劇/劇本/三姊妹劇本_平田織佐版 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "閹雞劇本"
+              "title": "三姊妹劇本_平田織佐版 1"
             }
           }
         ]
@@ -291,8 +291,10 @@
   },
   "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/讀劇/劇本/達摩劇本.md",
+    "文本/Department/讀劇/劇本/三姊妹劇本_平田織佐版.md",
+    "文本/Department/讀劇/劇本/三姊妹劇本_平田織佐版 1.md",
     "文本/Department/讀劇/劇本/閹雞劇本.md",
+    "文本/Department/讀劇/劇本/達摩劇本.md",
     "文本/Department/讀劇/劇本",
     "文本/Department/數學/統計/金融實務暨行銷培訓/金融實務暨行銷培訓 unit 5.md",
     "文本/Department/讀劇",
@@ -320,8 +322,6 @@
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit6.md",
     "文本/Department/數學/統計/資料視覺化",
     "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit5.md",
-    "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit4.md",
-    "文本/Department/程式語言/python/Python 輕鬆上手學/Python輕鬆上手學 Unit3.md",
     "文本/Department/程式語言/python/Python 輕鬆上手學",
     "文本/Department/程式語言/python",
     "文本/Department/數學/統計/SQL/講義",
