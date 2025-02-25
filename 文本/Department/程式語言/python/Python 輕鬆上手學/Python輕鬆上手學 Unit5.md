@@ -12,7 +12,7 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Element Links
-MZO1eY2h: https://drive.google.com/file/d/1smBZuz1DHkcO9BOYBuAFAUm-TqP7C68p/view?usp=drive_link
+MZO1eY2h: https://drive.google.com/file/d/1ljPOdR6jx1wh9AwCeDun2OKeCkpwpwtT/view?usp=drive_link
 
 %%
 ## Drawing
