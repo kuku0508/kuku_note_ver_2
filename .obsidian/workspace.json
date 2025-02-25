@@ -245,7 +245,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "floating": {
@@ -294,13 +295,46 @@
         "height": 696,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "18a72e4ed7c75b3f",
+        "type": "window",
+        "children": [
+          {
+            "id": "ddf2bc2df77eaba6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4649df448fc4ce4",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/RyotaUshio/obsidian-pdf-plus",
+                    "title": "GitHub - RyotaUshio/obsidian-pdf-plus: PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings.",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - RyotaUshio/obsidian-pdf-plus: PDF++: the most Obsidian-native PDF annotation & viewing tool ever. Comes with optional Vim keybindings."
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "ec4d3297620883a5",
+  "active": "a4649df448fc4ce4",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/常態分配.md",
     "文本/統計/統計學/表/Table of Distributions.pdf",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/常態分配.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/超幾何分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
