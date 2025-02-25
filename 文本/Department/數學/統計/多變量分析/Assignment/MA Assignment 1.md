@@ -16,7 +16,10 @@ $$
 \text{Exxon}&86656&3510&83219\\
 \text{IBM}&63438&3758&77734\\
 \text{General Electric}&55264&3939&128344\\
-\text{Mobil}&50976&
+\text{Mobil}&50976&1809&39080\\
+\text{Philip Morris}&39069&2946&38528\\
+\text{Chrysler}&36156&359&51038\\
+\text{}
 \end{array}
 $$
  
