@@ -8,7 +8,7 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
 $$
 X\sim N_3(\mu,\Sigma)
 $$
-而我們要求$\bar{X}$的分配
+而我們要求$\bar{X}$的分配，也就是$\$
 
 ## 2.
 Check whether the following data satisfy the normality assumption.
