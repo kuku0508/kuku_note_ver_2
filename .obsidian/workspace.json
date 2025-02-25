@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec4d3297620883a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文本/統計/統計學/表/Table of Distributions.pdf",
-                "page": 1,
-                "left": -19,
-                "top": 577,
-                "zoom": 0.8097562713797036
-              },
-              "icon": "lucide-file-text",
-              "title": "Table of Distributions"
-            }
-          },
-          {
             "id": "34c0f8047d75c54b",
             "type": "leaf",
             "state": {
@@ -305,10 +289,10 @@
       }
     ]
   },
-  "active": "ec4d3297620883a5",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/統計/統計學/表/Table of Distributions.pdf",
+    "文本/統計/統計學/表/Z table/Z table -4.09-0.png",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/常態分配.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/超幾何分配.md",
