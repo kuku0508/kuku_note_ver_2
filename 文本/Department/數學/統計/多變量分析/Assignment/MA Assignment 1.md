@@ -12,7 +12,10 @@ $$
 \text{Company}&X_1-\text{Sales}&X_2-\text{Profits}&X_3-\text{Assets}\\
 \hline
 \text{General Motors}&126974&4224&173297\\
-\text{
+\text{Ford}&96933&3835&160893\\
+\text{Exxon}&86656&3510&83219\\
+\text{IBM}&63438&3758&77734\\
+
 \end{array}
 $$
  
