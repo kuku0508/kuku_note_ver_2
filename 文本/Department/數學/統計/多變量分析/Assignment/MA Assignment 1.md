@@ -11,6 +11,8 @@ $$
 \hline
 \text{Company}&X_1-\text{Sales}&X_2-\text{Profits}&X_3-\text{Assets}\\
 \hline
+\text{General Motors}&126974&4224&173297\\
+\text{
 \end{array}
 $$
  
