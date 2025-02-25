@@ -304,12 +304,25 @@
                   "icon": "excalidraw-icon",
                   "title": "MA chapter1"
                 }
+              },
+              {
+                "id": "0ab837168c4dc68c",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "MA chapter2"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 0,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -318,10 +331,10 @@
       }
     ]
   },
-  "active": "54ea96f2b1af3e0d",
+  "active": "0ab837168c4dc68c",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 1.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 巨集指令.md",
