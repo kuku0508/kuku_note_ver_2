@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md"
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter 14"
+              "title": "MA Assignment 1"
             }
           }
         ]
@@ -289,10 +289,12 @@
   },
   "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 巨集指令.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 巨集指令.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/讀劇/PPT/讀劇概論 寫實主義 unit 2.md",
     "文本/Department/數學/統計/多變量分析/Assignment",
     "文本/Department/數學/統計/多變量分析/講義",
@@ -322,8 +324,6 @@
     "文本/Department/數學/統計/資料視覺化/講義",
     "文本/Department/數學/統計/金融實務暨行銷培訓",
     "文本/Department/數學/統計/資料視覺化/講義/visualization_Tableau.md",
-    "文本/Department/數學/統計/資料視覺化/講義/visualization_GAP.md",
-    "文本/Department/數學/統計/資料視覺化/講義/visualization_maokao.md",
     "文本/Department/數學/統計/資料視覺化",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
