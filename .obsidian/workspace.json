@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/微積分/高微(ch1-part2).md"
+                "file": "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "高微(ch1-part2)"
+              "title": "資料庫導論與應用 ch1"
             }
           }
         ]
@@ -287,8 +287,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34c0f8047d75c54b",
   "lastOpenFiles": [
+    "文本/Department/數學/微積分/高微(ch1-part2).md",
+    "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch1.md",
+    "文本/Department/數學/統計/SQL/講義",
     "文本/Department/數學/統計/SQL",
     "文本/Department/數學/微積分/高微(ch15.9).md",
     "文本/Department/數學/微積分/高微(ch15.3).md",
@@ -304,7 +307,6 @@
     "文本/Department/數學/微積分/高微(ch6).md",
     "文本/Department/數學/微積分/高微(ch2、3).md",
     "文本/Department/數學/微積分/高微(ch1).md",
-    "文本/Department/數學/微積分/高微(ch1-part2).md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
     "文本/Department/數學/微積分",
     "文本/Department/數學",
@@ -324,8 +326,6 @@
     "文本/Department/數學/統計/政府統計實務",
     "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
-    "文本/名言/遊戲",
-    "知識/統計/抽樣調查",
     "文本/Department/數學/統計/SAS/表/output/binomial test sas output.png",
     "文本/Department/數學/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
     "文本/Department/數學/統計/時間數列/圖/時間數列 時間數列與迴歸變數關係.png",
