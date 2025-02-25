@@ -5,7 +5,7 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
  (b) The distribution of $n(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)$.
 
 目前我們已知條件，
-- 隨機樣本$
+- 隨機樣本$X_1,X_2\ldots,X_{36}$ 服從三變量的常態分配
 
 
 ## 2.
