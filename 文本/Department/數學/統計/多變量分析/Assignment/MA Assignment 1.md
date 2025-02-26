@@ -13,7 +13,10 @@ $$
 \bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
 $$
 $$
-由於\frac{1}{36}\sum^{36}_{i=1}X_i為X_i的線性組合，而X_i服從常態
+\begin{align}
+&由於\frac{1}{36}\sum^{36}_{i=1}X_i為X_i的線性組合，而X_i服從三維常態分配，\\\\
+&故\bar{X}u,
+\end{align}
 $$
 ## 2.
 Check whether the following data satisfy the normality assumption.
