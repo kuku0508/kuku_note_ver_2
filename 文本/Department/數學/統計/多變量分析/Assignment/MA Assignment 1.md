@@ -27,6 +27,8 @@ $$
 $$
 Cov(\bar{X})=\frac{1}{n}\Sigma=\frac{1}{36}\Sigma
 $$
+(b)
+
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
