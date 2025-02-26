@@ -4,6 +4,8 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
  (a) The distribution of $\bar{X}$.
  (b) The distribution of $n(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)$.
 
+
+(a)
 目前我們已知，因為隨機樣本$X_1,\ldots,X_{36}$抽樣自平均數為$\mu$；共變異數為$\Sigma$；分配為三維常態的，故：
 $$
 X\sim N_3(\mu,\Sigma)
@@ -13,7 +15,7 @@ $$
 \bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
 $$
 由於$\frac{1}{36}\sum^{36}_{i=1}X_i$為$X_i$的線性組合，而$X_i$服從三維常態分配，
-故\bar{X}也服從三維常態分配。
+故$\bar{X}$也服從三維常態分配。
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
