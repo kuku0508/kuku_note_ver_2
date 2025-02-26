@@ -12,7 +12,9 @@ $$
 $$
 \bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
 $$
-由於$$
+$$
+由於\frac{1}{36}\sum^{36}_{i=1}X_i為X_i的線性組合，而X_i服從常態
+$$
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
