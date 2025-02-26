@@ -14,8 +14,10 @@ $$
 $$
 我們可以發現樣本平均數可以被拆分為如下：
 $$
+\begin{align}
 \frac{1}{36}\quad以及\quad\sum^{36}_{i=1}X_i
-$$
+\end{align}$$
+
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
