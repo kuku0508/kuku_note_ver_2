@@ -18,7 +18,7 @@ $$
 &\frac{1}{36}\quad以及\quad\sum^{36}_{i=1}X_i\\\\
 &\because\,\sum^{36}_{i=1}X_i=X_1+X_2+\ldots X_{36}\\\\
 &\therefore\,\sum^{36}_{i=1}X_i是X的線性組合\\\\
-&且故\sum^{36}_{i=1}X_i
+&且任何X的線性組合會服從常態\sum^{36}_{i=1}X_i
 \end{align}
 $$
 
