@@ -21,7 +21,10 @@ $$
 $$
 E(\bar{X})=\mu
 $$
-
+變異數為：
+$$
+Cov(\bar{X})=\frac{1}{}
+$$
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
