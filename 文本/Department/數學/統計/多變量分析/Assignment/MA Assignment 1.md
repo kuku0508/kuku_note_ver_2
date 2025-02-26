@@ -6,7 +6,7 @@ Let $X_1,\ldots,X_{36}$ be a random sample of size 36 from a three-variate norma
 
 
 (a)
-由於題目說random sample，因為隨機樣本$X_1,\ldots,X_{36}$抽樣自平均數為$\mu$；共變異數為$\Sigma$；分配為三維常態的，故：
+由於題目說樣本為random sample，可以知道說$X_1、X_2\ldots、X_{36}$ 故：
 $$
 X\sim N_3(\mu,\Sigma)
 $$
