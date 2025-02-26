@@ -12,18 +12,7 @@ $$
 $$
 \bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
 $$
-我們可以發現樣本平均數可以被拆分為如下：
-$$
-\begin{align}
-&\frac{1}{36}\quad以及\quad\sum^{36}_{i=1}X_i\\\\
-&\because\,\sum^{36}_{i=1}X_i=X_1+X_2+\ldots X_{36}\\\\
-&\therefore\,\sum^{36}_{i=1}X_i是X的線性組合\\\\
-&且任何X的線性組合會服從常態，若X服從多維常態\\\\
-&故\sum^{36}_{i=1}X_i也服從多維常態。\\\\
-&同上\bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
-\end{align}
-$$
-
+由於$$
 ## 2.
 Check whether the following data satisfy the normality assumption.
 $$
