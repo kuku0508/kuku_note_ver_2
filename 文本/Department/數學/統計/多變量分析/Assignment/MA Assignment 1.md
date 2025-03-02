@@ -186,6 +186,7 @@ $$
 ![[Pasted image 20250303073946.png|500]]
 
 ### **利潤（Profits）&資產（Assets）**
+![[Pasted image 20250303074013.png|500]]
 
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
