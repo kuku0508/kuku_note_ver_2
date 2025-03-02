@@ -62,6 +62,10 @@ $$
 #### 銷售（Sales）：
 ##### Q-Q plot
 ![[Pasted image 20250303035646.png]]
+$$
+\begin{array}{cccc}
+\end{array}
+$$
 ##### Shapiro-Wilk test
 
 #### 利潤（Profits）：
