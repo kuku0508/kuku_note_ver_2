@@ -96,7 +96,7 @@ H_0\text{：}銷售額服從常態分配\quad  vs \quad  H_1\text{：}銷售額�
 $$
 由R得到其P-Value為「0.1018」，故我們不拒絕虛無假設，我們沒有足夠強烈的證據證明各廠商的銷售額不服從常態分配。
 
-透過Q-Q plot、皮爾森相關係數以及Shapiro-Wilk test，
+透過Q-Q plot、皮爾森相關係數以及Shapiro-Wilk test，我們皆得到各廠商的銷售額服從常態分配的結論。
 ### **利潤（Profits）：**
 #### Q-Q plot
 ![[MA Assignment1 QQ-plot Profits.png|500]]
