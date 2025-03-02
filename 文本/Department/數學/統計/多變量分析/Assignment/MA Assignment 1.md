@@ -81,6 +81,7 @@ $$
 126974&0.95&1.64\\
 \end{array}
 $$
+而
 ##### Shapiro-Wilk test
 
 #### 利潤（Profits）：
