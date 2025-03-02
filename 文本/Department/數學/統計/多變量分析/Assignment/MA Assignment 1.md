@@ -192,8 +192,10 @@ Assets <- c(173297,160893,83219,77734,128344,39080,38528,51038,34715,25636)
 #sort()拿來從小到大排列資料
 data_list_qqplot <- list(Sales = sort(Sales), Profits = sort(Profits), Assets = sort(Assets))
 
+#用迴圈，不想讓程式太長
 for(name in names(data_list_qqplot)){
   x <- data_list_qqplot[[name]]
+  #編號從1到樣本數
   id <- seq_along(x)
   level <- (id - 0.5) / length(x)
   q <- qnorm(level)
