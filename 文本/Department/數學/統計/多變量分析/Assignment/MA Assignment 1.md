@@ -16,8 +16,8 @@ $$
 $$
 \bar{X}=\frac{1}{36}\sum^{36}_{i=1}X_i
 $$
-由於$\frac{1}{36}\sum^{36}_{i=1}X_i$為$X_i$的線性組合，而$X_i$服從三維常態分配。
-且如果$X_i$服從常態分配，則$X_i$的線性組合也會服從常態分配。
+我們已知如果$X$服從常態分配，則$X$的線性組合也會服從常態分配。
+而$\frac{1}{36}\sum^{36}_{i=1}X_i$為$X_i$的線性組合，且$X_i$服從三維常態分配。
 故$\bar{X}$也服從三維常態分配。
 
 而其期望值為：
@@ -33,7 +33,7 @@ $$
 $$
 \bar{X}\sim N_3(\mu,\frac{1}{36}\Sigma)
 $$
-
+我們已知如果$X$服從
 
 ## 2.
 Check whether the following data satisfy the normality assumption.
