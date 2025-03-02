@@ -99,7 +99,7 @@ $$
 ![[MA Assignment1 QQ-plot Profits.png|500]]
 #### Shapiro-Wilk test
 
-### 資產（Assets）：
+### **資產（Assets）：**
 ##### Q-Q plot
 ![[MA Assignment1 QQ-plot Assets.png]]
 ##### Shapiro-Wilk test
