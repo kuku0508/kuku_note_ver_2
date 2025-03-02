@@ -225,7 +225,24 @@ $$
 ### **利潤（Profits）&資產（Assets）**
 ![[MA Assignment1 chi-square plot Profits Assets.png|500]]
 
-
+$$
+\begin{array}{}
+&\text{Profits＆Assets}\\
+\hline
+\text{id}&\text{Squared Mahalanobis Distance}&\chi^2_2\,\text{Quantile}\\
+\hline
+1	&	0.42	&	0.1	\\
+2	&	0.82	&	0.33	\\
+3	&	0.86	&	0.58	\\
+4	&	0.9	&	0.86	\\
+5	&	1.07	&	1.2	\\
+6	&	1.19	&	1.6	\\
+7	&	1.23	&	2.1	\\
+8	&	2.26	&	2.77	\\
+9	&	2.86	&	3.79	\\
+10	&	6.37	&	5.99	\\
+\end{array}
+$$
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
 
