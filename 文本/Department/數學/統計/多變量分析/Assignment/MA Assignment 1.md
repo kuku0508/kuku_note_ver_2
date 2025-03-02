@@ -195,7 +195,7 @@ data_list_qqplot <- list(Sales = sort(Sales), Profits = sort(Profits), Assets = 
 #用迴圈，不想讓程式太長
 for(name in names(data_list_qqplot)){
   x <- data_list_qqplot[[name]]
-  #編號從1到樣本數
+  #建立編號向量從1到樣本數，用seq_along可以防止空的資料導致錯誤
   id <- seq_along(x)
   level <- (id - 0.5) / length(x)
   q <- qnorm(level)
