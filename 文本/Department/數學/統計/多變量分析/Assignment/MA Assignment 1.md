@@ -182,6 +182,7 @@ $$
 
 ### **銷售（Sales）&利潤（Profits）**
 ![[MA Assignment1 chi-square plot Sales Profits.png|500]]
+透過R來執行，我們可以知道各個變數的Q-Q plot的點是否呈現一條直線，且變數是否會通過Shapiro-Wilk test，以確定變數是否會服從常態分配。
 ### **銷售（Sales）&資產（Assets）**
 ![[MA Assignment1 chi-square plot Sales Assets.png|500]]
 
