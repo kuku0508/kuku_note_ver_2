@@ -202,6 +202,17 @@ $$
 $$
 ### **銷售（Sales）&資產（Assets）**
 ![[MA Assignment1 chi-square plot Sales Assets.png|500]]
+1	&	0.42	&	0.1	\\
+2	&	0.82	&	0.33	\\
+3	&	0.86	&	0.58	\\
+4	&	0.9	&	0.86	\\
+5	&	1.07	&	1.2	\\
+6	&	1.19	&	1.6	\\
+7	&	1.23	&	2.1	\\
+8	&	2.26	&	2.77	\\
+9	&	2.86	&	3.79	\\
+10	&	6.37	&	5.99	\\
+
 
 ### **利潤（Profits）&資產（Assets）**
 ![[MA Assignment1 chi-square plot Profits Assets.png|500]]
