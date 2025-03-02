@@ -182,6 +182,8 @@ $$
 
 ### **銷售（Sales）&利潤（Profits）**
 ![[Pasted image 20250303073702.png|500]]
+### **銷售（Sales）&資產（Assets）**
+
 ### **銷售（Sales）&利潤（Profits）**
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
