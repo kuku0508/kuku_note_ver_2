@@ -141,7 +141,42 @@ $$
 ### **資產（Assets）：**
 #### Q-Q plot
 ![[MA Assignment1 QQ-plot Assets.png]]
+$$
+\begin{array}{cccc}
+&\text{Assets}\\
+\hline
+\text{Ordered observations}&\text{Probability levels}&\text{Standard normal quantiles}\\
+\hline
+359	&	0.05	&	-1.64	\\
+1809	&	0.15	&	-1.04	\\
+2413	&	0.25	&	-0.67	\\
+2480	&	0.35	&	-0.39	\\
+2946	&	0.45	&	-0.13	\\
+3510	&	0.55	&	0.13	\\
+3758	&	0.65	&	0.39	\\
+3835	&	0.75	&	0.67	\\
+3939	&	0.85	&	1.04	\\
+4224	&	0.95	&	1.64	\\
+\end{array}
+$$
+我們可以看到Q-Q plot上各個點呈現出明顯的直線。也就是各廠商的利潤之百分位數與理論上的標準常態百分位數所構成的點，呈現直線。即各廠商的利潤服從常態分配。
+
+而Ordered observations跟Standard normal quantiles的相關係數約為「0.9480」
+且以獨立性檢定檢測皮爾森相關係數是否為0（是否有線性關係）。其虛無假設為：
+$$
+H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
+$$
+由R得到其P-Value為「0.00003009」，故我們拒絕虛無假設，我們有足夠強烈的證據證明各廠商利潤的Ordered observations跟Standard normal quantiles之間有顯著的線性關係。也就是各廠商的銷售額服從常態分配。
+
 #### Shapiro-Wilk test
+而在Shapiro-Wilk test中，我們直接檢測各廠商的銷售額是否服從常態分配。
+而其虛無假設為：
+$$
+H_0\text{：}銷售額服從常態分配\quad  vs \quad  H_1\text{：}銷售額不服從常態分配
+$$
+由R得到其P-Value為「0.2163」，故我們不拒絕虛無假設，我們沒有足夠強烈的證據證明各廠商的銷售額不服從常態分配。 
+
+透過Q-Q plot、皮爾森相關係數以及Shapiro-Wilk test，我們皆得到**各廠商的銷售額服從常態分配**的結論。
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
