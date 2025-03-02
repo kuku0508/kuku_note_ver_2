@@ -335,10 +335,12 @@
                 "id": "9f5f0947f767847b",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 7.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "unit 7"
                 }
               }
             ],
