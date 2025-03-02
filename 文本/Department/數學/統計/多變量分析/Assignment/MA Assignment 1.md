@@ -82,7 +82,7 @@ $$
 \end{array}
 $$
 而Ordered observations跟Standard normal quantiles的相關係數約為「0.9362」
-透過
+且在虛無假設
 ##### Shapiro-Wilk test
 
 #### 利潤（Profits）：
