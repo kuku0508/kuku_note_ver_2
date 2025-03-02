@@ -98,7 +98,39 @@ $$
 ### **利潤（Profits）：**
 #### Q-Q plot
 ![[MA Assignment1 QQ-plot Profits.png|500]]
+$$
+\begin{array}{cccc}
+&\text{Sales}\\
+\hline
+\text{Ordered observations}&\text{Probability levels}&\text{Standard normal quantiles}\\
+\hline
+32416&0.05&-1.64\\
+32416&0.05&-1.64\\									
+35209&0.15&-1.04\\									
+36156&0.25&-0.67\\									
+39069&0.35&-0.39\\									
+50976&0.45&-0.13\\									
+55264&0.55&0.13\\									
+63438&0.65&0.39\\									
+86656&0.75&0.67\\									
+96933&0.85&1.04\\									
+126974&0.95&1.64\\
+\end{array}
+$$
+而Ordered observations跟Standard normal quantiles的相關係數約為「0.9362」
+且以獨立性檢定檢測皮爾森相關係數是否為0（是否有線性關係）。其虛無假設為：
+$$
+H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
+$$
+由R得到其P-Value為「0.0000672」，故我們拒絕虛無假設，我們有足夠強烈的證據證明Ordered observations跟Standard normal quantiles之間有顯著的線性關係。
+
 #### Shapiro-Wilk test
+而在Shapiro-Wilk test中，我們直接檢測各廠商的銷售額是否服從常態分配。
+而其虛無假設為：
+$$
+H_0\text{：}銷售額服從常態分配\quad  vs \quad  H_1\text{：}銷售額不服從常態分配
+$$
+由R得到其P-Value為「0.1018」，故我們不拒絕虛無假設，我們沒有足夠強烈的證據證明各廠商的銷售額不服從常態分配。
 
 ### **資產（Assets）：**
 #### Q-Q plot
