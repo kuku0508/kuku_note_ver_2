@@ -183,8 +183,10 @@ $$
 ### **銷售（Sales）&利潤（Profits）**
 ![[Pasted image 20250303073702.png|500]]
 ### **銷售（Sales）&資產（Assets）**
+![[Pasted image 20250303073946.png|500]]
 
-### **銷售（Sales）&利潤（Profits）**
+### **利潤（Profits）&資產（Assets）**
+
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
