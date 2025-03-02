@@ -28,7 +28,10 @@ $$
 Cov(\bar{X})=\frac{1}{n}\Sigma=\frac{1}{36}\Sigma
 $$
 (b)
-由於前面我們已經知道$\bar{X}$服從平均為$\mu$，共變異數為$\Sigma$的三維常態
+由於前面我們已知：
+$$
+\bar{X}\sim N_3(\mu)
+$$
 
 ## 2.
 Check whether the following data satisfy the normality assumption.
