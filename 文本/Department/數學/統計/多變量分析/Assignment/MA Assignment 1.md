@@ -91,7 +91,7 @@ $$
 而在Shapiro-Wilk test中，我們直接檢測各廠商的銷售額是否服從常態分配。
 而其虛無假設為：
 $$
-
+H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
 $$
 
 #### 利潤（Profits）：
