@@ -86,6 +86,7 @@ $$
 
 #### 利潤（Profits）：
 ##### Q-Q plot
+![[Pasted image 20250303042325.png]]
 ##### Shapiro-Wilk test
 
 #### 資產（Assets）：
