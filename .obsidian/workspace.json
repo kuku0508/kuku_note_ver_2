@@ -11,14 +11,12 @@
             "id": "0bbe0693c4354476",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-                "mode": "source",
-                "source": false
+                "file": "未處理/Pasted image 20250303042325.png"
               },
-              "icon": "lucide-file",
-              "title": "MA Assignment 1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250303042325"
             }
           }
         ]
@@ -359,13 +357,14 @@
   },
   "active": "0bbe0693c4354476",
   "lastOpenFiles": [
+    "未處理/Pasted image 20250303042437.png",
     "未處理/Pasted image 20250303042325.png",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "未處理/Pasted image 20250303035646.png",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-    "未處理/Pasted image 20250303035646.png",
     "文本/Department/數學/統計/迴歸分析/講義/unit 6.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
@@ -402,8 +401,6 @@
     "文本/Department/數學/統計/時間數列/圖/時間數列 時間數列與迴歸變數關係.png",
     "文本/Department/數學/統計/時間數列/圖/時間序列圖範例 每年飛機乘客數.png",
     "文本/未分類/圖/obsidian放大鏡.png",
-    "文本/Department/數學/統計/統計學/表/Z table/Z table 0-4.09.png",
-    "文本/Department/數學/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
-    "文本/Department/數學/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png"
+    "文本/Department/數學/統計/統計學/表/Z table/Z table 0-4.09.png"
   ]
 }
