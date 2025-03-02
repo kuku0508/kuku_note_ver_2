@@ -140,7 +140,7 @@ $$
 透過Q-Q plot、皮爾森相關係數以及Shapiro-Wilk test，我們皆得到**各廠商的利潤服從常態分配**的結論。
 ### **資產（Assets）：**
 #### Q-Q plot
-![[MA Assignment1 QQ-plot Assets.png]]
+![[MA Assignment1 QQ-plot Assets.png|500]]
 $$
 \begin{array}{cccc}
 &\text{Assets}\\
@@ -181,7 +181,8 @@ $$
 ## 二維常態檢測
 
 ### **銷售（Sales）&利潤（Profits）**
-
+![[Pasted image 20250303073702.png|500]]
+### **銷售（Sales）&利潤（Profits）**
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
