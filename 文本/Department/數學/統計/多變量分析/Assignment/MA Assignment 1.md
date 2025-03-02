@@ -84,7 +84,7 @@ $$
 而Ordered observations跟Standard normal quantiles的相關係數約為「0.9362」
 且以獨立性檢定檢測皮爾森相關係數是否為0（是否有線性相關）。其虛無假設為：
 $$
-H_0
+H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
 $$
 其P-Value為「0.0000672」
 ##### Shapiro-Wilk test
