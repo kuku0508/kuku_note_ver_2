@@ -65,7 +65,8 @@ $$
 $$
 \begin{array}{cccc}
 \text{Sales}\\
-\text{Ordered ob}
+\hline
+\text{Ordered observations}&\text{Ordered observations}&\text{Ordered observations}
 \end{array}
 $$
 ##### Shapiro-Wilk test
