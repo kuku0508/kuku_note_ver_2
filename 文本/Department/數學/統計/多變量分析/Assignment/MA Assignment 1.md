@@ -183,28 +183,27 @@ $$
 ### **銷售（Sales）&利潤（Profits）**
 ![[MA Assignment1 chi-square plot Sales Profits.png|500]]
 $$
-\begin{array}{cccc}
+\begin{array}{}
 &\text{Sales＆Profits}\\
 \hline
-\text{Ordered observations}&\text{Probability levels}&\text{Standard normal quantiles}\\
+\text{id}&\text{Squared Mahalanobis Distance}&\chi^2_2\,\text{Quantile}\\
 \hline
-25636	&	0.05	&	-1.64	\\
-34715	&	0.15	&	-1.04	\\
-38528	&	0.25	&	-0.67	\\
-39080	&	0.35	&	-0.39	\\
-51038	&	0.45	&	-0.13	\\
-77734	&	0.55	&	0.13	\\
-83219	&	0.65	&	0.39	\\
-128344	&	0.75	&	0.67	\\
-160893	&	0.85	&	1.04	\\
-173297	&	0.95	&	1.64	\\
+1	&	0.42	&	0.1	\\
+2	&	0.82	&	0.33	\\
+3	&	0.86	&	0.58	\\
+4	&	0.9	&	0.86	\\
+5	&	1.07	&	1.2	\\
+6	&	1.19	&	1.6	\\
+7	&	1.23	&	2.1	\\
+8	&	2.26	&	2.77	\\
+9	&	2.86	&	3.79	\\
+10	&	6.37	&	5.99	\\
 \end{array}
-$$
-### **銷售（Sales）&資產（Assets）**
+$$### **銷售（Sales）&資產（Assets）**
 ![[MA Assignment1 chi-square plot Sales Assets.png|500]]
 $$
 \begin{array}{}
-&\text{Sales＆A}\\
+&\text{Sales＆Assets}\\
 \hline
 \text{id}&\text{Squared Mahalanobis Distance}&\chi^2_2\,\text{Quantile}\\
 \hline
