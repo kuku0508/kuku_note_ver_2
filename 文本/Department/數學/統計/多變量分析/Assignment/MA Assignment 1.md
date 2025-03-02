@@ -179,10 +179,27 @@ $$
 透過Q-Q plot、皮爾森相關係數以及Shapiro-Wilk test，我們皆得到**各廠商的資產服從常態分配**的結論。
 
 ## 二維常態檢測
-
+透過R來執行，我們可以知道各個變數的Chi-square plot的點是否呈現一條直線，若可以證明馬哈拉諾比斯距離的平方與卡方分配百分位數呈現線性關係，則可以確定變數是否會服從常態分配。
 ### **銷售（Sales）&利潤（Profits）**
 ![[MA Assignment1 chi-square plot Sales Profits.png|500]]
-透過R來執行，我們可以知道各個變數的Chi-square plot的點是否呈現一條直線，若可以證明馬哈拉諾比斯距離的平方與卡方分配百分位數呈現線性關係，，以確定變數是否會服從常態分配。
+$$
+\begin{array}{cccc}
+&\text{Assets}\\
+\hline
+\text{Ordered observations}&\text{Probability levels}&\text{Standard normal quantiles}\\
+\hline
+25636	&	0.05	&	-1.64	\\
+34715	&	0.15	&	-1.04	\\
+38528	&	0.25	&	-0.67	\\
+39080	&	0.35	&	-0.39	\\
+51038	&	0.45	&	-0.13	\\
+77734	&	0.55	&	0.13	\\
+83219	&	0.65	&	0.39	\\
+128344	&	0.75	&	0.67	\\
+160893	&	0.85	&	1.04	\\
+173297	&	0.95	&	1.64	\\
+\end{array}
+$$
 ### **銷售（Sales）&資產（Assets）**
 ![[MA Assignment1 chi-square plot Sales Assets.png|500]]
 
