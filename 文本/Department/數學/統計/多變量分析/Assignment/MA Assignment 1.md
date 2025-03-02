@@ -218,4 +218,25 @@ for(name in names(data_list_qqplot)){
   #常態假設
   print(shapiro.test(x))
 }
+
+#二維檢定
+library(heplots)
+
+X_2 <-data.frame(Sales,Profits,Assets)
+#給迴圈用的，每個變數的組合(1,2),(2,3),(1,3)
+# 1=Sales 2=Profits 3=Assets
+pair <- combn(1:3, 2, simplify = FALSE)
+j <- c(1:nrow(X_2))
+
+for(pair in pairs) {
+  cat("兩變數為:", pair, "\n")
+  paired_variable <- X_2[, pair]
+  d_2 <- sort(Mahalanobis(paired_variable))
+  j <- c(1:nrow(X_2))
+  q_2 <- qchisq((j - 0.5) / nrow(X_2),2)
+  data_f_2 <- data.frame("Ordered Observations" = round(d_2, 2),"Chi-square Quantiles" = round(q_2, 2))
+  print(data_f_2)
+  cqplot(paired_variable)
+  print(cor_res)
+}
 ```
