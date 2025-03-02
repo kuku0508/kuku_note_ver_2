@@ -63,11 +63,11 @@ $$
 ##### Q-Q plot
 ##### Shapiro-Wilk test
 
-#### ：
+#### 利潤：
 ##### Q-Q plot
 ##### Shapiro-Wilk test
 
-#### 銷售：
+#### 資產（Assets）：
 ##### Q-Q plot
 ##### Shapiro-Wilk test
 
