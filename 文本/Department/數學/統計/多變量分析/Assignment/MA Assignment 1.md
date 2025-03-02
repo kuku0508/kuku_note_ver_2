@@ -205,10 +205,12 @@ for(name in names(data_list_qqplot)){
   names(data_f)[2] <- "Probability levels"
   names(data_f)[3] <- "Standard normal quantiles"
   print(data_f)
+  #相關係數&檢定
   print(cor.test(x,q,alternative = "two.sided",method="pearson"))
+  #畫qq plot
   qqnorm(x, main = paste("QQ Plot for", name))
   qqline(x)
+  #常態假設
   print(shapiro.test(x))
 }
-
 ```
