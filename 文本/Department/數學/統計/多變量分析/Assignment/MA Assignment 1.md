@@ -64,6 +64,8 @@ $$
 ![[Pasted image 20250303035646.png]]
 $$
 \begin{array}{cccc}
+\text{Sales}\\
+\text{Ordered ob}
 \end{array}
 $$
 ##### Shapiro-Wilk test
