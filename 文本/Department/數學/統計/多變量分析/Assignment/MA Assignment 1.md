@@ -60,9 +60,16 @@ $$
 ## 一維常態檢測
 透過R來執行，我們可以知道各個變數的Q-Q plot的點是否呈現一條直線，且變數是否會通過Shapiro-Wilk test，以確定變數是否會服從常態分配。
 #### 銷售：
+##### Q-Q plot
+##### Shapiro-Wilk test
 
+#### 銷售：
+##### Q-Q plot
+##### Shapiro-Wilk test
 
-
+#### 銷售：
+##### Q-Q plot
+##### Shapiro-Wilk test
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
