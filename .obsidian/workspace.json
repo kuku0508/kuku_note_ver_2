@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85a3b6286e4d82ab",
+        "id": "51afac0eadcf4ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "34c0f8047d75c54b",
+            "id": "0bbe0693c4354476",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/無母數統計/講義/unit 7.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "unit 7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -316,9 +314,19 @@
                   "icon": "excalidraw-icon",
                   "title": "MA chapter2"
                 }
+              },
+              {
+                "id": "8f6c8a7712debbd7",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -331,11 +339,11 @@
       }
     ]
   },
-  "active": "34c0f8047d75c54b",
+  "active": "8f6c8a7712debbd7",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 4.md",
