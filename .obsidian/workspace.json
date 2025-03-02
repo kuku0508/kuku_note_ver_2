@@ -330,9 +330,19 @@
                   "icon": "excalidraw-icon",
                   "title": "unit 4"
                 }
+              },
+              {
+                "id": "9f5f0947f767847b",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -345,10 +355,12 @@
       }
     ]
   },
-  "active": "0bbe0693c4354476",
+  "active": "9f5f0947f767847b",
   "lastOpenFiles": [
-    "未處理/Pasted image 20250303035646.png",
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "未處理/Pasted image 20250303035646.png",
     "文本/Department/數學/統計/迴歸分析/講義/unit 6.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
@@ -358,8 +370,6 @@
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 1.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
@@ -391,7 +401,6 @@
     "文本/未分類/圖/obsidian放大鏡.png",
     "文本/Department/數學/統計/統計學/表/Z table/Z table 0-4.09.png",
     "文本/Department/數學/統計/迴歸分析/表/迴歸分析 - 克卜勒EDA.png",
-    "文本/Department/數學/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png",
-    "文本/Department/數學/統計/迴歸分析/表/Linear Regression Assignment 2 Problem 2.4 a SAS ANOVA output.png"
+    "文本/Department/數學/統計/迴歸分析/表/迴歸分析 - 克卜勒 - 敘述性統計.png"
   ]
 }
