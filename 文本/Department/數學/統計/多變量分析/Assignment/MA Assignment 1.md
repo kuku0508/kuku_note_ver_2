@@ -64,9 +64,9 @@ $$
 ![[Pasted image 20250303035646.png]]
 $$
 \begin{array}{cccc}
-\text{Sales}\\
+&\text{Sales}\\
 \hline
-\text{Ordered observations}&\text{Ordered observations}&\text{Ordered observations}
+\text{Ordered observations}&\text{Probability levels}&\text{Standard normal qiantiles}
 \end{array}
 $$
 ##### Shapiro-Wilk test
