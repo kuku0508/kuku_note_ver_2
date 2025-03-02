@@ -116,12 +116,12 @@ $$
 4224	&	0.95	&	1.64	\\
 \end{array}
 $$
-而Ordered observations跟Standard normal quantiles的相關係數約為「0.94」
+而Ordered observations跟Standard normal quantiles的相關係數約為「0.9480」
 且以獨立性檢定檢測皮爾森相關係數是否為0（是否有線性關係）。其虛無假設為：
 $$
 H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
 $$
-由R得到其P-Value為「0.0000672」，故我們拒絕虛無假設，我們有足夠強烈的證據證明Ordered observations跟Standard normal quantiles之間有顯著的線性關係。
+由R得到其P-Value為「0.00003009」，故我們拒絕虛無假設，我們有足夠強烈的證據證明個Ordered observations跟Standard normal quantiles之間有顯著的線性關係。
 
 #### Shapiro-Wilk test
 而在Shapiro-Wilk test中，我們直接檢測各廠商的銷售額是否服從常態分配。
