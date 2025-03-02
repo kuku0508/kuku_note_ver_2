@@ -204,9 +204,9 @@ $$
 ![[MA Assignment1 chi-square plot Sales Assets.png|500]]
 $$
 \begin{array}{}
-&\text{Sales＆Profits}\\
+&\text{Sales＆A}\\
 \hline
-\text{id}&\text{Probability levels}&\text{Standard normal quantiles}\\
+\text{id}&\text{Squared Mahalanobis Distance}&\chi^2_2\,\text{Quantile}\\
 \hline
 1	&	0.42	&	0.1	\\
 2	&	0.82	&	0.33	\\
