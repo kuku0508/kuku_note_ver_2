@@ -59,11 +59,12 @@ $$
 
 ## 一維常態檢測
 透過R來執行，我們可以知道各個變數的Q-Q plot的點是否呈現一條直線，且變數是否會通過Shapiro-Wilk test，以確定變數是否會服從常態分配。
-#### 銷售：
+#### 銷售（Sales）：
 ##### Q-Q plot
+
 ##### Shapiro-Wilk test
 
-#### 利潤：
+#### 利潤（Profits）：
 ##### Q-Q plot
 ##### Shapiro-Wilk test
 
