@@ -59,3 +59,22 @@ $$
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
 
 
+```R
+Sales <- c(126974,96933,86656,63438,55264,50976,39069,36156,35209,32416)
+Profits <- c(4224,3835,3510,3758,3939,1809,2946,359,2480,2413)
+Assets <- c(173297,160893,83219,77734,128344,39080,38528,51038,34715,25636)
+
+data_list <- list(Sales = Sales, Profits = Profits, Assets = Assets)
+
+for(name in names(data_list)){
+  x <- data_list[[name]]
+  id <- seq_along(x)
+  level <- (id - 0.5) / length(x)
+  q <- qnorm(level)
+  cat("=== ", name, " ===\n")
+  print(data.frame(x, level, round(q, 2)))
+  qqnorm(x, main = paste("QQ Plot for", name))
+  qqline(x)
+  print(shapiro.test(x))
+}
+```
