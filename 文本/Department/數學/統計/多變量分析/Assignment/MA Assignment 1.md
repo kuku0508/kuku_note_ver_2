@@ -33,7 +33,7 @@ $$
 
 我們已知如果$X$服從常態分配，則$(X-\mu)'\Sigma^{-1}(X-\mu)$會服從自由度為$X$變數數量的卡方分配。而$(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)$，我們由a小題已知，$\bar{X}$服從平均為$\mu$，共變異數為$\Sigma$的三維常態分配。故我們可知：
 $$
-(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)\sim
+(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)\sim\chi^2_3
 $$
 
 ## 2.
@@ -57,4 +57,5 @@ $$
 $$
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
+
 
