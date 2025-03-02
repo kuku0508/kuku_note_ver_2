@@ -66,7 +66,10 @@ $$
 \begin{array}{cccc}
 &\text{Sales}\\
 \hline
-\text{Ordered observations}&\text{Probability levels}&\text{Standard normal qiantiles}
+\text{Ordered observations}&\text{Probability levels}&\text{Standard normal qiantiles}\\
+\hline
+32416&0.05&-1.64\\
+
 \end{array}
 $$
 ##### Shapiro-Wilk test
