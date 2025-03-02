@@ -55,6 +55,8 @@ $$
 \text{Texaco}&32416&2413&25636
 \end{array}
 $$
+#### Q-Q Plot
+
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
 
