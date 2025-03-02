@@ -63,7 +63,7 @@ $$
 ##### Q-Q plot
 ##### Shapiro-Wilk test
 
-#### 銷售：
+#### ：
 ##### Q-Q plot
 ##### Shapiro-Wilk test
 
