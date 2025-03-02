@@ -81,7 +81,8 @@ $$
 126974&0.95&1.64\\
 \end{array}
 $$
-而Ordered observations跟Standard normal quantiles的相關係數為「」
+而Ordered observations跟Standard normal quantiles的相關係數約為「0.9362」
+透過
 ##### Shapiro-Wilk test
 
 #### 利潤（Profits）：
