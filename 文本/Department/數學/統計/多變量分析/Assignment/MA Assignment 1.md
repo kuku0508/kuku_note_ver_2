@@ -181,12 +181,12 @@ $$
 ## 二維常態檢測
 
 ### **銷售（Sales）&利潤（Profits）**
-![[Pasted image 20250303073702.png|500]]
+![[MA Assignment1 chi-square plot Sales Profits.png|500]]
 ### **銷售（Sales）&資產（Assets）**
-![[Pasted image 20250303073946.png|500]]
+![[MA Assignment1 chi-square plot Sales Assets.png|500]]
 
 ### **利潤（Profits）&資產（Assets）**
-![[Pasted image 20250303074013.png|500]]
+![[MA Assignment1 chi-square plot Profits Assets.png|500]]
 
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 

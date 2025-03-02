@@ -11,12 +11,14 @@
             "id": "0bbe0693c4354476",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "未處理/Pasted image 20250303073702.png"
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250303073702"
+              "icon": "lucide-file",
+              "title": "MA Assignment 1"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 419.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -357,10 +359,10 @@
   },
   "active": "0bbe0693c4354476",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/圖/MA Assignment1 chi-square plot Profits Assets.png",
+    "文本/Department/數學/統計/多變量分析/圖/MA Assignment1 chi-square plot Sales Assets.png",
+    "文本/Department/數學/統計/多變量分析/圖/MA Assignment1 chi-square plot Sales Profits.png",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-    "未處理/Pasted image 20250303074013.png",
-    "未處理/Pasted image 20250303073946.png",
-    "未處理/Pasted image 20250303073702.png",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/多變量分析/圖/MA Assignment1 QQ-plot Assets.png",
