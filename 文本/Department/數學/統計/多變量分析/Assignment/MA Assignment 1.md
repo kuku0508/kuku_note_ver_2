@@ -81,7 +81,7 @@ $$
 126974&0.95&1.64\\
 \end{array}
 $$
-而Ordered observations跟Standard normal quantiles的相關係數為
+而Ordered observations跟Standard normal quantiles的相關係數為「」
 ##### Shapiro-Wilk test
 
 #### 利潤（Profits）：
@@ -91,6 +91,7 @@ $$
 
 #### 資產（Assets）：
 ##### Q-Q plot
+![[MA Assignment1 QQ-plot Assets.png]]
 ##### Shapiro-Wilk test
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
