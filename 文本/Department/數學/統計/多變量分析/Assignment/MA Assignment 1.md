@@ -82,7 +82,8 @@ $$
 \end{array}
 $$
 而Ordered observations跟Standard normal quantiles的相關係數約為「0.9362」
-且以獨立性檢定
+且以獨立性檢定檢測皮爾森相關係數是否為0（是否有線性相關）。
+其P-v
 ##### Shapiro-Wilk test
 
 #### 利潤（Profits）：
