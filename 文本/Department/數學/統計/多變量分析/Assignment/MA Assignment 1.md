@@ -33,7 +33,7 @@ $$
 $$
 \bar{X}\sim N_3(\mu,\frac{1}{36}\Sigma)
 $$
-我們已知如果$X$服從常態分配，則$(X-\mu)'\Sigma^{-1}(X-\mu)$會服從自由度為$X$變數數量的卡方分配。而
+我們已知如果$X$服從常態分配，則$(X-\mu)'\Sigma^{-1}(X-\mu)$會服從自由度為$X$變數數量的卡方分配。而$(\bar{X}-\mu)'\Sigma^{-1}(\bar{X}-\mu)$，我們已知
 
 ## 2.
 Check whether the following data satisfy the normality assumption.
