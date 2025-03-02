@@ -55,7 +55,9 @@ $$
 \text{Texaco}&32416&2413&25636
 \end{array}
 $$
-要檢驗三個變數是否符合常態假設，我們可以先檢視Q-Q Plot，看各個變數是否各自服從常態假設。當確定所有變數皆符合常態假設，我們便可以透過chi-square plot再檢視兩個變數之間是否服從二維常態
+要檢驗三個變數是否符合常態假設，我們可以先檢視Q-Q Plot，看各個變數是否各自服從常態假設。當確定所有變數皆符合常態假設，我們便可以透過chi-square plot再檢視兩個變數之間是否服從二維常態。
+
+
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
