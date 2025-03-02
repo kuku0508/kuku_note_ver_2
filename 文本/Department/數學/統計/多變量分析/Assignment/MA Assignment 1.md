@@ -61,7 +61,7 @@ $$
 透過R來執行，我們可以知道各個變數的Q-Q plot的點是否呈現一條直線，且變數是否會通過Shapiro-Wilk test，以確定變數是否會服從常態分配。
 #### 銷售（Sales）：
 ##### Q-Q plot
-![[Pasted image 20250303042437.png|500]]
+![[MA Assignment1 QQ-plot Sales.png|500]]
 $$
 \begin{array}{cccc}
 &\text{Sales}\\
@@ -86,7 +86,7 @@ $$
 
 #### 利潤（Profits）：
 ##### Q-Q plot
-![[Pasted image 20250303042325.png|500]]
+![[MA Assignment1 QQ-plot Profits.png|500]]
 ##### Shapiro-Wilk test
 
 #### 資產（Assets）：
