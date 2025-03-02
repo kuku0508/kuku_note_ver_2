@@ -59,7 +59,7 @@ $$
 
 ## 一維常態檢測
 透過R來執行，我們可以知道各個變數的Q-Q plot的點是否呈現一條直線，且變數是否會通過Shapiro-Wilk test，以確定變數是否會服從常態分配。
-### 銷售（Sales）：
+### **銷售（Sales）：**
 #### Q-Q plot
 ![[MA Assignment1 QQ-plot Sales.png|500]]
 $$
@@ -94,12 +94,12 @@ $$
 H_0\text{：}銷售額服從常態分配\quad  vs \quad  H_1\text{：}銷售額不服從常態分配
 $$
 由R得到其P-Value為「0.1018」，故我們不拒絕虛無假設，我們沒有足夠強烈的證據證明各廠商的銷售額不服從常態分配。
-#### 利潤（Profits）：
-##### Q-Q plot
+### **利潤（Profits）：**
+#### Q-Q plot
 ![[MA Assignment1 QQ-plot Profits.png|500]]
-##### Shapiro-Wilk test
+#### Shapiro-Wilk test
 
-#### 資產（Assets）：
+### 資產（Assets）：
 ##### Q-Q plot
 ![[MA Assignment1 QQ-plot Assets.png]]
 ##### Shapiro-Wilk test
