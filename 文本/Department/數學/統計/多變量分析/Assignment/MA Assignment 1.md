@@ -184,7 +184,7 @@ $$
 ![[MA Assignment1 chi-square plot Sales Profits.png|500]]
 $$
 \begin{array}{cccc}
-&\text{Assets}\\
+&\text{Sales＆Profits}\\
 \hline
 \text{Ordered observations}&\text{Probability levels}&\text{Standard normal quantiles}\\
 \hline
