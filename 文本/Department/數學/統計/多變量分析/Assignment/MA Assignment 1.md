@@ -30,8 +30,9 @@ $$
 (b)
 由於前面我們已知：
 $$
-\bar{X}\sim N_3(\mu)
+\bar{X}\sim N_3(\mu,\frac{1}{36}\Sigma)
 $$
+
 
 ## 2.
 Check whether the following data satisfy the normality assumption.
