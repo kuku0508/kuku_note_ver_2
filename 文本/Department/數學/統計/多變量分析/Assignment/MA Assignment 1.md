@@ -87,6 +87,7 @@ $$
 H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
 $$
 由R得到其P-Value為「0.0000672」，故我們拒絕虛無假設，我們有足夠強烈的證據證明Ordered observations跟Standard normal quantiles之間有顯著的線性關係。
+
 #### Shapiro-Wilk test
 而在Shapiro-Wilk test中，我們直接檢測各廠商的銷售額是否服從常態分配。
 而其虛無假設為：
@@ -100,9 +101,9 @@ $$
 #### Shapiro-Wilk test
 
 ### **資產（Assets）：**
-##### Q-Q plot
+#### Q-Q plot
 ![[MA Assignment1 QQ-plot Assets.png]]
-##### Shapiro-Wilk test
+#### Shapiro-Wilk test
 
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
