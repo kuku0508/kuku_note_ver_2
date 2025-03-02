@@ -118,7 +118,7 @@ $$
 4224	&	0.95	&	1.64	\\
 \end{array}
 $$
-我們可以看到Q-Q plot上各個點呈現
+我們可以看到Q-Q plot上各個點呈現出明顯的直線。
 
 而Ordered observations跟Standard normal quantiles的相關係數約為「0.9480」
 且以獨立性檢定檢測皮爾森相關係數是否為0（是否有線性關係）。其虛無假設為：
