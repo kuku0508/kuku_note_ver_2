@@ -292,11 +292,7 @@ $$
 \end{bmatrix}
 $$
 得到了共變異數之後我們就可以開始畫圖。
-![[Pasted image 20250303162440.png]]
-![[Pasted image 20250303162511.png]]
-![[Pasted image 20250303162527.png]]
-![[Pasted image 20250303162547.png]]
-![[Pasted image 20250303162613.png]]
+
 ```R
 #一維檢定
 
