@@ -368,43 +368,10 @@
         "height": 1392,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "d9fc9d3901f2827f",
-        "type": "window",
-        "children": [
-          {
-            "id": "efb5eff21553cbdf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "488144ba76bd85d6",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://obsidian.md/changelog/",
-                    "title": "Obsidian Changelog - Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Obsidian Changelog - Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
-  "active": "488144ba76bd85d6",
+  "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
     "知識/統計/統計學/基礎知識/描述統計.md",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
