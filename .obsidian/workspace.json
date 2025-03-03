@@ -11,12 +11,14 @@
             "id": "8b00ec0b381e4305",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "未處理/Pasted image 20250303163210.png"
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250303163210"
+              "icon": "lucide-file",
+              "title": "MA Assignment 1"
             }
           },
           {
@@ -383,9 +385,12 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "8b00ec0b381e4305",
   "lastOpenFiles": [
-    "未處理/二維常態分配的圖 角度=0.png",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=0.png",
+    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png",
+    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=45.png",
     "未處理/randtests.md",
     "未處理/關聯性.md",
     "未處理/Pasted image 20250303163009.png",
@@ -393,14 +398,11 @@
     "未處理/Pasted image 20250303162926.png",
     "未處理/Pasted image 20250303162910.png",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-    "未處理/Pasted image 20250303163234.png",
-    "未處理/Pasted image 20250303163222.png",
-    "未處理/Pasted image 20250303163210.png",
+    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=90.png",
     "未處理/信賴區間.md",
     "未處理/Pasted image 20250303162440.png",
     "未處理/Pasted image 20250303162613.png",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
