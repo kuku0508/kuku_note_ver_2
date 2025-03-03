@@ -286,8 +286,10 @@ $$
 $$
 所以共變異數矩陣就會變成：
 $$
-\begin{matrix}
-\end{matrix}
+\begin{bmatrix}
+1&0.5\\
+0.5&1
+\end{bmatrix}
 $$
 
 ```R
