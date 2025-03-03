@@ -343,8 +343,7 @@
                   "title": "unit 8"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -357,7 +356,7 @@
       }
     ]
   },
-  "active": "0bbe0693c4354476",
+  "active": "54ea96f2b1af3e0d",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
