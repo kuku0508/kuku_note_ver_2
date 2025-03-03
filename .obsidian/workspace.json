@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -183,7 +183,7 @@
               "type": "BC-matrix",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -193,7 +193,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "新分頁"
             }
           },
           {
@@ -203,7 +203,7 @@
               "type": "BC-tree",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "外掛程式已不復活躍"
             }
           }
         ],
@@ -216,16 +216,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
       "obsidian-git:Open Git source control": false,
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
@@ -371,10 +371,11 @@
       }
     ]
   },
-  "active": "a0aabfee7a934034",
+  "active": "57b4c86f5588a193",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/統計學/基礎知識/描述統計.md",
+    "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/統計/統計學/基礎知識/統計學.md",
     "知識/統計/統計學/基礎知識/樣本.md",
@@ -386,7 +387,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "未處理/有限母體修正因子.md",
     "知識/統計/統計學/分配/機率分配/中央極限定理.md",
-    "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
     "未處理/方便抽樣.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/常態分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/連續型均勻分配.md",
