@@ -342,8 +342,23 @@
                   "icon": "excalidraw-icon",
                   "title": "unit 8"
                 }
+              },
+              {
+                "id": "c15c6b38e9efe494",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "相關係數"
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -356,16 +371,17 @@
       }
     ]
   },
-  "active": "54ea96f2b1af3e0d",
+  "active": "c15c6b38e9efe494",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Profits Assets.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Sales Assets.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Sales Profits.png",
-    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Assets.png",
     "未處理/Pasted image 20250303042637.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
