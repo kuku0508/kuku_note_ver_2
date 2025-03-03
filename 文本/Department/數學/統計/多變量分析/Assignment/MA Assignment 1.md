@@ -270,6 +270,8 @@ H_0\text{：}\rho =0\quad  vs \quad  H_1\text{：}\rho\neq0
 $$
 根據R的輸出，其P-Value為「0.00001248」，故我們拒絕虛無假設，我們有足夠強烈的證據證明各廠商利潤以及資產的馬氏距離的平方與卡方分配百分位數之間有顯著的線性關係。也就是各廠商利潤以及資產服從二維常態分配。
 
+透過Chi-Square plot、皮爾森相關係數，我們皆得到**各廠商利潤以及資產服從二維常態分配**的結論。
+
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using SAS or R.
 
