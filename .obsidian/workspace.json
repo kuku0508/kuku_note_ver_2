@@ -265,7 +265,8 @@
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "zk-prefixer:建立新唯一筆記": false
     }
   },
   "floating": {
@@ -400,8 +401,9 @@
   },
   "active": "8b00ec0b381e4305",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本比例.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本比例.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "未處理/有限母體修正因子.md",
     "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
@@ -438,7 +440,6 @@
     "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 4.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File",
     "文本/Department/數學/統計/多變量分析/Assignment",
