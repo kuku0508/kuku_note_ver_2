@@ -11,12 +11,14 @@
             "id": "8b00ec0b381e4305",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md"
+                "file": "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本比例.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MA chapter1"
+              "icon": "lucide-file",
+              "title": "抽樣分配 - 樣本比例"
             }
           },
           {
@@ -387,7 +389,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 0,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -398,10 +400,12 @@
   },
   "active": "8b00ec0b381e4305",
   "lastOpenFiles": [
+    "未處理/有限母體修正因子.md",
+    "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
+    "未處理/方便抽樣.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/常態分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
-    "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/連續型均勻分配.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
@@ -435,8 +439,6 @@
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 1.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File",
     "文本/Department/數學/統計/多變量分析/Assignment",
