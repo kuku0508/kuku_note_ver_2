@@ -292,6 +292,7 @@ $$
 \end{bmatrix}
 $$
 得到了共變異數之後我們就可以開始畫圖。
+![[Pasted image 20250303162910.png]]
 
 ```R
 #一維檢定
@@ -346,7 +347,7 @@ for(pair in pairs) {
   print(cor_res)
 }
 
-# 加分題
+#加分題
 library(mvtnorm)
 
 # 參數
@@ -373,6 +374,6 @@ persp(x, y, z,
       xlab = "X1", 
       ylab = "X2", 
       zlab = "Density",
-      main = paste("雙變量常態分布 3D 表面圖，角度=",i))
+      main = paste("雙變量常態分布的圖，角度=",i))
 }
 ```
