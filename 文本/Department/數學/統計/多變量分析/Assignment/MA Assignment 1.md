@@ -280,8 +280,14 @@ $$
 \begin{align}
 &\rho=\frac{Cov(X_1,X_2)}{\sigma_1 \sigma_2}\\\\
 \Rightarrow &Cov(X_1,X_2)=\rho \times\sigma_1\times\sigma_2\\
-&=
+&=0.5\times1\times1\\
+&=0.5
 \end{align}
+$$
+所以共變異數矩陣就會變成：
+$$
+\begin{matrix}
+\end{matrix}
 $$
 
 ```R
