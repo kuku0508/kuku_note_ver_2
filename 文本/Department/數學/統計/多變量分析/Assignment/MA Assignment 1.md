@@ -275,11 +275,11 @@ $$
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using R.
 
-我們現在有平均數、變異數跟相關係數，要把二維常態分配的圖畫出來，我們還需要兩個變數的共變異數。而我們知道相關係數的公式為：
+我們現在有平均數、變異數跟相關係數，要把二維常態分配的圖畫出來，我們還需要兩個變數的共變異數。而我們可以由相關係數得到彼此的共變異數，方法如下：
 $$
 \begin{align}
-\rho=\frac{Cov(X_1,X_2)}{\sigma_1 \sigma_2}\\
-Cov(X_1,X_2)=
+\rho=\frac{Cov(X_1,X_2)}{\sigma_1 \sigma_2}\\\\
+\Rightarrow Cov(X_1,X_2)=
 \end{align}
 $$
 
