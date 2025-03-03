@@ -376,6 +376,6 @@ persp(x, y, z,
       xlab = "X1", 
       ylab = "X2", 
       zlab = "Density",
-      main = paste("雙變量常態分布的圖，角度=",i))
+      main = paste("二維常態分配的圖，角度=",i))
 }
 ```
