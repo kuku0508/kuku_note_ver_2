@@ -292,10 +292,8 @@ $$
 \end{bmatrix}
 $$
 得到了共變異數之後我們就可以開始畫圖。
-![[Pasted image 20250303162910.png]]
-![[Pasted image 20250303162926.png]]
-![[Pasted image 20250303162953.png]]
-![[Pasted image 20250303163009.png]]
+![[Pasted image 20250303163158.png]]
+![[Pasted image 20250303163210.png]]
 ```R
 #一維檢定
 
