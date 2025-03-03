@@ -275,7 +275,7 @@ $$
 **Extra Question**：creating a plot of a bivariate normal distribution with 
 $\mu_1=\mu_2=2$，$\sigma_1=\sigma_2=1$ and $\rho=0.5$ using R.
 
-
+我們現在有平均數、變異數
 
 ```R
 #一維檢定
