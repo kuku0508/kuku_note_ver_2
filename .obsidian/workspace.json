@@ -8,27 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bbe0693c4354476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MA Assignment 1"
-            }
-          },
-          {
             "id": "8b00ec0b381e4305",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "image",
+              "state": {
+                "file": "未處理/Pasted image 20250303163210.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250303163210"
             }
           },
           {
@@ -395,21 +383,22 @@
       }
     ]
   },
-  "active": "0bbe0693c4354476",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/Pasted image 20250303163210.png",
-    "未處理/Pasted image 20250303163158.png",
-    "未處理/Pasted image 20250303162910.png",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "未處理/二維常態分配的圖 角度=0.png",
+    "未處理/randtests.md",
+    "未處理/關聯性.md",
     "未處理/Pasted image 20250303163009.png",
-    "未處理/信賴區間.md",
     "未處理/Pasted image 20250303162953.png",
     "未處理/Pasted image 20250303162926.png",
+    "未處理/Pasted image 20250303162910.png",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "未處理/Pasted image 20250303163234.png",
+    "未處理/Pasted image 20250303163222.png",
+    "未處理/Pasted image 20250303163210.png",
+    "未處理/信賴區間.md",
     "未處理/Pasted image 20250303162440.png",
     "未處理/Pasted image 20250303162613.png",
-    "未處理/Pasted image 20250303162547.png",
-    "未處理/Pasted image 20250303162527.png",
-    "未處理/Pasted image 20250303162511.png",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
@@ -436,8 +425,6 @@
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 1.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 巨集指令.md",
     "文本/Department/數學/統計/多變量分析/Assignment",
     "文本/Department/數學/統計/多變量分析/講義",
     "文本/Department/數學/統計/多變量分析",
