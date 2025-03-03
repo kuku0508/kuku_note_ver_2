@@ -11,12 +11,14 @@
             "id": "0bbe0693c4354476",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Profits Assets.png"
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "MA Assignment1 chi-square plot Profits Assets"
+              "icon": "lucide-file",
+              "title": "MA Assignment 1"
             }
           }
         ]
@@ -355,11 +357,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "0bbe0693c4354476",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Profits Assets.png",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1",
-    "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Profits Assets.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Sales Assets.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Sales Profits.png",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
