@@ -345,4 +345,34 @@ for(pair in pairs) {
   cqplot(paired_variable)
   print(cor_res)
 }
+
+# 加分題
+library(mvtnorm)
+
+# 參數
+mu <- c(2, 2)
+Sigma <- matrix(c(1, 0.5, 0.5, 1), nrow = 2)
+
+#設定網格的密度，數字越大，越多網格（網格越小）
+x <- seq(0, 4, length.out = 50)
+y <- seq(0, 4, length.out = 50)
+
+# 建立網格
+grid <- expand.grid(x = x, y = y)
+
+# 計算密度
+z <- matrix(dmvnorm(as.matrix(grid), mean = mu, sigma = Sigma), 
+            nrow = length(x), byrow = TRUE)
+
+# 畫圖
+for(i in c(0,45,90,135,180,180+45,270,270+45,360)){
+persp(x, y, z, 
+      theta = i,      # 旋轉角度（水平面上的角度）
+      phi = 20,        # 俯視角度
+      col = "lightpink", #我喜歡粉紅色
+      xlab = "X1", 
+      ylab = "X2", 
+      zlab = "Density",
+      main = paste("雙變量常態分布 3D 表面圖，角度=",i))
+}
 ```
