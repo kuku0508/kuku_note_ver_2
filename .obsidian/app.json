@@ -13,5 +13,6 @@
   },
   "strictLineBreaks": true,
   "tabSize": 4,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showLineNumber": false
 }
