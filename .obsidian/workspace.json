@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
+                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 樣本統計量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "特殊符號"
-            }
-          },
-          {
-            "id": "db2b8a87738c29b2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://detexify.kirelabs.org/symbols.html",
-                "title": "Detexify LaTeX symbol table",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Detexify LaTeX symbol table"
+              "title": "多變量分析 - 樣本統計量"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "多變量資料"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,7 +328,7 @@
       }
     ]
   },
-  "active": "db2b8a87738c29b2",
+  "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 樣本統計量.md",
