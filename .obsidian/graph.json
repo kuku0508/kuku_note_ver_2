@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:知識/統計/統計學  ",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 10104769
       }
+    },
+    {
+      "query": "path:知識/統計/多變量分析  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.3213363860504151,
-  "close": true
+  "scale": 0.4505081176758624,
+  "close": false
 }
