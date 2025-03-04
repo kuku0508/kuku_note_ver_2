@@ -27,12 +27,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://detexify.kirelabs.org/classify.html",
-                "title": "Detexify LaTeX handwritten symbol recognition",
+                "url": "https://detexify.kirelabs.org/symbols.html",
+                "title": "Detexify LaTeX symbol table",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Detexify LaTeX handwritten symbol recognition"
+              "title": "Detexify LaTeX symbol table"
             }
           },
           {
