@@ -254,29 +254,18 @@
             "type": "tabs",
             "children": [
               {
-                "id": "05af7221fa7651e4",
+                "id": "f91b77ea7dd80936",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md"
+                    "file": "文本/Department/數學/統計/統計學/講義/ch8.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch7.3~ch7.4"
-                }
-              },
-              {
-                "id": "f91b77ea7dd80936",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "title": "ch8"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
