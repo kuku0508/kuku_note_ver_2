@@ -319,29 +319,19 @@
                 }
               },
               {
-                "id": "8d7be376d7c28b0c",
+                "id": "85ac90e7d3050454",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 8.md"
+                    "file": "文本/書/Applied Multivariate Statistical Analysis.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "unit 8"
-                }
-              },
-              {
-                "id": "85ac90e7d3050454",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "title": "Applied Multivariate Statistical Analysis"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -354,10 +344,11 @@
       }
     ]
   },
-  "active": "85ac90e7d3050454",
+  "active": "a66619920149c829",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/書/Applied Multivariate Statistical Analysis.md",
     "未處理/多變量資料.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/多變量分析/多變量分析目錄.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/有限母體修正因子.md",
@@ -382,7 +373,6 @@
     "知識/統計/統計學/基礎知識/樣本.md",
     "知識/統計/統計學/基礎知識/統計學.md",
     "知識/統計/統計學/分配/機率分配/分配.md",
-    "知識/統計/統計學/基礎知識/樣本統計量.md",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=0.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png",
