@@ -19,52 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "有限母體修正因子"
-            },
-            "group": "432a25bcd8bd822b"
-          }
-        ]
-      },
-      {
-        "id": "d84b37e9adaec1c6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1900400cf08f4c46",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "未處理/有限母體修正因子.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "有限母體修正因子 的關聯圖"
-            },
-            "group": "432a25bcd8bd822b"
+            }
           }
         ]
       }
@@ -416,7 +371,7 @@
       }
     ]
   },
-  "active": "1900400cf08f4c46",
+  "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配.md",
     "未處理/有限母體修正因子.md",
