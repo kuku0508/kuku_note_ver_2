@@ -325,7 +325,8 @@
                   "title": "Applied Multivariate Statistical Analysis"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -338,14 +339,14 @@
       }
     ]
   },
-  "active": "b7a88869ad4aa47a",
+  "active": "85ac90e7d3050454",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/多變量分析目錄.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "未處理/多變量分析.md",
+    "知識/統計/多變量分析/多變量分析目錄.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/有限母體修正因子.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
     "文本/書/Applied Multivariate Statistical Analysis.md",
     "知識/統計/多變量分析/基礎知識",
