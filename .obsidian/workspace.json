@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
+                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多變量分析 - 平均"
+              "title": "多變量分析 - 共變異數"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/Untitled.md",
+                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "多變量分析 - 相關係數"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "多變量資料"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,14 +342,14 @@
       }
     ]
   },
-  "active": "e6b50c7cb6cbfc24",
+  "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
-    "知識/統計/多變量分析/基礎知識/各樣本統計量/Untitled.md",
+    "知識/統計/多變量分析/基礎知識/多變量資料.md",
+    "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "模板/筆記.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
-    "知識/統計/多變量分析/基礎知識/多變量資料.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/書/Applied Multivariate Statistical Analysis.md",
