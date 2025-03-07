@@ -11,14 +11,16 @@
             "id": "b7a88869ad4aa47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "知識/統計/多變量分析/MANOVA/MANOVA.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/W2025(MA)(1).pdf",
+                "page": 1,
+                "left": -15,
+                "top": 792,
+                "zoom": 0.9987745098039216
               },
-              "icon": "lucide-file",
-              "title": "MANOVA"
+              "icon": "lucide-file-text",
+              "title": "W2025(MA)(1)"
             }
           },
           {
@@ -346,9 +348,10 @@
   },
   "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
+    "知識/統計/多變量分析/MANOVA/MANOVA.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/W2025(MA)(1).pdf",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
-    "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/MANOVA",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
@@ -375,7 +378,6 @@
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
     "知識/統計/多變量分析/基礎知識",
     "知識/統計/多變量分析",
-    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=0.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png",
@@ -390,7 +392,6 @@
     "文本/Department/數學/統計/多變量分析/圖",
     "文本/Department/數學/統計/多變量分析/Assignment/未命名",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File",
-    "文本/Department/數學/統計/多變量分析/Assignment"
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File"
   ]
 }
