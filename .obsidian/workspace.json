@@ -338,9 +338,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                    "page": 1,
+                    "page": 2,
                     "left": -10,
-                    "top": 643,
+                    "top": 90,
                     "zoom": 1.5061274509803921
                   },
                   "icon": "lucide-file-text",
@@ -361,13 +361,13 @@
       }
     ]
   },
-  "active": "89b43c3c63378194",
+  "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/書/Applied Multivariate Statistical Analysis.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
@@ -392,7 +392,6 @@
     "知識/統計/統計學/資料/資料.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/有限母體修正因子.md",
     "知識/統計/多變量分析/基礎知識",
     "知識/統計/多變量分析",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
