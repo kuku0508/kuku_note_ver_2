@@ -330,9 +330,25 @@
                   "icon": "excalidraw-icon",
                   "title": "Applied Multivariate Statistical Analysis"
                 }
+              },
+              {
+                "id": "89b43c3c63378194",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                    "page": 1,
+                    "left": -10,
+                    "top": 643,
+                    "zoom": 1.5061274509803921
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "MA Assignment"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -345,9 +361,10 @@
       }
     ]
   },
-  "active": "b7a88869ad4aa47a",
+  "active": "89b43c3c63378194",
   "lastOpenFiles": [
     "文本/書/Applied Multivariate Statistical Analysis.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
@@ -357,7 +374,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/MANOVA",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/多變量分析/基礎知識/多變量分析.md",
