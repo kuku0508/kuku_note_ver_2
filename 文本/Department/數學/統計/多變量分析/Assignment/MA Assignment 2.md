@@ -7,9 +7,9 @@ The scores obtaioned by 87 college students on the exam are given in the followi
 - (c) Make your conclusion for the test
 
 $$
-\begin{}
-
-
+\begin{array}{rrrr|rrrr}
+I
+\end{array}
 $$
 # 2.
 
