@@ -8,7 +8,9 @@ The scores obtaioned by 87 college students on the exam are given in the followi
 
 $$
 \begin{array}{rrrr|rrrr}
-I
+\hline
+Individual&X_1&X_2&X_3&Individual&X_1&X_2&X_3
+\hline
 \end{array}
 $$
 # 2.
