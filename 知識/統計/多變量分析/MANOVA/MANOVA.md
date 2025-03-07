@@ -1,4 +1,4 @@
-MANO
+多變量變異數分析（Multivariate analysis of variance MANOVA
 
 - - -
 # 參考資料
