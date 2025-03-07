@@ -6,4 +6,11 @@ The scores obtaioned by 87 college students on the exam are given in the followi
 - (b) Specify the distribution of $T^2$ in part (a)
 - (c) Make your conclusion for the test
 
+$$
+\begin{}
+
+
+$$
+# 2.
+
 # 回答：
