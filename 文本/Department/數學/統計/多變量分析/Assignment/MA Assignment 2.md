@@ -73,6 +73,9 @@ In a study of the cost of transporting milk from farms to dairy plants, a survey
 $Y_1=$ 燃料成本、$Y_2=$ 維修成本、$Y_3=$ 資本成本
 假設資料以滿足常態性假設、且共變異數矩陣相等。請在顯著水準$0.01$下，進行多變量變異數分析，並根據檢定結果做出結論。
 
+Gasoline：汽油
+Diesel：柴油
+
 $$
 \begin{array}{rrrr|rrrr}
 \hline
