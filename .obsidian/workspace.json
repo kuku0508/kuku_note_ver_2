@@ -77,8 +77,7 @@
               "title": "多變量資料"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -361,9 +360,21 @@
                   "icon": "lucide-file-text",
                   "title": "MA Assignment"
                 }
+              },
+              {
+                "id": "859587445e92dfc1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "MA chapter1"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -376,8 +387,9 @@
       }
     ]
   },
-  "active": "7291264b9e68aa41",
+  "active": "b7a88869ad4aa47a",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
@@ -391,7 +403,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/MANOVA",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/多變量分析/基礎知識/多變量分析.md",
     "模板/筆記.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
