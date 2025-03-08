@@ -8,8 +8,9 @@ The scores obtaioned by 87 college students on the exam are given in the followi
 
 87名大學生獲得的各科分數如下，其中$X_1=$ 歷史成績、$X_2=$ 科學成績、$X_3=$ 數學成績。檢驗假設：
 $$
-H_0\text{： }\mu'=
+H_0\text{： }\mu'=[500,50,30]\quad versus \quad H_0\text{： }\mu'\neq[500,50,30]
 $$
+而
 
 $$
 \begin{array}{rrrr|rrrr}
