@@ -6,6 +6,8 @@ The scores obtaioned by 87 college students on the exam are given in the followi
 - (b) Specify the distribution of $T^2$ in part (a)
 - (c) Make your conclusion for the test
 
+87名大學生獲得的各科分數如下，其中$$
+
 $$
 \begin{array}{rrrr|rrrr}
 \hline
