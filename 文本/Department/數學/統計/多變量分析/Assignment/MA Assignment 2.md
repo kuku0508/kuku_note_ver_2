@@ -70,7 +70,7 @@ $$
 In a study of the cost of transporting milk from farms to dairy plants, a survey was taken of firms engaged in milk transportation. Cost data on $Y1 =$fuel, $Y2 =$repair, and $Y3 =$capital, all measured on a per-mile basis, are presented as follows. Assume that the normality assumption is satisfied and the covariance matrices are equal. Conduct the one-way MANOVA and make your conclusion at $\alpha = 0.01$.
 
 在一項關於將牛奶從農場運輸至乳製品工廠的運輸成本研究中，對從事牛奶運輸的公司進行了調查。以下是每英里成本數據，其中：
-$Y_1=$ 燃料成本、$Y_2=$ 維修成、$Y_1=$ 燃料成本
+$Y_1=$ 燃料成本、$Y_2=$ 維修成本、$Y_3=$ 燃料成本
 
 $$
 \begin{array}{rrrr|rrrr}
