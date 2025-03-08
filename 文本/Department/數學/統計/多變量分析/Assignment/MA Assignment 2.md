@@ -11,7 +11,7 @@ $$
 H_0\text{： }\mu'=[500,50,30]\quad versus \quad H_0\text{： }\mu'\neq[500,50,30]
 $$
 而$[500,50,30]$代表過去10年來上千名大學生的平均成績。
-ㄦ
+- 球
 
 $$
 \begin{array}{rrrr|rrrr}
