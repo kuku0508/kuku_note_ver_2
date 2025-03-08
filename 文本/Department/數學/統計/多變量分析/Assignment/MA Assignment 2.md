@@ -67,7 +67,10 @@ $$
 \end{array}
 $$
 (a)
-我們已知$T^2$為
+我們已知$T^2$的公式為：
+$$
+T^2=n(\bar{\bf{X}}-\mu_0)'(S)
+$$
 
 # 2.
 In a study of the cost of transporting milk from farms to dairy plants, a survey was taken of firms engaged in milk transportation. Cost data on $Y1 =$fuel, $Y2 =$repair, and $Y3 =$capital, all measured on a per-mile basis, are presented as follows. Assume that the normality assumption is satisfied and the covariance matrices are equal. Conduct the one-way MANOVA and make your conclusion at $\alpha = 0.01$.
