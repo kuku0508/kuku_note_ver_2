@@ -104,12 +104,14 @@ S_{31}&S_{32}&S_{33}\\
 \end{bmatrix}
 ,\text{where }S_{jk}=\frac{1}{\rm{n}-1}\sum^n_{i=1}(x_{ij}-\bar{x}_j)(x_{ik}-\bar{x}_k)\\\\
 &\Rightarrow\begin{bmatrix}
-5830.6041&586.3345&223.68698\\
-586.3345&125.1727 &23.09770\\
-223.6870&23.0977 &23.11173\\
+5830.60&586.33&223.69\\
+586.33&125.17 &23.10\\
+223.69&23.10 &23.11\\
 \end{bmatrix}
 \end{align}
 $$
+最後我們就可以得到$T^2$
+
 # 2.
 In a study of the cost of transporting milk from farms to dairy plants, a survey was taken of firms engaged in milk transportation. Cost data on $Y1 =$fuel, $Y2 =$repair, and $Y3 =$capital, all measured on a per-mile basis, are presented as follows. Assume that the normality assumption is satisfied and the covariance matrices are equal. Conduct the one-way MANOVA and make your conclusion at $\alpha = 0.01$.
 
