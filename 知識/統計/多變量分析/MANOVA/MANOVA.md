@@ -1,4 +1,4 @@
-多變量變異數分析（Multivariate analysis of variance, MANOVA），
+多變量變異數分析（Multivariate analysis of variance, MANOVA），是一種統計推論方法。
 
 - - -
 # 參考資料
