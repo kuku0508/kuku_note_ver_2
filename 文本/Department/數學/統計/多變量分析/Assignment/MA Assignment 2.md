@@ -97,8 +97,11 @@ $$
 $$
 \bf{S}=
 \begin{bmatrix}
-S_{11}&S_{12}&S_{13}
+S_{11}&S_{12}&S_{13}\\
+S_{21}&S_{22}&S_{23}\\
+S_{31}&S_{32}&S_{33}\\
 \end{bmatrix}
+,where
 $$
 # 2.
 In a study of the cost of transporting milk from farms to dairy plants, a survey was taken of firms engaged in milk transportation. Cost data on $Y1 =$fuel, $Y2 =$repair, and $Y3 =$capital, all measured on a per-mile basis, are presented as follows. Assume that the normality assumption is satisfied and the covariance matrices are equal. Conduct the one-way MANOVA and make your conclusion at $\alpha = 0.01$.
