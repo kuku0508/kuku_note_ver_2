@@ -96,14 +96,18 @@ $$
 接下來我們再求樣本的共變異數向量$S$：
 $$
 \begin{align}
-\bf{S}=
-&\begin{bmatrix}
+\bf{S}&=
+\begin{bmatrix}
 S_{11}&S_{12}&S_{13}\\
 S_{21}&S_{22}&S_{23}\\
 S_{31}&S_{32}&S_{33}\\
 \end{bmatrix}
 ,\text{where }S_{jk}=\frac{1}{\rm{n}-1}\sum^n_{i=1}(x_{ij}-\bar{x}_j)(x_{ik}-\bar{x}_k)\\\\
-&\Rightarrow
+&\Rightarrow\begin{bmatrix}
+S_{11}&S_{12}&S_{13}\\
+S_{21}&S_{22}&S_{23}\\
+S_{31}&S_{32}&S_{33}\\
+\end{bmatrix}
 \end{align}
 $$
 # 2.
