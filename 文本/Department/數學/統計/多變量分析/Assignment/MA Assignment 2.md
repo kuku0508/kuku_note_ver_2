@@ -93,7 +93,11 @@ $$
 25.13\\
 \end{bmatrix}
 $$
-接下來我們再求
+接下來我們再求樣本的共變異數向量$S$：
+$$
+
+
+$$
 # 2.
 In a study of the cost of transporting milk from farms to dairy plants, a survey was taken of firms engaged in milk transportation. Cost data on $Y1 =$fuel, $Y2 =$repair, and $Y3 =$capital, all measured on a per-mile basis, are presented as follows. Assume that the normality assumption is satisfied and the covariance matrices are equal. Conduct the one-way MANOVA and make your conclusion at $\alpha = 0.01$.
 
