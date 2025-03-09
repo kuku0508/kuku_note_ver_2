@@ -82,7 +82,7 @@ $$
 \end{bmatrix}
 =
 \begin{bmatrix}
-\sum^87_\\
+\sum^87_{i=1}\\
 \mu_2\\
 \mu_3\\
 \end{bmatrix}
