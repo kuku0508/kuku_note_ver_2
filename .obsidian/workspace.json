@@ -11,14 +11,12 @@
             "id": "a72943d2c4ac0758",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/書/魔藥學：魔法、藥草與巫術的神奇秘密.md"
               },
-              "icon": "lucide-file",
-              "title": "MA Assignment 2"
+              "icon": "excalidraw-icon",
+              "title": "魔藥學：魔法、藥草與巫術的神奇秘密"
             }
           },
           {
@@ -359,10 +357,12 @@
   },
   "active": "a72943d2c4ac0758",
   "lastOpenFiles": [
+    "文本/書/辯論的實戰技巧.md",
+    "文本/書/魔藥學：魔法、藥草與巫術的神奇秘密.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "文本/書/Applied Multivariate Statistical Analysis.md",
     "文本/書/Applied Multivariate Techniques.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
@@ -386,8 +386,6 @@
     "未處理/平均值.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/加權平均數.md",
     "知識/統計/多變量分析/多變量分析目錄.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量",
     "知識/統計/多變量分析/基礎知識",
     "知識/統計/多變量分析",
