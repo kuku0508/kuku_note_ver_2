@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/魔藥學：魔法、藥草與巫術的神奇秘密.md"
+                "file": "文本/書/博物學家的神祕動物圖鑑.md"
               },
               "icon": "excalidraw-icon",
-              "title": "魔藥學：魔法、藥草與巫術的神奇秘密"
+              "title": "博物學家的神祕動物圖鑑"
             }
           },
           {
@@ -355,11 +355,12 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "a72943d2c4ac0758",
   "lastOpenFiles": [
+    "文本/書/被討厭的勇氣.md",
     "文本/書/博物學家的神祕動物圖鑑.md",
-    "文本/書/辯論的實戰技巧.md",
     "文本/書/魔藥學：魔法、藥草與巫術的神奇秘密.md",
+    "文本/書/辯論的實戰技巧.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "文本/書/Applied Multivariate Statistical Analysis.md",
     "文本/書/Applied Multivariate Techniques.md",
@@ -385,7 +386,6 @@
     "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "未處理/平均值.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/加權平均數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量",
     "知識/統計/多變量分析/基礎知識",
     "知識/統計/多變量分析",
