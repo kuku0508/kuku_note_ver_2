@@ -342,21 +342,9 @@
                   "icon": "excalidraw-icon",
                   "title": "MA chapter1"
                 }
-              },
-              {
-                "id": "ba73e5b0d8ea93b6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Applied Multivariate Techniques.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Applied Multivariate Techniques"
-                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -369,8 +357,9 @@
       }
     ]
   },
-  "active": "ba73e5b0d8ea93b6",
+  "active": "85ac90e7d3050454",
   "lastOpenFiles": [
+    "文本/書/Applied Multivariate Techniques.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
