@@ -82,9 +82,9 @@ $$
 \end{bmatrix}
 =
 \begin{bmatrix}
-\frac{1}{87}\sum^{87}_{i=1}x_{1i}\\
-\frac{1}{87}\sum^{87}_{i=1}\bf{x}_2\\
-\frac{1}{87}\sum^{87}_{i=1}\bf{x}_3\\
+\frac{1}{87}\sum^{87}_{i=1}x_{i1}\\
+\frac{1}{87}\sum^{87}_{i=1}x_{i2}\\
+\frac{1}{87}\sum^{87}_{i=1}x_{i3}\\
 \end{bmatrix}
 =
 
