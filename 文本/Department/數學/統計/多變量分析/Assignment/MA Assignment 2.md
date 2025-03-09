@@ -82,10 +82,12 @@ $$
 \end{bmatrix}
 =
 \begin{bmatrix}
-\sum^87_{i=1}\\
-\mu_2\\
-\mu_3\\
+\sum^{87}_{i=1}\bf{x}_1\\
+\sum^{87}_{i=1}\bf{x}_2\\
+\sum^{87}_{i=1}\bf{x}_3\\
 \end{bmatrix}
+=
+
 $$
 
 
