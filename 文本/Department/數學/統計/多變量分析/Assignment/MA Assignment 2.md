@@ -97,12 +97,12 @@ $$
 $$
 \bf{S}=
 \begin{align}
-\begin{bmatrix}
+&\begin{bmatrix}
 S_{11}&S_{12}&S_{13}\\
 S_{21}&S_{22}&S_{23}\\
 S_{31}&S_{32}&S_{33}\\
 \end{bmatrix}
-,\text{where }S_{jk}=\frac{1}{\rm{n}-1}\sum^n_{i=1}(x_{ij}-\bar{x}_j)(x_{ik}-\bar{x}_k)\\
+,\text{where }S_{jk}=\frac{1}{\rm{n}-1}\sum^n_{i=1}(x_{ij}-\bar{x}_j)(x_{ik}-\bar{x}_k)\\\\
 &\Rightarrow
 \end{align}
 $$
