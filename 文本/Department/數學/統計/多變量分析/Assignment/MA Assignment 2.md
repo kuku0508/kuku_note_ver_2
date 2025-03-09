@@ -87,7 +87,11 @@ $$
 \frac{1}{87}\sum^{87}_{i=1}x_{i3}\\
 \end{bmatrix}
 =
-
+\begin{bmatrix}
+526.36\\
+54.78\\
+25.13\\
+\end{bmatrix}
 $$
 
 
