@@ -81,7 +81,11 @@ $$
 \mu_3\\
 \end{bmatrix}
 =
-
+\begin{bmatrix}
+\sum^87_\\
+\mu_2\\
+\mu_3\\
+\end{bmatrix}
 $$
 
 
