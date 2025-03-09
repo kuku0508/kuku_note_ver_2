@@ -1,4 +1,4 @@
-多變量變異數分析（Multivariate analysis of variance, MANOVA），是一種統計推論方法。多變量變異數分析（MANOVA）是ANOVA的延伸，可以處理多個應變數，其中ㄗ
+多變量變異數分析（Multivariate analysis of variance, MANOVA），是一種統計推論方法。多變量變異數分析（MANOVA）是ANOVA的延伸，可以處理多個應變數，其中自變數（因子）為類別變數，而應變數是[[連續型隨機變數|連續型變數]]。
 
 - - -
 # 參考資料
