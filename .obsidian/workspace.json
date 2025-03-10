@@ -20,16 +20,16 @@
               "icon": "lucide-file",
               "title": "單變量常態分配"
             },
-            "group": "76893e70fabef831"
+            "group": "cf3e5f6f3c46a0cc"
           }
         ]
       },
       {
-        "id": "967d24ccac761888",
+        "id": "798034eb53427c62",
         "type": "tabs",
         "children": [
           {
-            "id": "59745b71f3dc4d54",
+            "id": "537d62377a01b722",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -57,14 +57,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.39639533688335093,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
               "title": "單變量常態分配 的關聯圖"
             },
-            "group": "76893e70fabef831"
+            "group": "cf3e5f6f3c46a0cc"
           }
         ]
       }
@@ -375,8 +375,11 @@
       }
     ]
   },
-  "active": "59745b71f3dc4d54",
+  "active": "08b47a78a2f795ba",
   "lastOpenFiles": [
+    "知識/統計/統計學/資料/資料預處理/標準化.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
+    "知識/統計/統計學/分配/經驗法則.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/書/黑格爾：哲學史講演錄 第一卷.md",
@@ -402,9 +405,6 @@
     "文本/書/心流 FLOW.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
-    "知識/程式語言/Latex/基礎知識/語法表/向量.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
-    "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "知識/統計/多變量分析/MANOVA",
     "知識/統計/多變量分析/基礎知識/各樣本統計量",
