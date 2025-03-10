@@ -317,7 +317,8 @@
                   "title": "MA chapter1"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -330,10 +331,10 @@
       }
     ]
   },
-  "active": "0ab837168c4dc68c",
+  "active": "85ac90e7d3050454",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "文本/書/how to 這麼做，就對了！.md",
     "文本/書/Applied Multivariate Techniques.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
