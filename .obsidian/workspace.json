@@ -11,10 +11,14 @@
             "id": "08b47a78a2f795ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多維常態分配"
             }
           }
         ]
@@ -329,8 +333,8 @@
   "active": "08b47a78a2f795ba",
   "lastOpenFiles": [
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
-    "知識/統計/多變量分析/多變量分析目錄.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "知識/統計/多變量分析/多變量分析目錄.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/多變量分析/多維常態分配/未命名.md",
     "知識/統計/多變量分析/多維常態分配",
