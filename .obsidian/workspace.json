@@ -11,13 +11,11 @@
             "id": "08b47a78a2f795ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/書/how to 這麼做，就對了！.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/書/how to 這麼做，就對了！.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "how to 這麼做，就對了！"
             }
           }
@@ -332,8 +330,9 @@
   },
   "active": "08b47a78a2f795ba",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+    "文本/書/Applied Multivariate Techniques.md",
     "文本/書/how to 這麼做，就對了！.md",
+    "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
     "知識/統計/統計學/分配/機率分配/中央極限定理.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
@@ -355,7 +354,6 @@
     "文本/書/魔藥學：魔法、藥草與巫術的神奇秘密.md",
     "文本/書/辯論的實戰技巧.md",
     "文本/書/Applied Multivariate Statistical Analysis.md",
-    "文本/書/Applied Multivariate Techniques.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "文本/書/女士品茶.md",
