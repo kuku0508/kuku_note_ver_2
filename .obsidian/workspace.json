@@ -11,12 +11,14 @@
             "id": "08b47a78a2f795ba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/黑格爾：哲學史講演錄 第一卷.md"
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "黑格爾：哲學史講演錄 第一卷"
+              "icon": "lucide-file",
+              "title": "多維常態分配"
             }
           }
         ]
@@ -330,13 +332,13 @@
   },
   "active": "08b47a78a2f795ba",
   "lastOpenFiles": [
-    "文本/書/黑格爾：哲學史講演錄 第二卷.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/書/黑格爾：哲學史講演錄 第一卷.md",
+    "文本/書/黑格爾：哲學史講演錄 第二卷.md",
     "文本/書/黑格爾：哲學史講演錄 第四卷.md",
     "文本/書/黑格爾：哲學史講演錄 第三卷.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/多變量分析目錄.md",
     "知識/統計/多變量分析/多維常態分配/未命名.md",
     "知識/統計/多變量分析/多維常態分配",
