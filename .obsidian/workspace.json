@@ -11,12 +11,14 @@
             "id": "54945b7009be5e66",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "未處理/Carl Friedrich Gauss.png"
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Carl Friedrich Gauss"
+              "icon": "lucide-file",
+              "title": "多維常態分配"
             }
           }
         ]
@@ -330,8 +332,12 @@
   },
   "active": "54945b7009be5e66",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
+    "文本/Department/數學/統計/學者照片/John arbuthnot.png",
+    "文本/Department/數學/統計/學者照片/Francis Galtton.png",
+    "文本/Department/數學/統計/迴歸分析/圖/Regression analysis.png",
+    "文本/Department/數學/統計/學者照片",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
-    "未處理/Carl Friedrich Gauss.png",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/書/Applied Multivariate Statistical Analysis.md",
     "文本/書/how to 這麼做，就對了！.md",
@@ -370,10 +376,7 @@
     "未處理/Pasted image 20250303163009.png",
     "未處理/Pasted image 20250303162953.png",
     "未處理/Pasted image 20250303162926.png",
-    "未處理/Pasted image 20250303162910.png",
-    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=90.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1",
-    "文本/Department/數學/統計/多變量分析/圖",
-    "文本/Department/數學/統計/多變量分析/Assignment/未命名"
+    "文本/Department/數學/統計/多變量分析/圖"
   ]
 }
