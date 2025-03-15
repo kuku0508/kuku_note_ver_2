@@ -13,7 +13,9 @@ $$
 $$
 \begin{array}{ccccc}
 \hline
-\text{Factor 1 Location}&\text{Factor 2 Location}&Y_ㄅ\text{}
+\text{Factor 1 Location}&\text{Factor 2 Location}&Y_1\text{ Yield}&Y_2\text{ SMK}&Y_3\text{ Size}\\
+\hline
+
 \end{array}
 $$
 # 回答：
