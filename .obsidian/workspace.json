@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.51103591918945
+    "width": 448.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -241,7 +242,48 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4495334f68f240e1",
+  "floating": {
+    "id": "a57166fc307f04e5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3bdb1346498fcddb",
+        "type": "window",
+        "children": [
+          {
+            "id": "84b29c82c9f316c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38904cc8a979def0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                    "page": 3,
+                    "left": -12,
+                    "top": 272,
+                    "zoom": 1.3700980392156863
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "MA Assignment"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "38904cc8a979def0",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/Assignment/Untitled.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
@@ -276,7 +318,6 @@
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/分配/經驗法則.md",
     "文本/書/黑格爾：哲學史講演錄 第一卷.md",
-    "文本/書/黑格爾：哲學史講演錄 第二卷.md",
     "知識/統計/多變量分析/多維常態分配",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "知識/統計/多變量分析/MANOVA",
