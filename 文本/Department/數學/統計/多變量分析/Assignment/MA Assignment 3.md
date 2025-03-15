@@ -9,5 +9,5 @@ A=
 2&-2&10
 \end{bmatrix}
 $$
-2. In an effort to develop improved peanuts, crop scientists routinely compare varieties with respect to several variables. A two-factor experiment with two replications was considered. Three varieties were grown at two geographical locations, and the three variables representing yield, sound mature 
+2. In an effort to develop improved peanuts, crop scientists routinely compare varieties with respect to several variables. A two-factor experiment with two replications was considered. Three varieties were grown at two geographical locations, and the three variables representing yield, sound mature kernels（SMK, weight in grams）and seed size（weight in grams）were measured. The data are shown as fo
 # 回答：
