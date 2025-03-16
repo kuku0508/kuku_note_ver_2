@@ -1,6 +1,6 @@
 # 問題：
 ![[MA Assignment.pdf]]
-1. Using R and SAS, find the determinant, trace, inverse, eigenvalues, and eigenvectors of the matrix A, where：
+1. Using R or SAS, find the determinant, trace, inverse, eigenvalues, and eigenvectors of the matrix A, where：
 $$
 A=
 \begin{bmatrix}
@@ -9,7 +9,7 @@ A=
 2&-2&10
 \end{bmatrix}
 $$
-用R跟SAS來找到矩陣A的「行列式」、「跡」、「反矩陣」、「特徵值」以及「特徵矩陣」。
+用R或SAS來找到矩陣A的「行列式」、「跡」、「反矩陣」、「特徵值」以及「特徵矩陣」。
 
 2. In an effort to develop improved peanuts, crop scientists routinely compare varieties with respect to several variables. A two-factor experiment with two replications was considered. Three varieties were grown at two geographical locations, and the three variables representing yield, sound mature kernels（SMK, weight in grams）and seed size（weight in grams）were measured. The data are shown as follows. Test the effects at $\alpha=0.05$ and make your conclusion.
 
@@ -36,3 +36,4 @@ $$
 $$
 
 # 回答：
+因為R比較簡短，這邊使用R來做
