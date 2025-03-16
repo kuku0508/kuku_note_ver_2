@@ -76,7 +76,8 @@ A^{-1}=
 \end{bmatrix}
 $$
 #### 特徵值＆特徵矩陣
-透過`eigen()`他會透過list形式給你矩陣中的特徵值以及特徵向量。可以利用`$value`跟`list名稱$vector`的方式
+透過`eigen()`他會透過list形式給你矩陣中的特徵值以及特徵向量。
+可以利用`list名稱$value`跟`list名稱$vector`的方式分別叫出特徵值以及特徵向量。
 
 ```R
 A <- matrix(c(13,-4,2,-4,13,-2,2,-2,10),nrow = 3,ncol = 3)
