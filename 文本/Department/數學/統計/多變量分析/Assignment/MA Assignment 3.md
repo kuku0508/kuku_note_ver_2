@@ -36,4 +36,30 @@ $$
 $$
 
 # 回答：
-因為R比較簡短且方便，這邊使用R來做示範。
+因為R比較簡短且方便，故這邊使用R來做示範。
+首先我透過`matrix`指令來
+```R
+A <- matrix(c(13,-4,2,-4,13,-2,2,-2,10),nrow = 3,ncol = 3)
+
+det_A <- det(A)
+
+cat("determinant：", det_A)
+
+trace_A <- sum(diag(A))
+cat("trace：", trace_A)
+
+inv_A <- solve(A)
+cat("inverse：")
+inv_A
+
+
+# 特徵值（eigen可以直接幫你算特徵植跟特徵向量,list）
+eig_A <- eigen(A)
+
+eig_values <- eig_A$values
+cat("eig_values：", eig_values)
+
+# 特徵向量
+eig_vectors <- eig_A$vectors
+cat("eig_values：", eig_values)
+```
