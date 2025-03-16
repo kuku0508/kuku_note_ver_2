@@ -13,7 +13,7 @@ $$
 
 2. In an effort to develop improved peanuts, crop scientists routinely compare varieties with respect to several variables. A two-factor experiment with two replications was considered. Three varieties were grown at two geographical locations, and the three variables representing yield, sound mature kernels（SMK, weight in grams）and seed size（weight in grams）were measured. The data are shown as follows. Test the effects at $\alpha=0.05$ and make your conclusion.
 
-為了培育改良的花生，作物科學家經常會比較品種之間的不同變數。本研究考慮了重複兩次的二因子實驗。實驗中，三個不同品種的花生分別種植於兩個不同的地理位置。並且測量了三個變數，分別是產量（Yield）、成熟飽滿種子重量（SMK，單位為克）以及種子大小（單位為克）。資料如下所示，請在顯著水準$\alpha$為0.05之下檢驗個因素的影響，並做出結論。
+為了培育改良的花生，作物科學家經常會比較品種之間的不同變數。本研究考慮了重複兩次的二因子實驗。實驗中，三個不同品種的花生分別種植於兩個不同的地理位置。並且測量了三個變數，分別是產量（Yield）、成熟飽滿種子重量（SMK，單位為克）以及種子大小（單位為克）。資料如下所示，請在顯著水準$\alpha$為0.05之下檢驗各因素的影響，並做出結論。
 
 $$
 \begin{array}{ccccc}
