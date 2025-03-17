@@ -33,7 +33,8 @@
               "title": "MA chapter2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,10 +296,10 @@
       }
     ]
   },
-  "active": "4495334f68f240e1",
+  "active": "abae4834d69c3d5b",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
