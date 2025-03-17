@@ -46,9 +46,25 @@
               "icon": "lucide-file",
               "title": "MA Assignment 1"
             }
+          },
+          {
+            "id": "41b4ba88057db818",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                "page": 3,
+                "left": -12,
+                "top": 172,
+                "zoom": 1.3161764705882353
+              },
+              "icon": "lucide-file-text",
+              "title": "MA Assignment"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,11 +337,11 @@
       }
     ]
   },
-  "active": "34f48697c810fc7f",
+  "active": "41b4ba88057db818",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
