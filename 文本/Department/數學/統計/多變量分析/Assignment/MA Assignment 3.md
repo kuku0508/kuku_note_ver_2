@@ -18,7 +18,7 @@ $$
 $$
 \begin{array}{ccccc}
 \hline
-\text{Factor 1 Location}&\text{Factor 2 Location}&Y_1\text{ Yield}&Y_2\text{ SMK}&Y_3\text{ Size}\\
+\text{Factor 1 Location}&\text{Factor 2 Variety}&Y_1\text{ Yield}&Y_2\text{ SMK}&Y_3\text{ Size}\\
 \hline
 2.0	&	8.0	&	200.0	&	173.8	&	67.2	\\
 2.0	&	5.0	&	180.4	&	121.1	&	44.4	\\
