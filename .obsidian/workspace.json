@@ -11,12 +11,14 @@
             "id": "34f48697c810fc7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MA chapter3"
+              "icon": "lucide-file",
+              "title": "多維常態分配"
             }
           }
         ]
@@ -255,10 +257,12 @@
                 "id": "16193f0606c53b73",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "MA chapter2"
                 }
               }
             ]
