@@ -303,11 +303,7 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                    "page": 3,
-                    "left": -12,
-                    "top": 172,
-                    "zoom": 1.3700980392156863
+                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf"
                   },
                   "icon": "lucide-file-text",
                   "title": "MA Assignment"
@@ -326,12 +322,12 @@
       }
     ]
   },
-  "active": "38904cc8a979def0",
+  "active": "a6ffbc73d5580580",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/程式語言/MarkDown/語法表/Markdown語法表.md",
