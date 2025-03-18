@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/無母數統計/講義/unit 8.md"
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "unit 8"
+              "title": "MA chapter3"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.51103591918945
+    "width": 323.51103591918945
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -274,15 +274,16 @@
       }
     ]
   },
-  "active": "16193f0606c53b73",
+  "active": "34f48697c810fc7f",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/程式語言/MarkDown/語法表/Markdown語法表.md",
@@ -309,7 +310,6 @@
     "文本/書/Applied Multivariate Techniques.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
     "知識/統計/統計學/分配/機率分配/中央極限定理.md",
-    "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/多變量分析/多維常態分配",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "知識/統計/多變量分析/MANOVA",
