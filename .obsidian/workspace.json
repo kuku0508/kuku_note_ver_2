@@ -269,14 +269,15 @@
                 "id": "1b39ec28b6e62ab8",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "MA chapter1"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -289,11 +290,14 @@
       }
     ]
   },
-  "active": "1b39ec28b6e62ab8",
+  "active": "34f48697c810fc7f",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
-    "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "知識/統計/多變量分析/基礎知識/多變量資料.md",
+    "知識/統計/多變量分析/基礎知識/多變量分析.md",
+    "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
@@ -322,9 +326,6 @@
     "文本/Department/數學/統計/迴歸分析/圖/Regression analysis.png",
     "文本/Department/數學/統計/學者照片",
     "文本/書/how to 這麼做，就對了！.md",
-    "文本/書/Applied Multivariate Techniques.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
-    "知識/統計/統計學/分配/機率分配/中央極限定理.md",
     "知識/統計/多變量分析/多維常態分配",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "知識/統計/多變量分析/MANOVA",
