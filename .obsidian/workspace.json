@@ -281,14 +281,28 @@
                 "id": "4b713353d89d1453",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch6.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch6"
+                }
+              },
+              {
+                "id": "51ef07273bf4b7d2",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch7.3~ch7.4"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -301,8 +315,9 @@
       }
     ]
   },
-  "active": "4b713353d89d1453",
+  "active": "51ef07273bf4b7d2",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch6.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
@@ -336,7 +351,6 @@
     "文本/Department/數學/統計/學者照片/Francis Galtton.png",
     "文本/Department/數學/統計/迴歸分析/圖/Regression analysis.png",
     "文本/Department/數學/統計/學者照片",
-    "文本/書/how to 這麼做，就對了！.md",
     "知識/統計/多變量分析/多維常態分配",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
     "知識/統計/多變量分析/MANOVA",
