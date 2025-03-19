@@ -11,12 +11,14 @@
             "id": "34f48697c810fc7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/無母數統計/講義/unit 6.md"
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 6"
+              "icon": "lucide-file",
+              "title": "多維常態分配 - 檢測"
             }
           }
         ]
@@ -326,10 +328,16 @@
   },
   "active": "34f48697c810fc7f",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
-    "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 1.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 4.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/無母數統計/基礎知識/無母數統計.md",
     "知識/統計/多變量分析/基礎知識/多變量分析.md",
@@ -346,13 +354,7 @@
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
     "文本/Department/數學/統計/統計學/講義/ch6.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
-    "知識/程式語言/MarkDown/語法表/Markdown語法表.md",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.8.png",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.5.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
