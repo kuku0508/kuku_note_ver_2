@@ -276,8 +276,19 @@
                   "icon": "excalidraw-icon",
                   "title": "MA chapter1"
                 }
+              },
+              {
+                "id": "4b713353d89d1453",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -290,10 +301,10 @@
       }
     ]
   },
-  "active": "34f48697c810fc7f",
+  "active": "4b713353d89d1453",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
+    "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",
