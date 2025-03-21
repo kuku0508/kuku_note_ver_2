@@ -30,8 +30,9 @@ $$
 $$
 而推廣到多變量的情況，檢定統計量Hotelling's $T^2$將會變成：
 $$
-T^2=n(\bar{\bf{X}-\mu})
+T^2=n(\bar{\bf{X}}-\mu_0)'\bf{S}^{-1}(\bar{\bf{X}}-\mu_0)
 $$
+
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
