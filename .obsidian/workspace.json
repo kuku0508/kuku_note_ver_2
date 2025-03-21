@@ -318,20 +318,20 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 696,
         "width": 1280,
-        "height": 1392,
+        "height": 696,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "34f48697c810fc7f",
+  "active": "16193f0606c53b73",
   "lastOpenFiles": [
+    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
-    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "知識/統計/多變量分析/多變量分析目錄.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",

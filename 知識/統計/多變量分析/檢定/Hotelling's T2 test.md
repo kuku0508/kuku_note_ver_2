@@ -1,4 +1,4 @@
-Hotelling's $T^2$ test（霍特林T平方
+Hotelling's $T^2$ test（霍特林T平方檢定）
 
 - - -
 # 參考資料
