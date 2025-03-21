@@ -33,7 +33,10 @@ $$
 T^2=n(\bar{\bf{X}}-\mu_0)'\bf{S}^{-1}(\bar{\bf{X}}-\mu_0)
 $$
 
-而如果倘若
+且
+$$
+T^2\sim\frac{(n-1)}{}
+$$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
