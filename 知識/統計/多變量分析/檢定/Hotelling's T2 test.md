@@ -10,8 +10,9 @@ Hotelling's $T^2$ test是以Harold Hotelling命名，他是美國數理統計學
 # 檢定
 #### 虛無假設
 Hotelling's $T^2$ test的虛無假設為：
+令$\mu$為
 $$
-H_0：\mu
+H_0：\mu=\mu_0\,\,\text{versus}\,\,H_1：\mu\neq\mu_0
 $$
 - - -
 # 參考資料
