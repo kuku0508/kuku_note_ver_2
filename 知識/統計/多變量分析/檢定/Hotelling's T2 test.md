@@ -15,7 +15,7 @@ Hotelling's $T^2$ test的虛無假設為：
 $\mu_0$為給定之平均矩陣。則：
 
 $$
-H_0：\mu=\mu_0\,\,\text{versus}\,\,H_1：\mu\neq\mu_0
+H_0：\bf{\mu}=\mu_0\,\,\text{versus}\,\,H_1：\mu\neq\mu_0
 $$
 
 #### 檢定統計量
