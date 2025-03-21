@@ -24,7 +24,7 @@ $$
 $$
 \begin{align}
 &t=\frac{\bar{x}-\mu_0}{s/\sqrt{n}}\\
-\Rightarrow\,&t^2
+\Rightarrow\,&t^2=n(\bar{x}-\mu_0)(s^2)^{-1}(\barㄌ)
 \end{align}
 $$
 
