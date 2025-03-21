@@ -22,7 +22,10 @@ $$
 在Hotelling's $T^2$ test中，我們會透過$T^2$來決定是否要拒絕虛無假設。
 而在多變量的$T^2$檢定其實也是由單變量的T檢定衍伸而來，在單變量中，T值為：
 $$
-t=\frac{\bar{x}-\mu_0}{s/\sqrt{n}}
+\begin{align}
+&t=\frac{\bar{x}-\mu_0}{s/\sqrt{n}}\\
+\Rightarrow\,&t^2
+\end{align}
 $$
 
 $$
