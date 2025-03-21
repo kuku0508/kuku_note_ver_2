@@ -8,7 +8,11 @@ Hotelling's $T^2$ test是以Harold Hotelling命名，他是美國數理統計學
 - 隨機樣本$\bf{X}_1,\bf{X}_2,\ldots,\bf{X}_n$必須來自多變量常態分配$N_p(\mu,\Sigma)$
 - - -
 # 檢定
-####
+#### 虛無假設
+Hotelling's $T^2$ test的虛無假設為：
+$$
+H_0：\mu
+$$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
