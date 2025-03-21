@@ -19,8 +19,7 @@ H_0：\mu=\mu_0\,\,\text{versus}\,\,H_1：\mu\neq\mu_0
 $$
 
 #### 檢定統計量
-
-Hotelling's $T^2$ test
+在Hotelling's $T^2$ test中，我們會透過
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern

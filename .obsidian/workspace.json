@@ -326,12 +326,12 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "34f48697c810fc7f",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/學者照片/Harold hotelling.png",
-    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
-    "未處理/假設檢定.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
+    "文本/Department/數學/統計/學者照片/Harold hotelling.png",
+    "未處理/假設檢定.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
@@ -372,7 +372,6 @@
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=0.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png",
-    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=45.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1"
   ]
 }
