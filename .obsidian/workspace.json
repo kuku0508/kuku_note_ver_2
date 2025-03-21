@@ -11,10 +11,14 @@
             "id": "34f48697c810fc7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hotelling's T2 test"
             }
           }
         ]
