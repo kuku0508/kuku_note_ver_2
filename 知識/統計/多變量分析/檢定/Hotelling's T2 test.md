@@ -19,7 +19,11 @@ H_0：\mu=\mu_0\,\,\text{versus}\,\,H_1：\mu\neq\mu_0
 $$
 
 #### 檢定統計量
-在Hotelling's $T^2$ test中，我們會透過
+在Hotelling's $T^2$ test中，我們會透過$T^2$來決定是否要拒絕虛無假設。$T^2$值如下：
+$$
+
+
+$$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
