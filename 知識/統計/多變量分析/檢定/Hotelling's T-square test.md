@@ -1,4 +1,4 @@
-
+Hotelling's $T^2$ test（）
 
 - - -
 # 參考資料
