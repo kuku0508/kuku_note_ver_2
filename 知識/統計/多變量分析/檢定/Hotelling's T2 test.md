@@ -7,6 +7,9 @@ Hotelling's $T^2$ test是以Harold Hotelling命名，他是美國數理統計學
 # 前提
 - 隨機樣本$\bf{X}_1,\bf{X}_2,\ldots,\bf{X}_n$必須來自多變量常態分配$N_p(\mu,\Sigma)$
 - - -
+# 檢定
+####
+- - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
