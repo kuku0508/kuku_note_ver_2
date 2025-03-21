@@ -23,8 +23,8 @@ $$
 而在多變量的$T^2$檢定其實也是由單變量的T檢定衍伸而來，在單變量中，T值為：
 $$
 \begin{align}
-&t=\frac{\bar{x}-\mu_0}{s/\sqrt{n}}\\
-\Rightarrow\,&t^2=n(\bar{x}-\mu_0)(s^2)^{-1}(\barㄌ)
+&t=\frac{\bar{x}-\mu_0}{s/\sqrt{n}}\\\\
+\Rightarrow\,&t^2=n(\bar{x}-\mu_0)(s^2)^{-1}(\bar{x}-\mu_0)
 \end{align}
 $$
 
