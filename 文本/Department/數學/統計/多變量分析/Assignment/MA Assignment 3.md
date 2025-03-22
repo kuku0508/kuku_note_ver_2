@@ -106,3 +106,5 @@ cat("eig_values：", eig_values)
 eig_vectors <- eig_A$vectors
 cat("eig_values：", eig_values)
 ```
+
+
