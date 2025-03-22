@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "percen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -326,7 +327,7 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignmemt.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
