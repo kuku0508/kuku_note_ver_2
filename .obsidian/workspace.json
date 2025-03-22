@@ -303,9 +303,21 @@
                   "icon": "lucide-file-text",
                   "title": "MA Assignment"
                 }
+              },
+              {
+                "id": "acdbae7da0c28736",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/Applied Multivariate Statistical Analysis.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Applied Multivariate Statistical Analysis"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -318,11 +330,11 @@
       }
     ]
   },
-  "active": "34f48697c810fc7f",
+  "active": "acdbae7da0c28736",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-    "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
+    "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
