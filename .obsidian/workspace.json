@@ -295,9 +295,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                    "page": 1,
+                    "page": 4,
                     "left": -12,
-                    "top": 792,
+                    "top": 593,
                     "zoom": 1.3700980392156863
                   },
                   "icon": "lucide-file-text",
@@ -318,14 +318,13 @@
       }
     ]
   },
-  "active": "1d6a8bdb93c59870",
+  "active": "34f48697c810fc7f",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
     "未處理/假設檢定.md",
@@ -349,7 +348,6 @@
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 4.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.8.png",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.5.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
