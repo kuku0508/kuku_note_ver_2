@@ -277,42 +277,6 @@
                   "icon": "excalidraw-icon",
                   "title": "MA chapter1"
                 }
-              },
-              {
-                "id": "4b713353d89d1453",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch6.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch6"
-                }
-              },
-              {
-                "id": "51ef07273bf4b7d2",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch9.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch9"
-                }
-              },
-              {
-                "id": "4707a3b8c8b3c10b",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch8.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch8"
-                }
               }
             ]
           }
@@ -327,11 +291,11 @@
       }
     ]
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "16193f0606c53b73",
   "lastOpenFiles": [
+    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignmemt.pdf",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
@@ -373,7 +337,6 @@
     "知識/統計/多變量分析",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=0.png",
-    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png",
-    "文本/Department/數學/統計/多變量分析/圖/Assignment1"
+    "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png"
   ]
 }
