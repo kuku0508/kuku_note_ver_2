@@ -294,15 +294,15 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 709,
+        "y": 0,
         "width": 1280,
-        "height": 683,
+        "height": 1392,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "34f48697c810fc7f",
+  "active": "60c7d54cc2fd33f6",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
