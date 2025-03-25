@@ -52,7 +52,7 @@ $$
 $\Lambda^{2/n}$被稱為[[Wilk's lambda]]，其虛無假設為$\mu=\mu_0$，虛無假設會在$\Lambda^{2/n}$很小或是$T^2$很大時被拒絕。 
 - - -
 # 備註
-
+兒
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
