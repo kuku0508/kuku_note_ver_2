@@ -32,13 +32,16 @@ $$
 $$
 T^2=n(\bar{\bf{X}}-\mu_0)'\bf{S}^{-1}(\bar{\bf{X}}-\mu_0)
 $$
+$n$：樣本數
+\bar
+$\bf{S}$：共變異數矩陣
 
 且
 $$
 T^2\sim\frac{(n-1)p}{(n-p)}F_{p,n-p}
 $$
-$n$
-$p$
+$n$：樣本數
+$p$：變數數
 - - -
 # 跟[[Wilk's lamba]]之間的關係
 Hotelling's $T^2$跟likelihood ratio統計量$\Lambda$的關係如下：
