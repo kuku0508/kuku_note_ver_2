@@ -43,7 +43,7 @@ Hotelling's $T^2$跟likelihood ratio統計量$\Lambda$的關係如下：
 $$
 \Lambda^{2/n}=\left[1+\frac{T^2}{(n-1)}\right]^{-1}
 $$
-$\Lambda^{2/n}$被稱為Wilk's lambda，其虛無假設為$\mu=\mu_0$，虛無假設會在$\Lambda^{2/n}$很小或是$T^2$ㄏ
+$\Lambda^{2/n}$被稱為Wilk's lambda，其虛無假設為$\mu=\mu_0$，虛無假設會在$\Lambda^{2/n}$很小或是$T^2$很大時被拒絕。 
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
