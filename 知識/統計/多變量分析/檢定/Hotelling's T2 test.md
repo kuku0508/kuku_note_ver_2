@@ -41,8 +41,9 @@ $$
 # 跟Wilk's lamba之間的關係
 Hotelling's $T^2$跟likelihood ratio統計量$\Lambda$的關係如下：
 $$
-\Lambda^{}
+\Lambda^{2/n}=\left[1+\frac{T^2}{(n-1)}\right]^{-1}
 $$
+\lambda^{2/}
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
