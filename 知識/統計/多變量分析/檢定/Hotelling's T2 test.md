@@ -38,6 +38,9 @@ $$
 T^2\sim\frac{(n-1)p}{(n-p)}F_{p,n-p}
 $$
 - - -
+# 跟Wilk's lamba之間的關係
+
+- - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
