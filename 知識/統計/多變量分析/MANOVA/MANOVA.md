@@ -7,4 +7,4 @@
 - - -
 parent::[[離散型隨機變數]],[[連續型隨機變數]],[[多維常態分配]]
 sibling::
-child::[[One-Way MANOVA]],[[]]
+child::[[One-Way MANOVA]],[[Two-Way MANOVA]]
