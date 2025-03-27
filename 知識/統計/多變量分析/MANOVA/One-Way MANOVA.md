@@ -26,7 +26,8 @@ $$
 \begin{array}{lll}
 \hline
 \text{Source}&\text{matrix of sum of squares and cross products(SSP)}&\text{df}\\
-\text{Treatment}&\bf{B}=\sum^g_\ell
+\text{Treatment}&\bf{B}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}\\
+\text{error}&\bf{W}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}
 
 \end{array}
 $$
