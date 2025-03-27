@@ -38,4 +38,5 @@ $$
 $$
 H_0：\tau_1=\tau_2=\ldots=\tau_g=0
 $$
-而對於這個假設進行檢定，我們可以透過Wilks' lambda $\Lambda*=$
+而對於這個假設進行檢定，我們可以透過Wilks' lambda $\Lambda^*=\mid \bf{W}\mid/\mid \bf{B}+\bf{W}\mid$
+來得到
