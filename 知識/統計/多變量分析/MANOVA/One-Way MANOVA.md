@@ -1,1 +1,1 @@
-單因子多變量變異數分析（One-Way Multivariate Analysi of Variance,One-Way MANOVA），是用來判斷一個類別型的[[ㄈㄢ|自變數]]
+單因子多變量變異數分析（One-Way Multivariate Analysi of Variance,One-Way MANOVA），是用來判斷一個[[類別資料|類別型]]的[[反應變數|自變數]]
