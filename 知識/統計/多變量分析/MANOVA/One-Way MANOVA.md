@@ -9,5 +9,5 @@
 - - -
 # One-Way MANOVA表達式
 $$
-\bf{Y}_{\ell \,j}=\mu+\tau_\ell
+\bf{Y}_{\ell \,j}=\mu+\tau_\ell+\bf{e}_{\ell j}\quad \rm{for \quad j=1,2,\ldots,n_}
 $$
