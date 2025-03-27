@@ -18,4 +18,4 @@ $\tau_\ell$：第$\ell$組處理效應向量（treatment effect），並滿足�
 $$
 \sum^g_{\ell=1}n_\ell\tau_\ell=0
 $$
-$e_{\ell j}$：[[個反應變數誤差項]]
+$e_{\ell j}$：各反應變數的[[誤差項|誤差項矩陣]]
