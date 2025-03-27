@@ -24,7 +24,8 @@ $e_{\ell j}$：各反應變數的[[誤差項|誤差項矩陣]]，服從$N_p(0,\S
 我們可以用以下表格分析One-Way MANOVA：
 $$
 \begin{array}{lll}
-\hline\hline
+\hline
+\text{Source}&\text{matrix of sum of squares/n}
 
 \end{array}
 $$
