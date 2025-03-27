@@ -60,7 +60,7 @@ $\Lambda^{2/n}$被稱為[[Wilk's lambda]]，其虛無假設為$\mu=\mu_0$，虛�
 
 - - -
 # 例題
-- [[MA Assignment 1]]
+- [[MA Assignment 2]]
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
