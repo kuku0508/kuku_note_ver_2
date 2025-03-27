@@ -1,1 +1,1 @@
-單因子MANOVA（）
+單因子MANOVA（One-Way MANOVA），
