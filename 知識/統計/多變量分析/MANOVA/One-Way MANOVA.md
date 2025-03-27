@@ -21,4 +21,9 @@ $$
 $e_{\ell j}$：各反應變數的[[誤差項|誤差項矩陣]]，服從$N_p(0,\Sigma)$，且各誤差項間相互獨立。
 
 
-我們可以用以下表格分析
+我們可以用以下表格分析One-Way MANOVA：
+$$
+\begin{array}{lll}
+\hline
+\end{array}
+$$
