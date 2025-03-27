@@ -32,3 +32,5 @@ $$
 \text{Corrected Total} & \bf{B}=\bf{W}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}(\bf{y}_{\ell j}-\bar{\bf{y}})(\bf{y}_{\ell j}-\bar{\bf{y}})' & \sum^g_{\ell=1}n_\ell-1
 \end{array}
 $$
+- - -
+# 檢定
