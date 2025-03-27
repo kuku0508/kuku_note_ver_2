@@ -25,7 +25,8 @@ $e_{\ell j}$：各反應變數的[[誤差項|誤差項矩陣]]，服從$N_p(0,\S
 $$
 \begin{array}{lll}
 \hline
-\text{Source}&\text{matrix of sum of squares/n}
+\text{Source}&\text{matrix of sum of squares and cross products(SSP)}&\text{df}\\
+\text{Treatment}&\bf{B}=\sum^g_\ell
 
 \end{array}
 $$
