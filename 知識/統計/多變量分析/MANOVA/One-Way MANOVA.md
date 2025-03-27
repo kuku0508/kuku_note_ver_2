@@ -1,1 +1,1 @@
-（One-Way MANOVA），
+單因子多變量變異數分析（One-Way Multivariate Analysi of Variance,One- MANOVA），
