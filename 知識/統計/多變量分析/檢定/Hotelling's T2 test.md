@@ -44,7 +44,7 @@ $$
 $n$：樣本數
 $p$：變數數
 - - -
-# 跟[[Wilk's lamba]]之間的關係
+# 跟[[Wilk's lambda]]之間的關係
 Hotelling's $T^2$跟likelihood ratio統計量$\Lambda$的關係如下：
 $$
 \Lambda^{2/n}=\left[1+\frac{T^2}{(n-1)}\right]^{-1}
@@ -58,6 +58,9 @@ $\Lambda^{2/n}$被稱為[[Wilk's lambda]]，其虛無假設為$\mu=\mu_0$，虛�
 - 對於配對比較或兩群平均數差異的檢定，Hotelling $T^2$的抽樣分配會服從[[F分配]]或正比的或正比的關係。
 - 對於大樣本而言，Hotelling $T^2$的抽樣分配可以近似為[[卡方分配]]
 
+- - -
+# 例題
+- [[MA Assignment 1]]
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
