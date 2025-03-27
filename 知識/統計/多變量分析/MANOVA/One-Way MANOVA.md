@@ -12,3 +12,4 @@ $$
 \bf{Y}_{\ell \,j}=\mu+\tau_\ell+\bf{e}_{\ell j}\quad \rm{for \quad j=1,2,\ldots,n_{\ell}\,\,;\,\,\ell=1,2,\ldots,g}
 $$
 其中
+$\bf{Y}_{\ㄍ}$：
