@@ -25,5 +25,6 @@ $e_{\ell j}$：各反應變數的[[誤差項|誤差項矩陣]]，服從$N_p(0,\S
 $$
 \begin{array}{lll}
 \hline
+\hline
 \end{array}
 $$
