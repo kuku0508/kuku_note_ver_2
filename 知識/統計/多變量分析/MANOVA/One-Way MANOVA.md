@@ -16,5 +16,5 @@ $\bf{Y}_{\ell j}$：反應變數矩陣
 $\mu$：整體的參數平均矩陣
 $\tau_\ell$：第$\ell$組處理效應向量（treatment effect），並滿足限制條件
 $$
-\sum^g_{\ell=1}
+\sum^g_{\ell=1}n_\ell\tau_\ell=0
 $$
