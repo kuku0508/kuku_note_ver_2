@@ -25,9 +25,9 @@ $e_{\ell j}$：各反應變數的[[誤差項|誤差項矩陣]]，服從$N_p(0,\S
 $$
 \begin{array}{lll}
 \hline
-\text{Source}&\text{matrix of sum of squares and cross products(SSP)}&\text{df}\\
-\text{Treatment}&\bf{B}=\sum^g_{\ell=1} \rm{n_\ell} (\bar{\bf{y}}_\ell-\bar{\bf{y}})(\bar{\bf{y}}_\ell-\bar{\bf{y}})'\\
-\text{error}&\bf{W}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}(\bf{y}_{\ell})
+\text{Source} & \text{matrix of sum of squares and cross products(SSP)} & \text{df}\\
+\text{Treatment} & \bf{B}=\sum^g_{\ell=1} \rm{n_\ell} (\bar{\bf{y}}_\ell-\bar{\bf{y}})(\bar{\bf{y}}_\ell-\bar{\bf{y}})'&g-1\\
+\text{error} & \bf{W}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}(\bf{y}_{\ell j}-\bar{\bf{y}})(\bf{y}_{\ell j}-\bar{\bf{y}})' & \sum^g_{\ell=1}\\
 
 \end{array}
 $$
