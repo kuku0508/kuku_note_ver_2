@@ -41,4 +41,4 @@ $$
 而對於這個假設進行檢定，我們可以透過Wilks' lambda $\Lambda^*=\mid \bf{W}\mid/\mid \bf{B}+\bf{W}\mid$
 來拒絕或不拒絕虛無假設。
 
-而\Lambda^*
+而$\Lambda^*$會服從自由度為p跟g的F分配。
