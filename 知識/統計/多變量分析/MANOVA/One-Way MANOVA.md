@@ -18,3 +18,4 @@ $\tau_\ell$：第$\ell$組處理效應向量（treatment effect），並滿足�
 $$
 \sum^g_{\ell=1}n_\ell\tau_\ell=0
 $$
+e_{\ell j}
