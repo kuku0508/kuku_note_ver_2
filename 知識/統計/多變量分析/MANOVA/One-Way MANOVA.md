@@ -58,6 +58,7 @@ $w_{ii}$：矩陣$\bf{W}$的第i個對角元素
 $n=\sum^g_{\ell=1}n\ell$：總樣本數
 - - -
 # 參考資料
+- Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
 parent::[[假設檢定]],[[類別資料]],[[反應變數]],[[預測變數]],[[量性資料]],[[連續型隨機變數]],[[多維常態分配]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[誤差項]],[[Wilks' lambda]],[[信賴區間]]
 sibling::
