@@ -7,7 +7,7 @@ Hotelling's $T^2$ test是以Harold Hotelling命名，他是美國數理統計學
 # 前提
 - 隨機樣本$\bf{X}_1,\bf{X}_2,\ldots,\bf{X}_n$必須來自[[多維常態分配]]$N_p(\mu,\Sigma)$
 - - -
-# 檢定
+# [[假設檢定|檢定]]
 #### 虛無假設
 Hotelling's $T^2$ test的虛無假設為：
 
@@ -65,6 +65,6 @@ $\Lambda^{2/n}$被稱為[[Wilks' lambda]]，其虛無假設為$\mu=\mu_0$，虛�
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
-parent::[[多變量資料]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[多維常態分配]],[[假設檢定]],[[多變量分析]],[[F分配]],[[卡方分配]]
+parent::[[多變量資料]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[多維常態分配]],[[假設檢定]],[[多變量分析]],[[F分配]],[[卡方分配]],[[ㄐㄧ]]
 sibling::[[Wilks' lambda]]
 child::
