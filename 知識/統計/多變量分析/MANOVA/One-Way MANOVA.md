@@ -53,6 +53,9 @@ $100(1-\alpha)$%的多重比較信賴區間可以被表示為：
 $$
 \bar{y}_{ki}-\bar{y}_{\ell i}\pm t_{n-g}\left(\frac{\alpha}{pg(g-1)}\right)\sqrt{\frac{w_{ii}}{n-g}\left(\frac{1}{n_k}+\frac{1}{n_\ell}\right)}
 $$
+其中
+$w_{ii}$：矩陣$\bf{W}$的第i個對角元素
+$n$：$\sum^g_{\ell=1}n\e$
 - - -
 # 參考資料
 - - -
