@@ -38,14 +38,14 @@ $$
 $$
 H_0：\tau_1=\tau_2=\ldots=\tau_g=0
 $$
-而對於這個假設進行檢定，我們可以透過[[Wilks' lambda $\Lambda^*=\mid \bf{W}\mid/\mid \bf{B}+\bf{W}\mid$
+而對於這個假設進行檢定，我們可以透過[[Wilks' lambda]] $\Lambda^*=\mid \bf{W}\mid/\mid \bf{B}+\bf{W}\mid$
 來拒絕或不拒絕虛無假設。
 
 而$\Lambda^*$會服從自由度為p跟g的F分配。
 $$
 \Lambda^*\sim F(p,g)
 $$
-在大樣本的情況下，Wilks' Lambda也會接近卡方分配。
+在大樣本的情況下，[[Wilks' Lambda]]也會趨近自由度為p(g-1)的卡方分配。
 - - -
 # 參考資料
 - - -
