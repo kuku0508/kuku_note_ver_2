@@ -51,8 +51,7 @@ $$
 如果我們通過了假設檢定，確定了處理（treatment）之間是有差異的話，我們可以透過多重比較來確認處理之間的差異約為多少。
 $100(1-\alpha)$%的多重比較信賴區間可以被表示為：
 $$
-\bar{y}_{ki}-\bar{y}_{\ell i}\pm t_{n-g}\left(\frac{\alpha}{pg(g-1)}\right)\sqrt{\frac{}{}}
-$$
+\bar{y}_{ki}-\bar{y}_{\ell i}\pm t_{n-g}\left(\frac{\alpha}{pg(g-1)}\right)\sqrt{\frac{w_{ii}}{n-g}\left}$$
 - - -
 # 參考資料
 - - -
