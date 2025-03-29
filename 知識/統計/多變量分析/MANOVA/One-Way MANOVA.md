@@ -58,11 +58,11 @@ $w_{ii}$：矩陣$\bf{W}$的第i個對角元素
 $n=\sum^g_{\ell=1}n\ell$：總樣本數
 - - -
 # 備註
-當我們透過了One-Way MANOVA來得到處理（treatment）對於應變數是有顯著影響的時候，我們應該還需要用[[Hotelling's $T^2$]]等方式來檢視該處理是否對於各個應變數是有顯著影響的。因為在整體顯著的情況，還是會有單變量不顯著的狀況發生。
+當我們透過了One-Way MANOVA來得到處理（treatment）對於應變數是有顯著影響的時候，我們應該還需要用[[Hotelling's T2 test|Hotelling's T2 test]]等方式來檢視該處理是否對於各個應變數是有顯著影響的。因為在整體顯著的情況，還是會有單變量不顯著的狀況發生。
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
 parent::[[假設檢定]],[[類別資料]],[[反應變數]],[[預測變數]],[[量性資料]],[[連續型隨機變數]],[[多維常態分配]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[誤差項]],[[Wilks' lambda]],[[信賴區間]]
-sibling::
+sibling::[[Hotelling's T2 test]]
 child::
