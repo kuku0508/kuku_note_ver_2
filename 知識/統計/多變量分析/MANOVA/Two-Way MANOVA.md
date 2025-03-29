@@ -40,6 +40,6 @@ $$
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
-parent::[[多變量分析目錄]],[[類別資料]],[[反應變數]],[[連續型隨機變數]],[[預測變數]],[[多維常態分配]],[[多變量分析 - 平均]]
+parent::[[多變量分析目錄]],[[類別資料]],[[反應變數]],[[連續型隨機變數]],[[預測變數]],[[多維常態分配]],[[多變量分析 - 平均]],假設檢定
 sibling::[[One-Way MANOVA]]
 child::
