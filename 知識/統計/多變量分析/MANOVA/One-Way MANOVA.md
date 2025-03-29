@@ -58,7 +58,7 @@ $w_{ii}$：矩陣$\bf{W}$的第i個對角元素
 $n=\sum^g_{\ell=1}n\ell$：總樣本數
 - - -
 # 備註
-當我們今天在
+當我們透過了One-Way MANOVA來得到各個處理（treatment）是有顯著差異的
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
