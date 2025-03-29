@@ -25,12 +25,12 @@ $$
 \hline
 \text{Source} & \text{matrix of sum of squares and cross products(SSP)} & \text{df}\\
 \hline
-\text{Factor 1}&SSP_{fac1}&g-1 \\
-\text{Factor 2}&SSP_{fac2}&b-1 \\
-\text{Interaction}&SSP_{int}&(g-1)(b-1)\\
-\text{Error}&SSP_{error}&gb(n-1)\\
+\text{Factor 1}&\text{SSP}_{fac1}&g-1 \\
+\text{Factor 2}&\text{SSP}_{fac2}&b-1 \\
+\text{Interaction}&\text{SSP}_{int}&(g-1)(b-1)\\
+\text{Error}&\text{SSP}_{error}&gb(n-1)\\
 \hline
-\text{Corrected Total}&SSP_{total}&gbn-1
+\text{Corrected Total}&\text{SSP}_{total}&gbn-1
 \end{array}
 $$
 - - -
@@ -43,7 +43,7 @@ H_0：\gamma_{11}=\ldots=\gamma_{gb}=0
 $$
 我們用此統計量來進行檢定：
 $$
-\Lambda^*_1=\frac{\mid SSP\mid}{}
+\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \}
 $$
 
 - - -
