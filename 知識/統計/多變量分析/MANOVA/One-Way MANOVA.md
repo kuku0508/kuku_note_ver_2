@@ -57,8 +57,8 @@ $$
 $w_{ii}$：矩陣$\bf{W}$的第i個對角元素
 $n=\sum^g_{\ell=1}n\ell$：總樣本數
 - - -
-# 範例
-- [[MA Assignment 2]]
+# 備註
+當我們今天在
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
