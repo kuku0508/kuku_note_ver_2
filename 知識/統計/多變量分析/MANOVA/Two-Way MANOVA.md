@@ -13,7 +13,7 @@ $$
 \bf{Y}_{\ell k r}=\bf{\mu}+\tau_\ell+\beta_k+\gamma_{\ell k}+\bf{e}\ell k r
 $$
 其中
-$e$
+$\bf{Y}$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
