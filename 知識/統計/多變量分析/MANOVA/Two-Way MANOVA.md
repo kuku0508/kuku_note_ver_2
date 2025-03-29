@@ -8,7 +8,7 @@
 請注意，當母體大小 $n\ell$ 很大的時候，根據中央極限定理，多維常態性假設可以被放寬。
 - - -
 # Two-Way MANOVA表達式
-具有
+具有交互作用的雙因子固定效果的MANOVA
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
