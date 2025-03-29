@@ -27,10 +27,10 @@ $$
 \hline
 \text{Factor 1}&SSP_{fac1}&g-1 \\
 \text{Factor 2}&SSP_{fac2}&b-1 \\
-\text{Interaction}&SSP_{int}(g-1)(b-1)\\
-\text{Error}&SSP_{error}gb(n-1)\\
+\text{Interaction}&SSP_{int}&(g-1)(b-1)\\
+\text{Error}&SSP_{error}&gb(n-1)\\
 \hline
-\text{Corrected Total}&SSP_{total}
+\text{Corrected Total}&SSP_{total}&gbn-1
 \end{array}
 $$
 - - -
