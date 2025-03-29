@@ -17,7 +17,9 @@ $$
 - $\mu$：參數向量
 - $\tau_{\ell}、\beta_k$：因子一、因子二的固定效應（fixed effects），兩者皆滿足條件$\sum^g_{\ell=1}\tau_\ell=\sum^b_{k=1}\beta_k=0$
 - $\gamma_{\ell k}$：交互作用項，滿足條件$\sum^g_{\ell=1}\gamma_{\ell k}=\sum^b_{k=1}\gamma_{\ell k}=0$
-- 誤差項
+- 誤差項$\bf{e}_{\ell k r}\sim N_p(0,\Sigma)$
+
+
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
