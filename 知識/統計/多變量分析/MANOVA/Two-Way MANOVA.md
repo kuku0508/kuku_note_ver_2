@@ -43,7 +43,15 @@ H_0：\gamma_{11}=\ldots=\gamma_{gb}=0
 $$
 我們用此統計量來進行檢定：
 $$
-\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \}
+\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{int}+\text{SSP}_{error}\mid}
+$$
+#### 因子一
+$$
+H_0：\tau_{11}=\ldots=\gamma_{gb}=0
+$$
+我們用此統計量來進行檢定：
+$$
+\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{int}+\text{SSP}_{error}\mid}
 $$
 
 - - -
