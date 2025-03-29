@@ -25,12 +25,12 @@ $$
 \hline
 \text{Source} & \text{matrix of sum of squares and cross products(SSP)} & \text{df}\\
 \hline
-\text{Factor 1}&SSP_{fac1} \\
-\text{Factor 2} \\
-\text{Interaction}\\
-\text{Error}\\
+\text{Factor 1}&SSP_{fac1}&g-1 \\
+\text{Factor 2}&SSP_{fac2}&b-1 \\
+\text{Interaction}&SSP_{int}(g-1)(b-1)\\
+\text{Error}&SSP_{error}gb(n-1)\\
 \hline
-\text{Corrected Total}
+\text{Corrected Total}&SSP_{total}
 \end{array}
 $$
 - - -
