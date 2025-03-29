@@ -1,4 +1,4 @@
-Two-Way MANOVA（）
+雙因子多變量變異數分析（Two-Way MultivariateAnalysis of Variance MANOVA）
 
 - - -
 # 參考資料
