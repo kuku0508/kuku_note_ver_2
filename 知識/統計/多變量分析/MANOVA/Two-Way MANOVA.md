@@ -47,7 +47,15 @@ $$
 $$
 #### 因子一
 $$
-H_0：\tau_{11}=\ldots=\gamma_{gb}=0
+H_0：\tau_{1}=\ldots=\tau_{g}=0
+$$
+我們用此統計量來進行檢定：
+$$
+\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac1}+\text{SSP}_{error}\mid}
+$$
+#### 因子二
+$$
+H_0：\beta_{1}=\ldots=\beta_{b}=0
 $$
 我們用此統計量來進行檢定：
 $$
