@@ -16,7 +16,7 @@ $$
 - $\bf{Y}_{\ell k r}$：因子一的第$\ell$組，因子二的第k組的第r個觀察值。其中$\ell=1,2,\ldots,g$ ; $k=1,2,\ldots,b$ ; $r=1,2,\ldots,n$。
 - $\mu$：參數向量
 - $\tau_{\ell}、\beta_k$：因子一、因子二的固定效應（fixed effects），兩者皆滿足條件$\sum^g_{\ell=1}\tau_\ell=\sum^b_{k=1}\beta_k=0$
-- 
+- $\gamma_{\ell k}$：交互作用項，滿足條件
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
