@@ -25,10 +25,10 @@ $$
 \hline
 \text{Source} & \text{matrix of sum of squares and cross products(SSP)} & \text{df}\\
 \hline
-\text{Factor 1} \\
+\text{Factor 1}&SSP_{fac1} \\
 \text{Factor 2} \\
 \text{Interaction}\\
-\text{}\\
+\text{Error}\\
 \hline
 \text{Corrected Total}
 \end{array}
