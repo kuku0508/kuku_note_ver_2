@@ -41,6 +41,10 @@ $$
 $$
 H_0：\gamma_{11}=\ldots=\gamma_{gb}=0
 $$
+我們用此統計量來進行檢定：
+$$
+\Lambda^*_1=\frac{\mid SSP\mid}{}
+$$
 
 - - -
 # 參考資料
