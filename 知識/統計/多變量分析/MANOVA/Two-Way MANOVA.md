@@ -10,7 +10,7 @@
 # Two-Way MANOVA表達式
 具有交互作用的雙因子固定效果的MANOVA可以表示成：
 $$
-\bf{Y}_{\ell k r}=\bf{\mu}
+\bf{Y}_{\ell k r}=\bf{\mu}+\tau_\ell+\beta_k+\gamma_\e
 $$
 - - -
 # 參考資料
