@@ -1,4 +1,4 @@
-Two-Way MANOVA
+Two-Way MANOVA（）
 
 - - -
 # 參考資料
