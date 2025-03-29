@@ -13,7 +13,8 @@ $$
 \bf{Y}_{\ell k r}=\bf{\mu}+\tau_\ell+\beta_k+\gamma_{\ell k}+\bf{e}\ell k r
 $$
 其中
-$\bf{Y}_{\ell k r}$：因子一的第$\ell$組，因子二的第k組的第r個觀察值。其中$\ell=1,2,\ldots,g;$
+- $\bf{Y}_{\ell k r}$：因子一的第$\ell$組，因子二的第k組的第r個觀察值。其中$\ell=1,2,\ldots,g$ ; $k=1,2,\ldots,b$ ; $r=1,2,\ldots,n$。
+- 
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
