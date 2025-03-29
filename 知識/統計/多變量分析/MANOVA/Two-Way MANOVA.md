@@ -25,10 +25,12 @@ $$
 \hline
 \text{Source} & \text{matrix of sum of squares and cross products(SSP)} & \text{df}\\
 \hline
-\text{Treatment} \\
-\text{error}\\
+\text{Factor 1} \\
+\text{Factor 2} \\
+\text{Interaction}\\
+\text{}\\
 \hline
-\text{Corrected Total} & \bf{B}=\bf{W}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}(\bf{y}_{\ell j}-\bar{\bf{y}})(\bf{y}_{\ell j}-\bar{\bf{y}})' & \sum^g_{\ell=1}n_\ell-1
+\text{Corrected Total}
 \end{array}
 $$
 - - -
