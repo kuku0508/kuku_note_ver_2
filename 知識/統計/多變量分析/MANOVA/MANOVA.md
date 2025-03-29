@@ -5,6 +5,6 @@
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
-parent::[[離散型隨機變數]],[[連續型隨機變數]],[[多維常態分配]]
+parent::[[多變量分析目錄]],[[離散型隨機變數]],[[連續型隨機變數]],[[多維常態分配]]
 sibling::
 child::[[One-Way MANOVA]],[[未處理/Two-Way MANOVA]]
