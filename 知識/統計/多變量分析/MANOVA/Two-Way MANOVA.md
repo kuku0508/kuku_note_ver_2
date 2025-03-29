@@ -59,8 +59,9 @@ H_0：\beta_{1}=\ldots=\beta_{b}=0
 $$
 我們用此統計量來進行檢定：
 $$
-\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{int}+\text{SSP}_{error}\mid}
+\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac2}+\text{SSP}_{error}\mid}
 $$
+
 
 - - -
 # 參考資料
