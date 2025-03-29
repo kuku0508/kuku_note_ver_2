@@ -19,7 +19,18 @@ $$
 - $\gamma_{\ell k}$：交互作用項，滿足條件$\sum^g_{\ell=1}\gamma_{\ell k}=\sum^b_{k=1}\gamma_{\ell k}=0$
 - 誤差項$\bf{e}_{\ell k r}\sim N_p(0,\Sigma)$
 
-
+我們可以用以下表格分析One-Way MANOVA：
+$$
+\begin{array}{lll}
+\hline
+\text{Source} & \text{matrix of sum of squares and cross products(SSP)} & \text{df}\\
+\hline
+\text{Treatment} \\
+\text{error}\\
+\hline
+\text{Corrected Total} & \bf{B}=\bf{W}=\sum^g_{\ell=1}\sum^{n\ell}_{j=1}(\bf{y}_{\ell j}-\bar{\bf{y}})(\bf{y}_{\ell j}-\bar{\bf{y}})' & \sum^g_{\ell=1}n_\ell-1
+\end{array}
+$$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
