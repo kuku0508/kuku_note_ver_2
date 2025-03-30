@@ -61,7 +61,7 @@ $$
 $$
 \Lambda^*_3=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac2}+\text{SSP}_{error}\mid}
 $$
-需要注意的是，上述統計亮在樣本數很大德
+需要注意的是，上述統計亮在樣本數很大的時候，其極限分配會趨近
 
 - - -
 # 參考資料
