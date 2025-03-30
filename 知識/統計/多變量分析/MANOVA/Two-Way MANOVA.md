@@ -62,8 +62,9 @@ $$
 \Lambda^*_3=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac2}+\text{SSP}_{error}\mid}
 $$
 需要注意的是，上述統計亮在樣本數很大的時候，其極限分配（樣本數趨近無限大）為[[F分配]]或[[卡方分配]]。在檢定的時候，我們應該要先檢定交互作用，再檢定主效應。
-倘若主效應
+倘若交互作用存在，則主效應也應存在。
 
+$\Lambda^*$的精確分配如ㄒㄧ
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
