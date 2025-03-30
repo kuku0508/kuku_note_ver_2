@@ -19,6 +19,8 @@ $$
 其中：
 $\bf{S}_\ell$：為第$\ell$組的樣本共變異數矩陣
 $\bf{S}_{pooled}$：合併的共變異數矩陣
+
+而統計量Box's M服從自由度為$p(p+1)(g-1)/2$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
