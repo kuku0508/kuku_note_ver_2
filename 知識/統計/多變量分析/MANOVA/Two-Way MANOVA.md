@@ -79,7 +79,7 @@ p\geq1 & g=3 & \left(\frac{\sum n_\ell-p-2}{p}\right) \left(\frac{1-\sqrt{\lambd
 $$
 - - -
 # 備註
-在多變量劍ㄉㄧㄥ
+在多變量鑑定中，我們主要專注於統計量Wilks' lambda，其實其就等價於蓋四
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
