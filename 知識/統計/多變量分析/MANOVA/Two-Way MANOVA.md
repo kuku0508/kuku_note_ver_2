@@ -73,8 +73,7 @@ $$
 p=1 & g\geq2 & \left(\frac{\sum n_\ell-g}{g-1}\right) \left(\frac{1-\lambda}{\lambda^*}\right)\sim F_{g-1,\,\sum n_\ell-g-1}\\
 p=2 & g\geq2 & \left(\frac{\sum n_\ell-g-1}{g-1}\right) \left(\frac{1-\sqrt{\lambda^*}}{\sqrt{\lambda^*}}\right)\sim F_{2(g-1),\,\sum n_\ell-p-1}\\
 p\geq1 & g=2 & \left(\frac{\sum n_\ell-p-1}{p}\right) \left(\frac{1-\lambda^*}{\lambda^*}\right)\sim F_{p,\,\sum n_\ell-p-1}\\
-p\geq1 & g=3 & \left(\frac{\sum n_\ell-p-2}{p}\right) \left(\frac{1-\sqrt{\lambda^*}}{\lambda^*}\right)\sim F_{g-1,\,\sum n_\ell-g-1}\\
-
+p\geq1 & g=3 & \left(\frac{\sum n_\ell-p-2}{p}\right) \left(\frac{1-\sqrt{\lambda^*}}{\sqrt{\lambda^*}}\right)\sim F_{2p,\,2(\sum n_\ell-p-2)}\\
 \hline
 \end{array}
 $$
