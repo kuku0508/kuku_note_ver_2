@@ -11,8 +11,11 @@ e.g 將資料分為(男生、國文分數、數學分數、英文分數)；(女�
 $$
 \text{H}_0：所有組別的共變異數相等\,\,\text{versus}\,\, H_1：至少有一個群組的共變異數矩陣與其他不同。
 $$
-我們可以透過統計量Box's M test來對上述的假設進行檢定。
-Box's M
+我們可以透過統計量Box's M 來對上述的假設進行檢定。
+統計量Box's M被給定為：
+$$
+M=\left[\sum(n_\ell-1)\right]
+$$
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
