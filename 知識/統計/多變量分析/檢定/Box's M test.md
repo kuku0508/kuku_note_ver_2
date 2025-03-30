@@ -14,7 +14,7 @@ $$
 我們可以透過統計量Box's M 來對上述的假設進行檢定。
 統計量Box's M被給定為：
 $$
-M=\left[\sum(n_\ell-1)\right]
+M=\left[\sum(n_\ell-1)\right]\ln\mid S_{pooled}\mid - \sum\left[\right]
 $$
 - - -
 # 參考資料
