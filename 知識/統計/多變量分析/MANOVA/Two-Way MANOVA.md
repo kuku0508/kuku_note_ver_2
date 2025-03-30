@@ -51,7 +51,7 @@ H_0：\tau_{1}=\ldots=\tau_{g}=0
 $$
 我們用此統計量來進行檢定：
 $$
-\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac1}+\text{SSP}_{error}\mid}
+\Lambda^*_2=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac1}+\text{SSP}_{error}\mid}
 $$
 #### 因子二
 $$
@@ -59,9 +59,9 @@ H_0：\beta_{1}=\ldots=\beta_{b}=0
 $$
 我們用此統計量來進行檢定：
 $$
-\Lambda^*_1=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac2}+\text{SSP}_{error}\mid}
+\Lambda^*_3=\frac{\mid \text{SSP}_{error}\mid}{\mid \text{SSP}_{fac2}+\text{SSP}_{error}\mid}
 $$
-
+需要注意的是，上述統計亮在樣本數很大德
 
 - - -
 # 參考資料
