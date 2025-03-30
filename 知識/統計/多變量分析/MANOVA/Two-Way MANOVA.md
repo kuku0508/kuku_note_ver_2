@@ -78,6 +78,8 @@ p\geq1 & g=3 & \left(\frac{\sum n_\ell-p-2}{p}\right) \left(\frac{1-\sqrt{\lambd
 \end{array}
 $$
 - - -
+# 
+- - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
