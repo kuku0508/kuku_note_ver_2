@@ -26,7 +26,7 @@ M\sim \chi^2_{p(p+1)(g-1)/2}
 $$
 - - -
 # 備註
-當今天樣本數不是大樣本十，Box's M會變得非常敏感，可能會導致
+當今天樣本數不是大樣本十，Box's M會變得非常敏感，可能會導致型一誤（Type I error）
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
