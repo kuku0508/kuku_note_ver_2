@@ -68,9 +68,9 @@ $\Lambda^*$的精確分配如下：
 $$
 \begin{array}{lll}
 \hline
-變數數輛\\
+變數數量p&組別數g&在常態假設下的抽樣分配\\
 \hline
-\\
+p=1&g\geq\\
 \hline
 \end{array}
 $$
