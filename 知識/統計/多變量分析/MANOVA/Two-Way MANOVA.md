@@ -70,7 +70,7 @@ $$
 \hline
 變數數量p&組別數g&在常態假設下的抽樣分配\\
 \hline
-p=1&g\geq2&\left(\frac{\sum n_\ell-g}{g-1}\right) \left(\frac{1-\lambda}{\Lambda^*}\right)\\
+p=1&g\geq2&\left(\frac{\sum n_\ell-g}{g-1}\right) \left(\frac{1-\lambda}{\Lambda^*}\right)\sim F\\
 \hline
 \end{array}
 $$
