@@ -17,8 +17,8 @@ $$
 M=\left[\sum(n_\ell-1)\right]\ln\mid \bf{S}_{pooled}\mid - \sum\left[(n_\ell-1)\ln\mid \bf{S}_\ell \mid\right]
 $$
 其中：
-$\bf{S}_\ell$：為第$\ell$組的樣本共變異數
-
+$\bf{S}_\ell$：為第$\ell$組的樣本共變異數矩陣
+$\bf{S}_{pooled}$：合併的共變異數矩陣
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
