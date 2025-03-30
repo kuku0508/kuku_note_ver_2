@@ -17,6 +17,7 @@ $$
 M=\left[\sum(n_\ell-1)\right]\ln\mid \bf{S}_{pooled}\mid - \sum\left[(n_\ell-1)\ln\mid \bf{S}_\ell \mid\right]
 $$
 其中：
+$\bf{S}_\ell$：為第$\ell$組的樣本共變異數
 
 - - -
 # 參考資料
