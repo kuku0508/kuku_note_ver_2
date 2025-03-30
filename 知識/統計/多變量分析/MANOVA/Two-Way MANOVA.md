@@ -79,11 +79,11 @@ p\geq1 & g=3 & \left(\frac{\sum n_\ell-p-2}{p}\right) \left(\frac{1-\sqrt{\lambd
 $$
 - - -
 # 備註
-在多變量鑑定中，我們主要專注於統計量Wilks' lambda，其實其就等價於概似比統計量
+在多變量鑑定中，我們主要專注於統計量Wilks' lambda，其實其就等價於概似比（likelihood ratio）統計量。
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
-parent::[[多變量分析目錄]],[[類別資料]],[[反應變數]],[[連續型隨機變數]],[[預測變數]],[[多維常態分配]],[[多變量分析 - 平均]],[[假設檢定]]
+parent::[[多變量分析目錄]],[[類別資料]],[[反應變數]],[[連續型隨機變數]],[[預測變數]],[[多維常態分配]],[[多變量分析 - 平均]],[[假設檢定]],[[F分配]],[[卡方分配]]
 sibling::[[One-Way MANOVA]]
 child::
