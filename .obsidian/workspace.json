@@ -232,72 +232,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "a57166fc307f04e5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3bdb1346498fcddb",
-        "type": "window",
-        "children": [
-          {
-            "id": "84b29c82c9f316c8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60c7d54cc2fd33f6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "MA chapter3"
-                }
-              },
-              {
-                "id": "1d6a8bdb93c59870",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                    "page": 5,
-                    "left": -12,
-                    "top": 733,
-                    "zoom": 1.3700980392156863
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "MA Assignment"
-                }
-              },
-              {
-                "id": "acdbae7da0c28736",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Applied Multivariate Statistical Analysis.md"
-                  },
-                  "icon": "lucide-file",
-                  "title": "外掛程式已不復活躍"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "7c23b58e52b929d3",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
