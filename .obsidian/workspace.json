@@ -153,7 +153,7 @@
               "type": "calendar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -173,7 +173,7 @@
               "type": "advanced-tables-toolbar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "外掛程式已不復活躍"
             }
           },
           {
@@ -225,20 +225,11 @@
       "random-note:開始漫遊筆記": false,
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
-      "obsidian-git:Open Git source control": false,
-      "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open media": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -289,8 +280,8 @@
                   "state": {
                     "file": "文本/書/Applied Multivariate Statistical Analysis.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Applied Multivariate Statistical Analysis"
+                  "icon": "lucide-file",
+                  "title": "外掛程式已不復活躍"
                 }
               }
             ]
@@ -306,10 +297,10 @@
       }
     ]
   },
-  "active": "74ffd3cdb4d9f137",
+  "active": "7c23b58e52b929d3",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+    "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/多變量分析/基礎知識/多變量分析.md",
     "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
