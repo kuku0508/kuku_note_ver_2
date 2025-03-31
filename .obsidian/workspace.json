@@ -11,10 +11,14 @@
             "id": "827f5e7cc852d4d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "主成分分析"
             }
           }
         ]
@@ -302,10 +306,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/主成分分析 PCA",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
+    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+    "知識/統計/多變量分析/主成分分析 PCA",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/MANOVA/多變量多重迴歸.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
@@ -346,7 +351,6 @@
     "知識/統計/多變量分析/MANOVA",
     "知識/統計/多變量分析/基礎知識/各樣本統計量",
     "知識/統計/多變量分析/基礎知識",
-    "知識/統計/多變量分析",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 QQ-plot Sales.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=0.png",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/二維常態分配的圖 角度=135.png"
