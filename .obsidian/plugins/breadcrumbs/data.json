@@ -5,10 +5,10 @@
       "label": "parent"
     },
     {
-      "label": "down"
+      "label": "child"
     },
     {
-      "label": "same"
+      "label": "sibling"
     },
     {
       "label": "next"
@@ -19,21 +19,21 @@
   ],
   "edge_field_groups": [
     {
-      "label": "ups",
+      "label": "parent",
       "fields": [
         "parent"
       ]
     },
     {
-      "label": "downs",
+      "label": "child",
       "fields": [
-        "down"
+        "child"
       ]
     },
     {
-      "label": "sames",
+      "label": "sibling",
       "fields": [
-        "same"
+        "sibling"
       ]
     },
     {
@@ -59,7 +59,7 @@
             "field": "parent"
           }
         ],
-        "close_field": "down",
+        "close_field": "child",
         "close_reversed": true
       },
       {
@@ -67,7 +67,7 @@
         "rounds": 1,
         "chain": [
           {
-            "field": "down"
+            "field": "child"
           }
         ],
         "close_field": "parent",
@@ -78,10 +78,10 @@
         "rounds": 1,
         "chain": [
           {
-            "field": "same"
+            "field": "sibling"
           }
         ],
-        "close_field": "same",
+        "close_field": "sibling",
         "close_reversed": true
       },
       {
@@ -152,7 +152,7 @@
         "show_controls": true,
         "merge_fields": false,
         "field_group_labels": [
-          "ups"
+          "parent"
         ],
         "show_node_options": {
           "ext": false,
@@ -195,9 +195,9 @@
           "round"
         ],
         "field_group_labels": [
-          "ups",
-          "downs",
-          "sames",
+          "parent",
+          "child",
+          "sibling",
           "nexts",
           "prevs"
         ]
