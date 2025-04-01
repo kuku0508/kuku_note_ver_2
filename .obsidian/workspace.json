@@ -35,16 +35,12 @@
             "id": "a024ac32982bfbd9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                "page": 3,
-                "left": -17,
-                "top": 336,
-                "zoom": 0.9191176470588235
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md"
               },
-              "icon": "lucide-file-text",
-              "title": "MA Assignment"
+              "icon": "excalidraw-icon",
+              "title": "MA chapter4"
             }
           }
         ],
@@ -121,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "MA Assignment 的反向連結"
+              "title": "MA chapter4 的反向連結"
             }
           },
           {
@@ -140,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MA Assignment 的對外連結"
+              "title": "MA chapter4 的對外連結"
             }
           },
           {
@@ -169,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MA Assignment 的大綱"
+              "title": "MA chapter4 的大綱"
             }
           },
           {
@@ -293,8 +289,10 @@
   },
   "active": "a024ac32982bfbd9",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "未處理/F分配.md",
@@ -314,15 +312,12 @@
     "未處理/Type I error.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
     "未處理/假設檢定.md",
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/多變量分析/多變量分析目錄.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
-    "文本/書/1968：日本現代史的轉捩點，席捲日本的革命浪潮.md",
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
     "知識/統計/多變量分析/檢定",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.8.png",
