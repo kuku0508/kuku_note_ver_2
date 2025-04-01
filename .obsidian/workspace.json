@@ -111,7 +111,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "多變量分析 - 共變異數 的反向連結"
@@ -191,8 +191,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,7 +225,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "892a332b82a61cfd",
+  "active": "46395587b7fec65a",
   "lastOpenFiles": [
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
