@@ -44,19 +44,9 @@
               "icon": "lucide-file",
               "title": "主成分分析"
             }
-          },
-          {
-            "id": "85e4788ac38d95b5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "主成分分析 的反向連結"
             }
           },
           {
@@ -147,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "主成分分析 的對外連結"
             }
           },
           {
@@ -175,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "主成分分析 的大綱"
             }
           },
           {
@@ -259,8 +252,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "85e4788ac38d95b5",
+  "floating": {
+    "id": "59fc12820751d50e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f9b82c8537dfd405",
+        "type": "window",
+        "children": [
+          {
+            "id": "acd986dafb40ac43",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0adaa196f737f0b",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "MA chapter3"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "a024ac32982bfbd9",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
@@ -273,7 +304,6 @@
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "未處理/Two-Way MANOVA.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/統計/多變量分析/主成分分析 PCA",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/MANOVA/多變量多重迴歸.md",
