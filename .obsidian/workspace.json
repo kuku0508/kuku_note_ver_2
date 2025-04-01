@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "主成分分析"
             }
+          },
+          {
+            "id": "85e4788ac38d95b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +138,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "主成分分析 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -138,12 +147,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "主成分分析 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -167,13 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "主成分分析 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -221,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,12 +259,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a024ac32982bfbd9",
+  "active": "85e4788ac38d95b5",
   "lastOpenFiles": [
+    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "未處理/F分配.md",
-    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
