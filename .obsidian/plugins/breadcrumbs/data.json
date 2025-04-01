@@ -2,7 +2,7 @@
   "is_dirty": false,
   "edge_fields": [
     {
-      "label": "up"
+      "label": "parent"
     },
     {
       "label": "down"
@@ -21,7 +21,7 @@
     {
       "label": "ups",
       "fields": [
-        "up"
+        "parent"
       ]
     },
     {
@@ -56,7 +56,7 @@
         "rounds": 1,
         "chain": [
           {
-            "field": "up"
+            "field": "parent"
           }
         ],
         "close_field": "down",
@@ -70,7 +70,7 @@
             "field": "down"
           }
         ],
-        "close_field": "up",
+        "close_field": "parent",
         "close_reversed": true
       },
       {
@@ -114,21 +114,21 @@
       "default_neighbour_field": ""
     },
     "tag_note": {
-      "default_field": "up"
+      "default_field": "parent"
     },
     "regex_note": {
-      "default_field": "up"
+      "default_field": "parent"
     },
     "dendron_note": {
       "enabled": false,
       "delimiter": ".",
-      "default_field": "up",
+      "default_field": "parent",
       "display_trimmed": false
     },
     "johnny_decimal_note": {
       "enabled": false,
       "delimiter": ".",
-      "default_field": "up"
+      "default_field": "parent"
     },
     "date_note": {
       "enabled": false,
