@@ -190,13 +190,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "94bf4105ffe37175",
+            "type": "leaf",
+            "state": {
+              "type": "bc-matrix-view",
+              "state": {},
+              "icon": "blinds",
+              "title": "Matrix view"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 562.5,
-    "collapsed": true
+    "width": 562.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +236,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "94bf4105ffe37175",
   "lastOpenFiles": [
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
