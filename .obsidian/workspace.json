@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 562.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,7 +226,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "46395587b7fec65a",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",

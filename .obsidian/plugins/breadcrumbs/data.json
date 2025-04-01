@@ -238,19 +238,31 @@
     },
     "list_index": {
       "default_options": {
-        "fields": [],
+        "fields": [
+          "parent",
+          "child",
+          "sibling",
+          "next",
+          "prev"
+        ],
         "indent": "\\t",
         "link_kind": "wiki",
         "show_attributes": [],
-        "field_group_labels": [],
+        "field_group_labels": [
+          "parent",
+          "child",
+          "sibling",
+          "nexts",
+          "prevs"
+        ],
         "edge_sort_id": {
           "order": 1,
           "field": "basename"
         },
         "show_node_options": {
-          "ext": false,
+          "ext": true,
           "alias": true,
-          "folder": false
+          "folder": true
         }
       }
     },
