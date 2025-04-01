@@ -45,8 +45,7 @@
               "title": "Two-Way MANOVA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
+                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Two-Way MANOVA 的反向連結"
+              "title": "多變量分析 - 共變異數 的反向連結"
             }
           },
           {
@@ -138,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
+                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Two-Way MANOVA 的對外連結"
+              "title": "多變量分析 - 共變異數 的對外連結"
             }
           },
           {
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
+                "file": "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Two-Way MANOVA 的大綱"
+              "title": "多變量分析 - 共變異數 的大綱"
             }
           },
           {
@@ -251,13 +250,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a024ac32982bfbd9",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
+    "未處理/F分配.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
-    "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/統計/多變量分析/基礎知識/多變量分析.md",
     "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
@@ -282,7 +282,6 @@
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "文本/書/1968：日本現代史的轉捩點，席捲日本的革命浪潮.md",
-    "文本/書/口袋裡的哲學書.md",
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
     "知識/統計/多變量分析/檢定",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.8.png",
