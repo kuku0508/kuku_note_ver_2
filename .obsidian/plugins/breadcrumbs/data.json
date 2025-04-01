@@ -179,7 +179,7 @@
     },
     "side": {
       "matrix": {
-        "collapse": false,
+        "collapse": true,
         "edge_sort_id": {
           "field": "basename",
           "order": 1
