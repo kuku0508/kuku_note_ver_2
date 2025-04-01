@@ -3,7 +3,7 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "未處理",
-  "attachmentFolderPath": "未處理",
+  "attachmentFolderPath": "未處理/附件",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
