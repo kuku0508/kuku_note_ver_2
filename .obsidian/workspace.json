@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Assignment 6 的對外連結"
+              "title": "主成分分析 的對外連結"
             }
           },
           {
@@ -182,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -216,7 +216,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "e1c525d5d444dfd8",
   "lastOpenFiles": [
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
