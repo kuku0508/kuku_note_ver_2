@@ -37,10 +37,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md"
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MA chapter4"
+              "title": "MA chapter3"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "MA chapter4 的反向連結"
+              "title": "MA chapter3 的反向連結"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "MA chapter4 的對外連結"
+              "title": "MA chapter3 的對外連結"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "MA chapter4 的大綱"
+              "title": "MA chapter3 的大綱"
             }
           },
           {
@@ -289,8 +289,8 @@
   },
   "active": "a024ac32982bfbd9",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
