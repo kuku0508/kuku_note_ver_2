@@ -111,7 +111,7 @@
   "explicit_edge_sources": {
     "typed_link": {},
     "list_note": {
-      "default_neighbour_field": ""
+      "default_neighbour_field": "parent"
     },
     "tag_note": {
       "default_field": "parent"
