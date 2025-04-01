@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/無母數統計/題目型作業/Assignment 6.md",
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Assignment 6 的反向連結"
+              "title": "主成分分析 的反向連結"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "標籤"
@@ -140,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/常見分配種類/連續/常態分配.md"
+                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常態分配 的大綱"
+              "title": "主成分分析 的大綱"
             }
           },
           {
@@ -175,43 +180,14 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "abf6dc64cf6eab72",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
-            }
-          },
-          {
-            "id": "2089018ac4b71d86",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
-            }
-          },
-          {
-            "id": "8f381977cd7f500e",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
-            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 562.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,46 +217,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "f429655fbd773c8e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2abf14e3d0c90075",
-        "type": "window",
-        "children": [
-          {
-            "id": "a13aa8fd983e0f2b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4bf1f4533c94ee1f",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/SkepticMystic/breadcrumbs/blob/master/V4.md",
-                    "title": "breadcrumbs/V4.md at master · SkepticMystic/breadcrumbs · GitHub",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "breadcrumbs/V4.md at master · SkepticMystic/breadcrumbs · GitHub"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "892a332b82a61cfd",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
