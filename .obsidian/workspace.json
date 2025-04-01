@@ -152,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -172,8 +172,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -237,7 +237,8 @@
       "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "floating": {
@@ -279,7 +280,7 @@
       }
     ]
   },
-  "active": "4bf1f4533c94ee1f",
+  "active": "892a332b82a61cfd",
   "lastOpenFiles": [
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
