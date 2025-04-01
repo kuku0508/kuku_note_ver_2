@@ -240,7 +240,46 @@
       "media-extended:Open media": false
     }
   },
-  "active": "827f5e7cc852d4d9",
+  "floating": {
+    "id": "f429655fbd773c8e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2abf14e3d0c90075",
+        "type": "window",
+        "children": [
+          {
+            "id": "a13aa8fd983e0f2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4bf1f4533c94ee1f",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/SkepticMystic/breadcrumbs/blob/master/V4.md",
+                    "title": "breadcrumbs/V4.md at master · SkepticMystic/breadcrumbs · GitHub",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "breadcrumbs/V4.md at master · SkepticMystic/breadcrumbs · GitHub"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "4bf1f4533c94ee1f",
   "lastOpenFiles": [
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
