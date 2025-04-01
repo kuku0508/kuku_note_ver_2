@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "向量"
+              "title": "大括號｛｝"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "向量 的反向連結"
+              "title": "大括號｛｝ 的反向連結"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "向量 的對外連結"
+              "title": "大括號｛｝ 的對外連結"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "向量 的大綱"
+              "title": "大括號｛｝ 的大綱"
             }
           },
           {
@@ -276,8 +276,9 @@
   },
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
-    "知識/線性代數/線性代數總目錄.md",
     "知識/線性代數/基礎知識/向量.md",
+    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
+    "知識/線性代數/線性代數總目錄.md",
     "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/備註.md",
@@ -309,7 +310,6 @@
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/多變量分析/MANOVA/多變量多重迴歸.md",
     "知識/統計/多變量分析/MANOVA/未命名",
-    "知識/統計/多變量分析/檢定/Box's M test.md",
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
     "知識/統計/多變量分析/檢定",
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.8.png",
