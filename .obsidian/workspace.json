@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "向量"
+              "title": "向量 - 乘法"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "向量 的反向連結"
+              "title": "向量 - 乘法 的反向連結"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "向量 的對外連結"
+              "title": "向量 - 乘法 的對外連結"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "向量 的大綱"
+              "title": "向量 - 乘法 的大綱"
             }
           },
           {
@@ -288,8 +288,8 @@
   },
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
-    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "知識/線性代數/基礎知識/向量/向量.md",
+    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 -1.8v.png",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 1／3v.png",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 2v.png",
