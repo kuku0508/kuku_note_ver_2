@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量 - 加法.md",
+                "file": "知識/線性代數/線性代數總目錄.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "向量 - 加法"
+              "title": "線性代數總目錄"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量 - 加法.md",
+                "file": "知識/線性代數/線性代數總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "向量 - 加法 的反向連結"
+              "title": "線性代數總目錄 的反向連結"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量 - 加法.md",
+                "file": "知識/線性代數/線性代數總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "向量 - 加法 的對外連結"
+              "title": "線性代數總目錄 的對外連結"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量 - 加法.md",
+                "file": "知識/線性代數/線性代數總目錄.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "向量 - 加法 的大綱"
+              "title": "線性代數總目錄 的大綱"
             }
           },
           {
@@ -286,13 +286,14 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/向量/向量 - 加法.md",
+    "知識/線性代數/基礎知識/向量/向量.md",
     "文本/Department/數學/線性代數/圖/向量 - 加法範例2.png",
     "文本/Department/數學/線性代數/圖/二維向量.png",
     "文本/Department/數學/線性代數/圖/向量 - 加法範例.png",
     "文本/Department/數學/線性代數/圖",
-    "知識/線性代數/基礎知識/向量/向量 - 加法.md",
     "知識/線性代數/基礎知識/線性代數.md",
     "知識/統計/迴歸分析/迴歸分析目錄.md",
     "知識/統計/無母數統計/無母數統計目錄.md",
@@ -300,7 +301,6 @@
     "知識/統計/統計學/機率/機率三公理.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/有限母體修正因子.md",
     "知識/統計/統計學/圖表/圖表目錄.md",
-    "知識/線性代數/基礎知識/向量/向量.md",
     "知識/線性代數/線性代數總目錄.md",
     "知識/線性代數/基礎知識/向量",
     "此筆記庫介紹.md",
@@ -330,7 +330,6 @@
     "知識/統計/多變量分析/MANOVA/未命名",
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
     "知識/統計/多變量分析/檢定",
-    "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.8.png",
     "文本/Department/數學/統計/學者照片",
     "知識/統計/多變量分析/多維常態分配",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf"
