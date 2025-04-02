@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "向量 的反向連結"
+              "title": "MA chapter3 的反向連結"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "向量 的對外連結"
+              "title": "MA chapter3 的對外連結"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "向量 的大綱"
+              "title": "MA chapter3 的大綱"
             }
           },
           {
@@ -274,11 +274,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "b0adaa196f737f0b",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/向量.md",
     "未處理/附件/二維向量範例.png",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
-    "知識/線性代數/基礎知識/向量.md",
     "知識/線性代數/線性代數總目錄.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
@@ -316,7 +316,6 @@
     "文本/Department/數學/統計/多變量分析/圖/二維常態分配 圖 mu1=mu2=2,sigma1=sigma2=1,rho=0.5.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
     "文本/Department/數學/統計/學者照片/John arbuthnot.png",
-    "文本/Department/數學/統計/學者照片/Francis Galtton.png",
     "文本/Department/數學/統計/學者照片",
     "知識/統計/多變量分析/多維常態分配",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment 1.pdf",
