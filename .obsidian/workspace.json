@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -274,8 +274,9 @@
       }
     ]
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/向量",
     "知識/線性代數/基礎知識/線性代數.md",
     "知識/線性代數/線性代數總目錄.md",
     "此筆記庫介紹.md",
@@ -283,7 +284,7 @@
     "知識/統計/統計知識總目錄.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/基礎知識/母體參數.md",
-    "知識/線性代數/基礎知識/向量.md",
+    "知識/線性代數/基礎知識/向量/向量.md",
     "未處理/附件/三維空間範例.png",
     "未處理/附件/二維向量範例.png",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
@@ -309,7 +310,6 @@
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "未處理/F分配.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 相關係數.md",
-    "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 平均.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
     "知識/統計/多變量分析/主成分分析 PCA",
     "知識/統計/多變量分析/MANOVA/未命名",
