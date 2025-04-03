@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "向量"
+              "title": "線性組合"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "向量 的反向連結"
+              "title": "線性組合 的反向連結"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "向量 的對外連結"
+              "title": "線性組合 的對外連結"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量.md",
+                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "向量 的大綱"
+              "title": "線性組合 的大綱"
             }
           },
           {
@@ -290,6 +290,7 @@
   },
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/向量/向量.md",
     "知識/線性代數/基礎知識/基底.md",
     "知識/線性代數/基礎知識/張成.md",
     "知識/線性代數/基礎知識/線性代數.md",
@@ -305,7 +306,6 @@
     "未處理/附件/標準基底.png",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/線性代數/線性代數總目錄.md",
-    "知識/線性代數/基礎知識/向量/向量.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter MEANS.md",
     "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 -1.8v.png",
