@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/線性組合.md",
+                "file": "知識/線性代數/基礎知識/基底.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "線性組合"
+              "title": "基底"
             }
           },
           {
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/線性代數/基礎知識/基底.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "基底 的反向連結"
             }
           },
           {
@@ -136,11 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/線性代數/基礎知識/基底.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "基底 的對外連結"
             }
           },
           {
@@ -164,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "知識/線性代數/基礎知識/基底.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "基底 的大綱"
             }
           },
           {
@@ -285,7 +288,7 @@
       }
     ]
   },
-  "active": "a08c3907320eb5a8",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
     "知識/線性代數/基礎知識/線性組合.md",
     "知識/線性代數/基礎知識/基底.md",
