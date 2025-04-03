@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
+                "file": "知識/線性代數/基礎知識/張成.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基底"
+              "title": "張成"
+            }
+          },
+          {
+            "id": "d70c2f7b79ba138c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           },
           {
@@ -43,7 +53,8 @@
               "title": "向量 - 加法範例"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "基底 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -135,12 +145,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "基底 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -164,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基底 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -286,10 +294,12 @@
       }
     ]
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "d70c2f7b79ba138c",
   "lastOpenFiles": [
-    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "知識/線性代數/基礎知識/基底.md",
+    "知識/線性代數/基礎知識/線性獨立.md",
+    "知識/線性代數/基礎知識/張成.md",
+    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "知識/線性代數/基礎知識/向量/向量.md",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 -1.8v.png",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 1／3v.png",
@@ -324,8 +334,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/備註.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
-    "知識/程式語言/Latex/基礎知識/語法表/向量.md",
     "未處理/附件",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "知識/統計/多變量分析/主成分分析 PCA",
