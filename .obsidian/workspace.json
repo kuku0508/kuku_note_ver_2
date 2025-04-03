@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基底"
+              "title": "向量"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "基底 的反向連結"
+              "title": "向量 的反向連結"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "基底 的對外連結"
+              "title": "向量 的對外連結"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/基底.md",
+                "file": "知識/線性代數/基礎知識/向量/向量.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基底 的大綱"
+              "title": "向量 的大綱"
             }
           },
           {
@@ -290,11 +290,11 @@
   },
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/基底.md",
     "知識/線性代數/基礎知識/張成.md",
     "知識/線性代數/基礎知識/線性代數.md",
     "知識/線性代數/基礎知識/線性組合.md",
     "知識/線性代數/基礎知識/線性獨立.md",
-    "知識/線性代數/基礎知識/基底.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
