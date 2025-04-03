@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "線性組合 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -137,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "線性組合 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -166,13 +164,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/線性組合.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "線性組合 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -288,12 +285,12 @@
       }
     ]
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "a08c3907320eb5a8",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/線性組合.md",
     "知識/線性代數/基礎知識/基底.md",
     "知識/線性代數/基礎知識/線性代數.md",
     "知識/線性代數/基礎知識/線性獨立.md",
-    "知識/線性代數/基礎知識/線性組合.md",
     "知識/線性代數/基礎知識/張成.md",
     "模板/筆記.md",
     "知識/線性代數/基礎知識/向量/向量.md",
