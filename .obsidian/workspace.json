@@ -11,12 +11,14 @@
             "id": "827f5e7cc852d4d9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/線性代數/圖/張成 - 線性相依.gif"
+                "file": "知識/線性代數/基礎知識/線性獨立.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "張成 - 線性相依"
+              "icon": "lucide-file",
+              "title": "線性獨立"
             }
           }
         ]
@@ -262,20 +264,21 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/張成.md",
+    "知識/線性代數/基礎知識/線性獨立.md",
+    "知識/線性代數/基礎知識/基底.md",
+    "知識/線性代數/基礎知識/線性組合.md",
+    "知識/線性代數/基礎知識/線性代數.md",
+    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
+    "文本/Department/數學/線性代數/圖/張成 - 線性相依.gif",
     "文本/Department/數學/線性代數/圖/resident-evil-laser.gif",
     "文本/Department/數學/線性代數/圖/惡靈古堡 雷射平面.png",
-    "文本/Department/數學/線性代數/圖/張成 - 線性相依.gif",
-    "知識/線性代數/基礎知識/張成.md",
-    "知識/線性代數/基礎知識/基底.md",
     "未處理/附件/惡靈古堡 雷射.png",
     "知識/線性代數/基礎知識/向量/向量.md",
     "文本/Department/數學/線性代數/圖/張成 線性組合.gif",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
-    "知識/線性代數/基礎知識/線性組合.md",
-    "知識/線性代數/基礎知識/線性代數.md",
-    "知識/線性代數/基礎知識/線性獨立.md",
     "模板/筆記.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
@@ -287,7 +290,6 @@
     "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/線性代數/線性代數總目錄.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter MEANS.md",
-    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 -1.8v.png",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 1／3v.png",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 2v.png",
