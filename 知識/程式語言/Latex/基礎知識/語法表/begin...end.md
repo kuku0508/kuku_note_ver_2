@@ -32,7 +32,7 @@ y &= mx + b \\
 \end{align}
 $$
 - - -
-3. [matrix](矩陣.md)：用於創建矩陣
+3. [matrix](知識/程式語言/Latex/基礎知識/語法表/矩陣.md)：用於創建矩陣
 我有做一個專門介紹矩陣的筆記，詳細使用方法可以點[這裡](obsidian://open?vault=kuku_s_database&file=%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%2FLatex%2F%E8%AA%9E%E6%B3%95%E8%A1%A8%2F%E7%9F%A9%E9%99%A3)。這邊我就簡單帶過。
 ```Latex
 \begin{matrix}
@@ -141,7 +141,7 @@ f(x) &= (x^2 + 2x + 1)(x^3 + 3x^2 + 3x + 1) \\
 \end{split}
 $$
 - - -
-8. [array](矩陣.md)：用於創建帶有自定義對齊方式的數學陣列。
+8. [array](知識/程式語言/Latex/基礎知識/語法表/矩陣.md)：用於創建帶有自定義對齊方式的數學陣列。
 ```Latex
 \begin{array}{cc|c} 
 a & b & c\\ 

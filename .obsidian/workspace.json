@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+                "file": "知識/線性代數/基礎知識/矩陣.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
-              "title": "矩陣向量 - 乘法"
+              "title": "矩陣"
             }
           }
         ]
@@ -264,14 +274,15 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+    "知識/線性代數/基礎知識/矩陣.md",
     "知識/線性代數/線性轉換/線性轉換.md",
     "知識/線性代數/基礎知識/線性獨立.md",
     "知識/線性代數/基礎知識/線性組合.md",
     "知識/線性代數/線性代數總目錄.md",
     "知識/線性代數/線性轉換",
-    "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
     "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/線性代數/基礎知識/基底.md",
