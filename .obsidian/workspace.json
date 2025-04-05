@@ -19,7 +19,52 @@
               },
               "icon": "lucide-file",
               "title": "線性轉換"
-            }
+            },
+            "group": "4d748177ccde1f5f"
+          }
+        ]
+      },
+      {
+        "id": "3c4235282789655f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0912db40e273498c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/線性代數/基礎知識/線性轉換.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "線性轉換 的關聯圖"
+            },
+            "group": "4d748177ccde1f5f"
           }
         ]
       }
@@ -264,7 +309,7 @@
       }
     ]
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "0912db40e273498c",
   "lastOpenFiles": [
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/線性代數/基礎知識/線性轉換.md",
