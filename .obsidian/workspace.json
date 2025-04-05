@@ -19,52 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "線性轉換"
-            },
-            "group": "4d748177ccde1f5f"
-          }
-        ]
-      },
-      {
-        "id": "3c4235282789655f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0912db40e273498c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "知識/線性代數/基礎知識/線性轉換.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "線性轉換 的關聯圖"
-            },
-            "group": "4d748177ccde1f5f"
+            }
           }
         ]
       }
@@ -309,18 +264,19 @@
       }
     ]
   },
-  "active": "0912db40e273498c",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
+    "知識/線性代數/基礎知識/矩陣向量 - 乘法.md",
+    "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
     "知識/線性代數/基礎知識/線性轉換.md",
+    "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/線性代數/基礎知識/基底.md",
-    "未處理/附件/ApplyMatrixExample_ManimCE_v0.18.1.gif",
+    "文本/Department/數學/線性代數/圖/ApplyMatrixExample_ManimCE_v0.18.1.gif",
     "知識/線性代數/線性代數總目錄.md",
-    "未處理/附件/線性轉換 旋轉範例.gif",
-    "未處理/附件/線性轉換 範例1.gif",
-    "未處理/附件/線性轉換 複數轉換.gif",
-    "未處理/附件/向量箭頭轉成點.gif",
-    "未處理/附件/線性轉換 範例.gif",
+    "文本/Department/數學/線性代數/圖/線性轉換 旋轉範例.gif",
+    "文本/Department/數學/線性代數/圖/線性轉換 範例1.gif",
+    "文本/Department/數學/線性代數/圖/線性轉換 複數轉換.gif",
+    "文本/Department/數學/線性代數/圖/線性轉換 範例.gif",
     "未處理/附件/apng_wenjan.png",
     "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
@@ -345,8 +301,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter MEANS.md",
-    "知識/線性代數/基礎知識/向量/向量 - 加法.md",
     "文本/Department/數學/線性代數/圖",
     "知識/線性代數/基礎知識/向量",
     "未處理/附件",
