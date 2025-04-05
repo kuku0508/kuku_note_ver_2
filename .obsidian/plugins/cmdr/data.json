@@ -9,6 +9,12 @@
       "icon": "airplay",
       "name": "Widgets: Add widget",
       "mode": "any"
+    },
+    {
+      "id": "workspace:copy-path",
+      "icon": "lucide-copy",
+      "name": "複製檔案路徑",
+      "mode": "any"
     }
   ],
   "leftRibbon": [],
