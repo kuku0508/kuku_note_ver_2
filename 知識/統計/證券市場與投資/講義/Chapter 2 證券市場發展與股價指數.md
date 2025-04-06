@@ -1,0 +1,34 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+
+# Excalidraw Data
+
+## Text Elements
+## Element Links
+MZO1eY2h: https://drive.google.com/file/d/1buX-1xi0COiBAmW0uIMILmh7DHFEbQQs/view?usp=drive_link
+
+%%
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQAObQBmGjoghH0EDihmbgBtcDBQMBKIEm4IAFkALQB5AEYEAE0eSVSSyFhECozNBGJiXE1g9tLMbmcAVgAWRIB2Sf5SmAn6
+
++LjppIWlyAoSdW54mYSANjmTpOnpk/rJ+vq5nakEQmVpbhOj5J45gE4eJKTX6TP5PazKEZoAAMT2YUFIbAA1ggAMJsfBsUgVADEjTxSCemlw2ERygRQg4xDRGKxEnh1mYcFwgWyo0gADNCPh8ABlWCQ9CCDxsiBwhHIgDq+zaaD4hQE8KRCD5MAFovR5Se5LeHHCuTQ9SebCZ2DUKwNUJh8ogZOEcAAksR9ag8gBdJ7s8iZR3cDhCblPQiUrAVXB
+
+QkXkym65jO4odaDwcSoJLygC+sIQ/W4v3W8V+SSSUPiT0YLHYXFlv1+JaYrE4ADlOGJuPUkvV8796icodNA8wACLpKBZtDsghhQnCSkAUWCmWyzrdTyEcEGw+ILbmm1+Jx4t0mSU7TyIHERFWksnkSjIhEY2mUbDYEIQugMCk5wQUxAU9U0QgAGs49SYIQUIorUhAAEIAIL6BKUJCPalT2gAMvokhzP2AASABi06aAAigRERmAgFAAPxCIyAC8N6
+
+MAA+ieZ7HmwJIjqgY74BO1rMO4SYFB0YCGvKQnyq6hSpuA7p0LgcBwHyuDDtwcbQJIGRJhARBvFAowMIQZGQcSpKRlS6KYji7KWVZunYCILJQPaw76Hy4qomZtLoLiCD4jZdlZA5TmGSStoUqZNIVPSHCMsy/m+aQ9mORkOFcry/IaUKmqFBAtnxf5iXOYqkrStwcqlDlCVOS5SoqmqGUbks2V+dk+UAErCDqeotg15V5U5tQmmaLaWt1TUBUlnB
+
+QDhuD6Fy5qoIsWU9c1Tk4RNPKEEYSY8FaZWjflAAqWBQNBWkVugwTsjpI25ctGQKaQx3xWwFBqbgG5oH6AaLXtTnTpS0FPS9ITvegzIIlQ10VRkAPg/tiYVCZum8Qi3L/h8BbaDwAJQvccx5tMvyzA1yPovgTTcHMUK/MkRb1JaPAnFcuYNUYj76Mp1r0AQQhJlCCQ/DwEmQ71GRtaF0bOhAiMNWSJDrZtJU7ZAsvEHyCBwNwC2lCrlRsMQCB/UM
+
+wQg5x3Ha6QJDUuZaBxpAkHoiDUvKESAAUe6PLwDzUJ7Ht85MACUIotQgyj+syCPO7gbuFt72OxzHqB+4HQvfTdUBVci/VQOWzqffgDWetNCDB8GFscMoHPxlkRvsfCPNPNgRAa2gdcIE8HBF9wrdGkIUAnkmrcp6UdgAFYINgOQ8h3cC6/rhvDOxptt1lxLZ4w+2PvglelF06XpBP5YirZcIGHD3Qff6+fWhibEm+Oy/xvgoTHQf6+b76l8SeA6Z
+
+0B+4TKZJVMQA
+```
+%%
