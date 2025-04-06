@@ -11,14 +11,12 @@
             "id": "827f5e7cc852d4d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/線性代數/圖/ApplyMatrixExample_ManimCE_v0.18.1.gif"
               },
-              "icon": "lucide-file",
-              "title": "矩陣向量 - 乘法"
+              "icon": "lucide-image",
+              "title": "ApplyMatrixExample_ManimCE_v0.18.1"
             }
           }
         ]
@@ -266,8 +264,10 @@
   },
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
-    "知識/線性代數/線性轉換/線性轉換.md",
+    "文本/Department/數學/線性代數/圖/resident-evil-laser.gif",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+    "未處理/附件/ApplyMatrixExample_ManimCE_v0.18.1.gif",
+    "知識/線性代數/線性轉換/線性轉換.md",
     "知識/線性代數/基礎知識/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/Latex/Latex知識總目錄.md",
@@ -297,12 +297,10 @@
     "知識/程式語言/Latex/基礎知識/Latex.md",
     "知識/線性代數/基礎知識/張成.md",
     "知識/線性代數/基礎知識/線性代數.md",
-    "文本/Department/數學/線性代數/圖/張成 - 線性相依.gif",
     "知識/線性代數/基礎知識/向量/向量.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "模板/筆記.md",
     "知識/統計/多變量分析/基礎知識/各樣本統計量/多變量分析 - 共變異數.md",
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "文本/Department/數學/線性代數/圖",
     "知識/線性代數/基礎知識/向量",
     "未處理/附件",
