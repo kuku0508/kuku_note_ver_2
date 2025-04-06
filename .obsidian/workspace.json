@@ -11,12 +11,14 @@
             "id": "827f5e7cc852d4d9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/線性代數/圖/ApplyMatrixExample_ManimCE_v0.18.1.gif"
+                "file": "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ApplyMatrixExample_ManimCE_v0.18.1"
+              "icon": "lucide-file",
+              "title": "矩陣向量 - 乘法"
             }
           }
         ]
@@ -265,8 +267,9 @@
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
     "文本/Department/數學/線性代數/圖/resident-evil-laser.gif",
+    "文本/Department/數學/線性代數/圖/線性轉換 線性組何.gif",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
-    "未處理/附件/ApplyMatrixExample_ManimCE_v0.18.1.gif",
+    "未處理/附件/矩陣向量-乘法 翻轉後旋轉.gif",
     "知識/線性代數/線性轉換/線性轉換.md",
     "知識/線性代數/基礎知識/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
@@ -281,7 +284,6 @@
     "知識/線性代數/線性轉換",
     "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
     "知識/線性代數/基礎知識/基底.md",
-    "文本/Department/數學/線性代數/圖/ApplyMatrixExample_ManimCE_v0.18.1.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 旋轉範例.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 範例1.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 複數轉換.gif",
