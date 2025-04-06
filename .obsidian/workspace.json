@@ -11,12 +11,14 @@
             "id": "827f5e7cc852d4d9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/線性代數/圖/矩陣向量-乘法 旋轉後翻轉.gif"
+                "file": "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "矩陣向量-乘法 旋轉後翻轉"
+              "icon": "lucide-file",
+              "title": "矩陣向量 - 乘法"
             }
           }
         ]
@@ -262,11 +264,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "文本/Department/數學/線性代數/圖/矩陣向量-乘法 旋轉後翻轉.gif",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
     "文本/Department/數學/線性代數/圖/惡靈古堡 雷射平面.png",
-    "文本/Department/數學/線性代數/圖/矩陣向量-乘法 旋轉後翻轉.gif",
     "文本/Department/數學/線性代數/圖/resident-evil-laser.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 線性組何.gif",
     "文本/Department/數學/線性代數/圖/矩陣向量-乘法 翻轉後旋轉.gif",
