@@ -11,14 +11,12 @@
             "id": "827f5e7cc852d4d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
-                "mode": "source",
-                "source": false
+                "file": "未處理/附件/矩陣向量-乘法 旋轉後翻轉.gif"
               },
-              "icon": "lucide-file",
-              "title": "矩陣向量 - 乘法"
+              "icon": "lucide-image",
+              "title": "矩陣向量-乘法 旋轉後翻轉"
             }
           }
         ]
@@ -264,10 +262,10 @@
       }
     ]
   },
-  "active": "827f5e7cc852d4d9",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/Department/數學/線性代數/圖/惡靈古堡 雷射平面.png",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+    "文本/Department/數學/線性代數/圖/惡靈古堡 雷射平面.png",
     "未處理/附件/矩陣向量-乘法 旋轉後翻轉.gif",
     "文本/Department/數學/線性代數/圖/resident-evil-laser.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 線性組何.gif",
@@ -290,7 +288,6 @@
     "文本/Department/數學/線性代數/圖/線性轉換 範例1.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 複數轉換.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 範例.gif",
-    "未處理/附件/apng_wenjan.png",
     "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
