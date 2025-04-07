@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/A First Course In Probability.md"
+                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "A First Course In Probability"
+              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
+    "文本/書/A First Course In Probability.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
     "知識/線性代數/基礎知識/行列式.md",
@@ -259,7 +260,6 @@
     "知識/統計/統計學/資料/資料.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
-    "知識/線性代數/基礎知識/線性獨立.md",
     "知識/線性代數/線性轉換",
     "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 旋轉範例.gif",
