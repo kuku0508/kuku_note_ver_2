@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c60b918b6ad6a8d8",
+        "id": "82c9017e45a3d9e0",
         "type": "tabs",
         "children": [
           {
-            "id": "827f5e7cc852d4d9",
+            "id": "f943f5b8b23399be",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -225,10 +223,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "827f5e7cc852d4d9",
+  "floating": {
+    "id": "59fc12820751d50e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1f4eba89652fd54b",
+        "type": "window",
+        "children": [
+          {
+            "id": "69ffd61a81ab4916",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3ff51e34d937719",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "f943f5b8b23399be",
   "lastOpenFiles": [
-    "文本/書/A First Course In Probability.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/書/A First Course In Probability.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
     "知識/線性代數/基礎知識/行列式.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
