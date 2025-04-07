@@ -245,10 +245,10 @@
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
+                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "MA chapter3"
+                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
               }
             ]
@@ -258,15 +258,16 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 696,
+        "height": 1392,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "b0adaa196f737f0b",
+  "active": "827f5e7cc852d4d9",
   "lastOpenFiles": [
-    "文本/書/Untitled.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/線性代數/基礎知識/行列式.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch6.md",
@@ -298,7 +299,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/線性代數/基礎知識/線性獨立.md",
     "知識/線性代數/基礎知識/線性組合.md",
-    "知識/線性代數/線性代數總目錄.md",
     "知識/線性代數/線性轉換",
     "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 旋轉範例.gif",
