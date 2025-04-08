@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
+                "file": "知識/線性代數/基礎知識/行列式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "指數分配"
+              "title": "行列式"
             }
           }
         ]
@@ -266,6 +266,7 @@
   },
   "active": "f943f5b8b23399be",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
@@ -298,7 +299,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/統計/統計學/資料/資料.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/線性代數/線性轉換",
     "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
     "文本/Department/數學/線性代數/圖/線性轉換 旋轉範例.gif",
