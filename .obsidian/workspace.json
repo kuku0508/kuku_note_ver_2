@@ -261,44 +261,13 @@
         "height": 1392,
         "maximize": false,
         "zoom": 0.5
-      },
-      {
-        "id": "e3e8ddc8a5dc7d9f",
-        "type": "window",
-        "children": [
-          {
-            "id": "fc13e92f9c1100ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a3632003ccd79062",
-                "type": "leaf",
-                "state": {
-                  "type": "mx-webpage",
-                  "state": {
-                    "source": "https://www.youtube.com/watch?v=Ip3X9LOh2dk"
-                  },
-                  "icon": "youtube",
-                  "title": "The determinant | Chapter 6, Essence of linear algebra - YouTube"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0.5
       }
     ]
   },
-  "active": "a3632003ccd79062",
+  "active": "be46aab9994a784e",
   "lastOpenFiles": [
-    "知識/線性代數/基礎知識/行列式.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "知識/線性代數/基礎知識/行列式.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
