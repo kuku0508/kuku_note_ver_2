@@ -22,24 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "158e790c5b1c55ea",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a3632003ccd79062",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.youtube.com/watch?v=Ip3X9LOh2dk"
-              },
-              "icon": "youtube",
-              "title": "Webpage"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -267,6 +249,37 @@
                   },
                   "icon": "excalidraw-icon",
                   "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0.5
+      },
+      {
+        "id": "e3e8ddc8a5dc7d9f",
+        "type": "window",
+        "children": [
+          {
+            "id": "fc13e92f9c1100ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3632003ccd79062",
+                "type": "leaf",
+                "state": {
+                  "type": "mx-webpage",
+                  "state": {
+                    "source": "https://www.youtube.com/watch?v=Ip3X9LOh2dk"
+                  },
+                  "icon": "youtube",
+                  "title": "The determinant | Chapter 6, Essence of linear algebra - YouTube"
                 }
               }
             ]
