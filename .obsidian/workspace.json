@@ -227,47 +227,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "59fc12820751d50e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1f4eba89652fd54b",
-        "type": "window",
-        "children": [
-          {
-            "id": "69ffd61a81ab4916",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e3ff51e34d937719",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "be46aab9994a784e",
+  "active": "f943f5b8b23399be",
   "lastOpenFiles": [
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "未處理/附件/Pasted image 20250410233439.png",
+    "未處理/附件/Pasted image 20250410233415.png",
+    "知識/程式語言/Latex/基礎知識/語法表/刪除線.md",
     "知識/線性代數/基礎知識/行列式.md",
+    "README.md",
+    "未處理/附件/Pasted image 20250410110140.png",
+    "未處理/附件/ApplyMatrixExample 1.gif",
+    "未處理/附件/ApplyMatrixExample.gif",
+    "未處理/附件/ApplyMatrixExample_ManimCE_v0.18.1.gif",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
@@ -296,15 +267,7 @@
     "知識/線性代數/基礎知識/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/Latex/Latex知識總目錄.md",
-    "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
-    "知識/統計/統計學/資料/資料.md",
-    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/線性代數/線性轉換",
-    "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
-    "文本/Department/數學/線性代數/圖/線性轉換 旋轉範例.gif",
-    "文本/Department/數學/線性代數/圖/線性轉換 範例1.gif",
-    "文本/Department/數學/線性代數/圖/線性轉換 複數轉換.gif",
-    "文本/Department/數學/線性代數/圖/線性轉換 範例.gif",
     "文本/Department/數學/線性代數/圖",
     "知識/線性代數/基礎知識/向量",
     "未處理/附件",
