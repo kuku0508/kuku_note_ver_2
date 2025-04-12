@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/矩陣/未命名.md",
+                "file": "知識/線性代數/基礎知識/矩陣/單位矩陣.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "單位矩陣"
             }
           }
         ]
@@ -227,8 +227,46 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f943f5b8b23399be",
+  "floating": {
+    "id": "2576ec278714b80c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "47f7bc5352e5550c",
+        "type": "window",
+        "children": [
+          {
+            "id": "21bf559653d68ba0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3738bcb877de8d1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/Linear Algebra With Applications.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Linear Algebra With Applications"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "d3738bcb877de8d1",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/矩陣/單位矩陣.md",
     "知識/線性代數/線性代數總目錄.md",
     "知識/線性代數/基礎知識/矩陣/未命名.md",
     "知識/線性代數/線性轉換/反矩陣.md",
@@ -264,7 +302,6 @@
     "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
-    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch6.md",
     "文本/Department/數學/統計/證券市場與投資/講義",
     "文本/Department/數學/統計/證券市場與投資/講義/證券市場與投資",
     "文本/Department/數學/線性代數/圖/矩陣向量-乘法 旋轉後翻轉.gif",
