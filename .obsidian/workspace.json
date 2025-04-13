@@ -250,8 +250,21 @@
                   "icon": "excalidraw-icon",
                   "title": "Linear Algebra With Applications"
                 }
+              },
+              {
+                "id": "60ab4f9625c46664",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch1.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "政府統計實務 ch1"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -264,17 +277,17 @@
       }
     ]
   },
-  "active": "8f0cf8e65c73a783",
+  "active": "60ab4f9625c46664",
   "lastOpenFiles": [
-    "知識/線性代數/線性轉換/線性轉換.md",
+    "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
+    "知識/線性代數/線性轉換/線性轉換.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/線性代數/基礎知識/矩陣/單位矩陣.md",
-    "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
     "知識/線性代數/線性轉換/反矩陣",
     "知識/線性代數/基礎知識/基底.md",
