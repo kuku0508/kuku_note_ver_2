@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/線性轉換/反矩陣.md",
+                "file": "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
                 "mode": "source",
                 "source": false
               },
@@ -264,9 +264,11 @@
       }
     ]
   },
-  "active": "7b7a095f3af6a4fe",
+  "active": "f943f5b8b23399be",
   "lastOpenFiles": [
-    "知識/線性代數/線性轉換/反矩陣.md",
+    "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
+    "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
+    "知識/線性代數/線性轉換/反矩陣",
     "知識/線性代數/基礎知識/矩陣/單位矩陣.md",
     "知識/線性代數/基礎知識/基底.md",
     "知識/線性代數/線性代數總目錄.md",
@@ -301,7 +303,6 @@
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "文本/書/A First Course In Probability.md",
-    "文本/書/An R And s-PLUS Companion to Multivariate Analysis.md",
     "文本/Department/數學/統計/證券市場與投資/講義",
     "文本/Department/數學/統計/證券市場與投資/講義/證券市場與投資",
     "文本/Department/數學/線性代數/圖/矩陣向量-乘法 旋轉後翻轉.gif",
@@ -310,7 +311,6 @@
     "知識/線性代數/基礎知識/向量",
     "未處理/附件",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-    "知識/統計/多變量分析/主成分分析 PCA",
-    "知識/統計/多變量分析/MANOVA/未命名"
+    "知識/統計/多變量分析/主成分分析 PCA"
   ]
 }
