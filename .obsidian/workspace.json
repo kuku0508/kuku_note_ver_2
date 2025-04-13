@@ -274,9 +274,33 @@
                   "icon": "excalidraw-icon",
                   "title": "政府統計實務 ch2"
                 }
+              },
+              {
+                "id": "c12aa07da04cd1fe",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "政府統計實務 ch8"
+                }
+              },
+              {
+                "id": "68e3adcb8d757db6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "政府統計實務 ch4-5"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -289,8 +313,12 @@
       }
     ]
   },
-  "active": "324e946ff6e8ceec",
+  "active": "96a36cc6b6039bde",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch3.md",
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch2.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch1.md",
     "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
@@ -315,10 +343,7 @@
     "知識/程式語言/Latex/基礎知識/語法表/空格.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
-    "知識/程式語言/Latex/基礎知識/語法表/備註.md",
     "未處理/附件/反矩陣 範例.gif",
-    "知識/線性代數/基礎知識/向量/向量.md",
-    "知識/線性代數/基礎知識/行列式.md",
     "文本/Department/數學/線性代數/圖/行列式 Sarrus rule.png",
     "未處理/附件/ApplyMatrixExample.gif",
     "未處理/附件/Pasted image 20250410233415.png",
@@ -326,7 +351,6 @@
     "文本/Department/數學/線性代數/圖/行列式 面積改變範例.gif",
     "文本/Department/數學/線性代數/圖/行列式 Right Hand Rule.png",
     "文本/Department/數學/線性代數/圖/行列式 二維空間旋轉.gif",
-    "知識/程式語言/Latex/基礎知識/語法表/刪除線.md",
     "未處理/附件/ApplyMatrixExample_ManimCE_v0.18.1.gif",
     "文本/Department/數學/統計/證券市場與投資/講義",
     "文本/Department/數學/統計/證券市場與投資/講義/證券市場與投資",
