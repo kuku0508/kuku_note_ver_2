@@ -262,9 +262,19 @@
                   "icon": "excalidraw-icon",
                   "title": "政府統計實務 ch1"
                 }
+              },
+              {
+                "id": "324e946ff6e8ceec",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -277,8 +287,9 @@
       }
     ]
   },
-  "active": "60ab4f9625c46664",
+  "active": "324e946ff6e8ceec",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch1.md",
     "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "知識/線性代數/線性轉換/線性轉換.md",
@@ -314,7 +325,6 @@
     "文本/Department/數學/線性代數/圖/行列式 Right Hand Rule.png",
     "文本/Department/數學/線性代數/圖/行列式 二維空間旋轉.gif",
     "知識/程式語言/Latex/基礎知識/語法表/刪除線.md",
-    "README.md",
     "未處理/附件/ApplyMatrixExample_ManimCE_v0.18.1.gif",
     "文本/Department/數學/統計/證券市場與投資/講義",
     "文本/Department/數學/統計/證券市場與投資/講義/證券市場與投資",
