@@ -267,10 +267,12 @@
                 "id": "324e946ff6e8ceec",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "政府統計實務 ch2"
                 }
               }
             ],
