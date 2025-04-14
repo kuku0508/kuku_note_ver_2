@@ -252,18 +252,6 @@
                 }
               },
               {
-                "id": "68e3adcb8d757db6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch3.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "政府統計實務 ch3"
-                }
-              },
-              {
                 "id": "67c98f52b84de44a",
                 "type": "leaf",
                 "state": {
@@ -299,8 +287,7 @@
                   "title": "政府統計實務 ch8"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -313,14 +300,14 @@
       }
     ]
   },
-  "active": "68e3adcb8d757db6",
+  "active": "c12aa07da04cd1fe",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch3.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch6.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
     "文本/書/Linear Algebra With Applications.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch2.md",
-    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch3.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch1.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "知識/線性代數/線性轉換/線性轉換.md",
