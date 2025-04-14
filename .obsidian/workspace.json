@@ -240,18 +240,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c12aa07da04cd1fe",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "政府統計實務 ch8"
-                }
-              },
-              {
                 "id": "67c98f52b84de44a",
                 "type": "leaf",
                 "state": {
@@ -300,10 +288,10 @@
       }
     ]
   },
-  "active": "c12aa07da04cd1fe",
+  "active": "67c98f52b84de44a",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch3.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
+    "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch3.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch6.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
     "文本/書/Linear Algebra With Applications.md",
