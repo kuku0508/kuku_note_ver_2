@@ -11,12 +11,14 @@
             "id": "8f0cf8e65c73a783",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md"
+                "file": "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Ch-01"
+              "icon": "lucide-file",
+              "title": "隨便筆記 抽樣調查 Ch1"
             }
           }
         ]
@@ -225,11 +227,49 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "floating": {
+    "id": "2576ec278714b80c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6c0ea741a9dd6d47",
+        "type": "window",
+        "children": [
+          {
+            "id": "d1774adcb485cb97",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1fc40158ca65fbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-01"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "8f0cf8e65c73a783",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
+    "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
@@ -271,7 +311,6 @@
     "文本/Department/數學/線性代數/圖",
     "知識/線性代數/基礎知識/向量",
     "未處理/附件",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-    "知識/統計/多變量分析/主成分分析 PCA"
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf"
   ]
 }
