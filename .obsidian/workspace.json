@@ -227,68 +227,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "2576ec278714b80c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "47f7bc5352e5550c",
-        "type": "window",
-        "children": [
-          {
-            "id": "21bf559653d68ba0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "67c98f52b84de44a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "政府統計實務 ch4-5"
-                }
-              },
-              {
-                "id": "1f0ae05fef1273a4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch6.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "政府統計實務 ch6"
-                }
-              },
-              {
-                "id": "799b71566e420317",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "政府統計實務 ch8"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "8377aa33e5595af5",
+  "active": "8f0cf8e65c73a783",
   "lastOpenFiles": [
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
