@@ -262,6 +262,30 @@
                   "icon": "excalidraw-icon",
                   "title": "Ch-02"
                 }
+              },
+              {
+                "id": "bfe6d429ab722e60",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-03"
+                }
+              },
+              {
+                "id": "bf88d3913d1ad735",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-04"
+                }
               }
             ],
             "currentTab": 1
@@ -279,10 +303,12 @@
   },
   "active": "1b21b6471fc7200d",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch8.md",
@@ -306,8 +332,6 @@
     "知識/線性代數/基礎知識/矩陣",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "未處理/附件/反矩陣 範例.gif",
     "文本/Department/數學/線性代數/圖/行列式 Sarrus rule.png",
     "未處理/附件/ApplyMatrixExample.gif",
