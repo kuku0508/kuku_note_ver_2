@@ -250,12 +250,25 @@
                   "icon": "excalidraw-icon",
                   "title": "Ch-01"
                 }
+              },
+              {
+                "id": "1b21b6471fc7200d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-02"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 0,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -264,7 +277,7 @@
       }
     ]
   },
-  "active": "8f0cf8e65c73a783",
+  "active": "1b21b6471fc7200d",
   "lastOpenFiles": [
     "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
