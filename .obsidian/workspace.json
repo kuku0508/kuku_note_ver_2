@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "母體"
             }
+          },
+          {
+            "id": "bf148ff72fa8cf5c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,10 +286,10 @@
       }
     ]
   },
-  "active": "8f0cf8e65c73a783",
+  "active": "bf148ff72fa8cf5c",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/基礎知識/名詞解釋/元素.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/母體.md",
+    "知識/統計/抽樣調查/基礎知識/名詞解釋/元素.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
