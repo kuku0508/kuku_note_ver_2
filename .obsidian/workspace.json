@@ -227,86 +227,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "2576ec278714b80c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6c0ea741a9dd6d47",
-        "type": "window",
-        "children": [
-          {
-            "id": "d1774adcb485cb97",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1fc40158ca65fbfe",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-01"
-                }
-              },
-              {
-                "id": "1b21b6471fc7200d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-02"
-                }
-              },
-              {
-                "id": "bfe6d429ab722e60",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-03"
-                }
-              },
-              {
-                "id": "bf88d3913d1ad735",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-04"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "bfe6d429ab722e60",
+  "active": "8f0cf8e65c73a783",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
