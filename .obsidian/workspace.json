@@ -227,13 +227,50 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8f0cf8e65c73a783",
+  "floating": {
+    "id": "2576ec278714b80c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6a6e766894287eb7",
+        "type": "window",
+        "children": [
+          {
+            "id": "cc0ab47018a8eb47",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "376b6c03e1fbdaa9",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-01"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "376b6c03e1fbdaa9",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
-    "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/Department/數學/統計/政府統計實務/講義/政府統計實務 ch4-5.md",
