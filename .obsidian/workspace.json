@@ -240,18 +240,29 @@
             "type": "tabs",
             "children": [
               {
-                "id": "376b6c03e1fbdaa9",
+                "id": "47d1042e914ca014",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
+              },
+              {
+                "id": "77a9ee101f31c4b4",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md"
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Ch-01"
+                  "title": "Ch-02"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -264,19 +275,19 @@
       }
     ]
   },
-  "active": "8f0cf8e65c73a783",
+  "active": "77a9ee101f31c4b4",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/母體參數.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
+    "知識/統計/統計學/基礎知識/母體參數.md",
     "知識/統計/統計學/基礎知識/統計學.md",
     "知識/統計/R語言/R語言目錄.md",
     "知識/統計/統計知識總目錄.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識",
     "知識/線性代數/線性代數總目錄.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
