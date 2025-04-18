@@ -25,14 +25,17 @@
             "id": "bf148ff72fa8cf5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "母體"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,15 +289,15 @@
       }
     ]
   },
-  "active": "bf148ff72fa8cf5c",
+  "active": "8f0cf8e65c73a783",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/母體.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/元素.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋",
-    "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/統計學/基礎知識/推論統計.md",
     "知識/統計/統計學/基礎知識/描述統計.md",
     "知識/統計/統計學/集合/元素.md",
