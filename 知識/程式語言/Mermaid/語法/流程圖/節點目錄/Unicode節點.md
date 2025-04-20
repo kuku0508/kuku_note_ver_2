@@ -8,6 +8,11 @@ flowchart LR
 id["This ❤ Unicode"]
 ```
 - - -
+
+```mermaid
+flowchart LR
+id[# This ❤ Unicode"]
+```
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
 - - -
