@@ -88,7 +88,7 @@
       "query": "path:知識/程式語言/JavaScript  ",
       "color": {
         "a": 1,
-        "rgb": 16449791
+        "rgb": 16711680
       }
     }
   ],
@@ -102,6 +102,6 @@
   "repelStrength": 20,
   "linkStrength": 0.925491651205937,
   "linkDistance": 500,
-  "scale": 0.0676846380688548,
+  "scale": 0.12543086569654407,
   "close": false
 }
