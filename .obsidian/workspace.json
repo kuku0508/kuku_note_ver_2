@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Mermaid/Mermaid總目錄.md",
+                "file": "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mermaid總目錄"
+              "title": "Mermaid"
             }
           }
         ]
@@ -275,11 +275,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "56ebb45143850244",
   "lastOpenFiles": [
+    "知識/程式語言/Mermaid/Mermaid總目錄.md",
     "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
     "知識/程式語言/Mermaid/語法",
-    "知識/程式語言/Mermaid/Mermaid總目錄.md",
     "知識/程式語言/Mermaid/基礎知識",
     "模板/目錄.md",
     "此筆記庫介紹.md",
