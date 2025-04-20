@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "path:知識/程式語言/Mermaid  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
     }
   ],
   "collapse-display": true,
@@ -102,6 +109,6 @@
   "repelStrength": 20,
   "linkStrength": 0.925491651205937,
   "linkDistance": 500,
-  "scale": 0.12543086569654407,
-  "close": false
+  "scale": 0.02682987490913138,
+  "close": true
 }
