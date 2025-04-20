@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/JavaScript/基礎知識/JavaScript.md",
+                "file": "知識/線性代數/基礎知識/矩陣/矩陣.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "矩陣"
             }
           }
         ]
@@ -277,6 +277,8 @@
   },
   "active": "56ebb45143850244",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
+    "知識/程式語言/JavaScript/基礎知識/JavaScript.md",
     "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
     "知識/程式語言/基礎知識/平台無關性.md",
     "知識/程式語言/程式語言基礎知識目錄.md",
@@ -284,7 +286,6 @@
     "知識/程式語言/MarkDown/語法",
     "知識/程式語言/MarkDown/語法/Markdown語法表.md",
     "知識/程式語言/MarkDown/基礎知識/Markdown概論.md",
-    "知識/程式語言/JavaScript/基礎知識/JavaScript.md",
     "知識/程式語言/JavaScript/JavaScript知識總目錄.md",
     "知識/程式語言/JavaScript/基礎知識",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/底籍.md",
@@ -306,7 +307,6 @@
     "知識/統計/統計學/基礎知識/樣本.md",
     "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "知識/統計/抽樣調查/基礎知識",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
     "知識/線性代數/線性轉換/反矩陣",
