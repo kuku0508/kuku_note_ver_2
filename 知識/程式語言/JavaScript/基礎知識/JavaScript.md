@@ -1,9 +1,9 @@
-JavaScript
+JavaScript是一種輕量級、直譯式的[[程式語言]]。他因為作為網頁的腳本語言而大為知名，但其實也用於很多非瀏覽器的環境
 
 - - -
 # 參考資料
 
 - - -
-parent::
+parent::[[程式語言]]
 sibling::
 child::
