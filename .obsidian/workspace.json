@@ -275,10 +275,12 @@
       }
     ]
   },
-  "active": "56ebb45143850244",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
+    "知識/程式語言/MarkDown/語法",
+    "知識/程式語言/MarkDown/Markdown語法表.md",
     "知識/程式語言/MarkDown/Markdown知識總目錄.md",
+    "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
     "知識/程式語言/MarkDown/基礎知識/Markdown概論.md",
     "知識/程式語言/JavaScript/基礎知識/JavaScript概論.md",
     "知識/程式語言/JavaScript/JavaScript知識總目錄.md",
@@ -304,8 +306,6 @@
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-01.md",
     "知識/統計/統計學/基礎知識/母體參數.md",
-    "知識/統計/統計學/基礎知識/統計學.md",
-    "知識/統計/R語言/R語言目錄.md",
     "知識/統計/抽樣調查/基礎知識",
     "文本/Department/數學/統計/抽樣調查/隨便筆記",
     "知識/線性代數/線性轉換/反矩陣",
