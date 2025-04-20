@@ -7,8 +7,8 @@ where file.folder="知識/程式語言/MarkDown/基礎知識"
 # 語法
 ```dataview
 list
-from "知識/程式語言/MarkDown/語法表"
-where file.folder="知識/程式語言/MarkDown/語法/語法表"
+from "知識/程式語言/MarkDown/語法"
+where file.folder="知識/程式語言/MarkDown/語法"
 ```
 - - -
 parent::[[程式語言總目錄]]
