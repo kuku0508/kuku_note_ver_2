@@ -83,6 +83,13 @@
         "a": 1,
         "rgb": 14516806
       }
+    },
+    {
+      "query": "path:知識/程式語言/JavaScript  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -96,5 +103,5 @@
   "linkStrength": 0.925491651205937,
   "linkDistance": 500,
   "scale": 0.0676846380688548,
-  "close": true
+  "close": false
 }
