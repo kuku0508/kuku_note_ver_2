@@ -2,8 +2,7 @@
 在程式碼區塊的首段，我們需要打上`mermaid`，接下來輸入我們的程式碼。
 - - -
 # 範例
-![[Pasted image 20250421014346.png|650]]
-
+![[Mermaid in Obsidian.png|650]]
 ```mermaid
 journey
     title My working day
