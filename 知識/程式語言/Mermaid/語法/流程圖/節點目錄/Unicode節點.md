@@ -1,4 +1,4 @@
-我們可以基於[[文字節點]]的架構，再透過「"」將unicode文字括起來，就可以在節點中輸入unicode文字。
+Unicode節點，可以讓我們在流程圖的節點中，輸入Unicode架構的內容。我們可以基於[[文字節點]]的架構，再透過「"」將unicode文字括起來，就可以在節點中輸入unicode文字。
 ```Mermaid
 flowchart LR
 id["This ❤ Unicode"]
