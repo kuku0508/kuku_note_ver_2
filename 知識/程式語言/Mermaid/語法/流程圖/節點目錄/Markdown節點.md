@@ -2,12 +2,12 @@ Markdown節點是基於[[文字節點]]來讓我們在流程圖的節點中，�
 
 ```Mermaid
 flowchart
-id["'*kuku*'"]
+markdown["`This **is** _Markdown_`"]
 ```
 
 ```mermaid
 flowchart
-id["'kuku'"]
+markdown["`This **is** _Markdown_`"]
 ```
 
 - - -
