@@ -192,12 +192,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,16 +239,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "47d1042e914ca014",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
-                }
-              },
-              {
                 "id": "77a9ee101f31c4b4",
                 "type": "leaf",
                 "state": {
@@ -259,6 +248,20 @@
                   },
                   "icon": "excalidraw-icon",
                   "title": "Ch-02"
+                }
+              },
+              {
+                "id": "5c529fa97bdc59db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "conflict-files-obsidian-git.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "conflict-files-obsidian-git"
                 }
               }
             ],
@@ -277,9 +280,11 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓角節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
-    "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Unicode節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/預設節點.md",
@@ -295,7 +300,6 @@
     "文本/Department/程式語言/Mermaid",
     "文本/Department/程式語言/Mermaid/Mermaid in Obsidian.png",
     "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/程式語言/Mermaid/語法",
     "知識/程式語言/Mermaid/基礎知識",
     "模板/目錄.md",
@@ -310,7 +314,6 @@
     "知識/線性代數/基礎知識/矩陣/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
-    "知識/程式語言/基礎知識/平台無關性.md",
     "知識/程式語言/MarkDown/語法",
     "知識/程式語言/JavaScript/基礎知識",
     "知識/程式語言/JavaScript",

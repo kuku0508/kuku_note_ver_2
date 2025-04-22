@@ -16,6 +16,6 @@ markdown["`This **is** _Markdown_`"]
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
 - - -
-parent::[[節點目錄]].[[文字節點]],[[MarkDown]]
+parent::[[節點目錄]],[[文字節點]],[[MarkDown]]
 sibling::
 child::
