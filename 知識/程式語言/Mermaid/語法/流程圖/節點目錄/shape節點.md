@@ -8,17 +8,13 @@
 | 卡片   | 有缺口的矩形 | `notch-rect` | 代表一張卡片 | `card`,`notched-rectangle`  |
 | 整理   | 沙漏     | `hourglass`  | 代表整理操作 | `collate`,`hourglass`       |
 | 通訊連結 | 閃電     | `bolt`       | 通訊連結   | `com-link`,`lightning-bolt` |
-| 評論   | 捲曲支架   |              |        |                             |
+| 註釋   | 大括號    | `brace`      | 新增註解   | `brace-l`,``                |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
-```mermaid
-flowchart
-A@{ shape: brace}
-```
 
 - - -
 # 參考資料
