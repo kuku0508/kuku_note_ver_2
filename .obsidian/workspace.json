@@ -226,44 +226,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "2576ec278714b80c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6a6e766894287eb7",
-        "type": "window",
-        "children": [
-          {
-            "id": "cc0ab47018a8eb47",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "77a9ee101f31c4b4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-02"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "731625c48fa51eae",
+  "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
