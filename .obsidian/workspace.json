@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "方向"
             }
+          },
+          {
+            "id": "87dc341c6e44945e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/左右雙線的節點.md",
+                "bFile": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/左右雙線的節點.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 左右雙線的節點"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +242,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "73b3db56f3a8b8ba",
+  "active": "87dc341c6e44945e",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
-    "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
     "conflict-files-obsidian-git.md",
+    "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/類似旗子的節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/顛倒梯形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/雙層圓形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/逆-平行四邊形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/跑道節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/梯形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/平行四邊形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/左右雙線的節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓柱形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓角節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Unicode節點.md",
@@ -247,21 +275,9 @@
     "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "文本/Department/程式語言/Mermaid",
     "文本/Department/程式語言/Mermaid/Mermaid in Obsidian.png",
-    "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
     "知識/程式語言/Mermaid/語法",
     "知識/程式語言/Mermaid/基礎知識",
-    "模板/目錄.md",
-    "此筆記庫介紹.md",
-    "知識/程式語言/程式語言總目錄.md",
     "知識/程式語言/Mermaid",
-    "知識/程式語言/JavaScript/JavaScript知識總目錄.md",
-    "知識/程式語言/JavaScript/基礎知識/JavaScript.md",
-    "知識/用語/用語總目錄.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
-    "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
-    "知識/線性代數/基礎知識/矩陣/矩陣.md",
-    "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
-    "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
     "知識/程式語言/MarkDown/語法",
     "知識/程式語言/JavaScript/基礎知識",
     "知識/程式語言/JavaScript",
