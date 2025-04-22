@@ -6,7 +6,15 @@
 | 節點意義 | 形狀名稱   | 節點代號         | 描述     | 節點代號別名                     |
 | ---- | ------ | ------------ | ------ | -------------------------- |
 | 卡片   | 有缺口的矩形 | `notch-rect` | 代表一張卡片 | `card`,`notched-rectangle` |
-| 整理   | 沙漏     | `hourglass`  | 代表整理操作 | `collate`ㄝ                 |
+| 整理   | 沙漏     | `hourglass`  | 代表整理操作 | `collate`,`hourglass`      |
+| 通訊連結 | 閃電     | `bolt`       | 通訊連結   | `com-link`,`lightning`     |
+|      |        |              |        |                            |
+|      |        |              |        |                            |
+|      |        |              |        |                            |
+|      |        |              |        |                            |
+|      |        |              |        |                            |
+|      |        |              |        |                            |
+|      |        |              |        |                            |
 ```mermaid
 flowchart
 A@{ shape: hourglass}
