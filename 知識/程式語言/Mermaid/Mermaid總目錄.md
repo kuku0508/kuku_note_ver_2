@@ -10,4 +10,4 @@ list
 from "知識/程式語言/Mermaid/語法/流程圖"
 where file.folder="知識/程式語言/Mermaid/語法/流程圖"
 ```
-parent::
+parent::[[程式語言總目錄]]

@@ -11,14 +11,8 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "方向"
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -40,11 +34,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -59,9 +50,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜尋"
+              }
             }
           },
           {
@@ -69,16 +58,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "書籤"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.51103591918945
+    "width": 258.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +88,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "張成 的反向連結"
+              }
             }
           },
           {
@@ -113,12 +97,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "張成 的對外連結"
+              }
             }
           },
           {
@@ -128,12 +109,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "標籤"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -141,14 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "張成 的大綱"
+              "state": {}
             }
           },
           {
@@ -156,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -166,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -176,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           },
           {
@@ -186,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "bc-matrix-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "state": {}
             }
           }
         ],
@@ -201,10 +163,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -224,6 +182,10 @@
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false
     }
   },
@@ -244,9 +206,7 @@
                 "type": "leaf",
                 "state": {
                   "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "state": {}
                 }
               },
               {
@@ -256,20 +216,17 @@
                   "type": "excalidraw",
                   "state": {
                     "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-02"
+                  }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0.5
       }
@@ -277,17 +234,17 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
+    "知識/程式語言/Mermaid/Mermaid總目錄.md",
+    "知識/程式語言/Mermaid/語法/流程圖/邊目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Unicode節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/預設節點.md",
-    "知識/程式語言/Mermaid/語法/流程圖/邊目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/流程圖.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/文字節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/邊目錄",
-    "知識/程式語言/Mermaid/Mermaid總目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖",
     "未處理/細胞自動機.md",
     "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
