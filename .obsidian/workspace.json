@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md"
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md"
               }
             }
           },
@@ -242,12 +242,13 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓角節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
     "知識/程式語言/Mermaid/Mermaid總目錄.md",
     "知識/程式語言/程式語言基礎知識目錄.md",
     "知識/程式語言/程式語言總目錄.md",
     "知識/程式語言/HTML/語法表/HTML語法表.md",
     "知識/程式語言/Mermaid/語法/流程圖/邊目錄.md",
-    "知識/程式語言/Mermaid/語法/流程圖/邊目錄/方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Unicode節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄.md",
@@ -275,7 +276,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/線性代數/基礎知識/矩陣/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
-    "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
     "知識/程式語言/MarkDown/語法",
     "知識/程式語言/JavaScript/基礎知識",
     "知識/程式語言/JavaScript",
