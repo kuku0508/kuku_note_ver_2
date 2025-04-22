@@ -9,7 +9,7 @@ id["This ❤ Unicode"]
 ```
 - - -
 # 備註
-我自己在測試的時候，我發現在obsidian裡面，好像可以用[[文字節點]]就可以直接在節點中打出Unicode文字。
+我自己在測試的時候，我發現在obsidian裡面，好像可以用文字節點就可以直接在節點中打出Unicode文字。
 - - -
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
