@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "菱形節點"
+              "title": "六邊形節點"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "菱形節點 的反向連結"
+              "title": "六邊形節點 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "菱形節點 的對外連結"
+              "title": "六邊形節點 的對外連結"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "菱形節點 的大綱"
+              "title": "六邊形節點 的大綱"
             }
           },
           {
@@ -276,8 +276,9 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/類似旗子的節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/類似旗子的節點.md",
     "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓形節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圓柱形節點.md",
@@ -309,7 +310,6 @@
     "模板/目錄.md",
     "此筆記庫介紹.md",
     "知識/程式語言/Mermaid",
-    "知識/程式語言/JavaScript/JavaScript知識總目錄.md",
     "知識/程式語言/MarkDown/語法",
     "知識/程式語言/JavaScript/基礎知識",
     "知識/程式語言/JavaScript",
