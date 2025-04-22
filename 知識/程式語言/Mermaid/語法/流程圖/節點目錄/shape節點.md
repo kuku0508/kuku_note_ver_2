@@ -8,9 +8,9 @@
 | 卡片   | 有缺口的矩形 | `notch-rect` | 代表一張卡片 | `card`,`notched-rectangle`  |
 | 整理   | 沙漏     | `hourglass`  | 代表整理操作 | `collate`,`hourglass`       |
 | 通訊連結 | 閃電     | `bolt`       | 通訊連結   | `com-link`,`lightning-bolt` |
-| 註釋   | 大括號    | `brace`      | 新增註解   | `brace-l`,``                |
-|      |        |              |        |                             |
-|      |        |              |        |                             |
+| 註釋   | 左大括號   | `brace`      | 新增註釋   | `brace-l`,`comment`         |
+| 右側註釋 | 右大括號   | `brace-r`    | 新增註釋   | 無                           |
+| 雙邊註釋 | 雙大括ㄏㄠ  |              |        | 無                           |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
 |      |        |              |        |                             |
