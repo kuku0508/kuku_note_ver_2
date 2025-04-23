@@ -41,8 +41,8 @@
 | 處理        | 矩形       | `rect`       | 標準處理形狀   | `proc`,`process`,`rectangle`                                  |
 | 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
 | 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
-| 停止        | 雙園       | `dbl-c`      |          |                                                               |
-|           |          |              |          |                                                               |
+| 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
+| 停止        | 框形圖      | `fr-circ`    | 停止點      |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
@@ -53,7 +53,8 @@
 |           |          |              |          |                                                               |
 ```mermaid
 flowchart
-A@{ shape: sl-rect}
+A@{ shape: dbl-circ}
+B@{ shape: fr-circ}
 ```
 
 - - -
