@@ -27,7 +27,7 @@
 | 內部儲存      | 窗格       | `win-pane`   | 內部儲存    | `internal-storage`,`window-pane`                     |
 | 接點        | 實心圓      | `f-circ`     | 接點位置    | `filled-circle`,`junction`                           |
 | 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件   | `lined-document`                                     |
-| 有線條/陰影的矩形 |          |              |         |                                                      |
+| 有線條/陰影的矩形 | 有線條矩形    | `lin-rect`   | 有線條處理形狀 | `lin-proc`                                           |
 |           |          |              |         |                                                      |
 |           |          |              |         |                                                      |
 |           |          |              |         |                                                      |
