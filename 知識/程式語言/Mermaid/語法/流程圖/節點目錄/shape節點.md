@@ -33,8 +33,8 @@
 | 手動輸入      | 傾斜矩形     | `sl-rect`    | 手動輸入步驟   | `manual-input`,`sloped-rectangle`                             |
 | 手動操作      | 倒置梯形     | `trap-t`     | 表示一個手動任務 | `inv-trapezoid`,`manual`,`trapezoid-top`                      |
 | 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
-| 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,                                          |
-|           |          |              |          |                                                               |
+| 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
+| 奇數形狀      | 奇數圖形     |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
