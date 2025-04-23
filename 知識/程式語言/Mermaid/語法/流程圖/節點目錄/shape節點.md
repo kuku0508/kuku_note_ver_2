@@ -15,7 +15,7 @@
 | 資料輸出/輸入 | 逆-平行四邊形 | `lean-l`     | 表示輸出或輸入 | `lean-left`,`out-in`            |
 | 資料庫     | 圓柱體     | `cyl`        | 資料庫儲存   | `cylinder`,`database`,`db`      |
 | 決策      | 菱形      | `diam`       | 決策步驟    | `decision`,`diamond`,`question` |
-| 延遲      | 半圓角矩形   |              |         |                                 |
+| 延遲      | 半圓角矩形   | `delay`      | 表示延遲    | `half-rounded-rectangle`        |
 |         |         |              |         |                                 |
 |         |         |              |         |                                 |
 |         |         |              |         |                                 |
