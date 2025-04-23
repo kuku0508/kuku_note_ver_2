@@ -17,8 +17,8 @@
 | 決策      | 菱形      | `diam`       | 決策步驟    | `decision`,`diamond`,`question` |
 | 延遲      | 半圓角矩形   | `delay`      | 表示延遲    | `half-rounded-rectangle`        |
 | 直接存取儲存  | 水平圓柱體   | `h-cyl`      | 直接存取儲存  | `das`,`horizontal-cylinder`     |
-| 磁碟儲存    | 有線條的圓柱體 | `lin-cyl`    |         |                                 |
-|         |         |              |         |                                 |
+| 磁碟儲存    | 有線條的圓柱體 | `lin-cyl`    | 磁碟儲存    | `disk`,`lined-cylinder`         |
+| 顯示      | 曲面梯形    | `curv-trap`  |         |                                 |
 |         |         |              |         |                                 |
 |         |         |              |         |                                 |
 ```mermaid
