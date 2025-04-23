@@ -43,8 +43,8 @@
 | 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
 | 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
-| 儲存資料      | 蝴蝶領矩形    | bow          |          |                                                               |
-|           |          |              |          |                                                               |
+| 儲存資料      | 蝴蝶領矩形    | `bow-rect`   | 儲存資料     | `bow-tie-rectangle`,`stored-data`                             |
+| 子程序       | 框形矩形     | `fr-rect`    |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
