@@ -30,7 +30,7 @@
 | 有線條/陰影的矩形 | 有線條矩形    | `lin-rect`   | 有線條處理形狀 | `lin-proc`,`lined-process`,`lined-rectangle`,`shaded-process` |
 | 迴圈限制      | 五邊形缺角    | `notch-pent` | 迴圈限制步驟  | `loop-limit`,`notched-pentagon`                               |
 | 手動檔案      | 翻轉三角形    | `flip-tri`   | 手動檔案操作  | `flipped-triangle`,`manual-file`                              |
-| 手動輸入      |          |              |         |                                                               |
+| 手動輸入      | 傾斜矩形     | `sl-rect`    | 手動輸入步驟  | `manual-input`                                                |
 |           |          |              |         |                                                               |
 |           |          |              |         |                                                               |
 |           |          |              |         |                                                               |
@@ -53,7 +53,7 @@
 |           |          |              |         |                                                               |
 ```mermaid
 flowchart
-A@{ shape: }
+A@{ shape: sl-rect}
 ```
 
 - - -
