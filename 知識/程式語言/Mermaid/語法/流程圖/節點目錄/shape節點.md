@@ -40,8 +40,8 @@
 | 優先行動      | 倒梯形底部    | `trap-b`     | 優先處理     | `priority`,`trapezoid`,`trapezoid-bottom`                     |
 | 處理        | 矩形       | `rect`       | 標準處理形狀   | `proc`,`process`,`rectangle`                                  |
 | 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
-| 開始（小）     |          |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
+| 停止        | 雙園       | `dbl-c`      |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
