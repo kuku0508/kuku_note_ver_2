@@ -20,6 +20,11 @@
 | 決策      | 菱形      | `diam`       | 決策步驟    | `decision`,`diamond`,`question`                      |
 | 延遲      | 半圓角矩形   | `delay`      | 表示延遲    | `half-rounded-rectangle`                             |
 | 顯示      | 曲面梯形    | `curv-trap`  | 表示顯示    | `curved-trapezoid`,`display`                         |
+| 文件      | 文件圖形    | `doc`        | 表示一份文件  | `document`                                           |
+| 事件      | 元角      |              |         |                                                      |
+|         |         |              |         |                                                      |
+|         |         |              |         |                                                      |
+|         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
