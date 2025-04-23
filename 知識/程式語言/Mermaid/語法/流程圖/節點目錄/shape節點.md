@@ -34,8 +34,8 @@
 | 手動操作      | 倒置梯形     | `trap-t`     | 表示一個手動任務 | `inv-trapezoid`,`manual`,`trapezoid-top`                      |
 | 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
 | 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
-| 奇數形狀      | 奇數圖形     |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 奇數形狀      | 奇數圖形     | `odd`        | 奇數圖形     |                                                               |
+| 紙帶        | 旗形       | `flag`       | 紙帶類型儲存   | `paper-tape`                                                  |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
