@@ -53,7 +53,7 @@
 |           |          |              |          |                                                               |
 ```mermaid
 flowchart
-A@{ shape: dbl-circ}
+A@{ shape: framed-circle}
 B@{ shape: fr-circ}
 ```
 
