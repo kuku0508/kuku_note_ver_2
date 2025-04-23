@@ -48,8 +48,8 @@
 | 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
 | 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
 | 被標記程序     | 被標記矩形    | `tag-rect`   | 被標記處理    | `tag-proc`,`tagged-process`,`tagged-rectangle`                |
-| 中         |          |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 終端點       | 跑道節點     | `stadium`    | 終端點      | `pill`,`terminal`                                             |
+| 文字區塊      | 文字區塊圖形   | `text`       |          |                                                               |
 |           |          |              |          |                                                               |
 ```mermaid
 flowchart
