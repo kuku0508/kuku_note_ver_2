@@ -21,8 +21,8 @@
 | 延遲      | 半圓角矩形   | `delay`      | 表示延遲    | `half-rounded-rectangle`                             |
 | 顯示      | 曲面梯形    | `curv-trap`  | 表示顯示    | `curved-trapezoid`,`display`                         |
 | 文件      | 文件圖形    | `doc`        | 表示一份文件  | `document`                                           |
-| 事件      | 元角      |              |         |                                                      |
-|         |         |              |         |                                                      |
+| 事件      | 圓角矩形    | `rounded`    | 表示事件    | `event`                                              |
+| 提取      | 三角形     | `tri`        | 提取操作    | `extract`,`triangle`                                 |
 |         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
