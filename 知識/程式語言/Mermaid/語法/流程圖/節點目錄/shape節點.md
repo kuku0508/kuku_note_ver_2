@@ -45,8 +45,8 @@
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
 | 儲存資料      | 蝴蝶領矩形    | `bow-rect`   | 儲存資料     | `bow-tie-rectangle`,`stored-data`                             |
 | 子程序       | 框形矩形     | `fr-rect`    | 子程序      | `framed-rectangle`,`subproc`,`subprocess`,`subroutine`        |
-| 摘要        |          |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
+| 被標記文件     | 被標記文件圖形  | `tag-rect`   | 被標記文件    |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
