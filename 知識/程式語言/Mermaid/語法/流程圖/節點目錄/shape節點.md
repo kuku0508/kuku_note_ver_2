@@ -38,9 +38,9 @@
 | 紙帶        | 旗形       | `flag`       | 紙帶類型儲存   | `paper-tape`                                                  |
 | 預備條件      | 六邊形      | `hex`        | 準備或條件設定  | `hexgon`,`prepare`                                            |
 | 優先行動      | 倒梯形底部    | `trap-b`     | 優先處理     | `priority`,`trapezoid`,`trapezoid-bottom`                     |
-| 處理        | 矩形       | `t`          |          |                                                               |
-|           |          |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 處理        | 矩形       | `rect`       | 標準處理形狀   | `proc`,`process`,`rectangle`                                  |
+| 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
+| 開始（小）     |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
