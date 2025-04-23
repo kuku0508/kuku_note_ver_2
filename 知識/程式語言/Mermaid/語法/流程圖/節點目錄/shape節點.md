@@ -26,7 +26,7 @@
 | 分支/合併   | 實心矩形    | `fork`       | 分支或合併流程 | `join`                                               |
 | 內部儲存    | 窗格      | `win-pane`   | 內部儲存    | `internal-storage`,`window-pane`                     |
 | 接點      | 實心圓     | `f-circ`     | 接點位置    | `filled-circle`,`junction`                           |
-|         |         |              |         |                                                      |
+| 有       |         |              |         |                                                      |
 |         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
