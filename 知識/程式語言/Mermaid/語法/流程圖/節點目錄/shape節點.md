@@ -7,19 +7,24 @@
 | ------- | ------- | ------------ | ------- | ---------------------------------------------------- |
 | 卡片      | 有缺口的矩形  | `notch-rect` | 代表一張卡片  | `card`,`notched-rectangle`                           |
 | 分割處理    | 雙線矩形    | `div-rect`   | 分割處理形狀  | `div-proc`,`divided-process`,<br>`divided-rectangle` |
-| 整理      | 沙漏      | `hourglass`  | 代表整理操作  | `collate`,`hourglass`                                |
-| 通訊連結    | 閃電      | `bolt`       | 通訊連結    | `com-link`,`lightning-bolt`                          |
 | 註釋      | 左大括號    | `brace`      | 新增註釋    | `brace-l`,`comment`                                  |
 | 右側註釋    | 右大括號    | `brace-r`    | 新增註釋    | 無                                                    |
 | 雙邊註釋    | 雙大括號    | `braces`     | 新增註釋    | 無                                                    |
 | 資料輸入/輸出 | 平行四邊形   | `lean-r`     | 表示輸入或輸出 | `in-out`,`lean-right`                                |
 | 資料輸出/輸入 | 逆-平行四邊形 | `lean-l`     | 表示輸出或輸入 | `lean-left`,`out-in`                                 |
 | 資料庫     | 圓柱體     | `cyl`        | 資料庫儲存   | `cylinder`,`database`,`db`                           |
-| 決策      | 菱形      | `diam`       | 決策步驟    | `decision`,`diamond`,`question`                      |
-| 延遲      | 半圓角矩形   | `delay`      | 表示延遲    | `half-rounded-rectangle`                             |
 | 直接存取儲存  | 水平圓柱體   | `h-cyl`      | 直接存取儲存  | `das`,`horizontal-cylinder`                          |
 | 磁碟儲存    | 有線條的圓柱體 | `lin-cyl`    | 磁碟儲存    | `disk`,`lined-cylinder`                              |
+| 整理      | 沙漏      | `hourglass`  | 代表整理操作  | `collate`,`hourglass`                                |
+| 通訊連結    | 閃電      | `bolt`       | 通訊連結    | `com-link`,`lightning-bolt`                          |
+| 決策      | 菱形      | `diam`       | 決策步驟    | `decision`,`diamond`,`question`                      |
+| 延遲      | 半圓角矩形   | `delay`      | 表示延遲    | `half-rounded-rectangle`                             |
 | 顯示      | 曲面梯形    | `curv-trap`  | 表示顯示    | `curved-trapezoid`,`display`                         |
+|         |         |              |         |                                                      |
+|         |         |              |         |                                                      |
+|         |         |              |         |                                                      |
+|         |         |              |         |                                                      |
+|         |         |              |         |                                                      |
 |         |         |              |         |                                                      |
 ```mermaid
 flowchart
