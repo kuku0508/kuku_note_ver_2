@@ -36,8 +36,8 @@
 | 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
 | 奇數形狀      | 奇數圖形     | `odd`        | 奇數圖形     |                                                               |
 | 紙帶        | 旗形       | `flag`       | 紙帶類型儲存   | `paper-tape`                                                  |
-|           |          |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 預備條件      | 六邊形      | `hex`        | 準備或條件設定  | `hexgon`,`prepare`                                            |
+| 優先        |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
