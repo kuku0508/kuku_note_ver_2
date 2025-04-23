@@ -42,8 +42,8 @@
 | 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
 | 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
 | 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
-| 停止        | 框形圖      | `fr-circ`    | 停止點      |                                                               |
-|           |          |              |          |                                                               |
+| 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
+| 儲存資料      | 蝴蝶領矩形    | bow          |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
@@ -53,7 +53,7 @@
 |           |          |              |          |                                                               |
 ```mermaid
 flowchart
-A@{ shape: framed-circle}
+A@{ shape: stop}
 B@{ shape: fr-circ}
 ```
 
