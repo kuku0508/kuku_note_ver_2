@@ -6,6 +6,7 @@
 | 節點意義    | 形狀名稱    | 節點代號         | 描述      | 節點代號別名                                               |
 | ------- | ------- | ------------ | ------- | ---------------------------------------------------- |
 | 卡片      | 有缺口的矩形  | `notch-rect` | 代表一張卡片  | `card`,`notched-rectangle`                           |
+| 分割處理    | 雙線矩形    | `div-rect`   | 分割處理形狀  | `div-proc`,`divided-process`,<br>`divided-rectangle` |
 | 整理      | 沙漏      | `hourglass`  | 代表整理操作  | `collate`,`hourglass`                                |
 | 通訊連結    | 閃電      | `bolt`       | 通訊連結    | `com-link`,`lightning-bolt`                          |
 | 註釋      | 左大括號    | `brace`      | 新增註釋    | `brace-l`,`comment`                                  |
@@ -19,11 +20,10 @@
 | 直接存取儲存  | 水平圓柱體   | `h-cyl`      | 直接存取儲存  | `das`,`horizontal-cylinder`                          |
 | 磁碟儲存    | 有線條的圓柱體 | `lin-cyl`    | 磁碟儲存    | `disk`,`lined-cylinder`                              |
 | 顯示      | 曲面梯形    | `curv-trap`  | 表示顯示    | `curved-trapezoid`,`display`                         |
-| 分割處理    | 雙線矩形    | `div-rect`   | 分割處理形狀  | `div-proc`,`divided-process`,<br>`divided-rectangle` |
 |         |         |              |         |                                                      |
 ```mermaid
 flowchart
-A@{ shape: lean-r}
+A@{ shape: div-rect}
 ```
 
 - - -
