@@ -37,8 +37,8 @@
 | 奇數形狀      | 奇數圖形     | `odd`        | 奇數圖形     |                                                               |
 | 紙帶        | 旗形       | `flag`       | 紙帶類型儲存   | `paper-tape`                                                  |
 | 預備條件      | 六邊形      | `hex`        | 準備或條件設定  | `hexgon`,`prepare`                                            |
-| 優先        |          |              |          |                                                               |
-|           |          |              |          |                                                               |
+| 優先行動      | 倒梯形底部    | `trap-b`     | 優先處理     | `priority`,`trapezoid`,`trapezoid-bottom`                     |
+| 處理        | 矩形       | `t`          |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
 |           |          |              |          |                                                               |
