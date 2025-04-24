@@ -252,6 +252,11 @@ flowchart TD
 A@{ shape: odd,label: "奇數形狀"}
 ```
 【奇數形狀, `odd`】
+```mermaid
+flowchart TD
+A@{ shape: ,label: " "}
+```
+【紙袋 ``】
 
 
 - - -
