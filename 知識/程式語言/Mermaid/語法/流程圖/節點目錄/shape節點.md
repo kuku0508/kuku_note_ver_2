@@ -55,12 +55,20 @@
 flowchart TD
 A@{ shape: notch-rect,label: "卡片節點"}
 ```
-【卡片節點, notch-rect】
+【卡片節點, `notch-rect`】
 ```mermaid
 flowchart TD
-A@{ shape: hourglass,label: "整理"}
+A@{ shape: div-rect,label: "分割處理"}
 ```
-【整理, 】
+【分割處理, `div-rect`】
+```mermaid
+flowchart TD
+A@{ shape: div-rect,label: "多重處理"}
+```
+
+
+
+
 - - -
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
