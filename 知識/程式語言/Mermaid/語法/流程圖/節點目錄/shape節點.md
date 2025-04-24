@@ -50,11 +50,11 @@
 | 被標記程序     | 被標記矩形    | `tag-rect`   | 被標記處理    | `tag-proc`,`tagged-process`,`tagged-rectangle`                |
 | 終端點       | 跑道節點     | `stadium`    | 終端點      | `pill`,`terminal`                                             |
 | 文字區塊      | 文字區塊圖形   | `text`       | 文字說明     |                                                               |
-而如果你想要在節點裡面打字，那你就在`shape`後面加逗點跟`label:""`，你就可以在雙引號裡面打字。
+而如果你想要在節點裡面打字，那你就在`shape`後面加逗點跟`label: ""`，你就可以在雙引號裡面打字。
 ```mermaid
 flowchart TD
-A@{ shape: notch-rect}
-B@{ shape: }
+A@{ shape: notch-rect,label: "卡片"}
+B@{ shape: notch-rect,label: "卡片"}
 ```
 
 - - -
