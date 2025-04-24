@@ -157,7 +157,11 @@ flowchart TD
 A@{ shape: dbl-circ,label: "停止"}
 ```
 【停止, `dbl-circ`】
-
+```mermaid
+flowchart TD
+A@{ shape: ,label: " "}
+```
+【, `fr-circ`】
 
 
 - - -
