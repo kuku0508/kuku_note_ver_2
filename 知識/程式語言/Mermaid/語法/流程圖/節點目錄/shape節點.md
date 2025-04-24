@@ -219,9 +219,9 @@ A@{ shape: lin-doc,label: "線條文件"}
 【線條文件, `lin-doc`】
 ```mermaid
 flowchart TD
-A@{ shape: lin-doc,label: "線條文件"}
+A@{ shape: tag-doc,label: "被標記文件"}
 ```
-【被標記文件, `lin-doc`】
+【被標記文件, `tag-doc`】
 ```mermaid
 flowchart TD
 A@{ shape: rounded,label: "事件"}
@@ -232,7 +232,11 @@ flowchart TD
 A@{ shape: fork,label: "分支/合併"}
 ```
 【分支/合併, `fork`】
-
+```mermaid
+flowchart TD
+A@{ shape: ,label: " "}
+```
+【內部儲存, ``】
 
 
 - - -
