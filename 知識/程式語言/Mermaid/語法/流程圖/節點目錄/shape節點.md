@@ -172,7 +172,16 @@ flowchart TD
 A@{ shape: tri,label: "提取"}
 ```
 【提取, `tri`】
-
+```mermaid
+flowchart TD
+A@{ shape: hourglass,label: "整理"}
+```
+【整理, `hourglass`】
+```mermaid
+flowchart TD
+A@{ shape: bolt,label: " "}
+```
+【通訊連結, `bolt`】
 
 
 - - -
