@@ -75,6 +75,11 @@ A@{ shape: sl-rect,label: "手動輸入"}
 ```
 【手動輸入, `sl-rect`】
 
+```mermaid
+flowchart TD
+A@{ shape: bow-rect,label: "儲存資料"}
+```
+【儲存資料】
 
 
 - - -
