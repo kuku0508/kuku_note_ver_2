@@ -122,6 +122,11 @@ flowchart TD
 A@{ shape: lean-l,label: "資料輸出/輸入"}
 ```
 【資料輸入/輸出, `lean-l`】
+```mermaid
+flowchart TD
+A@{ shape: cyl,label: "資料庫"}
+```
+【資料庫, ㄗ】
 
 
 - - -
