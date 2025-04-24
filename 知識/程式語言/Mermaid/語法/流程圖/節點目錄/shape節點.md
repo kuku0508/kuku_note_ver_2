@@ -191,7 +191,12 @@ A@{ shape: flip-tri,label: "手動檔案"}
 flowchart TD
 A@{ shape: diam,label: "菱形"}
 ```
-【, ``】
+【菱形, `diam`】
+```mermaid
+flowchart TD
+A@{ shape: delay,label: "延遲"}
+```
+【延遲, `delay`】
 
 
 - - -
