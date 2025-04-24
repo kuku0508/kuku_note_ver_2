@@ -116,7 +116,12 @@ A@{ shape: braces,label: "雙邊註釋"}
 flowchart TD
 A@{ shape: lean-r,label: "資料輸入/輸出"}
 ```
-
+【資料輸入/輸出, `lean-r`】
+```mermaid
+flowchart TD
+A@{ shape: lean-l,label: "資料輸出/輸入"}
+```
+【資料輸入/輸出, `lean-l`】
 
 
 - - -
