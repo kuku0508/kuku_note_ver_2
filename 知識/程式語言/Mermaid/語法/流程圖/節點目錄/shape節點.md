@@ -89,7 +89,7 @@ A@{ shape: lin-rect,label: "有線條/陰影的處理"}
 
 ```mermaid
 flowchart TD
-A@{ shape: tag-rect,label: "子程序"}
+A@{ shape: fr-rect,label: "子程序"}
 ```
 
 
