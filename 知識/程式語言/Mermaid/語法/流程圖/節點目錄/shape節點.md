@@ -139,7 +139,12 @@ A@{ shape: lin-cyl,label: "磁碟儲存"}
 【磁碟儲存, `lin-cyl`】
 ```mermaid
 flowchart TD
-A@{ shape: h-cyl,label: "直接存取儲存"}
+A@{ shape: f-circ,label: "接點"}
+```
+【接點, `f-circ`】
+```mermaid
+flowchart TD
+A@{ shape: sm-circ,label: "開始（小）"}
 ```
 
 - - -
