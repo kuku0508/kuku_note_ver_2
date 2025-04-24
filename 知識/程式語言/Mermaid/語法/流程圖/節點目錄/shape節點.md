@@ -249,9 +249,9 @@ A@{ shape: trap-t,label: "手動操作"}
 【手動操作, `trap-t`】
 ```mermaid
 flowchart TD
-A@{ shape: ,label: " "}
+A@{ shape: ,label: "奇數形狀"}
 ```
-【, ``】
+【奇數形狀, `odd`】
 
 
 - - -
