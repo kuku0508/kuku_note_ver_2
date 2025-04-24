@@ -10,6 +10,9 @@
 | 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
 | 手動輸入      | 傾斜矩形     | `sl-rect`    | 手動輸入步驟   | `manual-input`,`sloped-rectangle`                             |
 | 儲存資料      | 蝴蝶領矩形    | `bow-rect`   | 儲存資料     | `bow-tie-rectangle`,`stored-data`                             |
+| 有線條/陰影的矩形 | 有線條矩形    | `lin-rect`   | 有線條處理形狀  | `lin-proc`,`lined-process`,`lined-rectangle`,`shaded-process` |
+| 子程序       | 框形矩形     | `fr-rect`    | 子程序      | `framed-rectangle`,`subproc`,`subprocess`,`subroutine`        |
+| 被標記程序     | 被標記矩形    | `tag-rect`   | 被標記處理    | `tag-proc`,`tagged-process`,`tagged-rectangle`                |
 | 註釋        | 左大括號     | `brace`      | 新增註釋     | `brace-l`,`comment`                                           |
 | 右側註釋      | 右大括號     | `brace-r`    | 新增註釋     | 無                                                             |
 | 雙邊註釋      | 雙大括號     | `braces`     | 新增註釋     | 無                                                             |
@@ -30,7 +33,6 @@
 | 內部儲存      | 窗格       | `win-pane`   | 內部儲存     | `internal-storage`,`window-pane`                              |
 | 接點        | 實心圓      | `f-circ`     | 接點位置     | `filled-circle`,`junction`                                    |
 | 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
-| 有線條/陰影的矩形 | 有線條矩形    | `lin-rect`   | 有線條處理形狀  | `lin-proc`,`lined-process`,`lined-rectangle`,`shaded-process` |
 | 迴圈限制      | 五邊形缺角    | `notch-pent` | 迴圈限制步驟   | `loop-limit`,`notched-pentagon`                               |
 | 手動檔案      | 翻轉三角形    | `flip-tri`   | 手動檔案操作   | `flipped-triangle`,`manual-file`                              |
 | 手動操作      | 倒置梯形     | `trap-t`     | 表示一個手動任務 | `inv-trapezoid`,`manual`,`trapezoid-top`                      |
@@ -44,10 +46,8 @@
 | 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
 | 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
-| 子程序       | 框形矩形     | `fr-rect`    | 子程序      | `framed-rectangle`,`subproc`,`subprocess`,`subroutine`        |
 | 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
 | 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
-| 被標記程序     | 被標記矩形    | `tag-rect`   | 被標記處理    | `tag-proc`,`tagged-process`,`tagged-rectangle`                |
 | 終端點       | 跑道節點     | `stadium`    | 終端點      | `pill`,`terminal`                                             |
 | 文字區塊      | 文字區塊圖形   | `text`       | 文字說明     |                                                               |
 而如果你想要在節點裡面打字，那你就在`shape`後面加逗點跟`label: ""`，你就可以在雙引號裡面打字。
