@@ -53,8 +53,11 @@
 而如果你想要在節點裡面打字，那你就在`shape`後面加逗點跟`label: ""`，你就可以在雙引號裡面打字。
 ```mermaid
 flowchart TD
-A@{ shape: notch-rect,label: "卡片"}
-B@{ shape: notch-rect,label: "卡片"}
+A@{ shape: notch-rect,label: "卡片ㄐㄧㄝ"}
+```
+```mermaid
+flowchart TD
+A@{ shape: notch-rect,label: "整理"}
 ```
 
 - - -
