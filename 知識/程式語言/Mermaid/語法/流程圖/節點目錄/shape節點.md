@@ -63,9 +63,9 @@ A@{ shape: div-rect,label: "分割處理"}
 【分割處理, `div-rect`】
 ```mermaid
 flowchart TD
-A@{ shape: div-rect,label: "多重處理"}
+A@{ shape: st-rect,label: "多重處理"}
 ```
-
+【多重處理 】
 
 
 
