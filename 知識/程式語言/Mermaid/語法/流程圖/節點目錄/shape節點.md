@@ -262,6 +262,11 @@ flowchart TD
 A@{ shape: hex,label: "預備條件"}
 ```
 【預備條件, `hex`】
+```mermaid
+flowchart TD
+A@{ shape: trap-b,label: "優先行動"}
+```
+【優先行動, `trap-b`】
 
 
 - - -
