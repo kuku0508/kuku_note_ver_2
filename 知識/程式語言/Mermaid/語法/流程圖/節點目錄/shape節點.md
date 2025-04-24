@@ -212,6 +212,11 @@ flowchart TD
 A@{ shape: rounded,label: "事件"}
 ```
 【事件, `rounded`】
+```mermaid
+flowchart TD
+A@{ shape: fork,label: "分支/合併"}
+```
+【分支/合併, `fork`】
 
 
 - - -
