@@ -83,7 +83,13 @@ A@{ shape: bow-rect,label: "儲存資料"}
 
 ```mermaid
 flowchart TD
-A@{ shape: lin-rect,label: "有線條/陰影的矩形"}
+A@{ shape: lin-rect,label: "有線條/陰影的處理"}
+```
+【有線條/陰影的處理, `lin-rect`】
+
+```mermaid
+flowchart TD
+A@{ shape: tag-rect,label: "子程序"}
 ```
 
 
