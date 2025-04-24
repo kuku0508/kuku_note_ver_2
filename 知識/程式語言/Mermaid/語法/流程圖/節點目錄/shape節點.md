@@ -179,9 +179,19 @@ A@{ shape: hourglass,label: "整理"}
 【整理, `hourglass`】
 ```mermaid
 flowchart TD
-A@{ shape: bolt,label: " "}
+A@{ shape: bolt,label: "通訊連結"}
 ```
 【通訊連結, `bolt`】
+```mermaid
+flowchart TD
+A@{ shape: flip-tri,label: "手動檔案"}
+```
+【手動檔案, `flip-tri`】
+```mermaid
+flowchart TD
+A@{ shape: diam,label: "菱形"}
+```
+【, ``】
 
 
 - - -
