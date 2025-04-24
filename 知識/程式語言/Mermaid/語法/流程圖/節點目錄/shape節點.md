@@ -7,7 +7,7 @@
 | --------- | -------- | ------------ | -------- | ------------------------------------------------------------- |
 | 卡片        | 有缺口的矩形   | `notch-rect` | 代表一張卡片   | `card`,`notched-rectangle`                                    |
 | 分割處理      | 雙線矩形     | `div-rect`   | 分割處理形狀   | `div-proc`,`divided-process`,<br>`divided-rectangle`          |
-| 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
+| 多重處理      | 疊加矩形     | `st-rect`    | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
 | 手動輸入      | 傾斜矩形     | `sl-rect`    | 手動輸入步驟   | `manual-input`,`sloped-rectangle`                             |
 | 儲存資料      | 蝴蝶領矩形    | `bow-rect`   | 儲存資料     | `bow-tie-rectangle`,`stored-data`                             |
 | 有線條/陰影的矩形 | 有線條矩形    | `lin-rect`   | 有線條處理形狀  | `lin-proc`,`lined-process`,`lined-rectangle`,`shaded-process` |
@@ -56,16 +56,23 @@ flowchart TD
 A@{ shape: notch-rect,label: "卡片節點"}
 ```
 【卡片節點, `notch-rect`】
+
 ```mermaid
 flowchart TD
 A@{ shape: div-rect,label: "分割處理"}
 ```
 【分割處理, `div-rect`】
+
 ```mermaid
 flowchart TD
 A@{ shape: st-rect,label: "多重處理"}
 ```
-【多重處理 】
+【多重處理, `st-rect`】
+
+```mermaid
+flowchart TD
+A@{ shape: div-rect,label: "分割處理"}
+```
 
 
 
