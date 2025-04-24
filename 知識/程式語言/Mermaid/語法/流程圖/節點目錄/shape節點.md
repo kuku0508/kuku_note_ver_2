@@ -22,11 +22,11 @@
 | 直接存取儲存    | 水平圓柱體    | `h-cyl`      | 直接存取儲存   | `das`,`horizontal-cylinder`                                   |
 | 磁碟儲存      | 有線條的圓柱體  | `lin-cyl`    | 磁碟儲存     | `disk`,`lined-cylinder`                                       |
 | 接點        | 實心圓      | `f-circ`     | 接點位置     | `filled-circle`,`junction`                                    |
+| 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
 | 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
 | 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
 | 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
-| 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
 | 提取        | 三角形      | `tri`        | 提取操作     | `extract`,`triangle`                                          |
 | 整理        | 沙漏       | `hourglass`  | 代表整理操作   | `collate`,`hourglass`                                         |
 | 通訊連結      | 閃電       | `bolt`       | 通訊連結     | `com-link`,`lightning-bolt`                                   |
@@ -146,7 +146,7 @@ A@{ shape: f-circ,label: "接點"}
 flowchart TD
 A@{ shape: sm-circ,label: "開始（小）"}
 ```
-
+【開始（小）, `sm-circ`】
 - - -
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
