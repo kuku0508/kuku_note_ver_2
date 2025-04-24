@@ -159,9 +159,19 @@ A@{ shape: dbl-circ,label: "停止"}
 【停止, `dbl-circ`】
 ```mermaid
 flowchart TD
+A@{ shape: fr-circ,label: "停止（小）"}
+```
+【停止（小）, `fr-circ`】
+```mermaid
+flowchart TD
+A@{ shape: cross-circ,label: "摘要"}
+```
+【摘要, `cross-circ`】
+```mermaid
+flowchart TD
 A@{ shape: ,label: " "}
 ```
-【, `fr-circ`】
+【, ``】
 
 
 - - -
