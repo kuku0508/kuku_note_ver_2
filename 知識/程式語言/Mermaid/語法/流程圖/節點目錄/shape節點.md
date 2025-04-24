@@ -35,19 +35,19 @@
 | 延遲        | 半圓角矩形    | `delay`      | 表示延遲     | `half-rounded-rectangle`                                      |
 | 顯示        | 曲面梯形     | `curv-trap`  | 表示顯示     | `curved-trapezoid`,`display`                                  |
 | 文件        | 文件圖形     | `doc`        | 表示一份文件   | `document`                                                    |
+| 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
+| 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
+| 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
 | 事件        | 圓角矩形     | `rounded`    | 表示事件     | `event`                                                       |
 | 分支/合併     | 實心矩形     | `fork`       | 分支或合併流程  | `join`                                                        |
 | 內部儲存      | 窗格       | `win-pane`   | 內部儲存     | `internal-storage`,`window-pane`                              |
-| 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
 | 迴圈限制      | 五邊形缺角    | `notch-pent` | 迴圈限制步驟   | `loop-limit`,`notched-pentagon`                               |
 | 手動操作      | 倒置梯形     | `trap-t`     | 表示一個手動任務 | `inv-trapezoid`,`manual`,`trapezoid-top`                      |
-| 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
 | 奇數形狀      | 奇數圖形     | `odd`        | 奇數圖形     |                                                               |
 | 紙帶        | 旗形       | `flag`       | 紙帶類型儲存   | `paper-tape`                                                  |
 | 預備條件      | 六邊形      | `hex`        | 準備或條件設定  | `hexgon`,`prepare`                                            |
 | 優先行動      | 倒梯形底部    | `trap-b`     | 優先處理     | `priority`,`trapezoid`,`trapezoid-bottom`                     |
 | 處理        | 矩形       | `rect`       | 標準處理形狀   | `proc`,`process`,`rectangle`                                  |
-| 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
 | 終端點       | 跑道節點     | `stadium`    | 終端點      | `pill`,`terminal`                                             |
 | 文字區塊      | 文字區塊圖形   | `text`       | 文字說明     |                                                               |
 而如果你想要在節點裡面打字，那你就在`shape`後面加逗點跟`label: ""`，你就可以在雙引號裡面打字。
