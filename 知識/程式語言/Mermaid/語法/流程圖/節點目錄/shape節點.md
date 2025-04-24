@@ -269,9 +269,19 @@ A@{ shape: trap-b,label: "優先行動"}
 【優先行動, `trap-b`】
 ```mermaid
 flowchart TD
-A@{ shape: ,label: "處理"}
+A@{ shape: rect,label: "處理"}
 ```
 【處理, `rect`】
+```mermaid
+flowchart TD
+A@{ shape: stadium,label: "終端點"}
+```
+【終端點, `stadium`】
+```mermaid
+flowchart TD
+A@{ shape: text,label: "文字區塊"}
+```
+【文字區塊, `text`】
 
 - - -
 # 參考資料
