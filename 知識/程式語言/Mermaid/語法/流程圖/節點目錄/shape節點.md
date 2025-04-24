@@ -27,6 +27,10 @@
 | 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
 | 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
+| 文件        | 文件圖形     | `doc`        | 表示一份文件   | `document`                                                    |
+| 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
+| 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
+| 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
 | 提取        | 三角形      | `tri`        | 提取操作     | `extract`,`triangle`                                          |
 | 整理        | 沙漏       | `hourglass`  | 代表整理操作   | `collate`,`hourglass`                                         |
 | 通訊連結      | 閃電       | `bolt`       | 通訊連結     | `com-link`,`lightning-bolt`                                   |
@@ -34,10 +38,6 @@
 | 決策        | 菱形       | `diam`       | 決策步驟     | `decision`,`diamond`,`question`                               |
 | 延遲        | 半圓角矩形    | `delay`      | 表示延遲     | `half-rounded-rectangle`                                      |
 | 顯示        | 曲面梯形     | `curv-trap`  | 表示顯示     | `curved-trapezoid`,`display`                                  |
-| 文件        | 文件圖形     | `doc`        | 表示一份文件   | `document`                                                    |
-| 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
-| 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
-| 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
 | 事件        | 圓角矩形     | `rounded`    | 表示事件     | `event`                                                       |
 | 分支/合併     | 實心矩形     | `fork`       | 分支或合併流程  | `join`                                                        |
 | 內部儲存      | 窗格       | `win-pane`   | 內部儲存     | `internal-storage`,`window-pane`                              |
@@ -209,14 +209,19 @@ A@{ shape: doc,label: "文件"}
 【文件, `doc`】
 ```mermaid
 flowchart TD
+A@{ shape: docs,label: "多文件"}
+```
+【多文件, `docs`】
+```mermaid
+flowchart TD
 A@{ shape: lin-doc,label: "線條文件"}
 ```
 【線條文件, `lin-doc`】
 ```mermaid
 flowchart TD
-A@{ shape: docs,label: "多文件"}
+A@{ shape: lin-doc,label: "線條文件"}
 ```
-【多文件, `docs`】
+【被標記文件, `lin-doc`】
 ```mermaid
 flowchart TD
 A@{ shape: rounded,label: "事件"}
@@ -227,6 +232,7 @@ flowchart TD
 A@{ shape: fork,label: "分支/合併"}
 ```
 【分支/合併, `fork`】
+
 
 
 - - -
