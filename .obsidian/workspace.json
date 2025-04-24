@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/HTML/語法表/文字顏色.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文字顏色"
+              "title": "shape節點"
             }
           }
         ]
@@ -266,7 +266,7 @@
       }
     ]
   },
-  "active": "fd53df33bf847e13",
+  "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
     "知識/程式語言/HTML/語法表/文字顏色.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",

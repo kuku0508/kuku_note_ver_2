@@ -91,6 +91,8 @@ A@{ shape: lin-rect,label: "有線條/陰影的處理"}
 flowchart TD
 A@{ shape: fr-rect,label: "子程序"}
 ```
+【子程序, `fr-rect`】
+
 
 
 - - -
