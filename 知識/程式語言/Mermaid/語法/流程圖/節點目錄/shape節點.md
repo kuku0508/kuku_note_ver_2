@@ -53,13 +53,14 @@
 而如果你想要在節點裡面打字，那你就在`shape`後面加逗點跟`label: ""`，你就可以在雙引號裡面打字。
 ```mermaid
 flowchart TD
-A@{ shape: notch-rect,label: "卡片ㄐㄧㄝ"}
+A@{ shape: notch-rect,label: "卡片節點"}
 ```
+【卡片節點,notch-rect】
 ```mermaid
 flowchart TD
-A@{ shape: notch-rect,label: "整理"}
+A@{ shape: hourglass,label: "整理"}
 ```
-
+【整理,】
 - - -
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
