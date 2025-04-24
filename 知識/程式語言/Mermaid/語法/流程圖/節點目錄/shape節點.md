@@ -267,7 +267,11 @@ flowchart TD
 A@{ shape: trap-b,label: "優先行動"}
 ```
 【優先行動, `trap-b`】
-
+```mermaid
+flowchart TD
+A@{ shape: ,label: "處理"}
+```
+【處理, `rect`】
 
 - - -
 # 參考資料
