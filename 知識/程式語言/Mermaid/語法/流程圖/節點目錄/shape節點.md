@@ -21,6 +21,12 @@
 | 資料庫       | 圓柱體      | `cyl`        | 資料庫儲存    | `cylinder`,`database`,`db`                                    |
 | 直接存取儲存    | 水平圓柱體    | `h-cyl`      | 直接存取儲存   | `das`,`horizontal-cylinder`                                   |
 | 磁碟儲存      | 有線條的圓柱體  | `lin-cyl`    | 磁碟儲存     | `disk`,`lined-cylinder`                                       |
+| 接點        | 實心圓      | `f-circ`     | 接點位置     | `filled-circle`,`junction`                                    |
+| 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
+| 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
+| 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
+| 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
+| 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
 | 整理        | 沙漏       | `hourglass`  | 代表整理操作   | `collate`,`hourglass`                                         |
 | 通訊連結      | 閃電       | `bolt`       | 通訊連結     | `com-link`,`lightning-bolt`                                   |
 | 決策        | 菱形       | `diam`       | 決策步驟     | `decision`,`diamond`,`question`                               |
@@ -31,7 +37,6 @@
 | 提取        | 三角形      | `tri`        | 提取操作     | `extract`,`triangle`                                          |
 | 分支/合併     | 實心矩形     | `fork`       | 分支或合併流程  | `join`                                                        |
 | 內部儲存      | 窗格       | `win-pane`   | 內部儲存     | `internal-storage`,`window-pane`                              |
-| 接點        | 實心圓      | `f-circ`     | 接點位置     | `filled-circle`,`junction`                                    |
 | 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
 | 迴圈限制      | 五邊形缺角    | `notch-pent` | 迴圈限制步驟   | `loop-limit`,`notched-pentagon`                               |
 | 手動檔案      | 翻轉三角形    | `flip-tri`   | 手動檔案操作   | `flipped-triangle`,`manual-file`                              |
@@ -42,11 +47,6 @@
 | 預備條件      | 六邊形      | `hex`        | 準備或條件設定  | `hexgon`,`prepare`                                            |
 | 優先行動      | 倒梯形底部    | `trap-b`     | 優先處理     | `priority`,`trapezoid`,`trapezoid-bottom`                     |
 | 處理        | 矩形       | `rect`       | 標準處理形狀   | `proc`,`process`,`rectangle`                                  |
-| 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
-| 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
-| 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
-| 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
-| 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
 | 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
 | 終端點       | 跑道節點     | `stadium`    | 終端點      | `pill`,`terminal`                                             |
 | 文字區塊      | 文字區塊圖形   | `text`       | 文字說明     |                                                               |
