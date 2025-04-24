@@ -71,8 +71,9 @@ A@{ shape: st-rect,label: "多重處理"}
 
 ```mermaid
 flowchart TD
-A@{ shape: div-rect,label: "分割處理"}
+A@{ shape: sl-rect,label: "手動輸入"}
 ```
+【手動輸入, `sl-rect`】
 
 
 
