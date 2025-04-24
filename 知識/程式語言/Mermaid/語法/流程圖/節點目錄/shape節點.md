@@ -79,7 +79,12 @@ A@{ shape: sl-rect,label: "手動輸入"}
 flowchart TD
 A@{ shape: bow-rect,label: "儲存資料"}
 ```
-【儲存資料】
+【儲存資料, `bow-rect`】
+
+```mermaid
+flowchart TD
+A@{ shape: lin-rect,label: "有線條/陰影的矩形"}
+```
 
 
 - - -
