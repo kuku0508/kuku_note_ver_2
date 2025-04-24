@@ -197,6 +197,21 @@ flowchart TD
 A@{ shape: delay,label: "延遲"}
 ```
 【延遲, `delay`】
+```mermaid
+flowchart TD
+A@{ shape: curv-trap,label: "顯示"}
+```
+【顯示, `curv-trap`】
+```mermaid
+flowchart TD
+A@{ shape: doc,label: "文件"}
+```
+【文件, `doc`】
+```mermaid
+flowchart TD
+A@{ shape: rounded,label: "事件"}
+```
+【事件, `rounded`】
 
 
 - - -
