@@ -244,9 +244,14 @@ A@{ shape: notch-pent,label: "迴圈限制"}
 【迴圈限制, `notch-pent`】
 ```mermaid
 flowchart TD
-A@{ shape: ,label: " "}
+A@{ shape: trap-t,label: "手動操作"}
 ```
 【手動操作, `trap-t`】
+```mermaid
+flowchart TD
+A@{ shape: ,label: " "}
+```
+【, ``】
 
 
 - - -
