@@ -144,9 +144,21 @@ A@{ shape: f-circ,label: "接點"}
 【接點, `f-circ`】
 ```mermaid
 flowchart TD
+A@{ shape: circle,label: "開始"}
+```
+【開始, `circle`】
+```mermaid
+flowchart TD
 A@{ shape: sm-circ,label: "開始（小）"}
 ```
 【開始（小）, `sm-circ`】
+```mermaid
+flowchart TD
+A@{ shape: ,label: " "}
+```
+【, ``】
+
+
 - - -
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
