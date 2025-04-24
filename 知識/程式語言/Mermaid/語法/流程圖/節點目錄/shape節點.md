@@ -254,9 +254,14 @@ A@{ shape: odd,label: "奇數形狀"}
 【奇數形狀, `odd`】
 ```mermaid
 flowchart TD
-A@{ shape: ,label: " "}
+A@{ shape: flag,label: "紙帶"}
 ```
-【紙袋 ``】
+【紙帶, `flag`】
+```mermaid
+flowchart TD
+A@{ shape: hex,label: "預備條件"}
+```
+【預備條件, `hex`】
 
 
 - - -
