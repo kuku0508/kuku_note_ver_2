@@ -169,9 +169,10 @@ A@{ shape: cross-circ,label: "摘要"}
 【摘要, `cross-circ`】
 ```mermaid
 flowchart TD
-A@{ shape: ,label: " "}
+A@{ shape: tri,label: "提取"}
 ```
-【, ``】
+【提取, `tri`】
+
 
 
 - - -
