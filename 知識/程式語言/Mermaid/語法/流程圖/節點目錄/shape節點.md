@@ -131,8 +131,16 @@ A@{ shape: cyl,label: "資料庫"}
 flowchart TD
 A@{ shape: h-cyl,label: "直接存取儲存"}
 ```
-
-
+【直接存取儲存, `h-cyl`】
+```mermaid
+flowchart TD
+A@{ shape: lin-cyl,label: "磁碟儲存"}
+```
+【磁碟儲存, `lin-cyl`】
+```mermaid
+flowchart TD
+A@{ shape: h-cyl,label: "直接存取儲存"}
+```
 
 - - -
 # 參考資料
