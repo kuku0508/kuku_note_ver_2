@@ -7,6 +7,9 @@
 | --------- | -------- | ------------ | -------- | ------------------------------------------------------------- |
 | 卡片        | 有缺口的矩形   | `notch-rect` | 代表一張卡片   | `card`,`notched-rectangle`                                    |
 | 分割處理      | 雙線矩形     | `div-rect`   | 分割處理形狀   | `div-proc`,`divided-process`,<br>`divided-rectangle`          |
+| 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
+| 手動輸入      | 傾斜矩形     | `sl-rect`    | 手動輸入步驟   | `manual-input`,`sloped-rectangle`                             |
+| 儲存資料      | 蝴蝶領矩形    | `bow-rect`   | 儲存資料     | `bow-tie-rectangle`,`stored-data`                             |
 | 註釋        | 左大括號     | `brace`      | 新增註釋     | `brace-l`,`comment`                                           |
 | 右側註釋      | 右大括號     | `brace-r`    | 新增註釋     | 無                                                             |
 | 雙邊註釋      | 雙大括號     | `braces`     | 新增註釋     | 無                                                             |
@@ -30,10 +33,8 @@
 | 有線條/陰影的矩形 | 有線條矩形    | `lin-rect`   | 有線條處理形狀  | `lin-proc`,`lined-process`,`lined-rectangle`,`shaded-process` |
 | 迴圈限制      | 五邊形缺角    | `notch-pent` | 迴圈限制步驟   | `loop-limit`,`notched-pentagon`                               |
 | 手動檔案      | 翻轉三角形    | `flip-tri`   | 手動檔案操作   | `flipped-triangle`,`manual-file`                              |
-| 手動輸入      | 傾斜矩形     | `sl-rect`    | 手動輸入步驟   | `manual-input`,`sloped-rectangle`                             |
 | 手動操作      | 倒置梯形     | `trap-t`     | 表示一個手動任務 | `inv-trapezoid`,`manual`,`trapezoid-top`                      |
 | 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
-| 多重處理      | 疊加矩形     | `str-rect`   | 多重處理步驟   | `processes`,`procs`,`stacked-rectangle`                       |
 | 奇數形狀      | 奇數圖形     | `odd`        | 奇數圖形     |                                                               |
 | 紙帶        | 旗形       | `flag`       | 紙帶類型儲存   | `paper-tape`                                                  |
 | 預備條件      | 六邊形      | `hex`        | 準備或條件設定  | `hexgon`,`prepare`                                            |
@@ -43,7 +44,6 @@
 | 開始（小）     | 小圓形      | `sm-circ`    | 小型開始點    | `small-circle`                                                |
 | 停止        | 雙園       | `dbl-circ`   | 表示停止點    |                                                               |
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
-| 儲存資料      | 蝴蝶領矩形    | `bow-rect`   | 儲存資料     | `bow-tie-rectangle`,`stored-data`                             |
 | 子程序       | 框形矩形     | `fr-rect`    | 子程序      | `framed-rectangle`,`subproc`,`subprocess`,`subroutine`        |
 | 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
 | 被標記文件     | 被標記文件圖形  | `tag-doc`    | 被標記文件    | `tagged-document`                                             |
@@ -55,12 +55,12 @@
 flowchart TD
 A@{ shape: notch-rect,label: "卡片節點"}
 ```
-【卡片節點,notch-rect】
+【卡片節點, notch-rect】
 ```mermaid
 flowchart TD
 A@{ shape: hourglass,label: "整理"}
 ```
-【整理,】
+【整理, 】
 - - -
 # 參考資料
 - [Flowcharts - Basic Syntax](https://mermaid.js.org/syntax/flowchart.html)
