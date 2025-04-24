@@ -209,6 +209,16 @@ A@{ shape: doc,label: "文件"}
 【文件, `doc`】
 ```mermaid
 flowchart TD
+A@{ shape: lin-doc,label: "線條文件"}
+```
+【線條文件, `lin-doc`】
+```mermaid
+flowchart TD
+A@{ shape: docs,label: "多文件"}
+```
+【多文件, `docs`】
+```mermaid
+flowchart TD
 A@{ shape: rounded,label: "事件"}
 ```
 【事件, `rounded`】
