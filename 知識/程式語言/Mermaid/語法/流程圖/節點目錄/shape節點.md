@@ -234,9 +234,19 @@ A@{ shape: fork,label: "分支/合併"}
 【分支/合併, `fork`】
 ```mermaid
 flowchart TD
+A@{ shape: win-pane,label: "內部儲存"}
+```
+【內部儲存, `win-pane`】
+```mermaid
+flowchart TD
+A@{ shape: notch-pent,label: "迴圈限制"}
+```
+【迴圈限制, `notch-pent`】
+```mermaid
+flowchart TD
 A@{ shape: ,label: " "}
 ```
-【內部儲存, ``】
+【手動操作, `trap-t`】
 
 
 - - -
