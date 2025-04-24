@@ -154,9 +154,10 @@ A@{ shape: sm-circ,label: "開始（小）"}
 【開始（小）, `sm-circ`】
 ```mermaid
 flowchart TD
-A@{ shape: ,label: " "}
+A@{ shape: dbl-circ,label: "停止"}
 ```
-【, ``】
+【停止, `dbl-circ`】
+
 
 
 - - -
