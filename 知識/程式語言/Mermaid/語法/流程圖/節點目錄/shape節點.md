@@ -92,7 +92,11 @@ flowchart TD
 A@{ shape: fr-rect,label: "子程序"}
 ```
 【子程序, `fr-rect`】
-
+```mermaid
+flowchart TD
+A@{ shape: tag-rect,label: "被標記程序"}
+```
+【被標記程序, `tag-rect`】
 
 
 - - -
