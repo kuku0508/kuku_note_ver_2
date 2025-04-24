@@ -27,19 +27,19 @@
 | 停止（小）     | 框形圖      | `fr-circ`    | 停止點      | `framed-circle`,`stop`                                        |
 | 摘要        | 交叉圓形     | `cross-circ` | 摘要       | `crossed-circle`,`summary`                                    |
 | 開始        | 圓形       | `circle`     | 開始點      | `start`                                                       |
+| 提取        | 三角形      | `tri`        | 提取操作     | `extract`,`triangle`                                          |
 | 整理        | 沙漏       | `hourglass`  | 代表整理操作   | `collate`,`hourglass`                                         |
 | 通訊連結      | 閃電       | `bolt`       | 通訊連結     | `com-link`,`lightning-bolt`                                   |
+| 手動檔案      | 翻轉三角形    | `flip-tri`   | 手動檔案操作   | `flipped-triangle`,`manual-file`                              |
 | 決策        | 菱形       | `diam`       | 決策步驟     | `decision`,`diamond`,`question`                               |
 | 延遲        | 半圓角矩形    | `delay`      | 表示延遲     | `half-rounded-rectangle`                                      |
 | 顯示        | 曲面梯形     | `curv-trap`  | 表示顯示     | `curved-trapezoid`,`display`                                  |
 | 文件        | 文件圖形     | `doc`        | 表示一份文件   | `document`                                                    |
 | 事件        | 圓角矩形     | `rounded`    | 表示事件     | `event`                                                       |
-| 提取        | 三角形      | `tri`        | 提取操作     | `extract`,`triangle`                                          |
 | 分支/合併     | 實心矩形     | `fork`       | 分支或合併流程  | `join`                                                        |
 | 內部儲存      | 窗格       | `win-pane`   | 內部儲存     | `internal-storage`,`window-pane`                              |
 | 線條文件      | 有線條的文件圖形 | `lin-doc`    | 有線條文件    | `lined-document`                                              |
 | 迴圈限制      | 五邊形缺角    | `notch-pent` | 迴圈限制步驟   | `loop-limit`,`notched-pentagon`                               |
-| 手動檔案      | 翻轉三角形    | `flip-tri`   | 手動檔案操作   | `flipped-triangle`,`manual-file`                              |
 | 手動操作      | 倒置梯形     | `trap-t`     | 表示一個手動任務 | `inv-trapezoid`,`manual`,`trapezoid-top`                      |
 | 多文件       | 疊加文件     | `docs`       | 多個文件     | `document`,`st-doc`,`stacled-document`                        |
 | 奇數形狀      | 奇數圖形     | `odd`        | 奇數圖形     |                                                               |
