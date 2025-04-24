@@ -102,6 +102,16 @@ flowchart TD
 A@{ shape: brace,label: "註釋"}
 ```
 【註釋,`brace`】
+```mermaid
+flowchart TD
+A@{ shape: brace-r,label: "右側註釋"}
+```
+【右側註釋, `brace-r`】
+```mermaid
+flowchart TD
+A@{ shape: braces,label: "雙邊註釋"}
+```
+【雙邊註釋, braces】
 
 
 - - -
