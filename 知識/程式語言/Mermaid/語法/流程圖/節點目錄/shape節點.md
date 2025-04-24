@@ -129,7 +129,7 @@ A@{ shape: cyl,label: "資料庫"}
 【資料庫, `cyl`】
 ```mermaid
 flowchart TD
-A@{ shape: lean-l,label: "直接存取"}
+A@{ shape: h-cyl,label: "直接存取儲存"}
 ```
 
 
