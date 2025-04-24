@@ -54,7 +54,6 @@
 ```mermaid
 flowchart
 A@{ shape: stop}
-B@{ shape: fr-circ}
 ```
 
 - - -
