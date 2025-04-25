@@ -1,15 +1,15 @@
-當我們今天要用mermaid建立流程圖時，我們可以透過`節點名字 --o 節點名字`的方式，將連結設定為圓形連結。
+當我們今天要用mermaid建立流程圖時，我們可以透過`節點名字 --x 節點名字`的方式，將連結設定為x連結。
 ```Mermaid
 flowchart LR
 A@{shape: circle, label: "開始"}
 B@{shape: dbl-circ, label: "結束"}
-A --o B
+A --x  B
 ```
 ```mermaid
 flowchart LR
 A@{shape: circle, label: "開始"}
 B@{shape: dbl-circ, label: "結束"}
-A --o B
+A --x B
 ```
 - - -
 # 參考資料
