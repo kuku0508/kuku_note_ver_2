@@ -33,8 +33,7 @@
               "title": "shape節點"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "adeae9707f7b5ffe",
+  "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/講義/MA Hierarchical Clustering Methods.md",
     "文本/Department/數學/統計/多變量分析/講義/MA K Means.md",
