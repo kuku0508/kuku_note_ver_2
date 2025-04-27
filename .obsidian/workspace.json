@@ -11,12 +11,14 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                "file": "知識/統計/統計學/集合/隨機實驗.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+              "icon": "lucide-file",
+              "title": "隨機實驗"
             }
           },
           {
@@ -241,6 +243,7 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/A Course In Mathematical Statistics.md",
     "文本/Department/數學/統計/多變量分析/講義/MA K Means.md",
@@ -268,7 +271,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/x連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/圓形連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/隱形連結.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄",
     "知識/程式語言/Mermaid/語法/流程圖",
