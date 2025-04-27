@@ -11,10 +11,14 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "子流程區域方向"
             }
           },
           {
@@ -239,9 +243,9 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
+    "知識/程式語言/Mermaid/基礎知識/備註.md",
     "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域中的子流程區域.md",
-    "知識/程式語言/Mermaid/基礎知識/備註.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域.md",
