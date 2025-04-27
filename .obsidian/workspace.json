@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/聯集.md",
+                "file": "知識/統計/統計學/集合/交集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "聯集"
+              "title": "交集"
             }
           },
           {
@@ -295,7 +295,9 @@
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
     "知識/統計/統計學/集合/餘集.md",
-    "未處理/附件/Pasted image 20250427215504.png",
+    "知識/統計/統計學/集合/聯集.md",
+    "未處理/附件/聯集範例圖.png",
+    "未處理/附件/餘集範例圖.png",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/統計/統計學/集合/交集.md",
@@ -337,7 +339,6 @@
     "未處理/附件/Pasted image 20250410233415.png",
     "文本/Department/數學/線性代數/圖/行列式 二維算法.png",
     "文本/Department/數學/線性代數/圖/行列式 面積改變範例.gif",
-    "文本/Department/數學/線性代數/圖/行列式 Right Hand Rule.png",
-    "文本/Department/數學/線性代數/圖/行列式 二維空間旋轉.gif"
+    "文本/Department/數學/線性代數/圖/行列式 Right Hand Rule.png"
   ]
 }
