@@ -11,14 +11,12 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/使用者旅程/使用者旅程.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md"
               },
-              "icon": "lucide-file",
-              "title": "使用者旅程"
+              "icon": "excalidraw-icon",
+              "title": "MA chapter5"
             }
           },
           {
@@ -241,11 +239,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "73b3db56f3a8b8ba",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
+    "知識/程式語言/Mermaid/語法/使用者旅程/使用者旅程.md",
     "知識/程式語言/Mermaid/Mermaid總目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/流程圖.md",
-    "知識/程式語言/Mermaid/語法/使用者旅程/使用者旅程.md",
     "知識/程式語言/Mermaid/語法/使用者旅程",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
@@ -269,8 +269,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的粗箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/虛線箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的虛線箭頭連結.md",
-    "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/直線連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄",
     "知識/程式語言/Mermaid/語法/流程圖",
