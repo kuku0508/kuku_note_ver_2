@@ -241,10 +241,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "73b3db56f3a8b8ba",
+  "floating": {
+    "id": "f1cdc52f65326693",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f7cb8d8265633226",
+        "type": "window",
+        "children": [
+          {
+            "id": "c09447ecdc4aab3f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c9b70ed7fc51f59",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7c9b70ed7fc51f59",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/統計/統計學/集合/餘集.md",
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/樣本空間.md",
