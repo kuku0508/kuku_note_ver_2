@@ -18,6 +18,6 @@ journey
 # 參考資料
 - [Mermaid官網](https://mermaid.js.org/)
 - - -
-parent::
+parent::[[Mermaid]],[[程式碼區塊]]
 sibling::
 child::

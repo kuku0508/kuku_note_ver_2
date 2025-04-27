@@ -11,14 +11,10 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/Mermaid/基礎知識/備註.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "備註"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           },
           {
@@ -241,12 +237,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
-    "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
-    "知識/程式語言/Mermaid/基礎知識/備註.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/方向.md",
+    "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域中的子流程區域.md",
+    "知識/程式語言/Mermaid/基礎知識/備註.md",
+    "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
+    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域.md",
     "知識/程式語言/Mermaid/Mermaid總目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄.md",
@@ -268,7 +265,6 @@
     "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/直線連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/六邊形節點.md",
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/圖片節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄",
     "知識/程式語言/Mermaid/語法/流程圖",
