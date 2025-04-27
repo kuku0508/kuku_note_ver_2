@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "元素",
+                "query": "差集",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,20 +292,23 @@
       }
     ]
   },
-  "active": "73b3db56f3a8b8ba",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/附件/互斥.png",
+    "知識/統計/統計學/集合/元素.md",
+    "知識/統計/統計學/集合/互斥.md",
+    "知識/統計/統計學/集合/加法法則.md",
+    "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/交集.md",
-    "未處理/附件/交集.png",
+    "知識/統計/統計學/集合/餘集合法則.md",
     "知識/統計/統計學/集合/餘集.md",
+    "未處理/附件/互斥.png",
+    "未處理/附件/交集.png",
     "知識/統計/統計學/集合/聯集.md",
     "未處理/附件/聯集範例圖.png",
     "未處理/附件/餘集範例圖.png",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-    "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合/樣本空間.md",
-    "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/集合/隨機實驗.md",
     "文本/書/A First Course In Probability.md",
     "文本/書/A Course In Mathematical Statistics.md",
@@ -323,8 +326,6 @@
     "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域中的子流程區域.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/方向.md",
-    "知識/程式語言/Mermaid/語法/流程圖/子流程區域.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄",
     "知識/程式語言/Mermaid/語法/流程圖",
@@ -338,7 +339,6 @@
     "文本/Department/數學/線性代數/圖/行列式 Sarrus rule.png",
     "未處理/附件/ApplyMatrixExample.gif",
     "未處理/附件/Pasted image 20250410233415.png",
-    "文本/Department/數學/線性代數/圖/行列式 二維算法.png",
-    "文本/Department/數學/線性代數/圖/行列式 面積改變範例.gif"
+    "文本/Department/數學/線性代數/圖/行列式 二維算法.png"
   ]
 }
