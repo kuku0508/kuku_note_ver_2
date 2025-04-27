@@ -223,49 +223,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "f1cdc52f65326693",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f7cb8d8265633226",
-        "type": "window",
-        "children": [
-          {
-            "id": "c09447ecdc4aab3f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7c9b70ed7fc51f59",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8ff0550e8aa6f02a",
+  "active": "168ead905982ee85",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/統計/機率論/基礎知識/集合基礎命題.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
     "知識/程式語言/Latex/基礎知識/語法表/交集.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
