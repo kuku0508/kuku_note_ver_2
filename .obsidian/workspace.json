@@ -11,14 +11,16 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                "page": 4,
+                "left": -16,
+                "top": 157,
+                "zoom": 0.9522058823529411
               },
-              "icon": "lucide-file",
-              "title": "子流程區域方向"
+              "icon": "lucide-file-text",
+              "title": "MA Assignment"
             }
           },
           {
@@ -243,10 +245,10 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
+    "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
     "知識/程式語言/Mermaid/基礎知識/備註.md",
     "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域中的子流程區域.md",
-    "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/方向.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域.md",
     "知識/程式語言/Mermaid/Mermaid總目錄.md",
