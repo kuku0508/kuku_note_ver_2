@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md"
+                "file": "文本/Department/數學/統計/多變量分析/講義/Hierarchical Clustering Methods.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MA chapter5"
+              "title": "Hierarchical Clustering Methods"
             }
           },
           {
@@ -241,7 +241,9 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/Untitled.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter1.md",
+    "文本/Department/數學/統計/多變量分析/講義/Hierarchical Clustering Methods.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "知識/程式語言/Mermaid/語法/使用者旅程/使用者旅程.md",
     "知識/程式語言/Mermaid/Mermaid總目錄.md",
@@ -267,8 +269,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的粗箭頭連結.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/虛線箭頭連結.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的虛線箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄",
     "知識/程式語言/Mermaid/語法/流程圖",
