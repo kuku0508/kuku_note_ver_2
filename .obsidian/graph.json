@@ -102,11 +102,11 @@
       "query": "path:知識/統計/機率論  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 9715199
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.7,
   "nodeSizeMultiplier": 1.0953125,
@@ -116,6 +116,6 @@
   "repelStrength": 20,
   "linkStrength": 0.925491651205937,
   "linkDistance": 500,
-  "scale": 0.03018289506732422,
+  "scale": 0.04231590268975927,
   "close": false
 }

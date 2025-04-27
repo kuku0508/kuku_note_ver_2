@@ -11,10 +11,14 @@
             "id": "73b3db56f3a8b8ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/機率論/基礎知識/集合基礎命題.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "集合基礎命題"
             }
           },
           {
@@ -290,7 +294,9 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/機率論/基礎知識/集合基礎命題.md",
+    "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/統計/統計學/集合/差集.md",
     "知識/統計/統計學/集合/聯集.md",
@@ -300,7 +306,6 @@
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/機率論",
     "未處理/附件/差集範例圖.png",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/集合/互斥.md",
     "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/集合/加法法則.md",
@@ -324,7 +329,6 @@
     "知識/程式語言/Mermaid/語法/使用者旅程",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
-    "知識/程式語言/Mermaid/基礎知識/備註.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄",
     "知識/程式語言/Mermaid/語法/流程圖",
