@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/樣本空間.md",
+                "file": "知識/統計/統計學/集合/事件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "樣本空間"
+              "title": "事件"
             }
           },
           {
@@ -243,8 +243,8 @@
   },
   "active": "73b3db56f3a8b8ba",
   "lastOpenFiles": [
-    "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/集合/樣本空間.md",
+    "知識/統計/統計學/集合/元素.md",
     "知識/統計/統計學/集合/隨機實驗.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/A First Course In Probability.md",
