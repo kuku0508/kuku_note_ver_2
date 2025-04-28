@@ -255,19 +255,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b9036be32ff25358",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
+    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/機率論/基礎知識/集合基礎命題.md",
     "未處理/Wilks' lambda.md",
     "未處理/UNIVARIATE.md",
