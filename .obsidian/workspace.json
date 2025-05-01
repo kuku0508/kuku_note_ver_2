@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aebf18bf88a27d01",
+        "id": "4a15968c0fa4449f",
         "type": "tabs",
         "children": [
           {
-            "id": "168ead905982ee85",
+            "id": "d8a7d256e92e331e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/母體.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "477da1e202a4ea4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/母體.md"
-              }
+              "state": {}
             }
           },
           {
@@ -244,15 +224,19 @@
       }
     ]
   },
-  "active": "168ead905982ee85",
+  "active": "d8a7d256e92e331e",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
+    "知識/統計/統計學/基礎知識/母體.md",
+    "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
+    "知識/統計/統計學/基礎知識/母體參數.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
     "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
     "知識/統計/多變量分析/檢定/Box's M test.md",
     "未處理/特徵向量.md",
     "未處理/特徵值.md",
-    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/統計/多變量分析/基礎知識/多變量資料.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
@@ -273,10 +257,6 @@
     "未處理/假設檢定.md",
     "未處理/配額抽樣.md",
     "未處理/信賴區間.md",
-    "未處理/判斷抽樣.md",
-    "未處理/卡方分配.md",
-    "未處理/方便抽樣.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/機率論/基礎知識",
     "知識/統計/機率論",
     "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
