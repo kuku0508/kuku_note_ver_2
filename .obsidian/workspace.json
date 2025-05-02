@@ -11,14 +11,16 @@
             "id": "168ead905982ee85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 792,
+                "zoom": 1.0894607843137254
               },
-              "icon": "lucide-file",
-              "title": "主成分"
+              "icon": "lucide-file-text",
+              "title": "MA Assignment"
             }
           },
           {
@@ -280,8 +282,8 @@
   },
   "active": "168ead905982ee85",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
     "知識/統計/多變量分析/檢定/Box's M test.md",
     "未處理/特徵向量.md",
