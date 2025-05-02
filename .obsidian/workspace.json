@@ -11,16 +11,12 @@
             "id": "168ead905982ee85",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                "page": 5,
-                "left": -14,
-                "top": 84,
-                "zoom": 1.0894607843137254
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md"
               },
-              "icon": "lucide-file-text",
-              "title": "MA Assignment"
+              "icon": "excalidraw-icon",
+              "title": "MA chapter5"
             }
           },
           {
@@ -280,7 +276,7 @@
       }
     ]
   },
-  "active": "3fa3e604bd995e34",
+  "active": "168ead905982ee85",
   "lastOpenFiles": [
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
