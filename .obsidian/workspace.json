@@ -252,29 +252,22 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b9036be32ff25358",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "MA chapter3"
-                }
-              },
-              {
                 "id": "2d25e92e919d894f",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "pdf",
+                  "state": {
+                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                    "page": 5,
+                    "left": -10,
+                    "top": 84,
+                    "zoom": 1.5061274509803921
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "MA Assignment"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
