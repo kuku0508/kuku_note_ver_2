@@ -262,27 +262,38 @@
                   "icon": "excalidraw-icon",
                   "title": "MA chapter3"
                 }
+              },
+              {
+                "id": "2d25e92e919d894f",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 696,
+        "x": 1280,
+        "y": 0,
         "width": 1280,
-        "height": 696,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b9036be32ff25358",
+  "active": "2d25e92e919d894f",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
     "知識/統計/多變量分析/檢定/Box's M test.md",
     "未處理/特徵向量.md",
