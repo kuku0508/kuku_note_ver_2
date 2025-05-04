@@ -258,9 +258,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                    "page": 5,
+                    "page": 6,
                     "left": -10,
-                    "top": 84,
+                    "top": 733,
                     "zoom": 1.5061274509803921
                   },
                   "icon": "lucide-file-text",
@@ -280,11 +280,11 @@
       }
     ]
   },
-  "active": "2d25e92e919d894f",
+  "active": "168ead905982ee85",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
     "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
@@ -313,7 +313,6 @@
     "未處理/配額抽樣.md",
     "未處理/信賴區間.md",
     "未處理/判斷抽樣.md",
-    "未處理/卡方分配.md",
     "知識/統計/機率論/基礎知識",
     "知識/統計/機率論",
     "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
