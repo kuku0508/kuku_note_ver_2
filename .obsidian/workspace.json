@@ -264,8 +264,21 @@
                   "icon": "excalidraw-icon",
                   "title": "Ch-02"
                 }
+              },
+              {
+                "id": "c53e2e39433deab6",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-03"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -278,12 +291,12 @@
       }
     ]
   },
-  "active": "168ead905982ee85",
+  "active": "c53e2e39433deab6",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
-    "知識/統計/抽樣調查/基礎知識/信心水準.md",
-    "知識/統計/抽樣調查/基礎知識/估計誤差.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "知識/統計/抽樣調查/基礎知識/信心水準.md",
+    "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
+    "知識/統計/抽樣調查/基礎知識/估計誤差.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/底籍.md",
