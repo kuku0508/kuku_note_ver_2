@@ -11,14 +11,12 @@
             "id": "168ead905982ee85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
               },
-              "icon": "lucide-file",
-              "title": "關係符號"
+              "icon": "excalidraw-icon",
+              "title": "Ch-02"
             }
           },
           {
@@ -241,10 +239,49 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "168ead905982ee85",
+  "floating": {
+    "id": "f1cdc52f65326693",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5cd0ab5c1e7a57bf",
+        "type": "window",
+        "children": [
+          {
+            "id": "3643708560ba3061",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a492009ef1f48205",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-02"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a492009ef1f48205",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
@@ -273,7 +310,6 @@
     "未處理/細胞自動機.md",
     "未處理/假設檢定.md",
     "未處理/配額抽樣.md",
-    "未處理/信賴區間.md",
     "知識/統計/機率論/基礎知識",
     "知識/統計/機率論",
     "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
