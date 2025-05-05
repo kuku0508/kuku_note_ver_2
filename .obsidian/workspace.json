@@ -259,7 +259,9 @@
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf"
+                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+                    "page": 1,
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "MA Assignment"
