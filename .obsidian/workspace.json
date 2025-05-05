@@ -11,12 +11,14 @@
             "id": "168ead905982ee85",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
+                "file": "知識/統計/抽樣調查/基礎知識/名詞解釋/母體.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Ch-02"
+              "icon": "lucide-file",
+              "title": "母體"
             }
           },
           {
@@ -276,8 +278,9 @@
       }
     ]
   },
-  "active": "a492009ef1f48205",
+  "active": "168ead905982ee85",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/基礎知識/名詞解釋/目標母體.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
@@ -309,7 +312,6 @@
     "未處理/週期性.md",
     "未處理/細胞自動機.md",
     "未處理/假設檢定.md",
-    "未處理/配額抽樣.md",
     "知識/統計/機率論/基礎知識",
     "知識/統計/機率論",
     "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
