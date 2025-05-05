@@ -241,49 +241,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "f1cdc52f65326693",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1ec7fbff12b5470e",
-        "type": "window",
-        "children": [
-          {
-            "id": "c45b57d85d9025aa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2d25e92e919d894f",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                    "page": 1,
-                    "zoom": 1
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "MA Assignment"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "168ead905982ee85",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
+    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
@@ -312,7 +274,6 @@
     "未處理/假設檢定.md",
     "未處理/配額抽樣.md",
     "未處理/信賴區間.md",
-    "未處理/判斷抽樣.md",
     "知識/統計/機率論/基礎知識",
     "知識/統計/機率論",
     "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
