@@ -266,15 +266,15 @@
                 }
               },
               {
-                "id": "c53e2e39433deab6",
+                "id": "3820a91458a34d53",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md"
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Ch-03"
+                  "title": "Ch-04"
                 }
               }
             ],
@@ -291,9 +291,10 @@
       }
     ]
   },
-  "active": "c53e2e39433deab6",
+  "active": "3820a91458a34d53",
   "lastOpenFiles": [
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "知識/統計/抽樣調查/基礎知識/信心水準.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/抽樣調查/基礎知識/估計誤差.md",
@@ -307,7 +308,6 @@
     "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/目標母體.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
