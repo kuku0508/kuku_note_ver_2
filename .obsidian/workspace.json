@@ -16,9 +16,7 @@
                 "file": "知識/統計/抽樣調查/基礎知識/信心水準.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "信心水準"
+              }
             }
           },
           {
@@ -30,9 +28,7 @@
                 "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "字體"
+              }
             }
           }
         ]
@@ -54,11 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -73,9 +66,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜尋"
+              }
             }
           },
           {
@@ -83,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "書籤"
+              "state": {}
             }
           }
         ]
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/抽樣調查/基礎知識/信心水準.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +105,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "張成 的反向連結"
+              }
             }
           },
           {
@@ -127,12 +114,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/抽樣調查/基礎知識/信心水準.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "張成 的對外連結"
+              }
             }
           },
           {
@@ -142,12 +127,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "標籤"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -156,13 +137,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "張成 的大綱"
+                "file": "知識/統計/抽樣調查/基礎知識/信心水準.md"
+              }
             }
           },
           {
@@ -170,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -180,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -190,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           },
           {
@@ -200,9 +170,7 @@
             "type": "leaf",
             "state": {
               "type": "bc-matrix-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "state": {}
             }
           }
         ],
@@ -215,20 +183,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "workspaces:管理工作區配置": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -238,6 +202,10 @@
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false
     }
   },
@@ -260,9 +228,7 @@
                   "type": "excalidraw",
                   "state": {
                     "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-02"
+                  }
                 }
               }
             ]
@@ -270,9 +236,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 696,
-        "width": 1280,
-        "height": 696,
+        "y": 516,
+        "width": 960,
+        "height": 516,
         "maximize": false,
         "zoom": 0
       }
@@ -280,11 +246,11 @@
   },
   "active": "168ead905982ee85",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "知識/統計/抽樣調查/基礎知識/信心水準.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/母體.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/目標母體.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
-    "知識/統計/抽樣調查/基礎知識/信心水準.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
     "未處理/附件/信心水準 95%.png",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
