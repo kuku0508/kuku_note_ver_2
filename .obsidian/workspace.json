@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/估計誤差.md",
+                "file": "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/估計誤差.md",
+                "file": "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/估計誤差.md",
+                "file": "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/估計誤差.md"
+                "file": "知識/統計/抽樣調查/基礎知識/機率抽樣.md"
               }
             }
           },
@@ -246,8 +246,9 @@
   },
   "active": "168ead905982ee85",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/抽樣調查/基礎知識/估計誤差.md",
+    "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
+    "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/抽樣調查/基礎知識/信心水準.md",
     "知識/說服/說服總目錄.md",
     "此筆記庫介紹.md",
@@ -273,7 +274,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
     "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
-    "知識/統計/多變量分析/檢定/Box's M test.md",
     "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
     "文本/Department/數學/統計/統計學/圖/交集.png",
