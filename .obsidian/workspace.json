@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Linear Algebra With Applications.md"
+                "file": "文本/書/成人漫畫研究史.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Linear Algebra With Applications"
+              "title": "成人漫畫研究史"
             }
           },
           {
@@ -278,6 +278,9 @@
   },
   "active": "168ead905982ee85",
   "lastOpenFiles": [
+    "文本/書/自卑與超越.md",
+    "文本/書/成人漫畫研究史.md",
+    "文本/書/Linear Algebra With Applications.md",
     "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
     "文本/Department/數學/統計/抽樣調查/圖",
     "conflict-files-obsidian-git.md",
@@ -304,8 +307,6 @@
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
-    "知識/程式語言/Latex/基礎知識/語法表/文字顏色.md",
-    "知識/統計/多變量分析/檢定/Box's M test.md",
     "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
     "文本/Department/數學/統計/統計學/圖/交集.png",
