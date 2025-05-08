@@ -11,12 +11,10 @@
             "id": "168ead905982ee85",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Linear Algebra With Applications.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Linear Algebra With Applications"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           },
           {
@@ -279,10 +277,10 @@
   },
   "active": "168ead905982ee85",
   "lastOpenFiles": [
+    "文本/書/Linear Algebra With Applications.md",
     "文本/書/成人漫畫表現史.md",
     "文本/書/成人漫畫研究史.md",
     "文本/書/自卑與超越.md",
-    "文本/書/Linear Algebra With Applications.md",
     "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
     "文本/Department/數學/統計/抽樣調查/圖",
     "conflict-files-obsidian-git.md",
