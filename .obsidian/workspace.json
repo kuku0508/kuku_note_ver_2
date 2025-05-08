@@ -11,10 +11,12 @@
             "id": "168ead905982ee85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/Linear Algebra With Applications.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Linear Algebra With Applications"
             }
           },
           {
