@@ -11,12 +11,14 @@
             "id": "4821fbf664fcba46",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md"
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "SAS Charpter 5"
+              "icon": "lucide-file",
+              "title": "多維常態分配 - 檢測"
             }
           }
         ]
@@ -228,6 +230,7 @@
   "active": "4821fbf664fcba46",
   "lastOpenFiles": [
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
@@ -254,7 +257,6 @@
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/底籍.md",
-    "知識/統計/抽樣調查/基礎知識/名詞解釋/元素.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
