@@ -11,14 +11,12 @@
             "id": "4821fbf664fcba46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/無母數統計/講義/unit 5.md"
               },
-              "icon": "lucide-file",
-              "title": "MA Assignment 1"
+              "icon": "excalidraw-icon",
+              "title": "unit 5"
             }
           }
         ]
@@ -229,6 +227,11 @@
   },
   "active": "4821fbf664fcba46",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
@@ -251,12 +254,7 @@
     "知識/統計/抽樣調查/基礎知識/名詞解釋/母體.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/目標母體.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
     "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
-    "知識/統計/抽樣調查/基礎知識/估計誤差.md",
-    "知識/統計/抽樣調查/抽樣調查目錄.md",
-    "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
