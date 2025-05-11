@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "168ead905982ee85",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Linear Algebra With Applications.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Linear Algebra With Applications"
-            }
-          },
-          {
             "id": "477da1e202a4ea4a",
             "type": "leaf",
             "state": {
@@ -32,8 +20,19 @@
               "icon": "lucide-file",
               "title": "字體"
             }
+          },
+          {
+            "id": "af21917c89f044a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -276,8 +275,9 @@
       }
     ]
   },
-  "active": "168ead905982ee85",
+  "active": "af21917c89f044a2",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "文本/書/Linear Algebra With Applications.md",
     "文本/書/成人漫畫表現史.md",
     "文本/書/成人漫畫研究史.md",
@@ -306,7 +306,6 @@
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
     "文本/Department/數學/統計/統計學/圖/交集.png",
