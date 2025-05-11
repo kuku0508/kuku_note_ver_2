@@ -11,12 +11,14 @@
             "id": "4821fbf664fcba46",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/無母數統計/講義/unit 7.md"
+                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "unit 7"
+              "icon": "lucide-file",
+              "title": "多維常態分配 - 檢測"
             }
           }
         ]
@@ -227,14 +229,14 @@
   },
   "active": "4821fbf664fcba46",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
-    "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
-    "文本/Department/數學/統計/迴歸分析/講義/unit 3.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
+    "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
+    "文本/Department/數學/統計/迴歸分析/講義/unit 3.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
