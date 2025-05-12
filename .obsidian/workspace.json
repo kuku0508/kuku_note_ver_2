@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter6.md"
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "MA chapter6"
+              "title": "MA chapter3"
             }
           }
         ]
@@ -227,8 +227,9 @@
   },
   "active": "4821fbf664fcba46",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter6.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
@@ -252,7 +253,6 @@
     "文本/書/成人漫畫表現史.md",
     "文本/書/成人漫畫研究史.md",
     "文本/書/自卑與超越.md",
-    "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
     "文本/Department/數學/統計/抽樣調查/圖",
     "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
