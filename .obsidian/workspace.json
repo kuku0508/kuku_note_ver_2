@@ -18,8 +18,19 @@
               "icon": "excalidraw-icon",
               "title": "MA chapter2"
             }
+          },
+          {
+            "id": "058c8cde3177193a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +236,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4821fbf664fcba46",
+  "active": "058c8cde3177193a",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter6.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
