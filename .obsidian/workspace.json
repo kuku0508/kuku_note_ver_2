@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+                "file": "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MA Assignment 1"
+              "title": "機率抽樣"
             }
           }
         ]
@@ -255,10 +255,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 812,
-        "y": 20,
-        "width": 936,
-        "height": 1352,
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
@@ -266,12 +266,13 @@
   },
   "active": "4821fbf664fcba46",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter6.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
@@ -291,7 +292,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
     "知識/統計/多變量分析/檢定/Box's M test.md",
     "未處理/假設檢定.md",
-    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "文本/Department/數學/統計/抽樣調查/圖",
     "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
