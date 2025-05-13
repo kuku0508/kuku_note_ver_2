@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/抽樣/抽樣.md",
+                "file": "知識/統計/抽樣調查/抽樣調查目錄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抽樣"
+              "title": "抽樣調查目錄"
             }
           }
         ]
@@ -266,9 +266,10 @@
   },
   "active": "db22338a0a67533d",
   "lastOpenFiles": [
-    "知識/統計/統計學/抽樣/抽樣.md",
+    "知識/統計/抽樣調查/基礎知識/抽樣.md",
+    "知識/統計/抽樣調查/基礎知識/機率抽樣",
     "知識/統計/統計學/抽樣/抽樣方法/系統抽樣.md",
-    "知識/統計/抽樣調查/基礎知識/機率抽樣.md",
+    "知識/統計/抽樣調查/基礎知識/機率抽樣/機率抽樣.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/信心水準.md",
     "知識/統計/抽樣調查/基礎知識/估計誤差.md",
@@ -291,7 +292,6 @@
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
     "文本/Department/數學/統計/抽樣調查/圖",
     "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
@@ -309,7 +309,6 @@
     "知識/程式語言/Mermaid/語法/流程圖",
     "文本/Department/程式語言/Mermaid",
     "文本/Department/程式語言/Mermaid/Mermaid in Obsidian.png",
-    "知識/程式語言/Mermaid/語法",
     "文本/Department/數學/線性代數/圖/反矩陣 範例.gif",
     "文本/Department/數學/線性代數/圖/行列式 Sarrus rule.png"
   ]
