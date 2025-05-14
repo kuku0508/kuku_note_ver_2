@@ -11,14 +11,12 @@
             "id": "db22338a0a67533d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/書/文化的困境：20世紀的民族誌、文學與藝術.md"
               },
-              "icon": "lucide-file",
-              "title": "誤差來源"
+              "icon": "excalidraw-icon",
+              "title": "文化的困境：20世紀的民族誌、文學與藝術"
             }
           }
         ]
@@ -266,8 +264,10 @@
   },
   "active": "db22338a0a67533d",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/基礎知識/機率抽樣/機率抽樣.md",
+    "文本/書/心靈的傷，身體會記住.md",
+    "文本/書/文化的困境：20世紀的民族誌、文學與藝術.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
+    "知識/統計/抽樣調查/基礎知識/機率抽樣/機率抽樣.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/非機率抽樣/配額抽樣.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源",
@@ -293,8 +293,6 @@
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
-    "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
-    "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
     "文本/Department/數學/統計/抽樣調查/圖",
     "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
