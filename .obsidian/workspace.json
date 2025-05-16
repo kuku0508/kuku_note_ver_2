@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/第二性.md"
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md"
               },
               "icon": "excalidraw-icon",
-              "title": "第二性"
+              "title": "MA chapter7"
             }
           }
         ]
@@ -295,8 +295,8 @@
   },
   "active": "db22338a0a67533d",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
     "文本/書/第二性.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md",
     "文本/書/胰臟壞掉後生活不像以前那麼艱難了.md",
