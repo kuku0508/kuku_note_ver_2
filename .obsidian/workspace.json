@@ -232,68 +232,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "2d06bec92bce44d6",
-        "type": "window",
-        "children": [
-          {
-            "id": "d4f2c0c02294ad94",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4821fbf664fcba46",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-02"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "ce9cb6d86e52e211",
-        "type": "window",
-        "children": [
-          {
-            "id": "db94a8f5d97bbb1e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3e57d36d993ecbb8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "MA chapter7"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "e4210c659c21936e",
         "type": "window",
         "children": [
