@@ -11,11 +11,60 @@
             "id": "db22338a0a67533d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "文本/名言/名言目錄 - 辯論.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "名言目錄 - 辯論"
+            },
+            "group": "c31b6b6011700a08"
+          }
+        ]
+      },
+      {
+        "id": "3727319455636e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7c698cb5c4f2f4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "文本/名言/名言目錄 - 辯論.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": false
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
-            }
+              "title": "名言目錄 - 辯論 的關聯圖"
+            },
+            "group": "c31b6b6011700a08"
           }
         ]
       }
@@ -293,9 +342,11 @@
   },
   "active": "db22338a0a67533d",
   "lastOpenFiles": [
+    "文本/名言/名言目錄 - 價值觀.md",
+    "文本/名言/辯論/粉紅色的雪.md",
     "文本/名言/辯論/羅南森學長-寫給辯論門外的少年.md",
-    "文本/名言/辯論/囍.md",
     "文本/名言/名言目錄 - 辯論.md",
+    "文本/名言/辯論/囍.md",
     "文本/名言/名言總目錄.md",
     "此筆記庫介紹.md",
     "文本/名言/名言目錄 - 激勵.md",
@@ -318,8 +369,6 @@
     "文本/書/思辨賽局 (修訂版)：看穿局勢、創造優勢的策略智慧.md",
     "文本/書/我可以被擁抱嗎？因為太過寂寞而叫了蕾絲邊應召.md",
     "文本/書/形上學 理論與批判.md",
-    "文本/書/1968：日本現代史的轉捩點，席捲日本的革命浪潮.md",
-    "文本/書/思辨，從問對問題開始：美國大學邏輯思考聖經.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源",
     "知識/統計/抽樣調查/基礎知識/非機率抽樣",
     "知識/統計/抽樣調查/基礎知識/機率抽樣",
