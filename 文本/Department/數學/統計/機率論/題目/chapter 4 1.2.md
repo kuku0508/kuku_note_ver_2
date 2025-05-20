@@ -7,7 +7,7 @@ $$
 Let X and Y be the r.v.’s denoting the number of children in a family from the
 target population and the number of boys among those children, respectively.
 Finally, suppose that P(observing a boy) = P(observing a girl) = 0.5.
-Calculate the joint p.d.f. fX,Y(x, y) = P(X = x, Y = y), 0 ≤ y ≤ x, x = 0, 1, 2.
+Calculate the joint p.d.f. $f_{X,Y}(x, y) = P(X = x, Y = y), 0 ≤ y ≤ x$, $x = 0, 1, 2$.
 Hint. Tabulate the joint probabilities as indicated below by utilizing the
 formula:
 $$
