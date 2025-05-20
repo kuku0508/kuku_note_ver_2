@@ -9,6 +9,6 @@ Calculate the following probabilities:
 (iii) There is exactly one bus.
 (iv) There are at most three cars and at least one bus.
 # 答案
-X是在
+X是在給定的點紅燈時，車子的數量；Y是在給定的點紅燈時，巴士的數量
 (i)
 要我們找出四輛車還有沒有巴士的情況，那我們就需要去看當今天 $x=4$、
