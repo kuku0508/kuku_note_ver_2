@@ -2,7 +2,7 @@
 In a sociological project, families with 0, 1, and 2 children are studied.
 Suppose that the numbers of children occur with the following frequencies:
 $$
-\text{0 children}:30\%;\quad\text{1 child}:
+\text{0 children}:30\%;\quad\text{1 child}:40\%;\quad\text{2 children}:30\%;
 $$
 Let X and Y be the r.v.’s denoting the number of children in a family from the
 target population and the number of boys among those children, respectively.
