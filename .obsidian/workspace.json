@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "電訪"
             }
-          },
-          {
-            "id": "cd24964dee3f043c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/抽樣調查/基礎知識/資料收集方法/電訪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "反向連結"
+              "title": "電訪 的反向連結"
             }
           },
           {
@@ -125,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/抽樣調查/基礎知識/資料收集方法/電訪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "對外連結"
+              "title": "電訪 的對外連結"
             }
           },
           {
@@ -153,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "知識/統計/抽樣調查/基礎知識/資料收集方法/電訪.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "電訪 的大綱"
             }
           },
           {
@@ -267,14 +257,14 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
+        "width": 960,
         "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "cd24964dee3f043c",
+  "active": "db22338a0a67533d",
   "lastOpenFiles": [
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/統計/抽樣調查/基礎知識/資料收集方法/電訪.md",
