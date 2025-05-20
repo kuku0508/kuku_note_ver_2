@@ -10,6 +10,9 @@ Finally, suppose that P(observing a boy) = P(observing a girl) = 0.5.
 Calculate the joint p.d.f. fX,Y(x, y) = P(X = x, Y = y), 0 ≤ y ≤ x, x = 0, 1, 2.
 Hint. Tabulate the joint probabilities as indicated below by utilizing the
 formula:
-$$$
+$$
+P(X=x,Y=y)=P(Y=y\mid X=x)P(X=x)
+$$
+
 # 答案
 
