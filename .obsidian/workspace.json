@@ -107,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Ch-02 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -126,12 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ch-02 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -155,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Ch-02 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -277,7 +274,7 @@
       }
     ]
   },
-  "active": "a146b079d6b4c452",
+  "active": "cd24964dee3f043c",
   "lastOpenFiles": [
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/統計/抽樣調查/基礎知識/資料收集方法/電訪.md",
