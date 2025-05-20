@@ -41,6 +41,6 @@ $P(X=1,Y=1)=P(Y=1\mid X=1)P(X=1)=0.5\times 0.4=0.2$
 | 1   | 0.2 | 0.2 | 0   |
 | 2   |     |     |     |
 而最後一列的條件機率都可以先用二項分配來算，
-$f_{X\mid Y}(Y=0\mid X=2)$
+$f_{X\mid Y}(Y=0\mid X=2)=C^2_0\times 0.5^{0}\times 0.5^{0}$
 $f_{X\mid Y}(Y=1\mid X=2)$
 $f_{X\mid Y}(Y=2\mid X=2)$
