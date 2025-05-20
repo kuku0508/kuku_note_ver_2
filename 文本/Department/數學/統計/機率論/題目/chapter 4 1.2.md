@@ -45,4 +45,8 @@ $f_{X\mid Y}(Y=0\mid X=2)=C^2_0\times 0.5^{0}\times 0.5^{2-0}=0.25$
 $f_{X\mid Y}(Y=1\mid X=2)=C^2_1\times 0.5^{1}\times 0.5^{2-1}=0.5$
 $f_{X\mid Y}(Y=2\mid X=2)=C^2_2\times 0.5^{2}\times 0.5^{2-2}=0.25$
 
-$P(X=2,Y=1)=P(Y=1\mid X=1)P(X=2)=0.25\times 0.3=0.075$
+$P(X=2,Y=0)=P(Y=0\mid X=2)P(X=2)=0.25\times 0.3=0.075$
+$P(X=2,Y=1)=P(Y=1\mid X=2)P(X=2)=0.5\times 0.3=0.15$
+$P(X=2,Y=2)=P(Y=2\mid X=2)P(X=2)=0.25\times 0.3=0.075$
+
+所以我ㄇㄣ
