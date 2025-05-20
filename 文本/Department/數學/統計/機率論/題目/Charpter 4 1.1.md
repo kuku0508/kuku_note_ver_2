@@ -8,6 +8,7 @@ Calculate the following probabilities:
 (ii) There are exactly five cars.
 (iii) There is exactly one bus.
 (iv) There are at most three cars and at least one bus.
+- - -
 # 答案
 X是在給定的點紅燈時，車子的數量；Y是在給定的點紅燈時，巴士的數量。
 ##### (i)
@@ -21,4 +22,4 @@ X是在給定的點紅燈時，車子的數量；Y是在給定的點紅燈時，
 所以我們就把0.015、0.03、0.075、0.09、0.06、0.03相加，得到答案為0.3。
 ##### (iv)
 這次要找的是最多3輛車，至少1輛巴士的情況，也就是$f_{XY}(x\leq3,y\geq1)$。
-所以就是將0.15、0.09、0.06、0.1、0.06、0.04、0.05、0.03、0.02加總，得到答案為0.6。
+所以就是將0.015、0.03、0.075、0.09、0.01、0.02、0.05、0.06加總，得到答案為0.35。
