@@ -14,6 +14,6 @@ $$
 $$
 \begin{align}
 P(X<Y)&=\int^1_0 \int_0^Y X+Y dx dy\\
-&=
+&=\int^1_
 \end{align}
 $$
