@@ -21,4 +21,3 @@ P(X<Y)&=\int^1_0 \int_0^Y X+Y dx dy\\
 &=\frac12
 \end{align}
 $$
-#### 畫圖
