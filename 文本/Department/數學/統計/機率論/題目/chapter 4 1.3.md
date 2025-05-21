@@ -6,4 +6,4 @@ calculate the probability$P(X<Y)$
 # 答案
 我們有兩個做法，一個是算出來機率，另外一個是畫圖。
 #### 計算
-$P(X<Y)=F$
+$P(X<Y)=F_{X,Y}(x,y)=$
