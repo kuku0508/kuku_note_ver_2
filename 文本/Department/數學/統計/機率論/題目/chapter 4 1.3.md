@@ -17,3 +17,8 @@ P(X<Y)&=\int^1_0 \int_0^Y X+Y dx dy\\
 &=\int^1_0 (\frac12X^2+XY)\mid
 \end{align}
 $$
+
+$$
+\left.
+\right|
+$$
