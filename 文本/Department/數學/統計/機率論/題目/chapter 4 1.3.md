@@ -16,6 +16,7 @@ $$
 P(X<Y)&=\int^1_0 \int_0^Y X+Y dx dy\\
 &=\int^1_0 \left.\left(\frac12X^2+XY\right)\right|^Y_{X=0}\,dy\\
 &=\int^1_0\left(\frac12Y^2+Y^2\right)\,dy\\
-&=\int^1_0\()
+&=\int^1_0\frac32Y^2\,dy\\
+&=\
 \end{align}
 $$
