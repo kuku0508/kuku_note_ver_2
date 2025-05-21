@@ -13,6 +13,6 @@ $$
 然後我們再依照這個範圍去積分他的pdf，就可以得到$P(X<Y)$。
 $$
 \begin{align}
-P(X<Y)=\int
+P(X<Y)=\int \int_0^Y X+Y dx dy
 \end{align}
 $$
