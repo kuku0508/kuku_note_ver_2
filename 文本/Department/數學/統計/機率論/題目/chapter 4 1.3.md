@@ -10,4 +10,5 @@ calculate the probability$P(X<Y)$
 $$
 0<X<Y<1
 $$
+
 $P(X<Y)=$
