@@ -10,5 +10,5 @@ calculate the probability$P(X<Y)$
 $$
 0<X<Y<1
 $$
-
+然後我們再依照這個範圍去積分他的pdf，就可以得到
 $P(X<Y)=$
