@@ -43,5 +43,5 @@ $$
 那我們就來對他的定義域做積分：
 $$
 \begin{align}
-\int^1_0\int^2_0\frac67\left(x^2+\frac{xy}2\right)\,dydx
+\int^1_0\int^2_0\frac67\left(x^2+\frac{xy}2\right)\,dydx=\frac67\int^1_0\int^2_0 x^2+\frac{xy}2\,dydx
 \end{align}$$
