@@ -12,4 +12,5 @@ $$
 1. $f_{X,Y}\geq 0,\,\forall(x,y)\in R^2$（所有值都是非負）
 2. $\int^{\infty}_{-\infty}\int^{\infty}_{-\infty}f_{X,Y}\,dxdy=1$（對pdf的定義域上下界積分會等於1）
 3. $P((X,Y)\in B)=\iint\limits_D f_{X,Y}\,dxdy$（機率等於對pdf的相對範圍做積分）
+為了證明這三點，我們可以先證明所有值一定非負
 
