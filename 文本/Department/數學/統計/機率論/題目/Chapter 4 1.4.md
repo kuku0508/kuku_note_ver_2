@@ -35,5 +35,5 @@ f(x)=
 \end{cases}
 $$
 $$
-\int^{0.5}_0 2\,dx=2x\
+\int^{0.5}_0 2\,dx=\left.2x\right|^{0.5}_{x=0}
 $$
