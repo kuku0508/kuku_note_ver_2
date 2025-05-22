@@ -35,5 +35,5 @@ f(x)=
 \end{cases}
 $$
 $$
-\int^{0.5}_0 2\,dx=\left.2x\right|^{0.5}_{x=0}
+\int^{0.5}_0 2\,dx+\int^1_{0.5}-1\,dx=\left.2x\right|^{0.5}_{x=0}+-x|^1_{}=1
 $$
