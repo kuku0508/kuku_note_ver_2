@@ -56,5 +56,4 @@ $$
 &= \frac{6}{7} \int^1_0 \left( 2x^2 + \frac{4x}{4} \right) dx \\
 &= \frac{6}{7} \int^1_0 (2x^2 + x)\, dx
 \end{align}
-
 $$
