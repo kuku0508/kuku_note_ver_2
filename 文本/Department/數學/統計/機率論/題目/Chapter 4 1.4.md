@@ -45,4 +45,16 @@ $$
 \begin{align}
 \int^1_0\int^2_0\frac67\left(x^2+\frac{xy}2\right)\,dydx&=\frac67\int^1_0\int^2_0 x^2+\frac{xy}2\,dydx\\
 &=\frac67\int^1_0x^2y+\frac{xy^2}4|^2_{y=0}
-\end{align}$$
+\end{align}
+$$
+
+$$
+\begin{align}
+\int^1_0\int^2_0\frac{6}{7}\left(x^2+\frac{xy}{2}\right)\,dy\,dx 
+&= \frac{6}{7} \int^1_0 \int^2_0 \left(x^2 + \frac{xy}{2}\right)\,dy\,dx \\
+&= \frac{6}{7} \int^1_0 \left[ x^2 y + \frac{x y^2}{4} \right]_{y=0}^{y=2} dx \\
+&= \frac{6}{7} \int^1_0 \left( 2x^2 + \frac{4x}{4} \right) dx \\
+&= \frac{6}{7} \int^1_0 (2x^2 + x)\, dx
+\end{align}
+
+$$
