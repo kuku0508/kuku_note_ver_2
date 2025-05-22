@@ -44,5 +44,5 @@ $$
 $$
 \begin{align}
 \int^1_0\int^2_0\frac67\left(x^2+\frac{xy}2\right)\,dydx&=\frac67\int^1_0\int^2_0 x^2+\frac{xy}2\,dydx\\
-&=\frac67\int^1_0x^2y+xy^2
+&=\frac67\int^1_0x^2y+\frac{xy^2}4|
 \end{align}$$
