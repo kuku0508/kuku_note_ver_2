@@ -17,7 +17,7 @@ $$
 我們來證明第一點
 我們可以看到，pdf是
 $$
-\frac67\left(x^2+\frac{xy}2\right)
+\frac67\left(x^2+\frac{xy}2\right),\quad0<x\leq1,\, 0<y\leq 2
 $$
 我們可以看到裡面的值有$x^2$跟$\frac{xy}2$。而我們知道$x^2$一定會是非負；$xy$也一定會是非負，因為x跟y的定義域都是正數，正數（$x$）乘以正數（$y$）也一定會是正數（$xy$）。正數（$xy$）除以2也會是正數（$\frac{xy}{2}$），所以$\frac{xy}{2}$也會是正數。而正數（$x^2$）加正數（$\frac{xy}2$）也一定會是正數。
 故我們可以知道$f_{X,Y}$一定是非負。
@@ -42,5 +42,6 @@ $$
 好，反正我們這邊證明了$f_{X,Y}$不會有負值，所以可以一起證明第二點跟第三點，進而證明$\frac67\left(x^2+\frac{xy}2\right)$是pdf。
 那我們就來對他的定義域做積分：
 $$
-\int\frac67\left(x^2+\frac{xy}2\right),\quad0<x\leq1,\, 0<y\leq 2
-$$
+\begin{align}
+\int^1_0\int^2_0\frac67\left(x^2+\frac{xy}2\right)\,dydx
+\end{align}$$
