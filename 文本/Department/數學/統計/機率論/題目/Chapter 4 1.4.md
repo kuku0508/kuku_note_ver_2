@@ -7,3 +7,5 @@ $$
 (ii) Calculate the probability P(X > Y).
 # 答案
 
+#### (i)
+第一題要我們證明$f_{X,Y}$真的是p.d.f，如果
