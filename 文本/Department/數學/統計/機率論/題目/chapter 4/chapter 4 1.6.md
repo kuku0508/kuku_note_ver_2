@@ -12,5 +12,6 @@ $$
 \begin{align}
 \int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\cdot e^{-y}\,dtdy\\
 &=\int^\infty_0e^{-y}\int^x_0e^{-t}\,dtdy\\
-&=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)|^
+&=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)|^x_{t=0}\,dy\\
+&=\int^\infty_0 e^{-y}\cdot\left[ \left(\right) \left(\right) \right]
 \end{align}$$
