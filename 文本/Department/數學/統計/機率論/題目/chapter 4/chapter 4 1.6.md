@@ -6,4 +6,4 @@ If the r.v.'s $X$ and $Y$ have the joint pdf $f_{X,Y}(X,Y)=e^{-x-y}$, for $x>0$ 
 4. $P(X+Y\leq 3)$
 # 回答：
 #### 1.
-他給我們的
+題目要我們求$P(X\leq x)$，所以我們就必須要考慮所有$P(X\leq x)$，包含$0<y$
