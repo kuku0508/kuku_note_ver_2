@@ -39,6 +39,7 @@ $$
 $$
 \begin{align}
 P(X<Y)&=\int^\infty_0 \int^y_0 e^{-x-y} \,dx dy\\
-&=\int^\infty_0
+&=\int^\infty_0e^{-y}\int^{y}_0e^{-x}\,dxdy\\
+&=\int^
 \end{align}
 $$
