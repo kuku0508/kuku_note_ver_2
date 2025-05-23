@@ -9,6 +9,6 @@ $f_{X,Y}(X,Y)=e^{-x-y},\,x>0,y>0$.
 而我們的定義域就是$0<x\leq y \leq c$，因為我們知道c、x跟y都必大於0，所以我們且$x\leq y \leq c$，故我們把定義域這樣設計。接下來透過這個定義域來積分：
 $$
 \begin{align}
-\int\int e^{-x-y}
+\int^c_0\int^y_0 e^{-x-y}\,dxdy&=
 \end{align}
 $$
