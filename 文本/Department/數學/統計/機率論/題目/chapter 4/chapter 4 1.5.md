@@ -22,6 +22,6 @@ $$
 第二題要我們找$P(X\leq Y \leq \log 2)$。
 所以我們直接把$log2$代入第一小題得答案就好了：
 $$
-\frac{e^{-2c}}{2}\Rightarrow\frac{e^{-2\log2}}{2}=\frac{e^{-\log4}}{2}=\frac{1}{e^{\log 4}}
+\frac{e^{-2c}}{2}\Rightarrow\frac{e^{-2\log2}}{2}=\frac{e^{-\log4}}{2}=\frac{1}{e^{\log 4}\cdot2}=\frac{1}{4\cdot2}=\frac{1}{8}
 $$
-
+得到解答了，結束！
