@@ -15,5 +15,5 @@ $$
 &=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)|^x_{t=0}\,dy\\
 &=\int^\infty_0 e^{-y}\cdot\left[ \left(-e^{-x}\right)-(-1) \right]\,dy\\
 &=\left(1-e^{-x}\right)\left(-e^{-y}\right)|^\infty_{y=0}\\
-&=\left(1-e^{-x}\right)
+&=\left(1-e^{-x}\right)\cdot\left[-\left(-1\right)\right]
 \end{align}$$
