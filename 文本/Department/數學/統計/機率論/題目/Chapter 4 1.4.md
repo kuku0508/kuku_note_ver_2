@@ -70,6 +70,7 @@ $$
 &=\int^1_0 \frac67x\left(xy+\frac{y^2}{4}\right)|^x_{y=0}\,dx\\
 &=\int^1_0\frac67x\left(x^2+\frac{x^2}4\right)\,dx\\
 &=\frac67\int^1_0 x^3+\frac{x^3}4\,dx\\
-&=\frac67\left(\frac{x^4}4+\frac{x^4}{16}\right)
+&=\frac67\left(\frac{x^4}4+\frac{x^4}{16}\right)|^1_{x=0}\\
+&=\frac67\cdot\frac{4}{16}+\frac{1}{16}
 \end{align}
 $$
