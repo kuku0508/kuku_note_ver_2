@@ -26,7 +26,8 @@ $$
 \begin{align}
 \frac12-e^{-c}+\frac12 e^{-2c}&\Rightarrow\frac12 -e^{-\log2}+\frac12 e^{-2log2}\\
 &=\frac12 -\frac12+\frac12e^{-log4}\\
-&=\frac
+&=\frac12\cdot\frac14\\
+&=\frac18
 \end{align}
 $$
 得到解答了，結束！
