@@ -5,4 +5,5 @@ $f_{X,Y}(X,Y)=e^{-x-y},\,x>0,y>0$.
 2. Find the numerical value in part 1 for $c-\log2$, wher elog is the natural logarithm.
 # 答案
 #### 1.
-要計算$P(X\leq Y\leq c)$，我們一樣是用積分pdf的方式去計算機率
+要計算$P(X\leq Y\leq c)$，我們一樣是用積分pdf的方式去計算機率。
+而我們的ㄉ
