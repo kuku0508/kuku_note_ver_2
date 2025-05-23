@@ -15,7 +15,8 @@ $$
 &=\int^c_0 e^{-y}\left[\left(-e^{-y}\right)-\left(-1\right)\right]\\
 &=\int^c_0e^{-y}-e^{-2y}\,dy\\
 &=-e^{-y}+\frac{1}{2}e^{-2y}|^{c}_{y=0}\\
-&=\left[ \left(-e^{-c}+\frac{1}{2}e^{-2c}\right)-\left(-1+\frac12\right) \right]
+&=\left[ \left(-e^{-c}+\frac{1}{2}e^{-2c}\right)-\left(-1+\frac12\right) \right]\\
+&=\frac12-e^{-c}+\frac12 e^{-2c}
 \end{align}
 $$
 #### 2.
