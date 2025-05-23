@@ -33,4 +33,5 @@ P(Y\leq y)&=\int^{\infty}_{0} \int^{y}_{0}e^{-t-x} \,dtdx\\
 &=1-e^{-y}
 \end{align}
 $$
-3. 
+
+#### 3.
