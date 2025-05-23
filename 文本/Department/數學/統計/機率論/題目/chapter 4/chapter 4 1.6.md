@@ -43,7 +43,7 @@ P(X<Y)&=\int^\infty_0 \int^y_0 e^{-x-y} \,dx dy\\
 &=\int^\infty_0e^{-y}(-e^{-x})|^{y}_{x=0}\,dy\\
 &=\int^\infty_0e^{-y}(-e^{-y}+1)\,dy\\
 &=\int^\infty_0e^{-2y}+e^{-y}\,dy\\
-&=\frac12e^{-2y}-e^{-y}\,dy\\
-&+
+&=\frac12e^{-2y}-e^{-y}|^{\infty}_{y=0}\\
+&=1+\frac12
 \end{align}
 $$
