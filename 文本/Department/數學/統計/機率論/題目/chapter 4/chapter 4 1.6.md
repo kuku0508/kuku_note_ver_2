@@ -25,6 +25,8 @@ $$
 \begin{align}
 P(Y\leq y)&=\int^{\infty}_{0} \int^{y}_{0}e^{-t-x} \,dtdx\\
 &=\int^{\infty}_0e^{-x}\int^{y}_{0}e^{-t}\,dtdx\\
-&=\int^{\infty}_0e^{-x}(-e^{-t})|^{y}_{t=0}\,dx
+&=\int^{\infty}_0e^{-x}(-e^{-t})|^{y}_{t=0}\,dx\\
+&=\int^{\infty}_0e^{-x}(-e^{-y}+1)\,dx\\
+&=
 \end{align}
 $$
