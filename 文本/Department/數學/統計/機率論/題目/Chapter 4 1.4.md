@@ -66,6 +66,6 @@ $$
 而我們根據這個定義域去做積分：
 $$
 \begin{align}
-
+\int^1_0\int^X_0\frac{6}{7}\left(x^2+\frac{xy}2\right)
 \end{align}
 $$
