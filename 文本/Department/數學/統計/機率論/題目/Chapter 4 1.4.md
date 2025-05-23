@@ -69,6 +69,7 @@ $$
 \int^1_0\int^x_0\frac{6}{7}\left(x^2+\frac{xy}2\right)\,dydx&=\int^1_0\frac67\cdot x\int^x_0\left(x+\frac y2\right)\,dydx\\
 &=\int^1_0 \frac67x\left(xy+\frac{y^2}{4}\right)|^x_{y=0}\,dx\\
 &=\int^1_0\frac67x\left(x^2+\frac{x^2}4\right)\,dx\\
-&=\frac67\int^1_0 x^3+\frac{x^3}4
+&=\frac67\int^1_0 x^3+\frac{x^3}4\,dx\\
+&=\frac67\left(\frac{x^4}4+\frac{x^4}{16}\right)
 \end{align}
 $$
