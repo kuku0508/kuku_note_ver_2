@@ -23,7 +23,10 @@ $$
 第二題要我們找$P(X\leq Y \leq \log 2)$。
 所以我們直接把$log2$代入第一小題得答案就好了：
 $$
-\begin{}
-\frac12-e^{-c}+\frac12 e^{-2c}\Rightarrow\frac12 -e^{-\log2}+\frac12 e^{-2log2}
+\begin{align}
+\frac12-e^{-c}+\frac12 e^{-2c}&\Rightarrow\frac12 -e^{-\log2}+\frac12 e^{-2log2}\\
+&=\frac12 -\frac12+\frac12e^{-log4}\\
+&=\frac
+\end{align}
 $$
 得到解答了，結束！
