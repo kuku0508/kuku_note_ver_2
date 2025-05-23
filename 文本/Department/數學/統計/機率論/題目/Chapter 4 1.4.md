@@ -48,6 +48,9 @@ $$
 &=\frac67\int^1_0 2x^2+x\,dx\\
 &=\frac67\left(\frac{2x^3}{3}+\frac{x^2}{2}\right)|^{1}_{x=0}\\
 &=\frac67 \left(\frac23+\frac12\right)\\
-&=\frac67\lefet()
+&=\frac67\left(\frac{4+3}{6}\right)\\
+&=\frac67\cdot\frac76\\
+&=1
 \end{align}
 $$
+所以我們德政
