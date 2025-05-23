@@ -5,8 +5,8 @@ f_{X,Y}(x,y)=\frac67\left(x^2+\frac{xy}{2}\right),\quad0<x\leq1,\, 0<y\leq 2
 $$
 (i) Show that $f_{X,Y}$ is, indeed, a p.d.f.
 (ii) Calculate the probability P(X > Y).
+- - -
 # 答案
-
 #### (i)
 第一題要我們證明$f_{X,Y}$真的是pdf，如果$f_{X,Y}$真的是pdf的話她應該要符合下面三點。
 1. $f_{X,Y}\geq 0,\,\forall(x,y)\in R^2$（所有值都是非負）
