@@ -10,10 +10,13 @@ If the r.v.'s $X$ and $Y$ have the joint pdf $f_{X,Y}(X,Y)=e^{-x-y}$, for $x>0$ 
 那我們的積分就會像這樣（因為我們要代入x，所以建議用非x的符號來取代x）。
 $$
 \begin{align}
-\int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\cdot e^{-y}\,dtdy\\
+P(X\leq x)=\int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\cdot e^{-y}\,dtdy\\
 &=\int^\infty_0e^{-y}\int^x_0e^{-t}\,dtdy\\
 &=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)|^x_{t=0}\,dy\\
 &=\int^\infty_0 e^{-y}\cdot\left[ \left(-e^{-x}\right)-(-1) \right]\,dy\\
 &=\left(1-e^{-x}\right)\left(-e^{-y}\right)|^\infty_{y=0}\\
-&=\left(1-e^{-x}\right)\cdot\left[-\left(-1\right)\right]
-\end{align}$$
+&=\left(1-e^{-x}\right)\cdot\left[-\left(-1\right)\right]\\
+&=1-e^{-x}
+\end{align}
+$$
+#### 2.
