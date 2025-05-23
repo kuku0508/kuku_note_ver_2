@@ -11,5 +11,6 @@ If the r.v.'s $X$ and $Y$ have the joint pdf $f_{X,Y}(X,Y)=e^{-x-y}$, for $x>0$ 
 $$
 \begin{align}
 \int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\cdot e^{-y}\,dtdy\\
+&=\int^\infty_0e^{-y}\int^x_0e^{-t}\,dtdy\\
 &=
 \end{align}$$
