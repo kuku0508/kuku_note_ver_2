@@ -66,6 +66,7 @@ $$
 而我們根據這個定義域去做積分：
 $$
 \begin{align}
-\int^1_0\int^x_0\frac{6}{7}\left(x^2+\frac{xy}2\right)\,dydx&=\int^1_0\frac67\cdot x\left(x+\frac y2\right)
+\int^1_0\int^x_0\frac{6}{7}\left(x^2+\frac{xy}2\right)\,dydx&=\int^1_0\frac67\cdot x\int^x_0\left(x+\frac y2\right)\,dydx\\
+&=\int^1_0 \frac67x\left(xy\right)
 \end{align}
 $$
