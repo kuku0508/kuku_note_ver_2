@@ -24,6 +24,7 @@ $$
 $$
 \begin{align}
 P(Y\leq y)&=\int^{\infty}_{0} \int^{y}_{0}e^{-t-x} \,dtdx\\
-&=\int^{\infty}_0
+&=\int^{\infty}_0e^{-x}\int^{y}_{0}e^{-t}\,dtdx\\
+&=\int^{\infty}_0e^{-x}
 \end{align}
 $$
