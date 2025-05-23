@@ -14,6 +14,7 @@ $$
 &=\int^c_0 e^{-y}\left(-e^{-x}\right)|^y_{x=0}\,dy\\
 &=\int^c_0 e^{-y}\cdot \left(-e^{-y}\right)\,dy\\
 &=-\int^c_0 e^{-2y}\,dy\\
-&=-\left(\frac{e^{-2y}}{2}\right)
+&=-\left(-\frac{e^{-2y}}{2}\right)|^c_{y=0}\\
+&=
 \end{align}
 $$
