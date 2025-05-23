@@ -15,6 +15,7 @@ $$
 &=\int^c_0 e^{-y}\cdot \left(-e^{-y}\right)\,dy\\
 &=-\int^c_0 e^{-2y}\,dy\\
 &=-\left(-\frac{e^{-2y}}{2}\right)|^c_{y=0}\\
-&=
+&=\frac{e^{-2c}}{2}
 \end{align}
 $$
+
