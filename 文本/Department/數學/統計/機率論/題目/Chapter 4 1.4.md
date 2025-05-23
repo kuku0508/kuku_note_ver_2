@@ -59,4 +59,4 @@ $$
 $$
 f_{X,Y}(x,y)=\frac67\left(x^2+\frac{xy}{2}\right),\quad0<x\leq1,\, 0<y\leq 2
 $$
-你可以看到，X最大ㄐㄧㄡ
+你可以看到，X最大就到1，
