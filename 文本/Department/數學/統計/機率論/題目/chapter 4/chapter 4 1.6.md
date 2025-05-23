@@ -14,5 +14,6 @@ $$
 &=\int^\infty_0e^{-y}\int^x_0e^{-t}\,dtdy\\
 &=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)|^x_{t=0}\,dy\\
 &=\int^\infty_0 e^{-y}\cdot\left[ \left(-e^{-x}\right)-(-1) \right]\,dy\\
-&=\int^\infty_0 -e^{-y}
+&=\left[ \left(-e^{-x}\right)-(-1) \right]-e^{-y}|^\infty_{y=0}\\
+&=
 \end{align}$$
