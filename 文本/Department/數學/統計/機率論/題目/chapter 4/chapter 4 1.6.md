@@ -20,3 +20,4 @@ P(X\leq x)=\int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\c
 \end{align}
 $$
 #### 2.
+跟第一小題一樣，
