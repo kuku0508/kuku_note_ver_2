@@ -22,5 +22,7 @@ $$
 #### 2.
 跟第一小題一樣，我們要求$P(Y\leq y)$，我們就必須要考慮所有$P(Y\leq y)$，包含$0<x<\infty$的範圍。那我們積分範圍就是：
 $$
-P(Y\leq y)
+\begin{align}
+P(Y\leq y)=\int^{}_{} \int^{}_{} \,dtdx
+\end{align}
 $$
