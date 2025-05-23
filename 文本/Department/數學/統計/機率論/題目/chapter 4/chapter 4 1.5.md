@@ -11,5 +11,6 @@ $$
 \begin{align}
 \int^c_0\int^y_0 e^{-x-y}\,dxdy&=\int^c_0\int^y_0e^{-x}\cdot e^{-y}\,dxdy\\
 &=\int^c_0 e^{-y}\int^y_0 e^{-x} dxdy\\
+&=\int^c_0 e^{-y}\left(-e^{-x}\right)
 \end{align}
 $$
