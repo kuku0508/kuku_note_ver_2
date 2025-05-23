@@ -28,6 +28,9 @@ P(Y\leq y)&=\int^{\infty}_{0} \int^{y}_{0}e^{-t-x} \,dtdx\\
 &=\int^{\infty}_0e^{-x}(-e^{-t})|^{y}_{t=0}\,dx\\
 &=\int^{\infty}_0e^{-x}(-e^{-y}+1)\,dx\\
 &=(-e^{-y}+1)\int^{\infty}_0e^{-x}\,dx\\
-&=(-e^{-y}+1)(-e^{})
+&=(-e^{-y}+1)(-e^{-x})|^\infty_{x=0}\\
+&=(-e^{-y}+1)(1)\\
+&=1-e^{-y}
 \end{align}
 $$
+3. 
