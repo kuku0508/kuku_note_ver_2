@@ -20,4 +20,5 @@ P(X\leq x)=\int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\c
 \end{align}
 $$
 #### 2.
-跟第一小題一樣，我們要求$P(Y\leq y)$，我們就必須要考慮所有$P(Y\leq y)$，包含$0<x<\infty$的範圍。那我們積分範圍就是
+跟第一小題一樣，我們要求$P(Y\leq y)$，我們就必須要考慮所有$P(Y\leq y)$，包含$0<x<\infty$的範圍。那我們積分範圍就是：
+P()
