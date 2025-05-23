@@ -59,4 +59,13 @@ $$
 $$
 f_{X,Y}(x,y)=\frac67\left(x^2+\frac{xy}{2}\right),\quad0<x\leq1,\, 0<y\leq 2
 $$
-你可以看到，X最大就到1，而X要大於Y，所以定義
+你可以看到，X最大就到1，而X要大於Y，所以定義域會被寫成：
+$$
+0<Y<X\leq1
+$$
+而我們根據這個定義域去做積分：
+$$
+\begin{align}
+
+\end{align}
+$$
