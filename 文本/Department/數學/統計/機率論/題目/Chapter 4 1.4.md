@@ -55,4 +55,8 @@ $$
 $$
 因為他的積分結果為1，所以我們得證，$\frac67\left(x^2+\frac{xy}2\right)$是pdf。
 #### (ii)
-題目要我們計算$P(X>Y)$，
+題目要我們計算$P(X>Y)$，那我們先回頭看一下X跟Y的定義域
+$$
+f_{X,Y}(x,y)=\frac67\left(x^2+\frac{xy}{2}\right),\quad0<x\leq1,\, 0<y\leq 2
+$$
+你可以看到，X最大ㄐㄧㄡ
