@@ -74,6 +74,6 @@ $$
 最後積分就會變成：
 $$
 \begin{align}
-P(X+Y\leq3)=\int^{}\int
+P(X+Y\leq3)=\int^3_0\int^{3-y}
 \end{align}
 $$
