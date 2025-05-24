@@ -71,3 +71,9 @@ $$0<X\leq 3-Y$$
 $$
 0<Y\leq3
 $$
+最後積分就會變成：
+$$
+\begin{align}
+P(X+Y\leq3)=\int^{}\int
+\end{align}
+$$
