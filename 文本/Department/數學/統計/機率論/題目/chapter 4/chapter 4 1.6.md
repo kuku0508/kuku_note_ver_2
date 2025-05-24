@@ -83,6 +83,6 @@ P(X+Y\leq3)&=\int^3_0\int^{3-y}_0e^{-x-y}\,dxdy\\
 &=\frac{-e^3}{2}e^{-2y}-e^{-y}|^3_{y=0}\\
 &=\left[\frac{-e^3\cdot e^{(-2)\cdot3}}{2}-e^{-3}\right]-\left[\frac{-e^3}{2}-1\right]\\
 &=\left[\frac{ e^{-3}}{2}-e^{-3}\right]-\left[\frac{-e^3}{2}-1\right]\\
-&=-\frac{ e^{-3}}{2}\frac{-e^3}{2}-1\\
+&=\frac{e^3}{2}-\frac{ e^{-3}}{2}+1\\
 \end{align}
 $$
