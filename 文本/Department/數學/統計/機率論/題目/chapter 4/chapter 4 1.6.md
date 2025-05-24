@@ -75,6 +75,7 @@ $$
 $$
 \begin{align}
 P(X+Y\leq3)&=\int^3_0\int^{3-y}_0e^{-x-y}\,dxdy\\
-&=\int^3_0e^{-x-y}
+&=\int^3_0e^{-y}\int^{3-y}_0e^{-x}\,dxdy\\
+&=\int^3_0e^{-y}(-e^{-x})|^{}
 \end{align}
 $$
