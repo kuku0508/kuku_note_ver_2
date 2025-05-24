@@ -48,4 +48,5 @@ P(X<Y)&=\int^\infty_0 \int^y_0 e^{-x-y} \,dx dy\\
 &=\frac12
 \end{align}
 $$
-
+#### 4.
+第四小題看起來有點麻煩
