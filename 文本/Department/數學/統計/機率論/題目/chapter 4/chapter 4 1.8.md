@@ -19,6 +19,6 @@ $$
 最後我們就可以開始積分了：
 $$
 \begin{align}
-\int^\infty_0 \int^x_0 cye^{-xy/2} \,dydx&=\
+\int^\infty_0 \int^x_0 cye^{-xy/2} \,dydx&=\int^\infty_0 c\int^{x}_0y
 \end{align}
 $$
