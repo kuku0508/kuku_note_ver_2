@@ -1,6 +1,7 @@
 # 問題：
 The r.v's $X$ and $Y$ have the joint pdf $f_{X,Y}$ given by:
 $$
-f_{X,Y}(X,Y)=cye^{-xy/2}
+f_{X,Y}(X,Y)=cye^{-xy/2},\quad0<y<x.
 $$
+Determine the constant c.
 # 回答：
