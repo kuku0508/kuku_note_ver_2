@@ -20,6 +20,7 @@ $$
 $$
 \begin{align}
 \int^{x}_0 \int^\infty_0cye^{-xy/2} \,dxdy&=\int^{x}_0 cy\int^\infty_0e^{-xy/2}\,dxdy\\
-&=\int^\infty_0cy\left(-\frac{2}{y}e^{-xy/2}\right)^x_{y=0}
+&=\int^x_0cy\left(-\frac{2}{y}e^{-xy/2}\right)^\infty_{x=0}\\
+&=\int^x_0cy
 \end{align}
 $$
