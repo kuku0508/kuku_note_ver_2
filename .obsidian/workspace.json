@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e93175ee0ad1d354",
-        "type": "split",
+        "id": "a1c8cf6937e39e20",
+        "type": "tabs",
         "children": [
           {
-            "id": "05f36101c8c57538",
-            "type": "tabs",
-            "dimension": 60.27298850574712,
-            "children": [
-              {
-                "id": "5c09d71f274cded4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/講義/財政統計.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "財政統計"
-                }
-              }
-            ]
-          },
-          {
-            "id": "a1c8cf6937e39e20",
-            "type": "tabs",
-            "dimension": 39.72701149425287,
-            "children": [
-              {
-                "id": "6b3a96ed3d8a7e74",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "文本/Department/數學/統計/政府統計實務/隨便筆記 for final exam.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "隨便筆記 for final exam"
-                }
-              }
-            ]
+            "id": "6b3a96ed3d8a7e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文本/Department/數學/統計/政府統計實務/隨便筆記 for final exam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "隨便筆記 for final exam"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,11 +295,11 @@
       }
     ]
   },
-  "active": "5c09d71f274cded4",
+  "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/政府統計實務/講義/財政統計.md",
     "文本/Department/數學/統計/政府統計實務/講義/進出口貿易統計.md",
     "文本/Department/數學/統計/政府統計實務/隨便筆記 for final exam.md",
-    "文本/Department/數學/統計/政府統計實務/講義/財政統計.md",
     "文本/Department/數學/統計/政府統計實務/講義/企業活動指標.md",
     "文本/Department/數學/統計/政府統計實務/講義/工商及服務業普查.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
