@@ -19,7 +19,7 @@ $$
 最後我們就可以開始積分了，但我們可以看到如果我們先積分y，那我們就會遇到$y\cdot e^{-xy/2}$，這種比較麻煩的積分。所以當我們遇到這種比較麻煩的積分時，又找不到辦法可不可以讓這個變得比較好積分，那我建議可以從另外一個積分。可能可以解決問題。
 $$
 \begin{align}
-\int^\infty_0 \int^x_0 cye^{-xy/2} \,dxdy&=\int^\infty_0 cy\int^{x}_0e^{-xy/2}\,dxdy\\
-&=\int^\infty_0cy\left(-\frac{2}{y}e^{-xy/2}\right)^x
+\int^{x}_0 \int^\infty_0cye^{-xy/2} \,dxdy&=\int^{x}_0 cy\int^\infty_0e^{-xy/2}\,dxdy\\
+&=\int^\infty_0cy\left(-\frac{2}{y}e^{-xy/2}\right)^x_{y=0}
 \end{align}
 $$
