@@ -5,7 +5,7 @@ Determine the constant c .
 $$
 \begin{align}
 \int^{c}_{0} \int^{y}_{0} \frac{2}{c^2} \,dxdy&=\int^c_0\frac2{c^2}\int^y_01\,dxdy\\
-&=\int^c_0\frac2{c^2}ydy\\
-&=\int^c_0
+&=\int^c_0\frac2{c^2}y\,dy\\
+&=\frac2{c^2}\int^c_0y\,dy\\
 \end{align}
 $$
