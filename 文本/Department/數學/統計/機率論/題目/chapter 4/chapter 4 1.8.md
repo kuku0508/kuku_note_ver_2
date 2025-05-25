@@ -18,5 +18,7 @@ X\in(0,\infty)
 $$
 最後我們就可以開始積分了：
 $$
-\int^\infty_0\int
+\begin{align}
+\int^\infty_0 \int^x_0 cye^{-xy/2} \,dydx&=
+\end{align}
 $$
