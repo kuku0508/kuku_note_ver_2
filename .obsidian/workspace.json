@@ -301,12 +301,12 @@
                 "id": "ebc001f8b467a2c6",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
                     "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
                   },
-                  "icon": "lucide-file",
-                  "title": "Loading Excalidraw... An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                  "icon": "excalidraw-icon",
+                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
               }
             ]
@@ -322,8 +322,9 @@
       }
     ]
   },
-  "active": "f3e649a38012af4e",
+  "active": "5c09d71f274cded4",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/政府統計實務/隨便筆記 for final exam.md",
     "文本/Department/數學/統計/政府統計實務/講義/工商及服務業普查.md",
@@ -344,7 +345,6 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.2.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.1.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "文本/Department/數學/統計/機率論/題目/表格",
