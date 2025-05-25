@@ -4,6 +4,6 @@ Determine the constant c .
 # 回答：
 $$
 \begin{align}
-\int^{c}_{0} \int^{y}_{0} \frac{2}{c^2} dxdy
+\int^{c}_{0} \int^{y}_{0} \frac{2}{c^2} \,dxdy&=
 \end{align}
 $$
