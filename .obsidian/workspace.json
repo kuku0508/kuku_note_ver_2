@@ -10,7 +10,7 @@
           {
             "id": "05f36101c8c57538",
             "type": "tabs",
-            "dimension": 60.27298850574713,
+            "dimension": 60.27298850574712,
             "children": [
               {
                 "id": "5c09d71f274cded4",
@@ -301,12 +301,12 @@
                 "id": "ebc001f8b467a2c6",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                  "icon": "lucide-file",
+                  "title": "Loading Excalidraw... An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
               }
             ]
@@ -322,11 +322,12 @@
       }
     ]
   },
-  "active": "6b3a96ed3d8a7e74",
+  "active": "f3e649a38012af4e",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/政府統計實務/隨便筆記 for final exam.md",
     "文本/Department/數學/統計/政府統計實務/講義/工商及服務業普查.md",
     "文本/Department/數學/統計/政府統計實務/講義/農林漁牧業普查.md",
-    "文本/Department/數學/統計/政府統計實務/隨便筆記 for final exam.md",
     "文本/Department/數學/統計/政府統計實務/講義/人口及住宅普查.md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "文本/Department/數學/統計/政府統計實務/講義/內政性別統計.md",
@@ -336,7 +337,6 @@
     "文本/Department/數學/統計/政府統計實務/講義/企業活動指標.md",
     "文本/Department/數學/統計/政府統計實務/講義/統計制度 政府統計.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.6.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.5.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/Untitled 1.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.4.md",
