@@ -5,3 +5,4 @@ f_{X,Y}(X,Y)=cye^{-xy/2},\quad0<y<x.
 $$
 Determine the constant c.
 # 回答：
+ 
