@@ -16,7 +16,7 @@ $$
 $$
 X\in(0,\infty)
 $$
-最後我們就可以開始積分了：
+最後我們就可以開始積分了，但我們可以看到如果我們先積分y，那我們就會遇到y\cdote
 $$
 \begin{align}
 \int^\infty_0 \int^x_0 cye^{-xy/2} \,dydx&=\int^\infty_0 c\int^{x}_0y
