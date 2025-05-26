@@ -9,7 +9,7 @@ $$
 \int^{c}_{0} \int^{y}_{0} \frac{2}{c^2} \,dxdy&=\int^c_0\frac2{c^2}\int^y_01\,dxdy\\
 &=\int^c_0\frac2{c^2}y\,dy\\
 &=\frac2{c^2}\int^c_0y\,dy\\
-&=\frac{2}{c^2}\left(\frac {y^2}2\right)^{c}_{y=0}\\
+&=\frac{2}{c^2}\left(\frac {y^2}2\right)\bigg|^{c}_{y=0}\\
 &=\frac{2}{c^2}\cdot\frac{c^2}{2}\\
 &=\frac{c^2}{c^2}=1
 \end{align}
