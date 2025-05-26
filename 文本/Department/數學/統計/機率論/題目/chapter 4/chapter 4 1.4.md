@@ -44,9 +44,9 @@ $$
 $$
 \begin{align}
 \int^1_0\int^2_0\frac67\left(x^2+\frac{xy}2\right)\,dydx&=\frac67\int^1_0\int^2_0 x^2+\frac{xy}2\,dydx\\
-&=\frac67\int^1_0x^2y+\frac{xy^2}4\vert^2_{y=0}\\
+&=\frac67\int^1_0x^2y+\frac{xy^2}4\bigg|^2_{y=0}\\
 &=\frac67\int^1_0 2x^2+x\,dx\\
-&=\frac67\left(\frac{2x^3}{3}+\frac{x^2}{2}\right)|^{1}_{x=0}\\
+&=\frac67\left(\frac{2x^3}{3}+\frac{x^2}{2}\right)\bigg|^{1}_{x=0}\\
 &=\frac67 \left(\frac23+\frac12\right)\\
 &=\frac67\left(\frac{4+3}{6}\right)\\
 &=\frac67\cdot\frac76\\
@@ -67,7 +67,7 @@ $$
 $$
 \begin{align}
 \int^1_0\int^x_0\frac{6}{7}\left(x^2+\frac{xy}2\right)\,dydx&=\int^1_0\frac67\cdot x\int^x_0\left(x+\frac y2\right)\,dydx\\
-&=\int^1_0 \frac67x\left(xy+\frac{y^2}{4}\right)|^x_{y=0}\,dx\\
+&=\int^1_0 \frac67x\left(xy+\frac{y^2}{4}\right)\bigg|^x_{y=0}\,dx\\
 &=\int^1_0\frac67x\left(x^2+\frac{x^2}4\right)\,dx\\
 &=\frac67\int^1_0 x^3+\frac{x^3}4\,dx\\
 &=\frac67\left(\frac{x^4}4+\frac{x^4}{16}\right)|^1_{x=0}\\
