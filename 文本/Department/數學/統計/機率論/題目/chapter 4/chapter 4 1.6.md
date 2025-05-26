@@ -12,7 +12,7 @@ $$
 \begin{align}
 P(X\leq x)=\int^\infty_0 \int ^x_0 e^{-t-y}\,dtdy&=\int^\infty_0\int^x_0e^{-t}\cdot e^{-y}\,dtdy\\
 &=\int^\infty_0e^{-y}\int^x_0e^{-t}\,dtdy\\
-&=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)|^x_{t=0}\,dy\\
+&=\int^\infty_0 e^{-y}\cdot\left(-e^{-t}\right)\bigg|^x_{t=0}\,dy\\
 &=\int^\infty_0 e^{-y}\cdot\left[ \left(-e^{-x}\right)-(-1) \right]\,dy\\
 &=\left(1-e^{-x}\right)\left(-e^{-y}\right)\bigg|^\infty_{y=0}\\
 &=\left(1-e^{-x}\right)\cdot\left[-\left(-1\right)\right]\\
@@ -25,10 +25,10 @@ $$
 \begin{align}
 P(Y\leq y)&=\int^{\infty}_{0} \int^{y}_{0}e^{-t-x} \,dtdx\\
 &=\int^{\infty}_0e^{-x}\int^{y}_{0}e^{-t}\,dtdx\\
-&=\int^{\infty}_0e^{-x}(-e^{-t})|^{y}_{t=0}\,dx\\
+&=\int^{\infty}_0e^{-x}(-e^{-t})\bigg|^{y}_{t=0}\,dx\\
 &=\int^{\infty}_0e^{-x}(-e^{-y}+1)\,dx\\
 &=(-e^{-y}+1)\int^{\infty}_0e^{-x}\,dx\\
-&=(-e^{-y}+1)(-e^{-x})|^\infty_{x=0}\\
+&=(-e^{-y}+1)(-e^{-x})\bigg|^\infty_{x=0}\\
 &=(-e^{-y}+1)(1)\\
 &=1-e^{-y}
 \end{align}
@@ -40,10 +40,10 @@ $$
 \begin{align}
 P(X<Y)&=\int^\infty_0 \int^y_0 e^{-x-y} \,dx dy\\
 &=\int^\infty_0e^{-y}\int^{y}_0e^{-x}\,dxdy\\
-&=\int^\infty_0e^{-y}(-e^{-x})|^{y}_{x=0}\,dy\\
+&=\int^\infty_0e^{-y}(-e^{-x})\bigg|^{y}_{x=0}\,dy\\
 &=\int^\infty_0e^{-y}(-e^{-y}+1)\,dy\\
 &=\int^\infty_0e^{-2y}+e^{-y}\,dy\\
-&=\frac12e^{-2y}-e^{-y}|^{\infty}_{y=0}\\
+&=\frac12e^{-2y}-e^{-y}\bigg|^{\infty}_{y=0}\\
 &=1-\frac12\\
 &=\frac12
 \end{align}
@@ -76,10 +76,10 @@ $$
 \begin{align}
 P(X+Y\leq3)&=\int^3_0\int^{3-y}_0e^{-x-y}\,dxdy\\
 &=\int^3_0e^{-y}\int^{3-y}_0e^{-x}\,dxdy\\
-&=\int^3_0e^{-y}(-e^{-x})|^{3-y}_{x=0}\,dy\\
+&=\int^3_0e^{-y}(-e^{-x})\bigg|^{3-y}_{x=0}\,dy\\
 &=\int^3_0e^{-y}(-e^{y-3}+1)\,dy\\
 &=\int^3_0-e^{-3}+e^{-y}\,dy\\
-&=-e^{-3}y-e^{-y}|^3_{x=0}\\
+&=-e^{-3}y-e^{-y}\bigg|^3_{x=0}\\
 &=(-3e^{-3}-e^{-3})-(0-1)\\
 &=1-4e^{-3}\\
 &\approx0.8009
