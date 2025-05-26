@@ -24,6 +24,6 @@ $$
 &=\int^x_0cy\,\cdot\,\frac2y\,dy\\
 &=\int^x_02c\,dy\\
 &=(2cy)^x_{y=0}\\
-&=
+&=\bigg|
 \end{align}
 $$
