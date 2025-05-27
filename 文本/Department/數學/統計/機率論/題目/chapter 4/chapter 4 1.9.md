@@ -14,6 +14,6 @@ $$
 &=\int^{c_2}_0\frac12 c_1^2\cdot y^2\,dy\\
 &=\frac12 c_1^2\int^{c_2}_0y^2\,dy\\
 &=\frac12 c_1^2\left(\frac13y^3\right)\bigg|^{c_2}_{y=0}\\
-&=\frac{1}{2}
+&=\frac{1}{6}c^2_1c^3_2
 \end{align}
 $$
