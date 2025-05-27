@@ -23,7 +23,7 @@ $$
 &=\int^x_0cy\left(-\frac{2}{y}e^{-xy/2}\right)\bigg|^\infty_{x=0}\,dy\\
 &=\int^x_0cy\,\cdot\,\frac2y\,dy\\
 &=\int^x_02c\,dy\\
-&=(2cy)^x_{y=0}\\
+&=(2cy)\bigg|^x_{y=0}\\
 &=
 \end{align}
 $$
