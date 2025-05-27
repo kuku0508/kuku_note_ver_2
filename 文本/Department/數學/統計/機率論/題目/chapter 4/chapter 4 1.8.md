@@ -13,6 +13,6 @@ $$
 \begin{align}
 \int^{\infty}_0 \int^\infty_y cye^{-xy/2} \,dxdy&=\int^\infty_0 cy\int^\infty_y e^{-xy/2}\,dxdy\\
 &=\int^\infty_0cy\left(\frac{-2}{y}e^{-xy/2}\right)\bigg|^\infty_{x=y}\,dy\\
-&=\int^\infty_0cy\left(\frac{-2}{}\right)
+&=\int^\infty_0cy-2
 \end{align}
 $$
