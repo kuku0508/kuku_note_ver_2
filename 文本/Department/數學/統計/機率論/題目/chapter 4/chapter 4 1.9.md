@@ -5,4 +5,10 @@ f_{X,Y}(x,y)=xy^2\,,\,0<x\leq c_1,\,0<y\leq c_2
 $$
 Determine the condition that $c_1$ and $c_2$ must satisfy so that $f_{X,Y}$ is, indeed, a pdf.
 # 回答：
-確定是pdf了，所以積分結果要為
+確定是pdf了，所以積分結果要為1。
+然後有函數了，知道積分範圍了，開始積分。
+$$
+\begin{align}
+\int^{c_1}_0 xy^2
+\end{align}
+$$
