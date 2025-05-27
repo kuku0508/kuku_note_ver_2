@@ -15,8 +15,9 @@ $$
 &=\int^\infty_0cy\left(\frac{-2}{y}e^{-xy/2}\right)\bigg|^\infty_{x=y}\,dy\\
 &=\int^\infty_02ce^{-y^2/2}\,dy\\
 &=2c\int^\infty_0e^{-y^2/2}\,dy\\
-&=2c\left(\sqrt{\pi}\right)\\
-&=c
+&=2c\left(\frac12\sqrt{2\pi}\right)\\
+&=c\sqrt{2\pi}\\
+&\
 \end{align}
 $$
 
