@@ -11,6 +11,6 @@ Determine the constant c.
 但這個題目比較特別，在積分之前，我們可看到，如果我們先積分y，我們會遇到要積分$ye^{-\frac{xy}2}$的情況。但這樣會比較不好積分，所以我們這邊可以先對x積分。接下來再對y積分，通常會比較簡單積分。
 $$
 \begin{align}
-\int^{\infty}_0 \int^\infty_y cye^{-xy/2} \,dxdy&=
+\int^{\infty}_0 \int^\infty_y cye^{-xy/2} \,dxdy&=\int^\infty_0 cy\int^\infty_y e^{\frac{-xy}}
 \end{align}
 $$
