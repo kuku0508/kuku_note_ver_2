@@ -9,6 +9,6 @@ Determine the condition that $c_1$ and $c_2$ must satisfy so that $f_{X,Y}$ is, 
 然後有函數了，知道積分範圍了，開始積分。
 $$
 \begin{align}
-\int^{c_1}_0 xy^2
+\int^{c_2}_0\int^{c_1}_0 xy^2\,dxdy=\int^{c_2}_0y^2\int^{c_1}_0x\,dx
 \end{align}
 $$
