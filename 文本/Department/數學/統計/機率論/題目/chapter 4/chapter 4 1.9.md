@@ -11,6 +11,7 @@ $$
 \begin{align}
 \int^{c_2}_0\int^{c_1}_0 xy^2\,dxdy&=\int^{c_2}_0y^2\int^{c_1}_0x\,dxdy\\
 &=\int^{c_2}_0y^2\left(\frac12 x^2\right)\bigg|^{c_1}_{x=0}\\
-&=\int^{c_2}_0\frac12 c_1^2\cdot y^2
+&=\int^{c_2}_0\frac12 c_1^2\cdot y^2\\
+&=\frac12 c_1^2\int^{c_2}_0y^2
 \end{align}
 $$
