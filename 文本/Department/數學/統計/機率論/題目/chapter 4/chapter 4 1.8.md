@@ -17,7 +17,8 @@ $$
 &=2c\int^\infty_0e^{-y^2/2}\,dy\\
 &=2c\left(\frac12\sqrt{2\pi}\right)\\
 &=c\sqrt{2\pi}\\
-&\
+&\Rightarrow c\sqrt{2\pi}=1\\
+&\Rightarrow c=\frac{1}{\sqrt{2\pi}}
 \end{align}
 $$
 
