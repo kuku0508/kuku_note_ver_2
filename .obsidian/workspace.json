@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.8.md",
+                "file": "知識/微積分/微積分總目錄.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 4 1.8"
+              "title": "微積分總目錄"
             }
           }
         ]
@@ -295,11 +295,13 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.8.md",
+    "知識/微積分/微積分總目錄.md",
+    "知識/微積分/未命名.md",
     "知識/微積分",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.8.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.1.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.2.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.3.md",
@@ -327,7 +329,6 @@
     "文本/Department/數學/統計/機率論/題目/表格",
     "文本/Department/數學/統計/機率論/題目表格",
     "文本/Department/數學/統計/機率論/題目/表格/table of chapter 4 1.1.png",
-    "模板/題目.md",
     "文本/Department/數學/統計/機率論/題目",
     "文本/Department/數學/統計/機率論/未命名.canvas",
     "文本/Department/數學/統計/機率論",
@@ -335,7 +336,6 @@
     "知識/統計/抽樣調查/基礎知識/資料收集",
     "知識/統計/抽樣調查/基礎知識/資料收集方法",
     "未處理/附件/Pasted image 20250519070128.png",
-    "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/未命名",
     "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
     "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
