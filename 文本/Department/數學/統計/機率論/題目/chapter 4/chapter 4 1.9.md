@@ -13,6 +13,7 @@ $$
 &=\int^{c_2}_0y^2\left(\frac12 x^2\right)\bigg|^{c_1}_{x=0}\,dy\\
 &=\int^{c_2}_0\frac12 c_1^2\cdot y^2\,dy\\
 &=\frac12 c_1^2\int^{c_2}_0y^2\,dy\\
-&=\frac12 c_1^2
+&=\frac12 c_1^2\left(\frac13y^3\right)\bigg|^{c_2}_{y=0}\\
+&=\frac{1}{2}
 \end{align}
 $$
