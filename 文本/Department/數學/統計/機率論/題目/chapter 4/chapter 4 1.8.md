@@ -16,6 +16,6 @@ $$
 &=\int^\infty_02ce^{-y^2/2}\,dy\\
 &=2c\int^\infty_0e^{-y^2/2}\,dy\\
 &=2c\left(-\frac{1}{2}e^{-y^2/2}\right)\bigg|^\infty_{y=0}\\
-&=2c
+&=c
 \end{align}
 $$
