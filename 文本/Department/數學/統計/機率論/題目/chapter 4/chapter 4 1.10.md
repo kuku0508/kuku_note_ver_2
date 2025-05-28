@@ -19,6 +19,7 @@ Determine the constant c.
 $$
 \begin{align}
 \iint_Dcx\,dxdy&=\left(\int^1_0\int^{2-x}_{1-x}cx\,dydx\right)+\left(\int^2_1\int^{2-x}_0cx\,dydx\right)\\
-&=\left(\int^1_0cxy\bigg|^{2-x}_{y=1-x}\right)+\left(\int^2_1cxy\bigg|^{2-x}_{y=0}\right)
+&=\left(\int^1_0cxy\bigg|^{2-x}_{y=1-x}\,dx\right)+\left(\int^2_1cxy\bigg|^{2-x}_{y=0}\,dx\right)\\
+&=\left(\int^1_0cx(2-x)\right)+\left(\right)
 \end{align}
 $$
