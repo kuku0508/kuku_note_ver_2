@@ -25,6 +25,8 @@ $$
 &=\left(\frac{cx^2}{2}\bigg|^{1}_{x=0}\right)+\left(cx^2-\frac{cx^3}{3}\bigg|^2_{x=1}\right)\\
 &=\frac{c}{2}+\left[\frac{12c-8c}{3}-\left(\frac{3c-c}{3}\right)\right]\\
 &=\frac{3c}{6}+\frac{4c}{6}\\
-&=
+&=\frac{7c}{6}\\
+&\Rightarrow\frac{7c}{6}=1\\
+&\Rightarrow c=\frac67
 \end{align}
 $$
