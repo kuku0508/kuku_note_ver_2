@@ -5,4 +5,5 @@ f_{X,Y}(x,y)=cx,\quad x>0,\quad y>0,\quad 1\leq x+y<2\quad (c>0)
 $$
 Determine the constant c.
 **Hint.** The above diagram should facilitate the calculations. The range of the pair (x,y) is the shadowed area.
+![[plot of 1.10.png]]
 # 回答：
