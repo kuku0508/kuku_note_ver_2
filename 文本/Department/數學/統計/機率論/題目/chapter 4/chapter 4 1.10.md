@@ -22,6 +22,6 @@ $$
 &=\left(\int^1_0cxy\bigg|^{2-x}_{y=1-x}\,dx\right)+\left(\int^2_1cxy\bigg|^{2-x}_{y=0}\,dx\right)\\
 &=\left(\int^1_0cx\,dx\right)+\left(\int^2_1cx(2-x)\,dx\right)\\
 &=\left(\int^1_0cx\,dx\right)+\left(\int^2_12cx-cx^2\,dx\right)\\
-&=\frac{cx^2}{2}
+&=\left(\frac{cx^2}{2}\bigg|^{1}_{x=0}\right)+\left(cx^2-\frac{c}{}\right)
 \end{align}
 $$
