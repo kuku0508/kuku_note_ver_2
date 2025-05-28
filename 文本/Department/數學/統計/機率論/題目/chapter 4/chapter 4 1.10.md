@@ -17,5 +17,5 @@ Determine the constant c.
 
 所以從上面的結論我們可以知道我們的積分會變成這樣：
 $$
-\iint_D
+\iint_Dcx\,dxdy
 $$
