@@ -7,4 +7,4 @@ Determine the constant c.
 **Hint.** The above diagram should facilitate the calculations. The range of the pair (x,y) is the shadowed area.
 ![[plot of 1.10.png|400]]
 # 回答：
-你可以透過畫圖的方式來知道說你的定義域應該會是在哪
+你可以透過畫圖的方式來知道說你的定義域應該會是在哪，從上面的圖來看，我們可以看到，你的
