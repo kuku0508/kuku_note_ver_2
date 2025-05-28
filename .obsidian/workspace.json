@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.10.md",
+                "file": "文本/Department/數學/線性代數/雜亂筆記.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 4 1.10"
+              "title": "雜亂筆記"
             }
           }
         ]
@@ -308,7 +308,7 @@
       }
     ]
   },
-  "active": "560cbbaf80086321",
+  "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
     "文本/Department/數學/統計/機率論/題目/chapter 4/chapter 4 1.10.md",
     "文本/書/Linear Algebra With Applications.md",
