@@ -3,5 +3,5 @@ The r.v.'s $X$ and $Y$ have joint pdf $f_{X,Y}$ given by:
 $$
 f_{X,Y}(x,y)=c(y^2-x^2)e^{-y},\quad -y<x<y,\quad0<y<\infty.$$
 Determine the constant c.
-**Hint**. W$\$
+**Hint**. We have that $\int^\infty_0 ye^{-y}\,dy=1$, and the remaining integrals are computed recursively.
 # 回答：
