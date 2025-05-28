@@ -21,6 +21,7 @@ $$
 \iint_Dcx\,dxdy&=\left(\int^1_0\int^{2-x}_{1-x}cx\,dydx\right)+\left(\int^2_1\int^{2-x}_0cx\,dydx\right)\\
 &=\left(\int^1_0cxy\bigg|^{2-x}_{y=1-x}\,dx\right)+\left(\int^2_1cxy\bigg|^{2-x}_{y=0}\,dx\right)\\
 &=\left(\int^1_0cx\,dx\right)+\left(\int^2_1cx(2-x)\,dx\right)\\
-&=\left(\int^1_0cx\,dx\right)+(\int^2_1cx(2-x)\,dx\right)
+&=\left(\int^1_0cx\,dx\right)+\left(\int^2_12cx-cx^2\,dx\right)\\
+&=\frac{cx^2}{2}
 \end{align}
 $$
