@@ -17,5 +17,6 @@ Determine the constant c.
 
 所以從上面的結論我們可以知道我們的積分會變成這樣：
 $$
-\iint_Dcx\,dxdy=\left[\int^1_0\int^{2-x}_{1-x}cx\,dydx\right)+\left(\right)
-$$
+\begin{align}
+\iint_Dcx\,dxdy=\left(\int^1_0\int^{2-x}_{1-x}cx\,dydx\right)+\left(\int^2_1\int^{2-x}_0cx\,dydx\right)
+\end{ali}$$
