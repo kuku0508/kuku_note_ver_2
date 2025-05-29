@@ -7,6 +7,7 @@ Determine the constant c.
 # 回答：
 $$
 \begin{align}
-\int^\infty_0\int^y_{-y} c(y^2-x^2)e^{-y}\,dxdy
+\int^\infty_0\int^y_{-y} c(y^2-x^2)e^{-y}\,dxdy&=\int^\infty_0ce^{-y}\int^y_{-y}y^2-x^2\,dxdy\\
+
 \end{align}
 $$
