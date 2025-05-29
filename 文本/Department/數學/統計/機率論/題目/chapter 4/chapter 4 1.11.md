@@ -5,3 +5,8 @@ f_{X,Y}(x,y)=c(y^2-x^2)e^{-y},\quad -y<x<y,\quad0<y<\infty.$$
 Determine the constant c.
 **Hint**. We have that $\int^\infty_0 ye^{-y}\,dy=1$, and the remaining integrals are computed recursively.
 # 回答：
+$$
+\begin{align}
+\int^\infty_0\int^y_{-y} c(y^2-x^2)e^{-y}\,dxdy
+\end{align}
+$$
