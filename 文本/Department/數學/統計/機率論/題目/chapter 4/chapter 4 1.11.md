@@ -10,7 +10,7 @@ $$
 \int^\infty_0\int^y_{-y} c(y^2-x^2)e^{-y}\,dxdy&=\int^\infty_0ce^{-y}\int^y_{-y}y^2-x^2\,dxdy\\
 &=\int^\infty_0ce^{-y}\left(y^2x-\frac{x^3}{3}\right)\bigg|^{y}_{x=-y}\,dy\\
 &=\int^\infty_0ce^{-y}\left[\left(y^3-\frac{y^3}{3}\right)-\left(-y^3-\frac{-y^3}{3}\right)\right]\,dy\\
-&=\int^\infty_0ce^{-y}\left(2y^3-\frac{2y^3}{3}\right)\\
-&=\
+&=\int^\infty_0ce^{-y}\left(2y^3-\frac{2y^3}{3}\right)\,dy\\
+&=c\int^\infty_0
 \end{align}
 $$
