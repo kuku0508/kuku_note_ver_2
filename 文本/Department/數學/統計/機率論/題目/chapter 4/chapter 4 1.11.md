@@ -11,6 +11,6 @@ $$
 &=\int^\infty_0ce^{-y}\left(y^2x-\frac{x^3}{3}\right)\bigg|^{y}_{x=-y}\,dy\\
 &=\int^\infty_0ce^{-y}\left[\left(y^3-\frac{y^3}{3}\right)-\left(-y^3-\frac{-y^3}{3}\right)\right]\,dy\\
 &=\int^\infty_0ce^{-y}\left(2y^3-\frac{2y^3}{3}\right)\,dy\\
-&=c\int^\infty_0c\frac{4}{6}y^3e^{-y}\,dy
+&=c\int^\infty_0\frac{4}{6}y^3e^{-y}\,dy
 \end{align}
 $$
