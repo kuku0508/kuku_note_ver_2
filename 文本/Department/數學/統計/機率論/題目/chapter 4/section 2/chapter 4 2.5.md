@@ -17,6 +17,7 @@ $$
 4. Calculate: Var(X) and Var(Y)
 # 回答：
 #### 第一小題
+##### 邊際機率密度函數
 關於邊緣機率密度函數還有條件機率的算法，可以看[[chapter 4 2.4]]，這邊就不多做贅述。
 $$
 \begin{array}{|l|l|l|l|l|}
@@ -31,4 +32,16 @@ f_X&3/16&2/16&5/16&3/8&1\\
 \hline
 \end{array}
 $$
+##### 條件機率
 ##### $f_{X\mid Y}(x,y)$
+$$
+\begin{array}{|l|l|l|l|l|}
+\hline
+y\backslash x&0&1&2&3\\
+\hline
+1&1/8&1/16&3/16&1/8\\
+\hline
+2&1/16&1/16&1/8&1/4\\
+\hline
+\end{array}
+$$
