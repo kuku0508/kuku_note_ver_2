@@ -70,12 +70,13 @@ y\backslash x&0&1&2&3\\
 \Rightarrow
 \begin{array}{|l|l|l|l|l|}
 \hline
-y\backslash x&0&1&2&3&合計\\
+y\backslash x&0&1&2&3\\
 \hline
-1&2/3&1/2&3/5&1/4&1\\
+1&2/3&1/2&3/5&2/6\\
 \hline
-2&1/3&1/2&2/5&1/2&1\\
+2&1/3&1/2&2/5&4/6\\
+\hline
+合計&1&1&1&1\\
 \hline
 \end{array}
-
 $$
