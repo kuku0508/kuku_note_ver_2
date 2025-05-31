@@ -62,9 +62,9 @@ $$
 \hline
 y\backslash x&0&1&2&3\\
 \hline
-1&\frac{1/8}{3/16}&\frac{1/16}{1/2}&\frac{3/16}{1/2}&\frac{1/8}{1/2}\\
+1&\frac{1/8}{3/16}&\frac{1/16}{2/16}&\frac{3/16}{5/16}&\frac{1/8}{6/16}\\
 \hline
-2&\frac{1/16}{1/2}&\frac{1/16}{1/2}&\frac{1/8}{1/2}&\frac{1/4}{1/2}\\
+2&\frac{1/16}{3/16}&\frac{1/16}{2/16}&\frac{1/8}{5/16}&\frac{1/4}{6/16}\\
 \hline
 \end{array}
 \Rightarrow
