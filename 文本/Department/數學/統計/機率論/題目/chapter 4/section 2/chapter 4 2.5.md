@@ -80,3 +80,8 @@ y\backslash x&0&1&2&3\\
 \hline
 \end{array}
 $$
+#### 第二小題
+期望值的算法是：
+$$
+E(X)=\sum
+$$
