@@ -34,5 +34,5 @@ f_X&7/36&17/36&12/36&1\\
 $$
 第二小題，我們得到條件機率的方法就是：
 $$
-f_{(X\mid Y)}(x,y)=\frac{f_{X,Y}(x,y)}{f_Y}\quad;\quad f_{(Y\mid X)}(x,y)=\frac{f_{X,Y}}{}
+f_{(X\mid Y)}(x,y)=\frac{f_{X,Y}(x,y)}{f_Y}\quad;\quad f_{(Y\mid X)}(x,y)=\frac{f_{X,Y}(x,y)}{f_X}
 $$
