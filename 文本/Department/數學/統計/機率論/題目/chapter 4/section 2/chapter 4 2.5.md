@@ -4,8 +4,12 @@ $$
 \begin{array}{|l|l|l|l|l|}
 \hline
 y\backslash x&0&1&2&3\\
+\hline
 1&1/8&1/16&3/16&1/8\\
-2&1/16&1/16&1/8
+\hline
+2&1/16&1/16&1/8&1/4\\
+\hline
 \end{array}
 $$
+1. Determine the marginal pdf of $f_X$ and $f_Y$, and the conditional pdf
 # 回答：
