@@ -56,7 +56,7 @@ y\backslash x&0&1&2&3&合計\\
 \end{array}
 
 $$
-##### $f_{X\mid Y}(x,y)$
+##### $f_{Y\mid X}(x,y)$
 $$
 \begin{array}{|l|l|l|l|l|}
 \hline
