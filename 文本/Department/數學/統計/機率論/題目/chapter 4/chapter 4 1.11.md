@@ -15,7 +15,8 @@ $$
 &=\frac{4c}{6}\left[\left(3-1\right)\right]!\\
 &=\frac{8}{6}c\\
 &=\frac{4}{3}c\\
-&\Ri
+&\Rightarrow\frac43c=1\\
+&\Rightarrow c=\frac{3}{4}
 \end{align}
 $$
 $$
