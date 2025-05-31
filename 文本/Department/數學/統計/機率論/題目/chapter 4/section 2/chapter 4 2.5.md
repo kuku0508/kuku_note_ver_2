@@ -12,5 +12,6 @@ y\backslash x&0&1&2&3\\
 \end{array}
 $$
 1. Determine the marginal pdf of $f_X$ and $f_Y$, and the conditional pdf $f_{X\mid Y}(\cdot\mid y),\,for\,\,y=1,2$.
-2. Calculate: $E(X)$, $E(Y)$, $E(X\mid Y=y)$, y=1
+2. Calculate: $E(X)$, $E(Y)$, $E(X\mid Y=y)$, $y=1,2$, and $E\left[E(X\mid Y)\right]$
+3. Compare E(X) and 
 # 回答：
