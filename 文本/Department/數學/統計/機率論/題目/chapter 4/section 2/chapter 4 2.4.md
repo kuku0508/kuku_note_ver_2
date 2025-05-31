@@ -62,6 +62,7 @@ y\backslash x&1&2&3&合計\\
 \hline
 \end{array}
 $$
+#### $f_{(Y\mid X)}(x,y)$
 $$
 \begin{array}{|l|l|l|l|}
 \hline
@@ -84,6 +85,8 @@ y\backslash x&1&2&3\\
 2&1/7&10/17&3/12\\
 \hline
 3&4/7&5/17&6/12\\
+\hline
+合計&1&1&1\\
 \hline
 \end{array}
 $$
