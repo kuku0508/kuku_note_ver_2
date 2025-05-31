@@ -14,4 +14,18 @@ x\backslash y&0&1&2\\
 \end{array}
 $$
 # 回答：
-這個的解法跟[[chapter 4 2.1]]一模一樣，就直接把所有$X=x$的機率加總起來
+這個的解法跟[[chapter 4 2.1]]一模一樣，就直接把所有$X=x$的機率加總起來。
+最後會變成像下表那樣：
+$$
+\begin{array}{|l|l|l|l|l|}
+\hline
+x\backslash y&0&1&2\\
+\hline
+0&0.3&0&0\\
+\hline
+1&0.2&0.2&0\\
+\hline
+2&0.075&0.15&0.075\\
+\hline
+\end{array}
+$$
