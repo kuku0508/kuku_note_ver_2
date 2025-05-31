@@ -6,11 +6,5 @@ Refer to [[chapter 4 1.1|Exercise 1.1]] and calculate the marginal pdf of $f_X$ 
 ![[table of chapter 4 1.1.png|400]]
 當我們要求X的邊際機率密度函數時，我們只要去看當今天$X=x$的時候，發生的所有事件的機率加總就好，不管Y的值是多少。
 $$
-f_X
-\begin{cases}
-0.025+0.015+0.01=0.05,&X=0\\
-0.05+0.03+0.02=0.1,&X=1\\
-0.125+0.075+0.05,&X=2\\
-0.15+0.09+0.06,&X=
-\end{cases}
+\begin{ar}
 $$
