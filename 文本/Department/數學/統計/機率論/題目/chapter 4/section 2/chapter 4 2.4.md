@@ -36,4 +36,18 @@ $$
 $$
 f_{(X\mid Y)}(x,y)=\frac{f_{X,Y}(x,y)}{f_Y}\quad;\quad f_{(Y\mid X)}(x,y)=\frac{f_{X,Y}(x,y)}{f_X}
 $$
-$f_{(X\mid Y)}(x,y)$
+#### $f_{(X\mid Y)}(x,y)$
+$$
+\begin{array}{|l|l|l|l|}
+\hline
+y\backslash x&1&2&3\\
+\hline
+1&\frac{2/36}{7/36}&2/36&3/36\\
+\hline
+2&1/36&10/36&3/36\\
+\hline
+3&4/36&5/36&6/36\\
+\hline
+\end{array}
+
+$$
