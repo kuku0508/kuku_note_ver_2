@@ -91,7 +91,7 @@ $$
 
 $$
 \begin{align}
-&E(X\mid Y=y),\quad for\,\,y=1,2\\
-&E(X\mid Y=1)=\sum^n_{i=1}x\cdot f_{X\mid Y}
+&E(X\mid Y=y)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=y)\\
+&E(X\mid Y=1)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=1)=
 \end{align}
 $$
