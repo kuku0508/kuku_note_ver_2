@@ -36,3 +36,4 @@ $$
 $$
 f_{(X\mid Y)}(x,y)=\frac{f_{X,Y}(x,y)}{f_Y}\quad;\quad f_{(Y\mid X)}(x,y)=\frac{f_{X,Y}(x,y)}{f_X}
 $$
+$f_{(X\mid Y)}(x,y)$
