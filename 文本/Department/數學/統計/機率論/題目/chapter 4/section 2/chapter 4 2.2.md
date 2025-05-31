@@ -27,7 +27,7 @@ x\backslash y&0&1&2&f_X\\
 \hline
 2&0.075&0.15&0.075&0.3\\
 \hline
-f_Y&0.575&0.\\
+f_Y&0.575&0.35&0.075\\
 \hline
 \end{array}
 $$
