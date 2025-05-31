@@ -12,7 +12,7 @@ $$
 &=\int^\infty_0ce^{-y}\left[\left(y^3-\frac{y^3}{3}\right)-\left(-y^3-\frac{-y^3}{3}\right)\right]\,dy\\
 &=\int^\infty_0ce^{-y}\left(2y^3-\frac{2y^3}{3}\right)\,dy\\
 &=c\int^\infty_0\frac{4}{6}y^3e^{-y}\,dy\\
-&=
+&=\frac{4c}{6}\left[\left(3-1)\right\r]!
 \end{align}
 $$
 $$
