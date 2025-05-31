@@ -56,3 +56,26 @@ y\backslash x&0&1&2&3&合計\\
 \end{array}
 
 $$
+##### $f_{X\mid Y}(x,y)$
+$$
+\begin{array}{|l|l|l|l|l|}
+\hline
+y\backslash x&0&1&2&3\\
+\hline
+1&\frac{1/8}{1/2}&\frac{1/16}{1/2}&\frac{3/16}{1/2}&\frac{1/8}{1/2}\\
+\hline
+2&\frac{1/16}{1/2}&\frac{1/16}{1/2}&\frac{1/8}{1/2}&\frac{1/4}{1/2}\\
+\hline
+\end{array}
+\Rightarrow
+\begin{array}{|l|l|l|l|l|}
+\hline
+y\backslash x&0&1&2&3&合計\\
+\hline
+1&1/4&1/8&3/8&1/4&1\\
+\hline
+2&1/8&1/8&1/4&1/2&1\\
+\hline
+\end{array}
+
+$$
