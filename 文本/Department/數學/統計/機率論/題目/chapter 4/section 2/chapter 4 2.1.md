@@ -1,3 +1,4 @@
 # 問題：
-Refer to Exercise 1.1 and calculate the marginal pdf for f_X and $f_Y$
+Refer to [[chapter 4 1.1|Exercise 1.1]] and calculate the marginal pdf for $f_X$ and $f_Y$
 # 回答：
+題目要我ㄇㄣ
