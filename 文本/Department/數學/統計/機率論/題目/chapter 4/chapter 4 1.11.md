@@ -15,3 +15,6 @@ $$
 &=
 \end{align}
 $$
+$$
+\Gamma(s)=\int^\infty_0 y^{(s-1)}e^{-y}\,dy=(s-1)!
+$$
