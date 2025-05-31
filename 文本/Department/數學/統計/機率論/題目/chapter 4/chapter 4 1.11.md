@@ -5,7 +5,7 @@ f_{X,Y}(x,y)=c(y^2-x^2)e^{-y},\quad -y<x<y,\quad0<y<\infty.$$
 Determine the constant c.
 **Hint**. We have that $\int^\infty_0 ye^{-y}\,dy=1$, and the remaining integrals are computed recursively.
 # 回答：
-題目要我們求c，我們已經知道$c(y^2-x^2)e^{-y}$是連ㄏ
+題目要我們求c，我們已經知道$c(y^2-x^2)e^{-y}$是聯合機率密度函數。所以他的定義域積分會等於1，我們用這個來求c。在積分過程中，我們會用到Gamma函數。
 $$
 \begin{align}
 \int^\infty_0\int^y_{-y} c(y^2-x^2)e^{-y}\,dxdy&=\int^\infty_0ce^{-y}\int^y_{-y}y^2-x^2\,dxdy\\
