@@ -93,6 +93,6 @@ $$
 \begin{align}
 &E(X\mid Y=y)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=y)\\
 &E(X\mid Y=1)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=1)=0\cdot\frac14+1\cdot\frac18+2\cdot\frac38+3\cdot\frac14\\
-&E(X\mid Y=2)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\)
+&E(X\mid Y=2)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=2)=0\cdot\frac18+1\cdot\frac18+2\cdot\frac14+3\cdot\frac12
 \end{align}
 $$
