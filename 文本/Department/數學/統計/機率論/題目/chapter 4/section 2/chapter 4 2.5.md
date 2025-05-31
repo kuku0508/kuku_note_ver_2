@@ -94,6 +94,6 @@ $$
 &E(X\mid Y=y)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=y)\\
 &E(X\mid Y=1)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=1)=0\cdot\frac14+1\cdot\frac18+2\cdot\frac38+3\cdot\frac14=\frac18+\frac68+\frac34=\frac{13}{8}\\
 \\
-&E(X\mid Y=2)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=2)=0\cdot\frac18+1\cdot\frac18+2\cdot\frac14+3\cdot\frac12=\frac18+\frac24+\frac32=
+&E(X\mid Y=2)=\sum^n_{i=1}x\cdot f_{X\mid Y}(X\mid Y=2)=0\cdot\frac18+1\cdot\frac18+2\cdot\frac14+3\cdot\frac12=\frac18+\frac24+\frac32=\frac{17}8
 \end{align}
 $$
