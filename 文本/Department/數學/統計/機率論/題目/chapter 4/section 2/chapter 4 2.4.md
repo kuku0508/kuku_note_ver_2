@@ -11,4 +11,6 @@ y\backslash x&1&2&3\\
 \hline
 \end{array}
 $$
+1. Determine the marginal pdf of $f_X$ and $f_Y$.
+2. Determine the conditional pdf of $f_{}$
 # 回答：
