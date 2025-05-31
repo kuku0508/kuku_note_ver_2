@@ -49,4 +49,16 @@ y\backslash x&1&2&3\\
 3&\frac{4/36}{7/36}&\frac{5/36}{7/36}&\frac{6/36}{7/36}\\
 \hline
 \end{array}
+\Rightarrow
+\begin{array}{|l|l|l|l|}
+\hline
+y\backslash x&1&2&3\\
+\hline
+1&2/7&2/7&3/7\\
+\hline
+2&\frac{1/36}{7/36}&\frac{10/36}{7/36}&\frac{3/36}{7/36}\\
+\hline
+3&\frac{4/36}{7/36}&\frac{5/36}{7/36}&\frac{6/36}{7/36}\\
+\hline
+\end{array}
 $$
