@@ -8,4 +8,4 @@ Consider the Uniform distribution over a square whose side length is one unit, a
 ![[pic of chapter 4 1.12.png|400]]
 我們可以看到上面的圖，基本上就是要我們求陰影面積。
 也因為他都用成單位了，所以在這邊1就是全事件的機率。我們就不用再去特別做換算成機率的問題。
-那個陰影面積也很簡單，答案就是$0.5\cdot0.5\cdot\pi=0.25\$
+那個陰影面積也很簡單，答案就是$0.5\cdot0.5\cdot\pi=0.25\pi$
