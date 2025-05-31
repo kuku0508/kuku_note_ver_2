@@ -71,7 +71,21 @@ y\backslash x&1&2&3\\
 \hline
 2&\frac{1/36}{7/36}&\frac{10/36}{17/36}&\frac{3/36}{12/36}\\
 \hline
-3&\frac{4/36}{7/36}&\frac{5/36}{17/36}&6/36\\
+3&\frac{4/36}{7/36}&\frac{5/36}{17/36}&\frac{6/36}{12/36}\\
+\hline
+\end{array}
+\Rightarrow
+\begin{array}{|l|l|l|l|}
+\hline
+y\backslash x&1&2&3&f_Y\\
+\hline
+1&2/36&2/36&3/36&7/36\\
+\hline
+2&1/36&10/36&3/36&14/36\\
+\hline
+3&4/36&5/36&6/36&15/36\\
+\hline
+f_X&7/36&17/36&12/36&1\\
 \hline
 \end{array}
 $$
