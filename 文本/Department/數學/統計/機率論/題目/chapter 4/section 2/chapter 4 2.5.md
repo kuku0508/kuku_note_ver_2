@@ -16,7 +16,7 @@ $$
 3. Compare E(X) and $E\left[E(X\mid Y)\right]$.
 4. Calculate: Var(X) and Var(Y)
 # 回答：
-##### 第一小題
+#### 第一小題
 關於邊緣機率密度函數還有條件機率的算法，可以看[[chapter 4 2.4]]，這邊就不多做贅述。
 $$
 \begin{array}{|l|l|l|l|l|}
@@ -27,7 +27,8 @@ y\backslash x&0&1&2&3&f_Y\\
 \hline
 2&1/16&1/16&1/8&1/4&1/2\\
 \hline
-f_X&3/16&\\
+f_X&3/16&2/16&5/16&3/8&1\\
 \hline
 \end{array}
 $$
+##### $f_{X\mid Y}(x,y)$
