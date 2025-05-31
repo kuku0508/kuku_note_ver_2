@@ -11,5 +11,5 @@ y\backslash x&0&1&2&3\\
 \hline
 \end{array}
 $$
-1. Determine the marginal pdf of $f_X$ and $f_Y$, and the conditional pdf
+1. Determine the marginal pdf of $f_X$ and $f_Y$, and the conditional pdf $f_{X\mid Y}(\cdot\mid y),\,for\,,y=1,2$.
 # 回答：
