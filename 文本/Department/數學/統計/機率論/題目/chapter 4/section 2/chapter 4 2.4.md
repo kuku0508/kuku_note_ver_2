@@ -36,7 +36,7 @@ $$
 $$
 f_{(X\mid Y)}(x,y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\quad;\quad f_{(Y\mid X)}(x,y)=\frac{f_{X,Y}(x,y)}{f_X(x)}
 $$
-所以我們接下來分別求給定
+所以我們接下來分別求給定Y的條件機率，以及給定X的條件機率。
 #### $f_{(X\mid Y)}(x,y)$
 $$
 \begin{array}{|l|l|l|l|}
