@@ -86,5 +86,5 @@ $$
 E(X)=\sum^n_{i=1}x\cdot f_X=0\cdot\frac{3}{16}+1\cdot\frac{2}{16}+2\cdot\frac{5}{16}+3\cdot\frac{3}{8}=\frac{15}{8}=1.875
 $$
 $$
-E(Y)=\sum^n_{i=1}y\cdot f_Y
+E(Y)=\sum^n_{i=1}y\cdot f_Y=1\cdot\frac12+2\cdot\frac12=\frac32
 $$
