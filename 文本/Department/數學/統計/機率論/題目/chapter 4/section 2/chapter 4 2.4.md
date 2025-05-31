@@ -52,13 +52,13 @@ y\backslash x&1&2&3\\
 \Rightarrow
 \begin{array}{|l|l|l|l|}
 \hline
-y\backslash x&1&2&3\\
+y\backslash x&1&2&3&合計\\
 \hline
-1&2/7&2/7&3/7\\
+1&2/7&2/7&3/7&1\\
 \hline
-2&1/14&5/7&3/14\\
+2&1/14&5/7&3/14&1\\
 \hline
-3&4/15&1/3&2/5\\
+3&4/15&1/3&2/5&1\\
 \hline
 \end{array}
 $$
@@ -67,7 +67,7 @@ $$
 \hline
 y\backslash x&1&2&3\\
 \hline
-1&2/36&2/36&3/36\\
+1&\frac{2/36}{}&2/36&3/36\\
 \hline
 2&1/36&10/36&3/36\\
 \hline
