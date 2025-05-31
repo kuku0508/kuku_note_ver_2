@@ -77,15 +77,13 @@ y\backslash x&1&2&3\\
 \Rightarrow
 \begin{array}{|l|l|l|l|}
 \hline
-y\backslash x&1&2&3&f_Y\\
+y\backslash x&1&2&3\\
 \hline
-1&2/36&2/36&3/36&7/36\\
+1&2/7&2/17&3/12\\
 \hline
-2&1/36&10/36&3/36&14/36\\
+2&1/7&10/17&3/12\\
 \hline
-3&4/36&5/36&6/36&15/36\\
-\hline
-f_X&7/36&17/36&12/36&1\\
+3&4/7&5/17&6/12\\
 \hline
 \end{array}
 $$
