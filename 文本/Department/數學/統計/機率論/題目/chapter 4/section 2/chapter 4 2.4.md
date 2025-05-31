@@ -74,5 +74,4 @@ y\backslash x&1&2&3\\
 3&4/36&5/36&6/36\\
 \hline
 \end{array}
-
 $$
