@@ -9,6 +9,8 @@ y\backslash x&1&2&3\\
 \hline
 2&1/36&10/36&3/36\\
 \hline
+3&4/36&5/36&6/36\\
+\hline
 \end{array}
 $$
 1. Determine the marginal pdf of $f_X$ and $f_Y$.
@@ -24,7 +26,9 @@ y\backslash x&1&2&3&f_Y\\
 \hline
 2&1/36&10/36&3/36&14/36\\
 \hline
-f_X&3/36&12/36&6/36&21/36\\
+3&4/36&5/36&6/36\\
+\hline
+f_X&7/36&17/36&12/36&21/36\\
 \hline
 \end{array}
 $$
