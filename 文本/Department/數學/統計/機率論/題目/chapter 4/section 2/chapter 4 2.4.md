@@ -12,5 +12,5 @@ y\backslash x&1&2&3\\
 \end{array}
 $$
 1. Determine the marginal pdf of $f_X$ and $f_Y$.
-2. Determine the conditional pdf of $f_{}$
+2. Determine the conditional pdf of $f_{X\mid Y}(\cdot\mid y)$ and f
 # 回答：
