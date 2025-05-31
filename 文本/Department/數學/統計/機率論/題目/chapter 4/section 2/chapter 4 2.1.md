@@ -6,5 +6,9 @@ Refer to [[chapter 4 1.1|Exercise 1.1]] and calculate the marginal pdf of $f_X$ 
 ![[table of chapter 4 1.1.png|400]]
 當我們要求X的邊際機率密度函數時，我們只要去看當今天$X=x$的時候，發生的所有事件的機率加總就好，不管Y的值是多少。
 $$
-\begin{ar}
+\begin{array}{|l|l|l|l|l|l|l|}
+\hline
+y\backslash x&0&1&2&3&4&5\\
+\hline0&0.025&0.05&0.125&0.15&0.1&0.
+\end{array}
 $$
