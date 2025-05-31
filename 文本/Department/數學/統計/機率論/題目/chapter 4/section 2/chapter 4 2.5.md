@@ -83,5 +83,5 @@ $$
 #### 第二小題
 期望值的算法是：
 $$
-E(X)=\sum^n_{i=1}x\cdot f_{X,Y}
+E(X)=\sum^n_{i=1}x\cdot f_{X,Y}=0\cdot\left(\frac18+\frac1{16}\right)+
 $$
