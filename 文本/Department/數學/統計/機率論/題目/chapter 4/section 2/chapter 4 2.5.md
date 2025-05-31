@@ -90,5 +90,7 @@ E(Y)=\sum^n_{i=1}y\cdot f_Y=1\cdot\frac12+2\cdot\frac12=\frac32
 $$
 
 $$
-E(X\mid Y=y)\,\quad y=1,2
+\begin{align}
+&E(X\mid Y=y),\quad for\,\,y=1,2\\
+\end{align}
 $$
