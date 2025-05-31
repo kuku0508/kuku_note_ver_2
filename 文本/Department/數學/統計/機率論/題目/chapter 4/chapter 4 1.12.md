@@ -7,3 +7,4 @@ Consider the Uniform distribution over a square whose side length is one unit, a
 有一個邊長為1的正方形，其機率分配為均勻分配。我們將正方形的其中一個頂點作為圓心，畫一個直徑1的圓。請問，該園所覆蓋的正方形部分，其機率為多少？
 ![[pic of chapter 4 1.12.png|400]]
 我們可以看到上面的圖，基本上就是要我們求陰影面積。
+也因為他都用成單位了，所以在這邊1就是全事件的機率。
