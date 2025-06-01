@@ -116,3 +116,8 @@ $$
 $$
 Var(X)=E(X^2)-E(X)^2
 $$
+$$
+\begin{align}
+E(X)=\sum^n_{i=1}x\cdot f_X=0\cdot\frac{3}{16}+1\cdot\frac{2}{16}+2\cdot\frac{5}{16}+3\cdot\frac{3}{8}=\frac{15}{8}=1.875
+\end{align}
+$$
