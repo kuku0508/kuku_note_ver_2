@@ -19,6 +19,9 @@ y\backslash x&1&2&\cdots&n\\
 \hline
 2&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
 \hline
-\v
+\vdots&\vdots&\vdots&\ddots&\vdots\\
+\hline
+x&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
+\hline
 \end{array}
 $$
