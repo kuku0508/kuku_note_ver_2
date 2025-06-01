@@ -121,6 +121,12 @@ $$
 Var(X)=E(X^2)-E(X)^2&=\left(
 0^2\cdot\frac{3}{16}+1^2\cdot\frac{2}{16}+2^2\cdot\frac{5}{16}+3^2\cdot\frac{3}{8}\right)-\left(\frac{15}{8}\right)^2\\
 &=\frac{2}{16}+\frac{5}{4}+\frac{27}{8}-\frac{225}{64}\\
-&=\frac{}{}1.234375
+&=\frac{79}{64}\approx1.234375
+\end{align}
+$$
+$$
+\begin{align}
+Var(Y)=E(Y^2)-E(Y)^2&=\left(
+\right)-\left(\right)^2\\
 \end{align}
 $$
