@@ -8,7 +8,7 @@ Then compute:
 2. The conditional pdf's $f_{X\mid Y}(x,y)$ and $f_{Y\mid X}(x,y)$.
 3. The conditional expectations $E(X\mid Y=y)$ and $E(Y\mid X=x)$.
 # 回答：
-我會用表格的方式去想這道題，會比較簡單一點：
+我們用表格的方式呈現這個題目會變成
 ##### $f_{X,Y}(x,y)$
 $$
 \begin{array}{|l|l|l|l|l|l|}
