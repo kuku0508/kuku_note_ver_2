@@ -128,6 +128,6 @@ $$
 \begin{align}
 Var(Y)=E(Y^2)-E(Y)^2&=\left(1^2\cdot\frac12+2^2\cdot\frac12\right)-\left(\frac32\right)^2\\
 &=\left(\frac12+2\right)-\frac94\\
-&=
+&=\frac14\approx0.25
 \end{align}
 $$
