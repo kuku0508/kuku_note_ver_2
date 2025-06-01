@@ -43,4 +43,7 @@ $$
 $$
 f_Y=\sum_{x=y}^n\frac{2}{n(n+1)}=(n-y+1)\cdot\frac{2}{n(n+1)}=\frac{2(n-y+1)}{n(n+1)}
 $$
-第二小題
+#### 第二小題
+$$
+f_{X\mid Y}(x\mid y)=\frac{f_{x,y}(x,y)}{f_y}
+$$
