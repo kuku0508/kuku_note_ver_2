@@ -108,3 +108,4 @@ E[E(X\mid Y)]&=\sum^2_{y=1} E(X\mid Y=y)\cdot f_Y\\
 &=\frac{30}{16}=\frac{15}8
 \end{align}
 $$
+你可以注意到一件事情，$E[E(X|Y)]$的值跟$E()$
