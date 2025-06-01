@@ -11,5 +11,8 @@ Then compute:
 我會用表格的方式去想這道題，會比較簡單一點：
 #### 第一小題
 $$
-\begin{array}{}
+\begin{array}{|l|l|l|l|l|l|}
+\hline
+y\backslash x&1&2&\cdots&n\
+\end{array}
 $$
