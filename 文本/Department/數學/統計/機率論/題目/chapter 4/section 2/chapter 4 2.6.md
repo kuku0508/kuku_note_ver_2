@@ -39,6 +39,7 @@ f_X=
 0,&\text{otherwise}
 \end{cases}
 $$
+而$f_Y$我們需要加的是
 $$
 f_Y=\sum_{x=1}
 $$
