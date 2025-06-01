@@ -45,5 +45,5 @@ f_Y=\sum_{x=y}^n\frac{2}{n(n+1)}=(n-y+1)\cdot\frac{2}{n(n+1)}=\frac{2(n-y+1)}{n(
 $$
 #### 第二小題
 $$
-f_{X\mid Y}(x\mid y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\quad f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{}
+f_{X\mid Y}(x\mid y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\quad f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{f_Y(y)}
 $$
