@@ -6,4 +6,5 @@ $$
 Then compute:
 1. The marginal pdf $f_X$ and $f_Y$.
 2. The conditional pdf's $f_{X\mid Y}(x,y)$ and $f_{Y\mid X}(x,y)$.
+3. The conditional expectations $E(X\mid Y=y)$ and $E(Y\mid X=x)$.
 # 回答：
