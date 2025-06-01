@@ -8,7 +8,7 @@ Then compute:
 2. The conditional pdf's $f_{X\mid Y}(x,y)$ and $f_{Y\mid X}(x,y)$.
 3. The conditional expectations $E(X\mid Y=y)$ and $E(Y\mid X=x)$.
 # 回答：
-我們用表格的方式呈現這個題目會變成
+我們用表格的方式呈現這個題目會變成：
 ##### $f_{X,Y}(x,y)$
 $$
 \begin{array}{|l|l|l|l|l|l|}
@@ -26,7 +26,7 @@ x&0&0&\cdots&\frac{2}{n(n+1)}\\
 \end{array}
 $$
 #### 第一小題
-我們知道$f_X$就是把所有x的機率加總，例如X=1的邊際機率密度函數會是把$x$個$\frac{2}{n(n+1)}$全部加起來，得到$\frac{2x}{n(n+1)}$。而其他$X$的邊際機率密度函數也都是加$x$個$\frac{2}{n(n+1)}$。所以$f_X$結果會如下：
+我們知道$f_X$就是把所有x的機率加總，
 $$
 f_X=
 \begin{cases}
