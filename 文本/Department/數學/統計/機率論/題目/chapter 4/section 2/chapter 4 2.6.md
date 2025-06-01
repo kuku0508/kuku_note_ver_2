@@ -29,7 +29,7 @@ $$
 #### 第一小題
 我們知道$f_X$就是把所有$X=x$的機率加總：
 $$
-f_X=\sum^x_{y=1}\frac{2}{n(n+1)}=x\cdot
+f_X=\sum^x_{y=1}\frac{2}{n(n+1)}=x\cdot\frac{2}{n(n+1)}=\frac{2x}{n(n+1)}
 $$
 
 $$
