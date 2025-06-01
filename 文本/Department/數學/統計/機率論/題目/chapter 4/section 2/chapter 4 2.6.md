@@ -30,7 +30,7 @@ $$
 $$
 f_X=
 \begin{cases}
-\frac{2}{n(n+1)}\\\\
-0,
+\frac{2x}{n(n+1)},&x=1,2,\ldots,n\\\\
+0,&\text{otherwise}
 \end{cases}
 $$
