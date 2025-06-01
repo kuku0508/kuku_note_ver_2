@@ -103,6 +103,8 @@ $E(X|Y)$，就像前面講的，是指我們給定一個Y值的時候，X的期�
 $$
 \begin{align}
 E[E(X\mid Y)]&=\sum^2_{y=1} E(X\mid Y=y)\cdot f_Y\\
-&=\frac{13}8\cdot\frac12+\frac{17}8
+&=\frac{13}8\cdot\frac12+\frac{17}8\cdot\frac12\\
+&=\frac{13}{16}+\frac{17}{16}\\
+&=\frac{30}{16}=\frac{15}8
 \end{align}
 $$
