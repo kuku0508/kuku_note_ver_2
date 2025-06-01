@@ -57,3 +57,6 @@ f_{X\mid Y}(x\mid y)=
 0,\quad \text{otherwise}
 \end{cases}
 $$
+$$
+f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{f_X(x)}=\frac{\fra}{}
+$$
