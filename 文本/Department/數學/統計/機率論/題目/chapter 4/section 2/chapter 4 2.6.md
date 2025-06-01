@@ -39,7 +39,7 @@ f_X=
 0,&\text{otherwise}
 \end{cases}
 $$
-而$f_Y$我們需要加的是將$Y=y$中符合條件的範圍中的機率：也就是
+而$f_Y$我們需要加的是將$Y=y$中符合條件的範圍中的機率，也就是$y\leq x$的機率
 $$
-f_Y=\sum_{x=1}
+f_Y=\sum_{x=y}^n\frac{2}{n(n+1)}
 $$
