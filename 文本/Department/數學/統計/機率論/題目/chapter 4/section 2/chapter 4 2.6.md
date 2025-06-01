@@ -69,3 +69,4 @@ f_{X\mid Y}(x\mid y)=
 \end{cases}
 $$
 #### 第三小題
+$E(X\mid Y)(x,y)=$
