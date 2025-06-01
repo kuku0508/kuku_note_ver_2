@@ -9,7 +9,7 @@ Then compute:
 3. The conditional expectations $E(X\mid Y=y)$ and $E(Y\mid X=x)$.
 # 回答：
 我會用表格的方式去想這道題，會比較簡單一點：
-#### 第一小題
+##### $f_{X,Y}(x,y)$
 $$
 \begin{array}{|l|l|l|l|l|l|}
 \hline
@@ -25,3 +25,5 @@ x&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
 \hline
 \end{array}
 $$
+#### 第一小題
+$f_X=$
