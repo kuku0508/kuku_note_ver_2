@@ -97,3 +97,5 @@ $$
 &E(X\mid Y=2)=\sum^3_{x=0}x\cdot f_{X\mid Y}(X\mid Y=2)=0\cdot\frac18+1\cdot\frac18+2\cdot\frac14+3\cdot\frac12=\frac18+\frac24+\frac32=\frac{17}8
 \end{align}
 $$
+
+接下來的舊麻ㄈㄢ
