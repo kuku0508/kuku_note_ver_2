@@ -48,5 +48,5 @@ $$
 f_{X\mid Y}(x\mid y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\quad f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{f_Y(y)}
 $$
 $$
-f_{}
+f_{X\mid Y}(x\mid y)=\frac{\frac{2}{n(n+1)}}{\frac{2x}{n(n+1)}}
 $$
