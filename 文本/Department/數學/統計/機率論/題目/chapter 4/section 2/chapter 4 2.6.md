@@ -8,7 +8,7 @@ Then compute:
 2. The conditional pdf's $f_{X\mid Y}(x,y)$ and $f_{Y\mid X}(x,y)$.
 3. The conditional expectations $E(X\mid Y=y)$ and $E(Y\mid X=x)$.
 # 回答：
-我們看一下我們可以知道有機率的部分，
+我們看一下我們可以知道有機率的部分，在ㄅ
 我們用表格的方式呈現這個題目會變成：
 ##### $f_{X,Y}(x,y)$
 $$
