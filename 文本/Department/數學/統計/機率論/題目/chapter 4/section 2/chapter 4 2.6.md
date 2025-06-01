@@ -57,6 +57,14 @@ f_{X\mid Y}(x\mid y)=
 0,\quad \text{otherwise}
 \end{cases}
 $$
+
 $$
-f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{f_X(x)}=\frac{\fra}{}
+f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{f_X(x)}=\frac{\frac{2}{n(n+1)}}{\frac{2x}{n(n+1)}}=\frac{1}{x}
+$$
+$$
+f_{X\mid Y}(x\mid y)=
+\begin{cases}
+\frac{1}{n-y+1},\quad x=1,2,\ldots n\\\\
+0,\quad \text{otherwise}
+\end{cases}
 $$
