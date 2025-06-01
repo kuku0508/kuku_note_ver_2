@@ -64,7 +64,8 @@ $$
 $$
 f_{X\mid Y}(x\mid y)=
 \begin{cases}
-\frac{1}{n-y+1},\quad x=1,2,\ldots n\\\\
+\frac{1}{x},\quad y=1,2,\ldots x\\\\
 0,\quad \text{otherwise}
 \end{cases}
 $$
+#### 第三小題
