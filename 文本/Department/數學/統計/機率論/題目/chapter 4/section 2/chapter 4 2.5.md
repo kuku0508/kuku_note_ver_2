@@ -126,7 +126,7 @@ Var(X)=E(X^2)-E(X)^2&=\left(
 $$
 $$
 \begin{align}
-Var(Y)=E(Y^2)-E(Y)^2&=\left(
-\right)-\left(\right)^2\\
+Var(Y)=E(Y^2)-E(Y)^2&=\left(1^2\cdot\frac12+2^2\cdot\frac12\right)-\left(\frac32\right)^2\\
+&=\frac12
 \end{align}
 $$
