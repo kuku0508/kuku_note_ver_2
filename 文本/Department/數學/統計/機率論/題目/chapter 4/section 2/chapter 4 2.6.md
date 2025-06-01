@@ -47,3 +47,6 @@ $$
 $$
 f_{X\mid Y}(x\mid y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\quad f_{Y\mid X}(y\mid x)=\frac{f_{X,Y}(x,y)}{f_Y(y)}
 $$
+$$
+f_{}
+$$
