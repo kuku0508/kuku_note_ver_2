@@ -13,6 +13,12 @@ Then compute:
 $$
 \begin{array}{|l|l|l|l|l|l|}
 \hline
-y\backslash x&1&2&\cdots&n\
+y\backslash x&1&2&\cdots&n\\
+\hline
+1&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
+\hline
+2&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
+\hline
+\v
 \end{array}
 $$
