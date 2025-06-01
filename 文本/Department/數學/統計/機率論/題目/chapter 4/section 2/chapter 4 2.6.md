@@ -39,3 +39,6 @@ f_X=
 0,&\text{otherwise}
 \end{cases}
 $$
+$$
+f_Y=\sum_{x=1}
+$$
