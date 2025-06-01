@@ -17,11 +17,11 @@ y\backslash x&1&2&\cdots&n\\
 \hline
 1&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
 \hline
-2&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
+2&0&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
 \hline
 \vdots&\vdots&\vdots&\ddots&\vdots\\
 \hline
-x&\frac{2}{n(n+1)}&\frac{2}{n(n+1)}&\cdots&\frac{2}{n(n+1)}\\
+x&0&0&\cdots&\frac{2}{n(n+1)}\\
 \hline
 \end{array}
 $$
