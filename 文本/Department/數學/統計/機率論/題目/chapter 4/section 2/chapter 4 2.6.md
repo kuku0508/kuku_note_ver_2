@@ -71,5 +71,8 @@ $$
 #### 第三小題
 
 $$
-E(X\mid Y)=\sum^n_{x=y} x\cdot\frac{1}{n-y+1}
+\begin{align}
+E(X\mid Y)&=\sum^n_{x=y} x\cdot\frac{1}{n-y+1}\\
+&=\frac{(y+n)(n-y+1)}{2}\cdot
+\end{align}
 $$
