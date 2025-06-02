@@ -20,7 +20,7 @@ f_X&=\int^2_0\frac67\left(x^2+\frac{xy}{2}\right)\,dy\\
 \end{align}
 $$
 $$
-\begin{cases}
+f_X=\begin{cases}
 \frac{12x^2+6x}{7},&0<x\leq1\\\\
 0,x\leq0\,\,\text{or}\,\,x>1
 \end{cases}
@@ -34,7 +34,7 @@ f_Y&=\int^1_0\frac67\left(x^2+\frac{xy}{2}\right)\,dx\\
 &=\frac27+\frac{3y}{14}
 \end{align}
 $$
-$$
+$$f_Y=
 \begin{cases}
 \frac27+\frac{3y}{14},&0<y\leq2\\\\
 0,y\leq0\,\,\text{or}\,\,y>2
@@ -50,6 +50,7 @@ f_{Y\mid X}(\cdot\mid x)&=\frac{\frac67\left(x^2+\frac{xy}{2}\right)}{\frac{12x^
 \end{align}
 $$
 $$
+f_{Y\mid X}(\cdot\mid x)=
 \begin{cases}
 \frac{2x+y}{4x+2},&0<x\leq 1,\,\,0<y\leq2\\\\
 0,&\text{otherwise}
