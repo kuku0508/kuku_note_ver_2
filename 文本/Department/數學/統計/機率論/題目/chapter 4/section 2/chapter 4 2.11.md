@@ -23,6 +23,6 @@ f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
 &=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\left(\frac{-1}{x}e^{-xy}\right)\bigg|^2_{y=0}\right]\\
 &=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\left(\frac{-1}{x}e^{-2x}+\frac{1}{x}\right)\right]\\
 &=\frac{-y}{x}e^{-xy}-\left(\frac{1}{x^2}e^{-2x}-\frac{1}{x^2}\right)\\
-&=\frac{-y}{x}e^{-xy}-
+&=\frac{-y}{x}e^{-xy}-\frac{1}{x^2}\left(e^{-2x}-\frac{}{}\right)
 \end{align}
 $$
