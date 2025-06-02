@@ -42,5 +42,7 @@ e^{-y},&y>0\\\\
 $$
 ##### 第二小題
 $$
-f_{Y\mid X}
-$$
+\begin{align}
+f_{Y\mid X}(\cdot\mid x)&=\frac{f_{X,Y}(x,y)}{f_X}\\
+&=\frac{xe^{-()}}{}
+\end{align}$$
