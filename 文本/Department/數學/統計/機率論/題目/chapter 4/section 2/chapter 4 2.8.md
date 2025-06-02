@@ -8,4 +8,9 @@ $$
 f_X(x)=\frac25(3x+1),\quad0\leq x\leq 1,\quad f_Y(y)=\frac35(2y^2+1),\quad 0\leq y \leq 1
 $$
 # 回答：
-跟前面ㄉㄜ
+題目要我們計算出$f_X$、$f_Y$，方法跟[[chapter 4 2.7]]的概念差不多，我就不多做贅述：
+$$
+\begin{align}
+f_X
+\end{align}
+$$
