@@ -71,6 +71,7 @@ $$
 \begin{align}
 E(Y\mid X=x)&=\int^2_0 y\,\cdot\,\left(\frac{2x+y}{4x+2}\right)\,dy\\
 &=\frac{1}{4x+2}\int^2_0 y\,\cdot\,(2x+y)\,dy\\
-
+&=\frac{1}{4x+2}\int^2_02xy+y^2\,dy\\
+&=\frac{1}{4x+2}\left(\right)
 \end{align}
 $$
