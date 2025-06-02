@@ -69,6 +69,7 @@ E(Y)&=\int^2_0 y\,\cdot\,f_Y\,dy\\
 $$
 $$
 \begin{align}
-E(Y\mid X=x)=\int^2_0 y\,\cdot
+E(Y\mid X=x)&=\int^2_0 y\,\cdot\,\left(\frac{2x+y}{4x+2}\right)\,dy\\
+&=\frac}||}\int^2_0
 \end{align}
 $$
