@@ -51,6 +51,7 @@ f_{Y\mid X}(\cdot\mid x)&=\frac{\frac67\left(x^2+\frac{xy}{2}\right)}{\frac{12x^
 $$
 $$
 \begin{cases}
-\frac{2x+y}{4x+2}&
+\frac{2x+y}{4x+2},&0<x\leq 1,\,\,0<y\leq2\\\\
+0,&\text{otherwise}
 \end{cases}
 $$
