@@ -27,5 +27,8 @@ $$
 $$
 
 $$
-f_Y=\int^1_0\frac67\left(x^2+\frac{xy}{}\right)
+\begin{align}
+f_Y&=\int^1_0\frac67\left(x^2+\frac{xy}{2}\right)\,dx\\
+&=\frac67\left(\frac{x^3}{3}+\frac{x^2y}\right)
+\end{align}
 $$
