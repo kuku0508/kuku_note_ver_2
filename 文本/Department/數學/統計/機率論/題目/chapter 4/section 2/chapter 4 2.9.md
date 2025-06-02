@@ -33,7 +33,7 @@ $$
 ##### 第二小題
 $$
 \begin{align}
-f_{X\mid Y}(\cdot\mid y)=
+f_{X\mid Y}(\cdot\mid y)=\frac{f_{X,Y}()}{}
 \end{align}
 $$
 $$
