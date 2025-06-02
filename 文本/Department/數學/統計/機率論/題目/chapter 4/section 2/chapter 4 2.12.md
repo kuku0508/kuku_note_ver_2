@@ -101,6 +101,7 @@ $$
 ##### 第四小題
 $$
 \begin{align}
-P\left(Y>\frac12\mid X<\frac12\right)=\int\int^2\frac{2x+y}{4x+2}\,dydx
+P\left(Y>\frac12\mid X<\frac12\right)&=\int^{\frac12}_0\int^2_{\frac12}\frac{2x+y}{4x+2}\,dydx\\
+&=\int^\frac12_0\frac{1}{4x+2}\int^2_\frac12
 \end{align}
 $$
