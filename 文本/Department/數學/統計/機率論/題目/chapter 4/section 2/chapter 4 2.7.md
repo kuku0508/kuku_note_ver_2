@@ -31,7 +31,8 @@ f_X(x)&=\int^1_0 x+y\,dy\\
 $$
 同理，$f_Y$就是對x做積分：
 $$
-\begin{}
-
-
+\begin{align}
+f_Y(y)&=\int^1_0x+y\,dx\\
+&=\left(\frac{x^2}2+xy\right)
+\end{align}
 $$
