@@ -55,6 +55,6 @@ e^{-x+y},&0<y\,;\,x\leq y \\\\
 $$
 $$
 \begin{align}
-f_{Y\mid X}(\cdot\mid x)=
+f_{Y\mid X}(\cdot\mid x)&=\frac{f_{X,Y}(x,y)}{f_X}
 \end{align}
 $$
