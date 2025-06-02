@@ -36,7 +36,13 @@ f_Y&=\int^1_0\frac67\left(x^2+\frac{xy}{2}\right)\,dx\\
 $$
 $$
 \begin{cases}
-\frac27+\frac{3y}{14},&0<y\leq1\\\\
-0,x\leq0\,\,\text{or}\,\,x>1
+\frac27+\frac{3y}{14},&0<y\leq2\\\\
+0,y\leq0\,\,\text{or}\,\,y>2
 \end{cases}
+$$
+
+$$
+\begin{align}
+f_{X\mid Y}
+\end{align}
 $$
