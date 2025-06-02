@@ -18,6 +18,6 @@ $$
 \begin{align}
 f_Y(y)&=\int^x_0ye^{-x}\\
 &=e^{-x}\left(\frac{y^2}2\right)\bigg|^x_0\\
-&=\frac{x^2}{2}
+&=\frac{x^2}{2}e^{-x}
 \end{align}
 $$
