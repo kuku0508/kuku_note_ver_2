@@ -25,6 +25,7 @@ $$
 0,x\leq0\,\,\text{or}\,\,x>1
 \end{cases}
 $$
-$$
 
+$$
+f_Y=\int^1_0\frac67\left(x^2+\frac{xy}{}\right)
 $$
