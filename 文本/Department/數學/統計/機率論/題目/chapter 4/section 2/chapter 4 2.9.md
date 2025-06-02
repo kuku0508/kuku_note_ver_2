@@ -9,7 +9,7 @@ $$
 # 回答：
 $$
 \begin{align}
-f_X(x)&=\int^\infty_yye^{-x}\\
+f_X(x)&=\int^x_0ye^{-x}\,dy\\
 &=y\left(-e^{-x}\right)\bigg|^\infty_{x=y}\\
 &=ye^{-y}
 \end{align}
