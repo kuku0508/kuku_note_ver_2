@@ -21,6 +21,7 @@ f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
 &=\frac{-y}{x}e^{-xy}-\int^2_0\frac{-1}{x}e^{-xy}\,dy\\
 &=\frac{-y}{x}e^{-xy}-\left(\frac{-1}{x}\int^2_0e^{-xy}\,dy\right)\\
 &=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\left(\frac{-1}{x}e^{-xy}\right)\bigg|^2_{y=0}\right]\\
-&=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\left(\frac{-1}{x}e^{-2x}-\frac{-1}{x}e^{-2x}\right)\bigg|^2_{y=0}\right]\\
+&=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\left(\frac{-1}{x}e^{-2x}+\frac{1}{x}\right)\right]\\
+&=\frac{-y}{x}e^{-xy}-
 \end{align}
 $$
