@@ -47,6 +47,13 @@ f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
 \end{align}
 $$
 $$
+f_{X\mid Y}(\cdot\y)
+\begin{cases}
+ye^{-y},&0<y\\\\
+0,&y\leq 0
+\end{cases}
+$$
+$$
 \begin{align}
 f_{Y\mid X}(\cdot\mid x)=
 \end{align}
