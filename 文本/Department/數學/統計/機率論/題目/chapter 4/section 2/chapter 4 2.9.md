@@ -4,5 +4,6 @@ $$
 f_{X,Y}(x,y)=ye^{-x},\quad 0<y\leq x <\infty
 $$
 1. determine the marginal pdf of $f_X$ and $f_Y$, and specify the range of the arguments involved.
-2. determine the comditional pdf of $f_{X\mid Y} (\cdot\mid y)$ and $f_{Y\mid X}(\cdot)
+2. determine the comditional pdf of $f_{X\mid Y} (\cdot\mid y)$ and $f_{Y\mid X}(\cdot\mid x)$, and specify the range of the arguments involved.
+3. calculate the (conditional) probability $P(X>2log2\mid )
 # 回答：
