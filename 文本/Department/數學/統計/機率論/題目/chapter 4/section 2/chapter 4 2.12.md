@@ -93,8 +93,8 @@ E[E(Y\mid X)]&=\int^1_0 \frac{6x+4}{6x+3}\,\cdot\,f_X\,dx\\
 &=\int^1_0\frac{36x^2+24x}{21}\,dx\\
 &=\frac{12}{21}\int^1_03x^2+2x\,dx\\
 &=\frac{12}{21}\left(x^3+x^2\right)\bigg|^1_{x=0}\\
-&=\frac{12}{21}(8+4)\\
-&=\frac{144}{21}\\
-&=\frac{48}{7}
+&=\frac{12}{21}(1+1)\\
+&=\frac{24}{21}\\
+&=\frac{8}{7}=E(Y)
 \end{align}
 $$
