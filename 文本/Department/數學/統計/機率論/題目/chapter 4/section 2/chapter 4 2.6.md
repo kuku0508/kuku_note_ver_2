@@ -35,13 +35,20 @@ $$
 $$
 f_X=
 \begin{cases}
-\frac{2x}{n(n+1)},&x=1,2,\ldots,n\\\\
+\frac{2x}{n(n+1)},&x=1,2,\ldots n;y=1,2,\ldots, x\\\\
 0,&\text{otherwise}
 \end{cases}
 $$
 而$f_Y$我們需要加的是將$Y=y$中符合條件的範圍中的機率，也就是$y\leq x$的機率
 $$
 f_Y=\sum_{x=y}^n\frac{2}{n(n+1)}=(n-y+1)\cdot\frac{2}{n(n+1)}=\frac{2(n-y+1)}{n(n+1)}
+$$
+$$
+f_Y=
+\begin{cases}
+\frac{2(n-y+1)}{n(n+1)},&x=1,2,\ldots n;y=1,2,\ldots, x\\\\
+0,&\text{otherwise}
+\end{cases}
 $$
 #### 第二小題
 $$
@@ -53,7 +60,7 @@ $$
 $$
 f_{X\mid Y}(x\mid y)=
 \begin{cases}
-\frac{1}{n-y+1},\quad x=1,2,\ldots n\\\\
+\frac{1}{n-y+1},\quad x=1,2,\ldots n;y=1,2,\ldots, x\\\\
 0,\quad \text{otherwise}
 \end{cases}
 $$
@@ -64,7 +71,7 @@ $$
 $$
 f_{X\mid Y}(x\mid y)=
 \begin{cases}
-\frac{1}{x},\quad y=1,2,\ldots x\\\\
+\frac{1}{x},\quad x=1,2,\ldots n;y=1,2,\ldots, x\\\\
 0,\quad \text{otherwise}
 \end{cases}
 $$
