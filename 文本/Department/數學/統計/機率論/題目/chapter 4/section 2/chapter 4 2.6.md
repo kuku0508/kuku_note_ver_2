@@ -84,7 +84,6 @@ E(X\mid Y)&=\sum^n_{x=y} x\cdot\frac{1}{n-y+1}\\
 &=\frac{y+n}{2}
 \end{align}
 $$
-
 $$
 E(X\mid Y)=
 \begin{cases}
@@ -92,10 +91,18 @@ E(X\mid Y)=
 0,&\text{otherwise}
 \end{cases}
 $$
+
 $$
 \begin{align}
 E(Y\mid X)&=\sum^x_{y=1} y\cdot\frac{1}{x}\\
-&=\frac{(1+x)(x-1+1)}{2}\cdot\frac{1}{x}\\
-&=\frac{1+x}{2}
+&=\frac{(x+1)(x-1+1)}{2}\cdot\frac{1}{x}\\
+&=\frac{x+1}{2}
 \end{align}
+$$
+$$
+E(Y\mid X)=
+\begin{cases}
+\frac{x+1}{2},&x=1,2,\ldots n;y=1,2,\ldots, x\\
+0,&\text{otherwise}
+\end{cases}
 $$
