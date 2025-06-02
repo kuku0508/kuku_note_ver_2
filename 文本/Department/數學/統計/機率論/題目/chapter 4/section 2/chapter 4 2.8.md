@@ -13,7 +13,8 @@ $$
 \begin{align}
 f_X(x)&=\int^1_0\frac65(x+y^2)\,dy\\
 &=\frac65\left(\frac{y^3}{3}+xy\right)\bigg|^1_{y=0}\\
-&=\frac65\cdot\frac{1}{3}\left(y^2+3x\right)\\
-&=\frac25\left(y^2+3x\right)
+&=\frac65\cdot\frac{1}{3}\left(1+3x\right)\\
+&=\frac25\left(1+3x\right)\\
+&=\frac25\left(3x+1\right)
 \end{align}
 $$
