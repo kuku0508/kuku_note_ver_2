@@ -82,3 +82,5 @@ E(Y\mid X=x)&=\int^2_0 y\,\cdot\,\left(\frac{2x+y}{4x+2}\right)\,dy\\
 \end{align}
 $$
 
+##### 第三小題
+題目要我們證明E[E(Y\mid )
