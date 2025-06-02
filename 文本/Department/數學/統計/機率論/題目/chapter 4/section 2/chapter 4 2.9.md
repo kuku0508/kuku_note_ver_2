@@ -11,7 +11,7 @@ $$
 \begin{align}
 f_X(x)&=\int^x_0ye^{-x}\,dy\\
 &=e^{-x}\left(\frac{y^2}2\right)\bigg|^x_0\\
-&=\frac{x^2}{}e^{-x}
+&=\frac{x^2}{2}e^{-x}
 \end{align}
 $$
 $$
