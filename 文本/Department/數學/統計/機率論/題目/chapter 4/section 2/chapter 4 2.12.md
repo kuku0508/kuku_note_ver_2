@@ -59,6 +59,7 @@ $$
 ##### 第二小題
 $$
 \begin{align}
-E(Y)=\int y\,\cdot\
+E(Y)&=\int^2_0 y\,\cdot\,f_Y\,dy\\
+&=
 \end{align}
 $$
