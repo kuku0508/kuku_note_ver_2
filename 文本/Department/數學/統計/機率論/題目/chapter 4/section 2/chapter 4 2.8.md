@@ -12,6 +12,7 @@ $$
 $$
 \begin{align}
 f_X(x)&=\int^1_0\frac65(x+y^2)\,dy\\
-&=\frac65\left(\frac y^33\right)
+&=\frac65\left(\frac{y^3}{3}+xy\right)\bigg|^1_{y=0}\\
+&=\frac65\left(\right)
 \end{align}
 $$
