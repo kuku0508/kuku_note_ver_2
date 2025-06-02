@@ -10,6 +10,6 @@ $$
 $$
 \begin{align}
 f_X(x)&=\int^\infty_0xe^{-(x+y)}\,dy\\
-&=
+&=x\int^{\infty}_0e
 \end{align}
 $$
