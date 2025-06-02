@@ -31,6 +31,12 @@ $$
 f_Y&=\int^1_0\frac67\left(x^2+\frac{xy}{2}\right)\,dx\\
 &=\frac67\left(\frac{x^3}{3}+\frac{x^2y}{4}\right)\bigg|^1_{x=0}\\
 &=\frac67\left(\frac13+\frac y4\right)\\
-&=\frac67
+&=\frac27+\frac{3y}{14}
 \end{align}
+$$
+$$
+\begin{cases}
+\frac27+\frac{3y}{14},&0<y\leq1\\\\
+0,x\leq0\,\,\text{or}\,\,x>1
+\end{cases}
 $$
