@@ -15,6 +15,12 @@ f_X(x)&=\int^x_0ye^{-x}\,dy\\
 \end{align}
 $$
 $$
+
+
+
+$$
+
+$$
 \begin{align}
 f_Y(y)&=\int^x_0ye^{-x}\\
 \end{align}
