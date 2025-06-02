@@ -71,6 +71,8 @@ $$
 $$
 \begin{align}
 P(X>\ln4)&=\int^\infty_{\ln4} xe^{-x}\,dx\\
-&=\int u\,dv=
+&=\int u\,dv=u\cdot v-\int v\,du\\
+&=-xe^{-x}-\int -e^{-x}dx\\
+
 \end{align}
 $$
