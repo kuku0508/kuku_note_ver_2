@@ -69,6 +69,7 @@ f_{X\mid Y}(x\mid y)=
 \end{cases}
 $$
 #### 第三小題
+
 $$
-E(X\mid Y)=\sum^n_{x=1} x\cdot\frac{1}{n-y+1}
+E(X\mid Y)=\sum^n_{x=y} x\cdot\frac{1}{n-y+1}
 $$
