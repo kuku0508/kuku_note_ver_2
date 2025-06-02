@@ -35,7 +35,7 @@ $$
 $$
 \begin{align}
 f_Y&=\frac12\int^\infty_0ye^{-xy}\,dx=\frac12\left(uv-\int u\,dv\right)\\
-&=\frac12\left[\left(\frac{-y}{y}e^{-xy}\right)\bigg|^\infty_{x=0}-\int^\infty_0\right]\\
+&=\frac12\left[\left(\frac{-y}{y}e^{-xy}\right)\bigg|^\infty_{x=0}-\int^\infty_0\frac{-1}{x}e^{-xy}\,dy\right]\\
 &=\frac12\left(\right)
 \end{align}
 $$
