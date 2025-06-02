@@ -86,6 +86,6 @@ $$
 題目要我們證明$E[E(Y\mid X)]=E(Y)$，那我們需要$E[E(Y\mid X)]$。
 $$
 \begin{align}
-E[E(Y\mid X)]=
+E[E(Y\mid X)]=\int^2_0 y\,\cdot\,\frac{6x+4}{6x+3}
 \end{align}
 $$
