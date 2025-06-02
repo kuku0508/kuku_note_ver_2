@@ -29,7 +29,8 @@ $$
 $$
 \begin{align}
 f_Y&=\frac12y\int^\infty_0e^{-xy}\,dx\\
-&=\frac12y\left(\frac{-1}{x}e^{-xy}\right)\bigg|^\infty_{x=0}\\
-&=-\frac12y
+&=\frac12y\left(\frac{-1}{y}e^{-xy}\right)\bigg|^\infty_{x=0}\\
+&=-\frac12y\cdot\left(\frac{-1}{y}\right)\\
+&=\frac12
 \end{align}
 $$
