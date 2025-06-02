@@ -28,6 +28,7 @@ $$
 
 $$
 \begin{align}
-f_Y&=\frac12\int^\infty_0ye^{-xy}\,dx
+f_Y&=\frac12y\int^\infty_0e^{-xy}\,dx\\
+&=\frac12y
 \end{align}
 $$
