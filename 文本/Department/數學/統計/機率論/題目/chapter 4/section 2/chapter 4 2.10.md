@@ -26,7 +26,9 @@ $$
 $$
 \begin{align}
 f_Y(y)&=\int^\infty_0xe^{-(x+y)}\,dx\\
-&=e^{-y}\int^\infty_0xe^{-x}
+&=e^{-y}\int^\infty_0xe^{-x}\,dx\\
+&=e^{-y}\cdot1!\,(Gamma函數)\\
+&=^{}
 \end{align}
 $$
 $$
