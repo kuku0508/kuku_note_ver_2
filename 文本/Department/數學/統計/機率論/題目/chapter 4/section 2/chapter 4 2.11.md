@@ -11,6 +11,6 @@ $$
 $$
 \begin{align}
 f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
-&=
+&=\left(\right)
 \end{align}
 $$
