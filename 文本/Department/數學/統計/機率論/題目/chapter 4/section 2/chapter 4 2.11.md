@@ -40,6 +40,6 @@ $$
 f_{X\mid Y}(\cdot\mid Y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
 &=\frac{\frac12ye^{-xy}}{\frac{1}{2}}\\
 &=ye^{-xy}\\\\
-f_{X\mid Y}(\cdot\mid Y=\frac12)=\frac12
+f_{X\mid Y}(\cdot\mid Y=\frac12)=\frac12e^{-\frac x2}
 \end{align}
 $$
