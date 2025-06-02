@@ -69,5 +69,10 @@ f_{Y\mid X}(\cdot\mid x)
 \end{cases}
 $$
 ##### 第三小題
- 題目要求$P(X>2\log2\mid Y=\log2)$，我們就把Y代入$\log2$然後對X積分，積分範圍會是$2\log 2$：
+ 題目要求$P(X>2\log2\mid Y=\log2)$，我們就把Y代入$\log2$然後對X積分，積分範圍會是$2\log 2<X<\infty$：
+ $$
+ \begin{align}
+ P(X>2\log 2\mid Y=\log 2)=\int^\infty_2\log
+ \end{align}
+ $$
  
