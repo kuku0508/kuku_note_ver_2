@@ -33,7 +33,7 @@ $$
 $$
 f_Y(y)
 \begin{cases}
-ye^{-y},&0<y\\\\
+ye^{-y},&0>y\\\\
 0,&y\leq 0
 \end{cases}
 $$
@@ -47,9 +47,9 @@ f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
 \end{align}
 $$
 $$
-f_{X\mid Y}(\cdot\y)
+f_{X\mid Y}(\cdot\mid y)
 \begin{cases}
-ye^{-y},&0<y\\\\
+e^{-x+y},&0<y\\\\
 0,&y\leq 0
 \end{cases}
 $$
