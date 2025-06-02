@@ -24,5 +24,15 @@ xe^{-x},&x>0\\\\
 $$
 
 $$
-
+\begin{align}
+f_Y(y)&=\int^\infty_0xe^{-(x+y)}\,dx\\
+&=e^{-y}\int^\infty_0xe^{-x}
+\end{align}
+$$
+$$
+f_X(x)=
+\begin{cases}
+xe^{-x},&x>0\\\\
+0,&x\leq0
+\end{cases}
 $$
