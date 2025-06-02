@@ -40,7 +40,10 @@ $$
 ##### 第二小題
 $$
 \begin{align}
-f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}=\frac{ye^{-x}}{ye^{-y}}
+f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
+&=\frac{ye^{-x}}{ye^{-y}}\\
+&=e^{-x}\cdot e^y\\
+&=e^{-x+y}
 \end{align}
 $$
 $$
