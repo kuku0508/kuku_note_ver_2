@@ -9,6 +9,7 @@ $$
 # 回答：
 $$
 \begin{align}
-
-\end{}
+f_X(x)&=\int^\infty_yye^{-x}\\
+&=
+\end{align}
 $$
