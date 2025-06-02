@@ -7,6 +7,7 @@ $$
 2. determine the conditional pdf $f_{Y\mid X}(\cdot\mid x)$
 3. calculate the probability $P(X>\ln 4)$, whereas as always log stands for the natural logarithm.
 # 回答：
+##### 第一小題
 $$
 \begin{align}
 f_X(x)&=\int^\infty_0xe^{-(x+y)}\,dy\\
@@ -28,13 +29,14 @@ $$
 f_Y(y)&=\int^\infty_0xe^{-(x+y)}\,dx\\
 &=e^{-y}\int^\infty_0xe^{-x}\,dx\\
 &=e^{-y}\cdot1!\,(Gamma函數)\\
-&=^{}
+&=e^{-y}
 \end{align}
 $$
+關於Gamma函數的積分，可以看一下[[chapter 4 1.11]]
 $$
 f_X(x)=
 \begin{cases}
-xe^{-x},&x>0\\\\
-0,&x\leq0
+e^{-y},&y>0\\\\
+0,&y\leq0
 \end{cases}
 $$
