@@ -33,6 +33,7 @@ $$
 $$
 \begin{align}
 f_Y(y)&=\int^1_0x+y\,dx\\
-&=\left(\frac{x^2}2+xy\right)
+&=\left(\frac{x^2}2+xy\right)\bigg|^1_{x=0}\\
+&=y+\frac12
 \end{align}
 $$
