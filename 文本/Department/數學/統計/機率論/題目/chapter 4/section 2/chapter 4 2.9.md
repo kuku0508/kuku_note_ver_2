@@ -75,7 +75,7 @@ $$
  P(X>2\ln 2\mid Y=\ln 2)&=\int^\infty_{2\ln2}e^{-x+\ln2}\,dx\\
  &=e^{\ln2}\cdot\int^\infty_{2\ln2}e^{-x}\,dx\\
  &=e^{\ln2}\cdot\left(-e^{-x}\right)\bigg|^\infty_{x=2\ln2}\\
- &=2\cdot
+ &=2\cdot-\left\frac{}{}
  \end{align}
  $$
  
