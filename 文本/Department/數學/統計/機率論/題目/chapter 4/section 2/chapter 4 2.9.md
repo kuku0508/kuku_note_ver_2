@@ -31,4 +31,8 @@ f_Y(y)&=\int^\infty_yye^{-x}\,dx\\
 \end{align}
 $$
 ##### 第二小題
-f^{X\mid Y}(\cdot\mid y)
+$$
+\begin{align}
+f_{X\mid Y}(\cdot\mid y)=
+\end{align}
+$$
