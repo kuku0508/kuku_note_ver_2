@@ -4,7 +4,7 @@ $$
 f_{X,Y}(x,y)=\frac12ye^{-xy},\quad0<x<\infty,\quad0<y<2.
 $$
 1. determine the marginal pdf $f_X$ and $f_Y$.
-2. determine the conditional pdf f_{X\mid Y}(\cdot\mid y), and evaluate it at $y=1/2$
+2. determine the conditional pdf $f_{X\mid Y}(\cdot\mid y)$, and evaluate it at $y=1/2$
 3. Compute the conditional expectation $E(X\mid Y=y)$, and evaluate it at $y=1/2$.
 # 回答：
 ##### 第一小題
