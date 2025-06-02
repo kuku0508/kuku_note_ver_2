@@ -88,6 +88,6 @@ $$
 \begin{align}
 E[E(Y\mid X)]&=\int^2_0 \frac{6x+4}{6x+3}\,\cdot\,f_X\,dx\\
 &=\int^2_0\frac{6x+4}{6x+3}\,\cdot\,\frac{12x^2+6x}{7}\,dy\\
-&=
+&=\int^2_0 6x\,\cdot\,\frac{6x+4}{6x+3}\,\cdot\,\frac{2x^2+1}{7}\,dy\\
 \end{align}
 $$
