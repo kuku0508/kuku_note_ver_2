@@ -46,6 +46,7 @@ $$
 ##### 第三小題
 $$
 \begin{align}
-E(X\mid Y=y)=\int x\cdot f_{X\mid Y}(x\mid y)
+E(X\mid Y=y)&=\int^\infty_0 x\cdot f_{X\mid Y}(x\mid y)\\
+&=
 \end{align}
 $$
