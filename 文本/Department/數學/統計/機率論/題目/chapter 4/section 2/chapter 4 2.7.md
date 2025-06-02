@@ -26,6 +26,12 @@ $$
 \begin{align}
 f_X(x)&=\int^1_0 x+y\,dy\\
 &=\left(\frac{y^2}2+xy\right)\bigg|^1_{y=0}\\
-&=
+&=x+\frac{1}{2}
 \end{align}
+$$
+同理，$f_Y$就是對x做積分：
+$$
+\begin{}
+
+
 $$
