@@ -20,6 +20,6 @@ f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
 &=uv-\int^2_0u\,dv\\
 &=\frac{-y}{x}e^{-xy}-\int^2_0\frac{-1}{x}e^{-xy}\,dy\\
 &=\frac{-y}{x}e^{-xy}-\left(\frac{-1}{x}\int^2_0e^{-xy}\,dy\right)\\
-&=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\right]
+&=\frac{-y}{x}e^{-xy}-\left[\frac{-1}{x}\left(\frac{-1}{x}e^{-xy}\right)\bigg|^2_{y=0}\right]
 \end{align}
 $$
