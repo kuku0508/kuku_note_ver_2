@@ -46,6 +46,6 @@ $$
 ##### 第三小題
 $$
 \begin{align}
-E(X\mid Y=y)=
+E(X\mid Y=y)=\int xf_{X\mid Y}
 \end{align}
 $$
