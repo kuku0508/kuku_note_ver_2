@@ -36,3 +36,8 @@ $$
 f_{X\mid Y}(\cdot\mid y)=
 \end{align}
 $$
+$$
+\begin{align}
+f_{Y\mid X}(\cdot\mid x)=
+\end{align}
+$$
