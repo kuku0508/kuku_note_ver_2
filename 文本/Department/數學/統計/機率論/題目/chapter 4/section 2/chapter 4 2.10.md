@@ -16,8 +16,13 @@ f_X(x)&=\int^\infty_0xe^{-(x+y)}\,dy\\
 \end{align}
 $$
 $$
-f_X
+f_X(x)=
 \begin{cases}
-
+xe^{-x},&x>0\\\\
+0,&x\leq0
 \end{cases}
+$$
+
+$$
+
 $$
