@@ -14,3 +14,9 @@ f_X(x)&=\int^\infty_yye^{-x}\\
 &=ye^{-y}
 \end{align}
 $$
+$$
+\begin{align}
+f_Y(y)&=\int^x_0ye^{-x}\\
+
+\end{align}
+$$
