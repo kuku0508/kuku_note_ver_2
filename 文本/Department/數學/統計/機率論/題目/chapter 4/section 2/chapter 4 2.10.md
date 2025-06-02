@@ -59,5 +59,8 @@ $$
 ##### 第三小題
 要求$P(X>\ln4)$，我們可以直接積分X的邊際機率密度函數來得到答案，積分範圍是$\ln4<x<\infty$：
 $$
-P(X>\ln)xe^{-x}
+\begin{align}
+P(X>\ln4)=\int^\infty_{\ln4} xe^{-x}\,dx\\
+&+
+\end{align}
 $$
