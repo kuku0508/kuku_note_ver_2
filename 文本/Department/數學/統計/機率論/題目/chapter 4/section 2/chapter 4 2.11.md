@@ -11,7 +11,7 @@ $$
 $$
 \begin{align}
 &v=y,\quad du=e^{-xy}\,dy\\
-&dv=dy,\quad u=\int e^{-xy}
+&dv=dy,\quad u=\int e^{-xy}\,dy=\frac{-1}{x}e^{-xy}
 \end{align}
 $$
 $$
