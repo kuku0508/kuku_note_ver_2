@@ -57,3 +57,8 @@ f_{Y\mid X}(\cdot\mid x)=
 \end{cases}
 $$
 ##### 第二小題
+$$
+\begin{align}
+E(Y)=\int y\,\cdot\
+\end{align}
+$$
