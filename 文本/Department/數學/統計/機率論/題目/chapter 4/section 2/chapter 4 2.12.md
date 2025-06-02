@@ -75,6 +75,8 @@ E(Y\mid X=x)&=\int^2_0 y\,\cdot\,\left(\frac{2x+y}{4x+2}\right)\,dy\\
 &=\frac{1}{4x+2}\left(xy^2+\frac{y^3}{3}\right)\bigg|^2_{y=0}\\
 &=\frac{1}{4x+2}\left(4x+\frac83\right)\\
 &=\frac{4x+\frac83}{4x+2}\\
-&=\frac{\frac{12x+8}{3}}{4x+2}
+&=\frac{\frac{12x+8}{3}}{4x+2}\\
+&=\frac{12x+8}{3(4x+2)}\\
+&=\frac{12x+8}{12x+6}
 \end{align}
 $$
