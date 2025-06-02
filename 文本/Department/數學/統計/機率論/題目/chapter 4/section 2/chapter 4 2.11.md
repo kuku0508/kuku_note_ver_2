@@ -47,6 +47,7 @@ $$
 $$
 \begin{align}
 E(X\mid Y=y)&=\int^\infty_0 x\cdot f_{X\mid Y}(x\mid y)\,dx\\
-&=\int^\infty_0x(ye^{-xy})\,dx
+&=\int^\infty_0x(ye^{-xy})\,dx\\
+&=y\int^\infty_0xe^{-xy}\,dx
 \end{align}
 $$
