@@ -10,6 +10,8 @@ $$
 ##### 第一小題
 $$
 \begin{align}
+&v=y,\quad du=e^{-xy}\,dy\\
+&dv=dy,\quad u=\int e^{-xy}
 \end{align}
 $$
 $$
