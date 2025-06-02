@@ -10,6 +10,7 @@ $$
 ##### 第一小題
 $$
 \begin{align}
-f_X=
+f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
+&=
 \end{align}
 $$
