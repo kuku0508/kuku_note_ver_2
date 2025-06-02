@@ -24,6 +24,8 @@ $$
 求$f_X$要把所有同一行的值全部相加，其實就等於對y做積分。所以：
 $$
 \begin{align}
-f_X(x)=\int^1_0 x+y\,dy=
+f_X(x)&=\int^1_0 x+y\,dy\\
+&=\left(\frac{y^2}2+xy\right)\bigg|^1_{y=0}\\
+&=
 \end{align}
 $$
