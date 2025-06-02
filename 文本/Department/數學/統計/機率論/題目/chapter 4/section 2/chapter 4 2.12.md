@@ -14,6 +14,8 @@ $$
 \begin{align}
 f_X&=\int^2_0\frac67\left(x^2+\frac{xy}{2}\right)\,dy\\
 &=\frac67\left(x^2y+\frac{xy^2}{4}\right)\bigg|^2_{y=0}\\
-&=\frac67\left(2x^2+\right)
+&=\frac67\left(2x^2+x\right)\\
+&=\frac{12x^2}{7}+\frac{6x}{7}\\
+&=\frac{12x^2+6x}{7}
 \end{align}
 $$
