@@ -45,9 +45,5 @@ f_{X\mid Y}(\cdot\mid Y=\frac12)=\frac12e^{-\frac x2}
 $$
 ##### 第三小題
 $$
-\begin{align}
-E(X\mid Y=y)&=\int^\infty_0 x\cdot f_{X\mid Y}(x\mid y)\,dx\\
-&=\int^\infty_0x(ye^{-xy})\,dx\\
-&=y\int^\infty_0xe^{-xy}\,dx\quad\quad v=x,\,du=e^{-xy}\,dx\Rightarrow dv=dx,\,u^{}
-\end{align}
+
 $$
