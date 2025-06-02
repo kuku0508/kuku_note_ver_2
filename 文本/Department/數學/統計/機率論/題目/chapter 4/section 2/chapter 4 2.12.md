@@ -102,6 +102,7 @@ $$
 $$
 \begin{align}
 P\left(Y>\frac12\mid X<\frac12\right)&=\int^{\frac12}_0\int^2_{\frac12}\frac{2x+y}{4x+2}\,dydx\\
-&=\int^\frac12_0\frac{1}{4x+2}\int^2_\frac12
+&=\int^\frac12_0\frac{1}{4x+2}\int^2_\frac122x+y\,dydx\\
+&=\int^\frac12_0\frac{1}{4x+2}\left(2xy+\frac {y^2}2 \right)\bigg|^2_
 \end{align}
 $$
