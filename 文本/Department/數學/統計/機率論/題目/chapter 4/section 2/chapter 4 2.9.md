@@ -15,9 +15,10 @@ f_X(x)&=\int^x_0ye^{-x}\,dy\\
 \end{align}
 $$
 $$
-
-
-
+f_X(x)
+\begin{cases}
+\frac{x^2}{2}e^{-x},&0<x<\infty
+\end{cases}
 $$
 
 $$
