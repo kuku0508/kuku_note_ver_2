@@ -12,5 +12,7 @@ calculate:
 ##### 第一小題
 $$
 \begin{align}
-f_X
+f_X&=\int^2_0\frac67\left(x^2+\frac{xy}{2}\right)\,dy\\
+&=
+\end{align}
 $$
