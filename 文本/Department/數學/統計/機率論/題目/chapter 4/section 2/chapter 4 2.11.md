@@ -43,3 +43,4 @@ f_{X\mid Y}(\cdot\mid Y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
 f_{X\mid Y}(\cdot\mid Y=\frac12)=\frac12e^{-\frac x2}
 \end{align}
 $$
+####
