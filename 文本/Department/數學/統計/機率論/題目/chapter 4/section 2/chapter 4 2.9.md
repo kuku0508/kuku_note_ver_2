@@ -53,10 +53,18 @@ e^{-x+y},&y\leq x \leq \infty\,;\,\text{given}\,0<y<\infty \\\\
 0,&x<y
 \end{cases}
 $$
+
 $$
 \begin{align}
 f_{Y\mid X}(\cdot\mid x)&=\frac{f_{X,Y}(x,y)}{f_X(x)}\\
 &=\frac{ye^{-x}}{\frac{x^2}{2}e^{-x}}\\
 &=\frac{2y}{x^2}
 \end{align}
+$$
+$$
+f_{Y\mid X}(\cdot\mid x)
+\begin{cases}
+\frac{2y}{x^2},&0<y\leq x,\,\text{}{}\\\\
+0,&y\leq 0
+\end{cases}
 $$
