@@ -5,6 +5,7 @@ f_{X,Y}(x,y)=\frac{6}{5}(x+y^2),\quad 0\leq x\leq 1,\quad 0\leq y \leq 1
 $$
 are as follows:
 $$
-f_X(x)=\frac25(3x+1),\quad0\leq x\leq 1,\quad 
+f_X(x)=\frac25(3x+1),\quad0\leq x\leq 1,\quad f_Y(y)=\frac35(2y^2+1),\quad 0\leq y \leq 1
 $$
 # 回答：
+跟前面ㄉㄜ
