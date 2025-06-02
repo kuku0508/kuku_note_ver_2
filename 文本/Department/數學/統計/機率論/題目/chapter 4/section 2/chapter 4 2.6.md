@@ -81,7 +81,8 @@ $$
 $$
 E(X\mid Y)=
 \begin{cases}
-\frac{y+n}{2},&
+\frac{y+n}{2},&x=1,2,\ldots n;y=1,2,\ldots, x\\
+0,&\text{otherwise}
 \end{cases}
 $$
 $$
