@@ -60,6 +60,8 @@ $$
 $$
 \begin{align}
 E(Y)&=\int^2_0 y\,\cdot\,f_Y\,dy\\
-&=\int^2_0y\cdot\frac{1}{14}\left(4+3y\right)\,dy
+&=\int^2_0y\cdot\frac{1}{14}\left(4+3y\right)\,dy\\
+&=\frac{1}{14}\int^2_04y+3y^2\,dy\\
+&=\frac{1}{14}\left(\right)
 \end{align}
 $$
