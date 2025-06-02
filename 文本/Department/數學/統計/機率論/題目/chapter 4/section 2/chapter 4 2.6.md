@@ -79,9 +79,9 @@ E(X\mid Y)&=\sum^n_{x=y} x\cdot\frac{1}{n-y+1}\\
 $$
 
 $$
-E()
+E(X\mid Y)=
 \begin{cases}
-
+\frac{y+n}{2},&
 \end{cases}
 $$
 $$
