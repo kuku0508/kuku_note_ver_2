@@ -10,6 +10,7 @@ $$
 $$
 \begin{align}
 f_X(x)&=\int^\infty_0xe^{-(x+y)}\,dy\\
-&=x\int^{\infty}_0e
+&=xe^{-x}\int^{\infty}_0 e^{-y}\\
+&=xe^{-x}\left(-e^{-y}\right)
 \end{align}
 $$
