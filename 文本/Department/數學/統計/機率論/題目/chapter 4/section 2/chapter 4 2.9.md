@@ -69,5 +69,5 @@ f_{Y\mid X}(\cdot\mid x)
 \end{cases}
 $$
 ##### 第三小題
- 題目要求$P(X>2\log2\mid Y=\log2)$，其實就是f_{X\mid Y}(X>2log2)
+ 題目要求$P(X>2\log2\mid Y=\log2)$，我們就把Y代入$\log2$然後對X積分，積分範圍會是$2\log 2$：
  
