@@ -64,6 +64,11 @@ E(Y)&=\int^2_0 y\,\cdot\,f_Y\,dy\\
 &=\frac{1}{14}\int^2_04y+3y^2\,dy\\
 &=\frac{1}{14}\left(2y^2+y^3\right)\bigg|^2_{y=0}\\
 &=\frac{8+8}{14}\\
-&=\frac{}{}
+&=\frac{8}{7}
 \end{align}
+$$
+$$
+\begin{align}
+
+\end{}
 $$
