@@ -46,7 +46,7 @@ $$
 ##### 第三小題
 $$
 \begin{align}
-E(X\mid Y=y)&=\int^\infty_0 x\cdot f_{X\mid Y}(x\mid y)\\
-&=
+E(X\mid Y=y)&=\int^\infty_0 x\cdot f_{X\mid Y}(x\mid y)\,dx\\
+&=\int^\infty_0x(ye^{-xy})\,dx
 \end{align}
 $$
