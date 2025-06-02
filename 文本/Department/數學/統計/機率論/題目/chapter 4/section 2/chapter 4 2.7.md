@@ -19,4 +19,4 @@ y\backslash x&0&0.0\ldots1&\cdots&1\\
 \hline
 \end{array}
 $$
-要求$f_X$，我們只要把
+要求$f_X$，我們只要把同一行所有的機率加起來，就可以得到
