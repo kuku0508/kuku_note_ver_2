@@ -78,6 +78,6 @@ E(Y\mid X=x)&=\int^2_0 y\,\cdot\,\left(\frac{2x+y}{4x+2}\right)\,dy\\
 &=\frac{\frac{12x+8}{3}}{4x+2}\\
 &=\frac{12x+8}{3(4x+2)}\\
 &=\frac{12x+8}{12x+6}\\
-&=\frac{6x+4}{6x+3}
+&=\frac{6x+4}{6x+3},\quad d
 \end{align}
 $$
