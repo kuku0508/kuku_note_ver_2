@@ -18,7 +18,7 @@ $$
 $$
 f_X(x)
 \begin{cases}
-\frac{x^2}{2}e^{-x},&0<x\\\\
+\frac{x^2}{2}e^{-x},&0<x<\infty\\\\
 0,&x\leq 0
 \end{cases}
 $$
@@ -33,7 +33,7 @@ $$
 $$
 f_Y(y)
 \begin{cases}
-ye^{-y},&0<y\\\\
+ye^{-y},&0<y<\infty\\\\
 0,&y\leq 0
 \end{cases}
 $$
@@ -50,13 +50,13 @@ $$
 f_{X\mid Y}(\cdot\mid y)
 \begin{cases}
 e^{-x+y},&y\leq x \leq \infty\,;\,\text{given}\,0<y<\infty \\\\
-0,&y\leq 0
+0,&x<y
 \end{cases}
 $$
 $$
 \begin{align}
 f_{Y\mid X}(\cdot\mid x)&=\frac{f_{X,Y}(x,y)}{f_X(x)}\\
 &=\frac{ye^{-x}}{\frac{x^2}{2}e^{-x}}\\
-&=\frac{2y}{}
+&=\frac{2y}{x^2}
 \end{align}
 $$
