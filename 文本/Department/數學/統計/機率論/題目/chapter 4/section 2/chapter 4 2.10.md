@@ -64,8 +64,8 @@ $$
 我們可以發現，積分範圍是$(\infty,\ln4)$，而不是$(\infty,0)$，所以我們這邊不能用Gamma函數積分，我們需要用部分積分的方法來積分：
 $$
 \begin{align}
-&u=x\quad &dv=e^{-x}dx\\
-&du=dx\quad &v
+&u=x\quad dv=e^{-x}dx\\
+&du=dx\quad v=\int e^{-x}dx=-e^{-x}
 \end{align}
 $$
 $$
