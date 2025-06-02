@@ -10,7 +10,7 @@ $$
 ##### 第一小題
 $$
 \begin{align}
-f_X&=\frac12\int^2_0ye^{-xy}\,dy\\\\
+&f_X=\frac12\int^2_0ye^{-xy}\,dy\\\\
 &v=y,\quad du=e^{-xy}\,dy\\
 &dv=dy,\quad u=\int e^{-xy}\,dy=\frac{-1}{x}e^{-xy}
 \end{align}
@@ -24,10 +24,16 @@ f_X&=\frac12\int^2_0ye^{-xy}\,dy\\
 &=\frac12\left(\frac{-2}{x}e^{-2x}-\frac{1}{x^2}e^{-2x}+\frac{1}{x^2}\right)
 \end{align}
 $$
+
 $$
 \begin{align}
-&f_Y=\frac{1}{2}\int^\infty_0ye^{-xy}\,dx\\
+&f_Y=\frac{1}{2}\int^\infty_0ye^{-xy}\,dx\\\\
 &v=y,\quad du=e^{-xy}\,dx\\
 &dv=dy,\quad u=\int e^{-xy}\,dx=\frac{-1}{y}e^{-xy}
+\end{align}
+$$
+$$
+\begin{align}
+f_Y=\frac12\int^\infty_0ye^{-xy}\,dx=
 \end{align}
 $$
