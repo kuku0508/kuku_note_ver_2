@@ -9,9 +9,9 @@ $$
 \hline
 y\backslash x&1&2&\cdots&n\\
 \hline
-1&x+y&x+y&\cdots&x+y\\
+0&x+y&x+y&\cdots&x+y\\
 \hline
-2&x+y&x+y&\cdots&x+y\\
+0.0\ldots&x+y&x+y&\cdots&x+y\\
 \hline
 \vdots&\vdots&\vdots&\ddots&\vdots\\
 \hline
