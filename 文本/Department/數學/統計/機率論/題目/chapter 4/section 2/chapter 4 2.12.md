@@ -86,16 +86,15 @@ $$
 題目要我們證明$E[E(Y\mid X)]=E(Y)$，那我們需要$E[E(Y\mid X)]$。可以參考一下[[chapter 4 2.5]]
 $$
 \begin{align}
-E[E(Y\mid X)]&=\int^2_0 \frac{6x+4}{6x+3}\,\cdot\,f_X\,dx\\
-&=\int^2_0\frac{6x+4}{6x+3}\,\cdot\,\frac{12x^2+6x}{7}\,dx\\
-&=\int^2_0 6x\,\cdot\,\frac{6x+4}{6x+3}\,\cdot\,\frac{2x+1}{7}\,dx\\
-&=\int^2_0 6x\,\cdot\,\frac{6x+4}{3}\,\cdot\,\frac{1}{7}\,dx\\
-&=\int^2_0\frac{36x^2+24x}{21}\,dx\\
-&=\frac{12}{21}\int^2_03x^2+2x\,dx\\
-&=\frac{12}{21}\left(x^3+x^2\right)\bigg|^2_{x=0}\\
+E[E(Y\mid X)]&=\int^1_0 \frac{6x+4}{6x+3}\,\cdot\,f_X\,dx\\
+&=\int^1_0\frac{6x+4}{6x+3}\,\cdot\,\frac{12x^2+6x}{7}\,dx\\
+&=\int^1_0 6x\,\cdot\,\frac{6x+4}{6x+3}\,\cdot\,\frac{2x+1}{7}\,dx\\
+&=\int^1_0 6x\,\cdot\,\frac{6x+4}{3}\,\cdot\,\frac{1}{7}\,dx\\
+&=\int^1_0\frac{36x^2+24x}{21}\,dx\\
+&=\frac{12}{21}\int^1_03x^2+2x\,dx\\
+&=\frac{12}{21}\left(x^3+x^2\right)\bigg|^1_{x=0}\\
 &=\frac{12}{21}(8+4)\\
 &=\frac{144}{21}\\
 &=\frac{48}{7}
-
 \end{align}
 $$
