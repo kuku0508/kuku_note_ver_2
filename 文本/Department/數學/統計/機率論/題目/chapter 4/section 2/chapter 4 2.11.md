@@ -18,8 +18,8 @@ $$
 \begin{align}
 f_X&=\frac12\int^2_0ye^{-xy}\,dy\\
 &=uv-\int^2_0u\,dv\\
-&=\frac{-y}{x}e^{-xy}\bigg|^2_{y=0}-\int^2_0\frac{-1}{x}e^{-xy}\,dy\\
-&=\frac{-2}{x}e^{-2x}-\left(\frac{1}{x^2}e^{-xy}\right)\bigg|^2_{y=0}\\
-&=\frac{-2}{x}e^{-2x}-\frac{1}{x^2}e^{-2x}+\frac{1}{x^2}
+&=\frac12\left(\frac{-y}{x}e^{-xy}\bigg|^2_{y=0}-\int^2_0\frac{-1}{x}e^{-xy}\,dy\\
+&=\frac12\left(\frac{-2}{x}e^{-2x}-\left(\frac{1}{x^2}e^{-xy}\right)\bigg|^2_{y=0}\right)\\
+&=\frac12\left(\frac{-2}{x}e^{-2x}-\frac{1}{x^2}e^{-2x}+\frac{1}{x^2}\right)
 \end{align}
 $$
