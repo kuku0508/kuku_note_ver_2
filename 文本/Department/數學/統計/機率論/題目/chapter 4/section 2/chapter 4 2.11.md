@@ -34,6 +34,7 @@ $$
 $$
 $$
 \begin{align}
-f_Y=\frac12\int^\infty_0ye^{-xy}\,dx=
+f_Y&=\frac12\int^\infty_0ye^{-xy}\,dx=\frac12\left(uv-\int u\,dv}\right)\\
+&=
 \end{align}
 $$
