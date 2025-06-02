@@ -37,7 +37,7 @@ $$
 ##### 第二小題
 $$
 \begin{align}
-f_{X\mid Y}(\cdot\mid Y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
-&=
+f_{X\mid Y}(\cdot\mid Y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
+&=\frac{\frac12ye^{-xy}}{\frac{1}{2}}
 \end{align}
 $$
