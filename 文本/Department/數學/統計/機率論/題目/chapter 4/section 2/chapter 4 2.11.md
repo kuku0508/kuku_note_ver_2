@@ -18,7 +18,7 @@ $$
 \begin{align}
 f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
 &=uv-\int^2_0u\,dv\\
-\int^2_0\frac{-1}{x}e^{-xy}\,dy\\
-
+&=\frac{-y}{x}e^{-xy}-\int^2_0\frac{-1}{x}e^{-xy}\,dy\\
+&=\frac{-y}{x}e^{-xy}-
 \end{align}
 $$
