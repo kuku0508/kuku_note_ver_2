@@ -7,6 +7,7 @@ $$
 2. determine the comditional pdf of $f_{X\mid Y} (\cdot\mid y)$ and $f_{Y\mid X}(\cdot\mid x)$, and specify the range of the arguments involved.
 3. calculate the (conditional) probability $P(X>2\log2\mid Y=\log2)$, wjere always log stands for the natural logarithm.
 # 回答：
+##### 第一小題
 $$
 \begin{align}
 f_X(x)&=\int^x_0ye^{-x}\,dy\\
@@ -26,6 +27,6 @@ $$
 \begin{align}
 f_Y(y)&=\int^\infty_yye^{-x}\,dx\\
 &=y(-e^{-x})\bigg|^\infty_{x=y}\\
-&=
+&=-ye^{-y}
 \end{align}
 $$
