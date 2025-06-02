@@ -72,9 +72,10 @@ $$
  題目要求$P(X>2\ln2\mid Y=\ln2)$，我們就把Y代入$\ln2$然後對X積分，積分範圍會是$2\ln 2<X<\infty$：
  $$
  \begin{align}
- P(X>2\ln 2\mid Y=\ln 2)&=\int^\infty_{2\ln2}e^{-x+\ln}\,dx\\
- &=e^{\ln}\cdot\int^\infty_{2\ln2}e^{-x}\,dx\\
- &=e^{\ln}\cdot\left(-e^{-x}\right)\bigg|^\infty_{x=2\ln2}
+ P(X>2\ln 2\mid Y=\ln 2)&=\int^\infty_{2\ln2}e^{-x+\ln2}\,dx\\
+ &=e^{\ln2}\cdot\int^\infty_{2\ln2}e^{-x}\,dx\\
+ &=e^{\ln2}\cdot\left(-e^{-x}\right)\bigg|^\infty_{x=2\ln2}\\
+ &=2
  \end{align}
  $$
  
