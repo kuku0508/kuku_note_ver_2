@@ -57,6 +57,6 @@ $$
 \begin{align}
 f_{Y\mid X}(\cdot\mid x)&=\frac{f_{X,Y}(x,y)}{f_X(x)}\\
 &=\frac{ye^{-x}}{\frac{x^2}{2}e^{-x}}\\
-&=\frac{2y}{x^2}
+&=\frac{2y}{}
 \end{align}
 $$
