@@ -13,6 +13,6 @@ calculate:
 $$
 \begin{align}
 f_X&=\int^2_0\frac67\left(x^2+\frac{xy}{2}\right)\,dy\\
-&=
+&=\frac67\left(x^2y+\frac{xy}{}\right)
 \end{align}
 $$
