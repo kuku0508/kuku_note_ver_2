@@ -21,6 +21,7 @@ $$
 $$
 \begin{align}
 f_Y(y)&=\int^1_0\frac65(x+y^2)\,dx\\
-&=\frac65\left(\right)
+&=\frac65\left(\frac{x^2}{2}+y^2x\right)\bigg|^1_{x=0}\\
+&=\frac65\left(\frac12+y^2\right)
 \end{align}
 $$
