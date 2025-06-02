@@ -77,6 +77,13 @@ E(X\mid Y)&=\sum^n_{x=y} x\cdot\frac{1}{n-y+1}\\
 &=\frac{y+n}{2}
 \end{align}
 $$
+
+$$
+E()
+\begin{cases}
+
+\end{cases}
+$$
 $$
 \begin{align}
 E(Y\mid X)&=\sum^x_{y=1} y\cdot\frac{1}{x}\\
