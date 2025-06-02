@@ -70,5 +70,5 @@ f_{X\mid Y}(x\mid y)=
 $$
 #### 第三小題
 $$
-E(X\mid Y)=
+E(X\mid Y)=\sum^n_{x=1} x\cdot\frac{1}{n-y+1}
 $$
