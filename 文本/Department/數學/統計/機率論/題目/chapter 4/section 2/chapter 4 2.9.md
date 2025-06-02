@@ -24,7 +24,8 @@ $$
 
 $$
 \begin{align}
-f_Y(y)&=\int^x_0ye^{-x}\,dx\\
-&=y
+f_Y(y)&=\int^\infty_yye^{-x}\,dx\\
+&=y(-e^{-x})\bigg|^\infty_{x=y}\\
+&=
 \end{align}
 $$
