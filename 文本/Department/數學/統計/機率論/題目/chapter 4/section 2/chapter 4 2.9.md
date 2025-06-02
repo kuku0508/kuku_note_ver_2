@@ -49,7 +49,7 @@ $$
 $$
 f_{X\mid Y}(\cdot\mid y)
 \begin{cases}
-e^{-x+y},&y\leq x \leq \infty\,;\,\text{given}0<y<\infty \\\\
+e^{-x+y},&y\leq x \leq \infty\,;\,\text{given}\,0<y<\infty \\\\
 0,&y\leq 0
 \end{cases}
 $$
