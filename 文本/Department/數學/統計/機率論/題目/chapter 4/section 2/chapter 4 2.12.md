@@ -101,7 +101,6 @@ $$
 ##### 第四小題
 $$
 \begin{align}
-P(X>\frac12\mid Y<\frac12)
-\frac{2x+y}{4x+2}
+P\left(Y>\frac12\mid X<\frac12\right)=\int\int^2\frac{2x+y}{4x+2}\,dydx
 \end{align}
 $$
