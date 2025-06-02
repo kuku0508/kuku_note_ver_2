@@ -98,3 +98,10 @@ E[E(Y\mid X)]&=\int^1_0 \frac{6x+4}{6x+3}\,\cdot\,f_X\,dx\\
 &=\frac{8}{7}=E(Y)
 \end{align}
 $$
+##### 第四小題
+$$
+\begin{align}
+P(X>\frac12\mid Y<\frac12)
+\frac{2x+y}{4x+2}
+\end{align}
+$$
