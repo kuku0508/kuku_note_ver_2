@@ -25,17 +25,9 @@ f_X&=\frac12\int^2_0ye^{-xy}\,dy\\
 \end{align}
 $$
 
+
 $$
 \begin{align}
-&f_Y=\frac{1}{2}\int^\infty_0ye^{-xy}\,dx\\\\
-&v=y,\quad du=e^{-xy}\,dx\\
-&dv=dy,\quad u=\int e^{-xy}\,dx=\frac{-1}{y}e^{-xy}
-\end{align}
-$$
-$$
-\begin{align}
-f_Y&=\frac12\int^\infty_0ye^{-xy}\,dx=\frac12\left(uv-\int u\,dv\right)\\
-&=\frac12\left[\left(\frac{-y}{y}e^{-xy}\right)\bigg|^\infty_{x=0}-\int^\infty_0\frac{-1}{x}e^{-xy}\,dy\right]\\
-&=\frac12\left(\right)
+f_Y&=\frac12\int^\infty_0ye^{-xy}\,dx
 \end{align}
 $$
