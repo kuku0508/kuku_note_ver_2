@@ -10,6 +10,10 @@ $$
 ##### 第一小題
 $$
 \begin{align}
+\end{align}
+$$
+$$
+\begin{align}
 f_X&=\int^2_0\frac12ye^{-xy}\,dy\\
 &=\frac12\int^2_0ye^{-xy}\,dy\\
 \end{align}
