@@ -83,9 +83,10 @@ E(Y\mid X=x)&=\int^2_0 y\,\cdot\,\left(\frac{2x+y}{4x+2}\right)\,dy\\
 $$
 
 ##### 第三小題
-題目要我們證明$E[E(Y\mid X)]=E(Y)$，那我們需要$E[E(Y\mid X)]$。
+題目要我們證明$E[E(Y\mid X)]=E(Y)$，那我們需要$E[E(Y\mid X)]$。可以參考一下[[chapter 4 2.5]]
 $$
 \begin{align}
-E[E(Y\mid X)]=\int^2_0 y\,\cdot\,\frac{6x+4}{6x+3}
+E[E(Y\mid X)]&=\int^2_0 \frac{6x+4}{6x+3}\,\cdot\,f_Y\,dy\\
+&=
 \end{align}
 $$
