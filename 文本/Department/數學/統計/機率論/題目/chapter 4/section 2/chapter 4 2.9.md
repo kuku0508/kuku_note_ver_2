@@ -17,12 +17,14 @@ $$
 $$
 f_X(x)
 \begin{cases}
-\frac{x^2}{2}e^{-x},&0<x<\infty
+\frac{x^2}{2}e^{-x},&0<x\\\\
+0,&x\leq 0
 \end{cases}
 $$
 
 $$
 \begin{align}
-f_Y(y)&=\int^x_0ye^{-x}\\
+f_Y(y)&=\int^x_0ye^{-x}\,dx\\
+&=y
 \end{align}
 $$
