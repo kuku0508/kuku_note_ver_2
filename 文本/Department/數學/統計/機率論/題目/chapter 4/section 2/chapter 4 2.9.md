@@ -33,7 +33,7 @@ $$
 $$
 f_Y(y)
 \begin{cases}
-ye^{-y},&0>y\\\\
+ye^{-y},&0<y\\\\
 0,&y\leq 0
 \end{cases}
 $$
@@ -49,7 +49,7 @@ $$
 $$
 f_{X\mid Y}(\cdot\mid y)
 \begin{cases}
-e^{-x+y},&0<y\\\\
+e^{-x+y},&0<y\,;\,x\leq y \\\\
 0,&y\leq 0
 \end{cases}
 $$
