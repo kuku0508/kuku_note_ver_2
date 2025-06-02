@@ -21,7 +21,9 @@ f_X&=\int^2_0\frac67\left(x^2+\frac{xy}{2}\right)\,dy\\
 $$
 $$
 \begin{cases}
-\
+\frac{12x^2+6x}{7},&0<x\leq1\\\\
+0,x\leq0\,\,\text{or}\,\,x>1
+\end{cases}
 $$
 $$
 
