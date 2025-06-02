@@ -44,5 +44,7 @@ $$
 $$
 \begin{align}
 f_{Y\mid X}(\cdot\mid x)&=\frac{f_{X,Y}(x,y)}{f_X}\\
-&=\frac{xe^{-()}}{}
+&=\frac{xe^{-(x+y)}}{xe^{-x}}\\
+&=\frac{xe^{-x}e^{-y}}{xe^{-x}}\\
+&=\
 \end{align}$$
