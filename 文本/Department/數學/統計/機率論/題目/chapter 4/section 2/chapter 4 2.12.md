@@ -43,6 +43,6 @@ $$
 
 $$
 \begin{align}
-f_{X\mid Y}
+f_{Y\mid X}(\cdot\mid x)=\frac{\frac67\left(x^2+\frac{xy}{2}\right)}{\frac{12x^2+6x}{}}
 \end{align}
 $$
