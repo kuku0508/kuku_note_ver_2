@@ -34,3 +34,7 @@ f_Y&=\frac12y\int^\infty_0e^{-xy}\,dx\\
 &=\frac12
 \end{align}
 $$
+##### 第二小題
+$$
+f_{X\mid Y}(\cdot\mid Y=\frac12)
+$$
