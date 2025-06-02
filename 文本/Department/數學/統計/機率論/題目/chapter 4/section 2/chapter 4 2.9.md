@@ -27,13 +27,20 @@ $$
 \begin{align}
 f_Y(y)&=\int^\infty_yye^{-x}\,dx\\
 &=y(-e^{-x})\bigg|^\infty_{x=y}\\
-&=-ye^{-y}
+&=ye^{-y}
 \end{align}
+$$
+$$
+f_Y(y)
+\begin{cases}
+ye^{-y},&0<y\\\\
+0,&y\leq 0
+\end{cases}
 $$
 ##### 第二小題
 $$
 \begin{align}
-f_{X\mid Y}(\cdot\mid y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}=\frac{ye^{-x}}{-ye^{-y}}
+f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y(y)}=\frac{ye^{-x}}{ye^{-y}}
 \end{align}
 $$
 $$
