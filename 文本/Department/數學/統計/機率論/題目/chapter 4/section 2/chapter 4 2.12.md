@@ -69,6 +69,6 @@ E(Y)&=\int^2_0 y\,\cdot\,f_Y\,dy\\
 $$
 $$
 \begin{align}
-
-\end{}
+E(Y\mid X=x)=\int^2_0 y\,\cdot
+\end{align}
 $$
