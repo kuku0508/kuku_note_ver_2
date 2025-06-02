@@ -52,6 +52,7 @@ $$
 $$
 f_{Y\mid X}(\cdot\mid x)=
 \begin{cases}
-e^{-y},&x>0
+e^{-y},&x>0\,;\,y>0\\\\
+0,&x\leq0\,\text{or}\,y\leq0
 \end{cases}
 $$
