@@ -105,6 +105,7 @@ P\left(Y>\frac12\mid X<\frac12\right)&=\int^{\frac12}_0\int^2_{\frac12}\frac{2x+
 &=\int^\frac12_0\frac{1}{4x+2}\int^2_\frac122x+y\,dydx\\
 &=\int^\frac12_0\frac{1}{4x+2}\left(2xy+\frac {y^2}2 \right)\bigg|^2_{y=\frac12}\,dx\\
 &=\int^\frac12_0\frac{1}{4x+2}\left[\left(4x+2\right)-\left(x+\frac18\right)\right]\,dx\\
-&=\int^\frac12_0\frac{1}{4x+2}\left(\right)
+&=\int^\frac12_0\frac{1}{4x+2}\left(3x+\frac{17}{8}\right)\\
+&=\int^\frac12_0\frac{3x+\frac{17}{8}}{4x+2}
 \end{align}
 $$
