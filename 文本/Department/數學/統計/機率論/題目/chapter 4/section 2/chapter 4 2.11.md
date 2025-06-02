@@ -46,6 +46,6 @@ $$
 ##### 第三小題
 $$
 \begin{align}
-E(X\mid Y=y)=\int xf_{X\mid Y}
+E(X\mid Y=y)=\int x\cdot f_{X\mid Y}(x\mid y)
 \end{align}
 $$
