@@ -44,6 +44,8 @@ f_{X\mid Y}(\cdot\mid Y=\frac12)=\frac12e^{-\frac x2}
 \end{align}
 $$
 ##### 第三小題
+在我們透過任何的積分方式來試著得到給定Y的條件機率的期望值前，我們可以觀察一下這個條件機率：
 $$
-
+f_{X\mid Y}(\cdot\mid Y)=ye^{-xy}
 $$
+我們可以回想一下，
