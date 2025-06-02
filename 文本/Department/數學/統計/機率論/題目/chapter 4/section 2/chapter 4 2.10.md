@@ -11,6 +11,13 @@ $$
 \begin{align}
 f_X(x)&=\int^\infty_0xe^{-(x+y)}\,dy\\
 &=xe^{-x}\int^{\infty}_0 e^{-y}\\
-&=xe^{-x}\left(-e^{-y}\right)
+&=xe^{-x}\left(-e^{-y}\right)\bigg|^{\infty}_{y=0}\\
+&=xe^{-x}
 \end{align}
+$$
+$$
+f_X
+\begin{cases}
+
+\end{cases}
 $$
