@@ -36,5 +36,8 @@ f_Y&=\frac12y\int^\infty_0e^{-xy}\,dx\\
 $$
 ##### 第二小題
 $$
-f_{X\mid Y}(\cdot\mid Y=\frac12)
+\begin{align}
+f_{X\mid Y}(\cdot\mid Y)=\frac{f_{X,Y}(x,y)}{f_Y(y)}\\
+&=
+\end{align}
 $$
