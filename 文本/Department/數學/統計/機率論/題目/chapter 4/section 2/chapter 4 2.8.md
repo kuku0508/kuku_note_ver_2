@@ -11,6 +11,6 @@ $$
 題目要我們計算出$f_X$、$f_Y$，方法跟[[chapter 4 2.7]]的概念差不多，我就不多做贅述：
 $$
 \begin{align}
-f_X
+f_X(x)=
 \end{align}
 $$
