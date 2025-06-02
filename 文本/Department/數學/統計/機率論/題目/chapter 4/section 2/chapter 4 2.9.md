@@ -10,14 +10,12 @@ $$
 $$
 \begin{align}
 f_X(x)&=\int^x_0ye^{-x}\,dy\\
-&=y\left(-e^{-x}\right)\bigg|^\infty_{x=y}\\
-&=ye^{-y}
+&=e^{-x}\left(\frac{y^2}2\right)\bigg|^x_0\\
+&=\frac{x^2}{}e^{-x}
 \end{align}
 $$
 $$
 \begin{align}
 f_Y(y)&=\int^x_0ye^{-x}\\
-&=e^{-x}\left(\frac{y^2}2\right)\bigg|^x_0\\
-&=\frac{x^2}{2}e^{-x}
 \end{align}
 $$
