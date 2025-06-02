@@ -11,6 +11,7 @@ $$
 題目要我們計算出$f_X$、$f_Y$，方法跟[[chapter 4 2.7]]的概念差不多，我就不多做贅述：
 $$
 \begin{align}
-f_X(x)=
+f_X(x)&=\int^1_0\frac65(x+y^2)\,dy\\
+&=\frac65\left(\frac y^33\right)
 \end{align}
 $$
