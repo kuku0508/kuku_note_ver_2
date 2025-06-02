@@ -3,5 +3,6 @@ let $X$ and $Y$ be two r.v with joint pdf given by:
 $$
 f_{X,Y}(x,y)=ye^{-x},\quad 0<y\leq x <\infty
 $$
-1. determine the marginal pdf of $f_X$ and $f_Y$, and specify the range of the arguments in
+1. determine the marginal pdf of $f_X$ and $f_Y$, and specify the range of the arguments involved.
+2. determine the comditional pdf of $f_{X\mid Y} (\cdot\mid y)$ and $f_{Y\mid X}(\cdot)
 # 回答：
