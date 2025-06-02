@@ -44,3 +44,8 @@ f_{X\mid Y}(\cdot\mid Y=\frac12)=\frac12e^{-\frac x2}
 \end{align}
 $$
 ##### 第三小題
+$$
+\begin{align}
+
+\end{align}
+$$
