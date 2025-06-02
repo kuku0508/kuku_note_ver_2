@@ -7,3 +7,6 @@ $$
 2. determine the conditional pdf $f_{Y\mid X}(\cdot\mid x)$
 3. calculate the probability $P(X>\ln 4)$, whereas as always log stands for the natural logarithm.
 # 回答：
+$$
+f_X(x)=\int^\infty
+$$
