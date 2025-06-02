@@ -18,3 +18,9 @@ f_X(x)&=\int^1_0\frac65(x+y^2)\,dy\\
 &=\frac25\left(3x+1\right)
 \end{align}
 $$
+$$
+\begin{align}
+f_Y(y)&=\int^1_0\frac65(x+y^2)\,dx\\
+&=\frac65\left(\right)
+\end{align}
+$$
