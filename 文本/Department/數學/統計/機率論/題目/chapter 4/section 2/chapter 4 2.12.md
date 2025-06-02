@@ -45,6 +45,12 @@ $$
 \begin{align}
 f_{Y\mid X}(\cdot\mid x)&=\frac{\frac67\left(x^2+\frac{xy}{2}\right)}{\frac{12x^2+6x}{7}}\\
 &=\frac{\left(x^2+\frac{xy}{2}\right)}{2x^2+x}\\
-&=\frac{\left(x+\frac{y}2\right)}{2x+1}
+&=\frac{\left(x+\frac{y}2\right)}{2x+1}\\
+&=\frac{2x+y}{4x+2}\\
 \end{align}
+$$
+$$
+\begin{cases}
+\frac{2x+y}{4x+2}&
+\end{cases}
 $$
