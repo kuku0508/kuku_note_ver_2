@@ -64,7 +64,7 @@ $$
 $$
 f_{Y\mid X}(\cdot\mid x)
 \begin{cases}
-\frac{2y}{x^2},&0<y\leq x,\,\text{}{}\\\\
-0,&y\leq 0
+\frac{2y}{x^2},&0<y\leq x,\,\text{given}\,y\leq x<\infty\\\\
+0,&x<y ,\,y<0
 \end{cases}
 $$
