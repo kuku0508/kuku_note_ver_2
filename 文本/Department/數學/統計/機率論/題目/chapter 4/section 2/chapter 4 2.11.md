@@ -26,6 +26,8 @@ f_X&=\frac12\int^2_0ye^{-xy}\,dy\\
 $$
 $$
 \begin{align}
-f_Y=\frac{1}{2}\int^\infty_0
+f_Y=\frac{1}{2}\int^\infty_0ye^{-xy}\,dx\\
+&v=y,\quad du=e^{-xy}\,dx\\
+&
 \end{align}
 $$
