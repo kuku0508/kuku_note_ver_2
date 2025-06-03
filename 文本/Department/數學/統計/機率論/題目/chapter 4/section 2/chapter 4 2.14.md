@@ -13,3 +13,9 @@ f_Y&=\int^\infty_y \frac{1}{\sqrt{2\pi}}ye^{-xy/2}\,dx\\
 &=\frac{2e^{-y^2/2}}{\sqrt{2\pi}}
 \end{align}
 $$
+$$
+f_Y=
+\begin{cases}
+\frac{2e^{-y^2/2}}{\sqrt{2\pi}},&0<y\\\
+\end{cases}
+$$
