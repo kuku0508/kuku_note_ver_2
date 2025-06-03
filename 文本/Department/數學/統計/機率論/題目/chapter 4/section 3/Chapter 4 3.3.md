@@ -5,4 +5,4 @@ Provide a justification o relations.That is:
 3. $P(A\bigcap B^c)-P(A)P(B^c)=-P(A\bigcap B)+P(A)P(B)$
 # 回答：
 在解這種集合的題目時，我都推薦畫一個這樣的圖：
-![[Pasted image 20250604010841.png|]]
+![[文氏圖.png|400]]
