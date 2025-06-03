@@ -123,6 +123,7 @@ $$
 $$
 \begin{align}
 P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12)}\\
-&=\frac{\frac{68}{448}}{\frac{5}{28}}
+&=\frac{\frac{68}{448}}{\frac{5}{28}}\\
+&=\frac{17}{20}=0.85
 \end{align}
 $$
