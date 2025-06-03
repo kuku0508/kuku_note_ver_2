@@ -8,6 +8,7 @@ Provide a justification o relations.That is:
 ![[文氏圖.png|400]]
 $$
 \begin{align}
-P(A^c\bigcap B^c)-P(A^c)P(B^c)=P(A\bigcup B)^c-P(A)
+P(A^c\bigcap B^c)-P(A^c)P(B^c)&=P(A\bigcup B)^c-(1-P(A))(1-P(B))\\
+&=1-P(A\bigcup B)-(1-P(A))
 \end{align}
 $$
