@@ -44,3 +44,9 @@ $$
 f_{X\mid Y}(\cdot\mid y)=\frac{f_{X,Y}(x,y)}{f_Y}=\frac{\frac{2}{c^2}}{\frac{2}{c^2}y}=\frac{1}{y}
 \end{align}
 $$
+$$
+f_{X\mid Y}(\cdot\mid y)=
+\begin{cases}
+\frac1y,&0<y<c
+\end{cases}
+$$
