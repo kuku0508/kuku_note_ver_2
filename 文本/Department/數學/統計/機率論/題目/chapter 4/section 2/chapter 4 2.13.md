@@ -47,6 +47,7 @@ $$
 $$
 f_{X\mid Y}(\cdot\mid y)=
 \begin{cases}
-\frac1y,&0<y<c
+\frac1y,&0<x\leq y<c\\\\
+0,&\text{otherwise}
 \end{cases}
 $$
