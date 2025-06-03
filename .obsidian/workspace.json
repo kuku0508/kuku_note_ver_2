@@ -11,14 +11,12 @@
             "id": "6b3a96ed3d8a7e74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/統計學/圖/離群值判斷方式　箱型圖說明.png"
               },
-              "icon": "lucide-file",
-              "title": "Chapter 4 3.3"
+              "icon": "lucide-image",
+              "title": "離群值判斷方式　箱型圖說明"
             }
           },
           {
@@ -323,8 +321,18 @@
   },
   "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.2.md",
+    "文本/Department/數學/統計/統計學/圖/離群值處理方式 分佈圖.png",
+    "文本/Department/數學/統計/統計學/圖/離散型機率分配.png",
+    "文本/Department/數學/統計/統計學/圖/點圖範例 員工工作完成率.png",
+    "文本/Department/數學/統計/統計學/圖/機率質量函數 骰子.png",
+    "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
+    "文本/Department/數學/統計/統計學/圖/隨機變數 定義域 對應域.png",
+    "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
+    "文本/Department/數學/統計/統計學/圖/全機率定理 交集圖.png",
+    "文本/Department/數學/統計/統計學/圖/交集.png",
+    "文本/Department/數學/統計/統計學/圖/互斥.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.2.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.1.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.14.md",
@@ -349,26 +357,16 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.11.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.10.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.6.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.9.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1",
     "文本/Department/數學/統計/機率論/題目/圖表/pic of chapter 4 1.12.png",
-    "文本/Department/數學/統計/機率論/題目/圖表/plot of 1.10.png",
     "知識/微積分/積分",
     "知識/微積分",
     "文本/Department/數學/統計/政府統計實務/未命名",
     "文本/Department/數學/統計/機率論/題目/chapter 4",
     "文本/Department/數學/統計/機率論/題目/圖表",
     "文本/Department/數學/統計/機率論/題目表格",
-    "文本/Department/數學/統計/機率論/題目/圖表/table of chapter 4 1.1.png",
     "文本/Department/數學/統計/機率論/題目",
-    "文本/Department/數學/統計/機率論/未命名.canvas",
-    "未處理/附件/Pasted image 20250519070128.png",
-    "文本/Department/數學/統計/抽樣調查/圖/信心水準 95%.png",
-    "文本/Department/數學/統計/統計學/圖/聯集範例圖.png",
-    "文本/Department/數學/統計/統計學/圖/互斥.png",
-    "文本/Department/數學/統計/統計學/圖/交集.png",
-    "文本/Department/數學/統計/統計學/圖/差集範例圖.png",
-    "文本/Department/數學/統計/多變量分析/圖/主成分分析 PCA 演示.gif"
+    "文本/Department/數學/統計/機率論/未命名.canvas"
   ]
 }
