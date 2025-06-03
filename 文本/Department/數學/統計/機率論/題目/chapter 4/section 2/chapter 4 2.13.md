@@ -27,6 +27,6 @@ $$
 $$
 \begin{align}
 f_Y&=\int^y_0\frac{2}{c^2}\,dx\\
-&=
+&=\left(\frac{2}{c^2}x\right)\bigg|^y_{x=0}
 \end{align}
 $$
