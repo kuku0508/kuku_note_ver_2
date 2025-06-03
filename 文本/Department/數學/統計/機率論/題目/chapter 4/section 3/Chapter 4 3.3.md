@@ -18,7 +18,13 @@ $$
 $$
 \begin{align}
 P(A^c\bigcap B)-P(A^c)P(B)&=P(B-A\bigcap B)-(1-P(A)P(B)\\
-&=P(B)-P(A\bigcap B)-P(B)+P(A)\\
+&=P(B)-P(A\bigcap B)-P(B)+P(A)P(B)\\
 &=-P(A\bigcap B)+P(A)P(B)\\
+\end{align}
+$$
+
+$$
+\begin{align}
+P(A\bigcap B^c)-P(A)P(B^c)
 \end{align}
 $$
