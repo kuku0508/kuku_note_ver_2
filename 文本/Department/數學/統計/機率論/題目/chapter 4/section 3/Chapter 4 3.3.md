@@ -8,5 +8,6 @@ Provide a justification o relations.That is:
 ![[文氏圖.png|400]]
 $$
 \begin{align}
-\end{ali}
+P(A^c\bigcap B^c)-P(A^c)P(B^c)=
+\end{align}
 $$
