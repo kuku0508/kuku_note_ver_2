@@ -101,6 +101,7 @@ $$
 ##### 第四小題
 $$
 \begin{align}
-P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12)}
+P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12)}\\
+&=\frac{f_{X,Y}(x,y)}{}
 \end{align}
 $$
