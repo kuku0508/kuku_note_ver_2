@@ -65,6 +65,6 @@ $$
 ##### 第三小題
 $$
 \begin{align}
-\frac{2c-2x}{c^2}
+P(X\leq1)&=\frac{2c-2x}{c^2}
 \end{align}
 $$
