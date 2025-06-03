@@ -9,6 +9,7 @@ $$
 f_Y&=\int^\infty_y \frac{1}{\sqrt{2\pi}}ye^{-xy/2}\,dx\\
 &=\frac{1}{\sqrt{2\pi}}y\int^\infty_y e^{-xy/2}\,dx\\
 &=\frac{1}{\sqrt{2\pi}}y\left(-\frac{2}{x}e^{-xy/2}\right)\bigg|^\infty_{x=y}\\
-&=\frac{}{}
+&=\frac{1}{\sqrt{2\pi}}y\left(\frac{2}{y}e^{-y^2/2}\right)\\
+&=
 \end{align}
 $$
