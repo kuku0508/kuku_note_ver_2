@@ -121,6 +121,7 @@ $$
 P\left(X<\frac12\right)&=\int^\frac12_0f_X\,dx\\
 &=\int^\frac12_0\frac{12x^2+6x}{7}\,dx\\
 &=\frac17\int^\frac12_012x^2+6x\,dx\\
-&=\frac17\left(4x^3+3x^2\right)\bigg|^\frac12_0
+&=\frac17\left(4x^3+3x^2\right)\bigg|^\frac12_{x=0}\\
+&=\frac17\left(\frac12+\frac34\right)
 \end{align}
 $$
