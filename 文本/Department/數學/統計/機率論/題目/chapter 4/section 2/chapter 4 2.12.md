@@ -107,6 +107,7 @@ P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12
 $$
 $$
 \begin{align}
-P(Y>\frac12,X<\frac12)\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy=
+P(Y>\frac12,X<\frac12)&=\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy\\
+&=\int^\infty_\frac12 \int^\frac12_0 \frac67\left(x^2+\frac{xy}{2}\right)\,dxdy
 \end{align}
 $$
