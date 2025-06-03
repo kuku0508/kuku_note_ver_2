@@ -68,6 +68,7 @@ $$
  P(X\leq1)&=\int^1_0\frac{2c-2x}{c^2}\,dx\\
  &=\int^1_0\frac{2}{c^2}(c-x)\,dx\\
  &=\frac{2}{c^2}\int^1_0c-x\,dx\\
- &=\frac{2}{c^2}\left(cx-\frac{}{}\right)
+ &=\frac{2}{c^2}\left(cx-\frac{x^2}{2}\right)\bigg|^1_{x=0}\\
+ &=\frac\left({2}{c^2}c-\frac{1}{2}\right)
 \end{align}
 $$
