@@ -28,6 +28,6 @@ $$
 P(A\bigcap B^c)-P(A)P(B^c)&=P(A-A\bigcap B)-P(A)P(B^c)\\
 &=P(A)-P(A\bigcap B)-P(A)(1-P(B))\\
 &=P(A)-P(A\bigcap B)-P(A)-P(A)P(B)\\
-&=-P(A\bigcap B)-
+&=-P(A\bigcap B)-P(A)P(B)
 \end{align}
 $$
