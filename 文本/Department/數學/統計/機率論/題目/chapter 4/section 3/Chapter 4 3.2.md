@@ -8,6 +8,7 @@ $$
 \begin{align}
 M_{c_1X+d_1,c_2Y+d_2}(t_1,t_2)&=E(e^{t_1(c_1X+d_1)+t_2(c_2Y+d_2)})\\
 &=E(e^{t_1c_1X+d_1t_1+t_2c_2Y+t_2d_2})\\
-&=E(e^{d_1t_1+d_2t_2+})
+&=E(e^{d_1t_1+d_2t_2}\,\cdot\,e^{t_1c_1X+t_2c_2Y})\\
+&=e^{d_1t_1+d_2t_2}\,\cdot\,E(e^{t_1c_1X+t_2c_2Y})
 \end{align}
 $$
