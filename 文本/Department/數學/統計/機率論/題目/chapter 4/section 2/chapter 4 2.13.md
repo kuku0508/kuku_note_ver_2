@@ -34,6 +34,13 @@ $$
 $$
 f_Y=
 \begin{cases}
-
+\frac{2}{c^2}y,&0<y<c\\\\
+0,&\text{otherwise}
 \end{cases}
+$$
+##### 第二小題
+$$
+\begin{align}
+
+\end{align}
 $$
