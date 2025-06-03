@@ -53,12 +53,12 @@ f_{X\mid Y}(\cdot\mid y)=
 $$
 
 $$
-f_{Y\mid X}(\cdot\mid x)=\frac{f_{X,Y}(x,y)}{f_X}=\frac{\frac{2}{c^2}}{\frac{2}{c^2}(c-2x)}=\frac{1}{c-2x}
+f_{Y\mid X}(\cdot\mid x)=\frac{f_{X,Y}(x,y)}{f_X}=\frac{\frac{2}{c^2}}{\frac{2}{c^2}(c-x)}=\frac{1}{c-x}
 $$
 $$
 f_{Y\mid X}(\cdot\mid x)=
 \begin{cases}
-\frac{1}{c-2x},&0<x\leq y<c
-
+\frac{1}{c-x},&0<x\leq y<c\\\\
+0,&\text{otherwise}
 \end{cases}
 $$
