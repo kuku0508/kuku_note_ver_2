@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.1.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chapter 4 3.1"
+              "title": "關係符號"
             }
           },
           {
@@ -321,7 +321,7 @@
       }
     ]
   },
-  "active": "a8532097abfae4a9",
+  "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.1.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
