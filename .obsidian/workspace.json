@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
+                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "變異數"
+              "title": "Chapter 4 3.4"
             }
           },
           {
@@ -323,6 +323,7 @@
   },
   "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
@@ -360,7 +361,6 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.8.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.9.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.11.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.10.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1",
     "知識/微積分/積分",
