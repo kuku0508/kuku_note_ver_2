@@ -53,5 +53,9 @@ f_{X\mid Y}(\cdot\mid y)=
 $$
 
 $$
-f_{Y\mid X}(\cdot\mid x)=\frac{f_{X,Y}(x,y)}{}
+f_{Y\mid X}(\cdot\mid x)=\frac{f_{X,Y}(x,y)}{f_X}=\frac{\frac{2}{c^2}}{\frac{2}{c^2}(c-2x)}=\frac{1}{c-2x}
+$$
+$$
+\begin{cases}
+
 $$
