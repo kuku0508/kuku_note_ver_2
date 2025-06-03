@@ -65,6 +65,7 @@ $$
 ##### 第三小題
 $$
 \begin{align}
-\int^1_0 P(X\leq1)&=\frac{2c-2x}{c^2}
+ P(X\leq1)&=\int^1_0\frac{2c-2x}{c^2}\,dx\\
+ &=\int^1_0\frac{2}{c^2}(c-x)
 \end{align}
 $$
