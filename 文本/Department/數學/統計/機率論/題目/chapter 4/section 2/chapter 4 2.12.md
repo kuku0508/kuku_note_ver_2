@@ -102,7 +102,8 @@ $$
 $$
 \begin{align}
 P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12)}\\
-&=\frac{\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy}{\int^2 f_X}\\
+&=\frac{\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy}{\int^\frac12_0 f_X\,dx}\\
+&\Rightarrow\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy
 
 \end{align}
 $$
