@@ -12,9 +12,9 @@ X,Y \sim B(15,\frac{1}{6})
 $$
 而二項分配的期望值是$np$，所以我們可以知道
 $$
-E(X)=E(Y)=15\cdot\frac16=\frac{15}{6
+E(X)=E(Y)=15\cdot\frac16=\frac{15}{6}=\frac52
 $$
 而
 $$
-E(X+Y)=E(X)+(Y)=\frac{5}{2}
+E(X+Y)=E(X)+(Y)=\frac52+\frac52=5
 $$
