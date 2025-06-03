@@ -6,3 +6,7 @@ Provide a justification o relations.That is:
 # 回答：
 在解這種集合的題目時，我都推薦畫一個這樣的圖：
 ![[文氏圖.png|400]]
+$$
+\begin{align}
+\end{ali}
+$$
