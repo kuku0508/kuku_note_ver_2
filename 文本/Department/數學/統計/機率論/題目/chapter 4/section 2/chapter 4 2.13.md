@@ -7,7 +7,9 @@ calculate:
 3. the probability $P(X\leq1)$.
 # 回答：
 ##### 第一小題
+把c視為常數就好了
 $$
 \begin{align}
+f_X=\frac{}{}
 \end{align}
 $$
