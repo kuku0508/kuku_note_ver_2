@@ -6,3 +6,8 @@ calculate:
 2. the conditional pdf of $f_{X\mid Y}(\cdot\mid y)$ and $f_{Y\mid X}(\cdot\mid x)$.
 3. the probability $P(X\leq1)$.
 # 回答：
+##### 第一小題
+$$
+\begin{align}
+\end{align}
+$$
