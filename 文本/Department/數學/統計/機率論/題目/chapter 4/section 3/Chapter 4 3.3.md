@@ -1,3 +1,4 @@
 # 問題：
-Provide a justification o relations
+Provide a justification o relations.That is:
+1. $P(A^c\bigcap B^c)-P(A^c)P(B^c)=P(A\bigcap)$
 # 回答：
