@@ -30,6 +30,8 @@ f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y}\\
 \end{align}
 $$
 $$
-\
-
+\begin{cases}
+\frac y2 e^{(-xy/2 \,\,+y^2/2)},&0<y<x\\\\
+0,&\text{otherwise}
+\end{cases}
 $$
