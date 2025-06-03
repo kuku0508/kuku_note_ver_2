@@ -108,6 +108,7 @@ $$
 $$
 \begin{align}
 P(Y>\frac12,X<\frac12)&=\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy\\
-&=\int^\infty_\frac12 \int^\frac12_0 \frac67\left(x^2+\frac{xy}{2}\right)\,dxdy
+&=\int^\infty_\frac12 \int^\frac12_0 \frac67\left(x^2+\frac{xy}{2}\right)\,dxdy\\
+&=\int^\infty_\frac12\frac67\left(\frac{x^3}{3}+\right)
 \end{align}
 $$
