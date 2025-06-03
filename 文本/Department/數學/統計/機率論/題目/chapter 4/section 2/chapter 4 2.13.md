@@ -16,3 +16,10 @@ f_X&=\int^c_x\frac{2}{c^2}\,dy\\
 &=\frac{2c-2x}{c^2}
 \end{align}
 $$
+$$
+f_X(x)
+\begin{cases}
+\frac{2c-2x}{c^2},&0<x<c\\\\
+0,\text{otherwise}
+\end{cases}
+$$
