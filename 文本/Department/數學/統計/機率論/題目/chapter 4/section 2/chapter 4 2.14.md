@@ -16,6 +16,13 @@ $$
 $$
 f_Y=
 \begin{cases}
-\frac{2e^{-y^2/2}}{\sqrt{2\pi}},&0<y\\\
+\frac{2e^{-y^2/2}}{\sqrt{2\pi}},&0<y\\\\
+0,&\text{otherwise}
 \end{cases}
+$$
+
+$$
+\begin{align}
+f_{X\mid Y}(\cdot\mid y)=
+\end{align}
 $$
