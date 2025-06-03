@@ -11,6 +11,7 @@ calculate:
 $$
 \begin{align}
 f_X&=\int^c_x\frac{2}{c^2}\,dy\\
-&=
+&=\frac{2}{c^2}y\bigg|^c_{y=x}\\
+&=\frac2c
 \end{align}
 $$
