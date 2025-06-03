@@ -58,7 +58,7 @@ $$
 $$
 f_{Y\mid X}(\cdot\mid x)=
 \begin{cases}
-\frac{1}{c-2x},&0<x<c
+\frac{1}{c-2x},&0<x\leq y<c
 
 \end{cases}
 $$
