@@ -41,6 +41,6 @@ $$
 ##### 第二小題
 $$
 \begin{align}
-
+f_{X\mid Y}(\cdot\mid y)=\frac{f_{X,Y}(x,y)}{f_Y}=\frac{}{}
 \end{align}
 $$
