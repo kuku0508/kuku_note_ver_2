@@ -23,6 +23,8 @@ $$
 
 $$
 \begin{align}
-f_{X\mid Y}(\cdot\mid y)=
+f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y}\\
+&=\frac{\frac{1}{\sqrt{2\pi}}ye^{-xy/2}}{\frac{2e^{-y^2/2}}{\sqrt{2\pi}}}\\
+&
 \end{align}
 $$
