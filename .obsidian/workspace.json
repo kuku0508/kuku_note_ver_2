@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "0b982530e9156a64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Drawing 2025-06-04 01.07.13.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-06-04 01.07.13.excalidraw"
+            }
+          },
+          {
             "id": "0b8182396a877f32",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "指數分配"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -321,8 +334,11 @@
       }
     ]
   },
-  "active": "6b3a96ed3d8a7e74",
+  "active": "0b982530e9156a64",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Drawing 2025-06-04 01.07.13.excalidraw.md",
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
     "文本/Department/數學/統計/統計學/圖/交集.png",
     "文本/Department/數學/統計/統計學/圖/互斥.png",
     "文本/Department/數學/統計/統計學/圖/全機率定理 交集圖.png",
@@ -333,8 +349,6 @@
     "文本/Department/數學/統計/統計學/圖/點圖範例 員工工作完成率.png",
     "文本/Department/數學/統計/統計學/圖/離散型機率分配.png",
     "文本/Department/數學/統計/統計學/圖/離群值處理方式 分佈圖.png",
-    "文本/Department/數學/統計/統計學/圖/離群值判斷方式　箱型圖說明.png",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.2.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.1.md",
@@ -359,7 +373,6 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.9.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.11.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.10.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.6.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1",
     "知識/微積分/積分",
