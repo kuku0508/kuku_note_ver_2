@@ -56,6 +56,9 @@ $$
 f_{Y\mid X}(\cdot\mid x)=\frac{f_{X,Y}(x,y)}{f_X}=\frac{\frac{2}{c^2}}{\frac{2}{c^2}(c-2x)}=\frac{1}{c-2x}
 $$
 $$
+f_{Y\mid X}(\cdot\mid x)=
 \begin{cases}
+\frac{1}{c-2x},&0<x<c
 
+\end{cases}
 $$
