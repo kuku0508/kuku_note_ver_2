@@ -25,6 +25,7 @@ $$
 
 $$
 \begin{align}
-P(A\bigcap B^c)-P(A)P(B^c)
+P(A\bigcap B^c)-P(A)P(B^c)&=P(A-A\bigcap B)-P(A)P(B^c)\\
+&=P(A)
 \end{align}
 $$
