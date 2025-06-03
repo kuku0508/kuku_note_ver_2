@@ -10,6 +10,7 @@ calculate:
 把c視為常數就好了
 $$
 \begin{align}
-f_X=\int^c_x\frac{2}{c^2}\,dy
+f_X&=\int^c_x\frac{2}{c^2}\,dy\\
+&=
 \end{align}
 $$
