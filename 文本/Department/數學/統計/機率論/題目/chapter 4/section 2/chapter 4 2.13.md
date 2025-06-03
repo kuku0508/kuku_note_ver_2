@@ -62,3 +62,9 @@ f_{Y\mid X}(\cdot\mid x)=
 0,&\text{otherwise}
 \end{cases}
 $$
+##### 第三小題
+$$
+\begin{align}
+\frac{2c-2x}{c^2}
+\end{align}
+$$
