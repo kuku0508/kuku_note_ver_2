@@ -118,6 +118,7 @@ P\left(Y>\frac12,X<\frac12\right)&=\int^2_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,d
 $$
 $$
 \begin{align}
-P\left(X<\frac12\right)=
+P\left(X<\frac12\right)&=\int^\frac12_0f_X\,dx\\
+&=\int^\frac12_0\frac{12x^2+6x}{7}\,dx\\
 \end{align}
 $$
