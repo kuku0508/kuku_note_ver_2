@@ -26,6 +26,10 @@ $$
 f_{X\mid Y}(\cdot\mid y)&=\frac{f_{X,Y}(x,y)}{f_Y}\\
 &=\frac{\frac{1}{\sqrt{2\pi}}ye^{-xy/2}}{\frac{2e^{-y^2/2}}{\sqrt{2\pi}}}\\
 &=\frac{ye^{-xy/2}}{2e^{-y^2/2}}\\
-&=ye^{-xy/2 \,\,-}
+&=\frac y2 e^{(-xy/2 \,\,+y^2/2)}
 \end{align}
+$$
+$$
+\
+
 $$
