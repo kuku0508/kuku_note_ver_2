@@ -101,12 +101,6 @@ $$
 ##### 第四小題
 $$
 \begin{align}
-P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12)}\\
-&=\frac{\int^\infty_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy}{\int^\frac12_0 f_X\,dx}\\
-\end{align}
-$$
-$$
-\begin{align}
 P\left(Y>\frac12,X<\frac12\right)&=\int^2_\frac12 \int^\frac12_0 f_{X,Y}(x,y)\,dxdy\\
 &=\int^2_\frac12 \int^\frac12_0 \frac67\left(x^2+\frac{xy}{2}\right)\,dxdy\\
 &=\frac67\int^2_\frac12\left(\frac{x^3}{3}+\frac{x^2y}{4}\right)\bigg|^\frac12_{x=0}\,dy\\
@@ -122,6 +116,13 @@ P\left(X<\frac12\right)&=\int^\frac12_0f_X\,dx\\
 &=\int^\frac12_0\frac{12x^2+6x}{7}\,dx\\
 &=\frac17\int^\frac12_012x^2+6x\,dx\\
 &=\frac17\left(4x^3+3x^2\right)\bigg|^\frac12_{x=0}\\
-&=\frac17\left(\frac12+\frac34\right)
+&=\frac17\left(\frac12+\frac34\right)\\
+&=\frac{5}{28}
+\end{align}
+$$
+$$
+\begin{align}
+P\left(Y>\frac12\mid X<\frac12\right)&=\frac{P(Y>\frac12,X<\frac12)}{P(X<\frac12)}\\
+&=\frac{\frac{68}{448}}{\frac{5}{28}}
 \end{align}
 $$
