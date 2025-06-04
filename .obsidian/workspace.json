@@ -11,12 +11,14 @@
             "id": "6b3a96ed3d8a7e74",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/第二性.md"
+                "file": "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "第二性"
+              "icon": "lucide-file",
+              "title": "chapter 4 2.1"
             }
           },
           {
@@ -321,11 +323,11 @@
   },
   "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
+    "文本/書/第二性.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
-    "文本/書/第二性.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.1.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
