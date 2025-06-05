@@ -308,7 +308,8 @@
                   "title": "Linear Algebra With Applications"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -321,11 +322,11 @@
       }
     ]
   },
-  "active": "ebc001f8b467a2c6",
+  "active": "560cbbaf80086321",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.5.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.1.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
     "文本/書/第二性.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
