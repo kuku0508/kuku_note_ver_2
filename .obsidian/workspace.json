@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "共變異數",
+                "query": "perp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -322,7 +323,7 @@
       }
     ]
   },
-  "active": "6b3a96ed3d8a7e74",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
