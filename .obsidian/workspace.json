@@ -84,8 +84,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -319,7 +318,7 @@
       }
     ]
   },
-  "active": "6b3a96ed3d8a7e74",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "文本/書/Linear Algebra With Applications.md",
     "文本/Department/數學/線性代數/雜亂筆記.md",
