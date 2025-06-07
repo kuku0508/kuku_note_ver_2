@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
+                "file": "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向量 - 乘法"
+              "title": "反矩陣"
             }
           },
           {
@@ -324,6 +324,8 @@
   },
   "active": "6b3a96ed3d8a7e74",
   "lastOpenFiles": [
+    "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
+    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "知識/線性代數/基礎知識/張成.md",
     "知識/線性代數/基礎知識/線性獨立.md",
     "知識/線性代數/基礎知識/矩陣/單位矩陣.md",
@@ -360,8 +362,6 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.15.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.13.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.4.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.3.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1",
     "知識/微積分/積分",
