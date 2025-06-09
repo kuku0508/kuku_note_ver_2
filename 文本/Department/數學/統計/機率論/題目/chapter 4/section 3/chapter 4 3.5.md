@@ -44,3 +44,8 @@ Var(X)&=E(X^2)-E(X)^2\\
 &=0.1+1+2.7+3.2+2.5-2.8^2=1.6
 \end{align}
 $$
+$$
+\begin{align}
+Var(Y)=E
+\end{align}
+$$
