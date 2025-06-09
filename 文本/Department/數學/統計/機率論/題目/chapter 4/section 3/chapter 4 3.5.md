@@ -6,7 +6,7 @@ In reference to Exercise 2.1 , calculate:
 ![[table of chapter 4 1.1.png|400]]
 # 回答：
 #### 第一小題 
-在2.1小題我們得到了f_X
+在2.1小題我們得到了$f_X$，我們就可以得到X的期望值：
 $$
 \begin{array}{|l|l|l|l|l|l|l|}
 \hline
@@ -25,6 +25,6 @@ $$
 $$
 \begin{align}
 EX&=\sum x \cdot f_X\\
-&=
+&=(0.025+0.015+0.0)
 \end{align}
 $$
