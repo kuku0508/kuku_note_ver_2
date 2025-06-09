@@ -53,5 +53,8 @@ Var(Y)&=E(Y^2)-E(Y)^2\\
 $$
 #### 第二小題
 $$
-\text{Cov}(x,y)=
+\begin{align}
+\text{Cov}(x,y)&=E(XY)-E(X)E(Y)\\
+&=
+\end{align}
 $$
