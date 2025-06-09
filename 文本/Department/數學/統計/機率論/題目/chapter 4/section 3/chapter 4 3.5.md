@@ -46,6 +46,8 @@ Var(X)&=E(X^2)-E(X)^2\\
 $$
 $$
 \begin{align}
-Var(Y)=E
+Var(Y)&=E(Y^2)-E(Y)^2\\
+&=0^2\cdot 0.5+1^2\cdot 0.3+2^2\cdot0.2-0.7^2\\
+&=
 \end{align}
 $$
