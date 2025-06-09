@@ -295,21 +295,8 @@
                   "icon": "excalidraw-icon",
                   "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
-              },
-              {
-                "id": "560cbbaf80086321",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Linear Algebra With Applications.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Linear Algebra With Applications"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -322,11 +309,11 @@
       }
     ]
   },
-  "active": "560cbbaf80086321",
+  "active": "ebc001f8b467a2c6",
   "lastOpenFiles": [
+    "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
-    "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/基礎知識/行列式.md",
     "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
     "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
