@@ -39,6 +39,7 @@ EY&=\sum y\cdot f_Y\\
 $$
 $$
 \begin{align}
-Var(X)=E(X^2)-E(X)^2
+Var(X)=E(X^2)-E(X)^2\\
+&=
 \end{align}
 $$
