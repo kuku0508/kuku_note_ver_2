@@ -33,6 +33,12 @@ $$
 $$
 \begin{align}
 EY&=\sum y\cdot f_Y\\
-&=0\cdot 0.5+1\cdot 0.3
+&=0\cdot 0.5+1\cdot 0.3+2\cdot0.2\\
+&=0.7
+\end{align}
+$$
+$$
+\begin{align}
+Var(X)=E(X^2)
 \end{align}
 $$
