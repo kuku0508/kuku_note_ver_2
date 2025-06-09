@@ -26,6 +26,6 @@ $$
 \begin{align}
 EX&=\sum x \cdot f_X\\
 &=0\cdot0.05+1\cdot0.1+2\cdot0.25+3\cdot0.3+4\cdot0.2+5\cdot0.1\\
-&=
+&=0.1+0.5+0.9+0.8+0.5=2.8
 \end{align}
 $$
