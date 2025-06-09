@@ -56,6 +56,6 @@ $$
 \begin{align}
 \text{Cov}(x,y)&=E(XY)-E(X)E(Y)\\
 &=\sum xy\cdot f_{X,Y}-E(X)E(Y)\\
-&=(1\cdot1\cdot0.03+)-2.8\cdot0.7
+&=(1\cdot1\cdot0.03+1\cdot2\cdot0.02+2\cdot1\cdot0.075+2\cdot2\cdot0.05+3\cdot1\cdot0.09)-2.8\cdot0.7
 \end{align}
 $$
