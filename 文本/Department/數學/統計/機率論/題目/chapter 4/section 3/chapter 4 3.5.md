@@ -7,6 +7,8 @@ In reference to Exercise 2.1 , calculate:
 # 回答：
 #### 第一小題 
 $$
-
-EX
+\begin{align}
+EX&=\sum x \cdot f_X\\
+&=
+\end{align}
 $$
