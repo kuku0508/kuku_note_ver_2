@@ -30,4 +30,9 @@ EX&=\sum x \cdot f_X\\
 \end{align}
 $$
 
-$$$$
+$$
+\begin{align}
+EY&=\sum y\cdot f_Y\\
+&=0\cdot 0.5+1\cdot 0.3
+\end{align}
+$$
