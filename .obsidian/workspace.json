@@ -298,10 +298,24 @@
                 "id": "3940118efb2c230d",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-07"
+                }
+              },
+              {
+                "id": "52e712d4d411c729",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-08"
                 }
               }
             ],
@@ -320,6 +334,8 @@
   },
   "active": "3940118efb2c230d",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05.md",
     "未處理/ch06.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
@@ -345,8 +361,6 @@
     "知識/線性代數/基礎知識/張成.md",
     "知識/線性代數/基礎知識/線性獨立.md",
     "知識/線性代數/基礎知識/矩陣/單位矩陣.md",
-    "知識/線性代數/基礎知識/矩陣/矩陣.md",
-    "文本/Department/數學/線性代數/雜亂筆記.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/統計學/圖/交集.png",
