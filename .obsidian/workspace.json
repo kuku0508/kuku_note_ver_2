@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "3.5",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -323,7 +323,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 0,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -332,11 +332,12 @@
       }
     ]
   },
-  "active": "3940118efb2c230d",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/基礎知識/名詞解釋/目標母體.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/未命名.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.5.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md",
@@ -360,7 +361,6 @@
     "知識/線性代數/基礎知識/行列式.md",
     "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
     "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
-    "知識/線性代數/基礎知識/張成.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/統計學/圖/交集.png",
