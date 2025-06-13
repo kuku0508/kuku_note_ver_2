@@ -240,15 +240,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2611899150e2844c",
+                "id": "5a3a77bea93af63c",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md"
+                    "file": "文本/Department/數學/統計/統計學/講義/ch8.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch7.3~ch7.4"
+                  "title": "ch8"
                 }
               }
             ]
@@ -264,10 +264,11 @@
       }
     ]
   },
-  "active": "0b8182396a877f32",
+  "active": "5a3a77bea93af63c",
   "lastOpenFiles": [
     "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
     "文本/Department/數學/統計/統計學/講義/ch8.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本比例.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05.md",
@@ -292,7 +293,6 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.14.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/書/Linear Algebra With Applications.md",
-    "知識/線性代數/基礎知識/行列式.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/統計學/圖/交集.png",
