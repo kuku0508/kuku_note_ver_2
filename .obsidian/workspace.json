@@ -238,33 +238,22 @@
             "type": "tabs",
             "children": [
               {
-                "id": "f41021f30c21065b",
+                "id": "2611899150e2844c",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md"
+                    "file": "文本/Department/數學/統計/統計學/講義/ch8.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch7.3~ch7.4"
-                }
-              },
-              {
-                "id": "2611899150e2844c",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "title": "ch8"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 8,
+        "x": 0,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -273,8 +262,9 @@
       }
     ]
   },
-  "active": "2611899150e2844c",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch8.md",
     "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
@@ -301,7 +291,6 @@
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/基礎知識/行列式.md",
-    "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/統計學/圖/交集.png",
