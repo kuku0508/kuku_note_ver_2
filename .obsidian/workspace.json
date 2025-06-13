@@ -11,14 +11,12 @@
             "id": "0b8182396a877f32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/隨便筆記/未命名.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md"
               },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "icon": "excalidraw-icon",
+              "title": "ch7.3~ch7.4"
             }
           }
         ]
@@ -232,90 +230,33 @@
     "type": "floating",
     "children": [
       {
-        "id": "e4210c659c21936e",
+        "id": "e195793e53f19cb3",
         "type": "window",
         "children": [
           {
-            "id": "e1813980b76aa7ba",
+            "id": "62b63347374e027b",
             "type": "tabs",
             "children": [
               {
-                "id": "a146b079d6b4c452",
+                "id": "f41021f30c21065b",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
+                    "file": "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Ch-02"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "1877eb276019b711",
-        "type": "window",
-        "children": [
-          {
-            "id": "19a7ce452464bc5e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ebc001f8b467a2c6",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                  "title": "ch7.3~ch7.4"
                 }
               },
               {
-                "id": "1355e57acf0028af",
+                "id": "2611899150e2844c",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-05.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-05"
-                }
-              },
-              {
-                "id": "3940118efb2c230d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-07"
-                }
-              },
-              {
-                "id": "52e712d4d411c729",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-08"
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
                 }
               }
             ],
@@ -323,7 +264,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
+        "x": 8,
         "y": 0,
         "width": 1280,
         "height": 1392,
@@ -332,21 +273,22 @@
       }
     ]
   },
-  "active": "662d18dd3cd50225",
+  "active": "2611899150e2844c",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch7.3~ch7.4.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-08.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-07.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/未命名.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/目標母體.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/抽樣調查/隨便筆記/隨便筆記 抽樣調查 Ch1.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.5.md",
     "未處理/ch06.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.5.md",
     "未處理/附件/Pasted image 20250610052458.png",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
@@ -360,7 +302,6 @@
     "文本/書/Linear Algebra With Applications.md",
     "知識/線性代數/基礎知識/行列式.md",
     "知識/線性代數/線性轉換/反矩陣/高斯-喬登消去法.md",
-    "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/統計學/圖/交集.png",
