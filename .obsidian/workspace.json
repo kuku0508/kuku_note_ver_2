@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/估計/區間估計.md",
+                "file": "知識/統計/統計學/估計/點估計.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "區間估計"
+              "title": "點估計"
             }
           }
         ]
@@ -264,7 +264,7 @@
       }
     ]
   },
-  "active": "5a3a77bea93af63c",
+  "active": "0b8182396a877f32",
   "lastOpenFiles": [
     "知識/統計/統計學/估計/區間估計.md",
     "文本/Department/數學/統計/統計學/講義/ch8.md",
