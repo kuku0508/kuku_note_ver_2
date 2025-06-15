@@ -26,4 +26,4 @@ $$
 - - -
 ![[40歲HIV 存活曲線95%信賴區間.png]]
 - - -
-parent::[[Greenwood's formula]],[[Survival Function]],[[存活分析目錄]],[[信賴區間]]
+parent::[[Greenwood's formula]],[[Survival Function]],[[存活分析目錄]],[[未處理/信賴區間]]
