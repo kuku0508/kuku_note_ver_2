@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
+                "file": "知識/統計/統計學/分配/機率分配/中央極限定理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抽樣分配 - 樣本平均數"
+              "title": "中央極限定理"
             }
           }
         ]
@@ -250,8 +250,21 @@
                   "icon": "excalidraw-icon",
                   "title": "ch8"
                 }
+              },
+              {
+                "id": "18b5c97597b95ad1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch7.1~ch7.2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch7.1~ch7.2"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -264,8 +277,10 @@
       }
     ]
   },
-  "active": "0b8182396a877f32",
+  "active": "18b5c97597b95ad1",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/機率分配/中央極限定理.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本平均數.md",
     "知識/統計/統計學/估計/信賴區間.md",
     "文本/Department/數學/統計/統計學/講義/ch8.md",
     "知識/統計/統計學/估計/區間估計.md",
@@ -292,8 +307,6 @@
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.4.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.3.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.1.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/Chapter 4 3.2.md",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.1.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/統計學/圖/交集.png",
