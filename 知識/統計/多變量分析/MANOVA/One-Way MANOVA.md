@@ -64,6 +64,6 @@ $n=\sum^g_{\ell=1}n\ell$：總樣本數
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
-parent::[[多變量分析目錄]],[[假設檢定]],[[類別資料]],[[反應變數]],[[預測變數]],[[量性資料]],[[連續型隨機變數]],[[多維常態分配]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[誤差項]],[[Wilks' lambda]],[[未處理/信賴區間]]
+parent::[[多變量分析目錄]],[[假設檢定]],[[類別資料]],[[反應變數]],[[預測變數]],[[量性資料]],[[連續型隨機變數]],[[多維常態分配]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[誤差項]],[[Wilks' lambda]],[[信賴區間]]
 sibling::[[Hotelling's T2 test]]
 child::
