@@ -11,12 +11,14 @@
             "id": "eb3b4857b97d4ebb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "未處理/附件/信賴區間 95.png"
+                "file": "知識/統計/統計學/估計/信賴區間.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "信賴區間 95"
+              "icon": "lucide-file",
+              "title": "信賴區間"
             }
           }
         ]
@@ -274,14 +276,14 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "eb3b4857b97d4ebb",
   "lastOpenFiles": [
+    "知識/統計/統計學/估計/區間估計.md",
     "知識/統計/統計學/估計/信賴區間.md",
+    "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",
-    "未處理/附件/信賴區間 95.png",
     "文本/Department/數學/統計/統計學/講義/ch8.md",
     "文本/Department/數學/統計/統計學/講義/ch7.1~ch7.2.md",
-    "知識/統計/統計學/估計/區間估計.md",
     "未處理/Z.md",
     "知識/統計/統計學/估計/點估計.md",
     "知識/統計/統計學/分配/機率分配/中央極限定理.md",
