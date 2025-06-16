@@ -11,14 +11,12 @@
             "id": "eb3b4857b97d4ebb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "知識/統計/統計學/估計/信賴區間.md",
-                "mode": "source",
-                "source": false
+                "file": "未處理/附件/信賴區間 95.png"
               },
-              "icon": "lucide-file",
-              "title": "信賴區間"
+              "icon": "lucide-image",
+              "title": "信賴區間 95"
             }
           }
         ]
@@ -276,12 +274,13 @@
       }
     ]
   },
-  "active": "eb3b4857b97d4ebb",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/統計/統計學/估計/信賴區間.md",
+    "未處理/附件/Pasted image 20250610052458.png",
     "未處理/附件/信賴區間 95.png",
     "文本/Department/數學/統計/統計學/講義/ch8.md",
     "文本/Department/數學/統計/統計學/講義/ch7.1~ch7.2.md",
-    "知識/統計/統計學/估計/信賴區間.md",
     "知識/統計/統計學/估計/區間估計.md",
     "未處理/Z.md",
     "知識/統計/統計學/估計/點估計.md",
@@ -303,7 +302,6 @@
     "未處理/ch06.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/chapter 4 3.5.md",
-    "未處理/附件/Pasted image 20250610052458.png",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/統計學/圖/文氏圖.png",
@@ -315,7 +313,6 @@
     "文本/Department/數學/統計/統計學/圖/隨機變數 定義域 對應域.png",
     "文本/Department/數學/統計/統計學/圖/餘集範例圖.png",
     "文本/Department/數學/統計/統計學/圖/機率質量函數 骰子.png",
-    "文本/Department/數學/統計/統計學/圖/點圖範例 員工工作完成率.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1",
