@@ -26,11 +26,11 @@ M\sim \chi^2_{p(p+1)(g-1)/2}
 $$
 - - -
 # 備註
-當今天樣本數不是大樣本時，Box's M會變得非常敏感，可能會導致[[Type I error|型一誤（Type I error）]]。當今天樣本數越大，Box's M test會越可靠。
+當今天樣本數不是大樣本時，Box's M會變得非常敏感，可能會導致[[型一誤|型一誤（Type I error）]]。當今天樣本數越大，Box's M test會越可靠。
 - - -
 # 參考資料
 - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
-parent::[[多變量資料]],[[多變量分析 - 共變異數]],[[假設檢定]],[[多維常態分配]],[[Type I error]]
+parent::[[多變量資料]],[[多變量分析 - 共變異數]],[[假設檢定]],[[多維常態分配]],[[型一誤]]
 sibling::
 child::
