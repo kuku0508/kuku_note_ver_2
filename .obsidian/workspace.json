@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/連結目錄/x連結.md",
+                "file": "模板/筆記.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "x連結"
+              "title": "筆記"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "參考資料",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -279,6 +278,8 @@
   },
   "active": "b41a5beae79a31ff",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/Z分配.md",
+    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/x連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Unicode節點.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/T分配.md",
@@ -303,8 +304,6 @@
     "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/覆蓋率誤差.md",
     "知識/統計/統計學/估計/點估計.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/隱形連結.md",
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/菱形節點.md",
-    "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/無反應.md",
     "知識/統計/統計學/假設檢定",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",

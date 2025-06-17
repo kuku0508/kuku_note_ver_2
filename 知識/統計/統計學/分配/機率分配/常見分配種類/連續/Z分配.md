@@ -21,9 +21,6 @@ F(x;0,1)=\frac{1}{\sqrt{2\pi}}\int^x_{-\infty}exp\left(-\frac{t^2}{2}\right)dt
 $$
 其實就是把$\mu=0$、$\sigma=1$，代入常態分配的PDF跟CDF而已。
 - - -
-# 參考資料
-
-- - -
 parent::[[連續型機率分配]],[[單變量常態分配]],[[標準化]],[[機率密度函數|PDF]],[[累積分配函數|CDF]]
 sibling::
 child::
