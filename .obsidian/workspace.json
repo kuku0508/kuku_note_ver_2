@@ -196,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,7 +276,7 @@
       }
     ]
   },
-  "active": "e1c525d5d444dfd8",
+  "active": "b41a5beae79a31ff",
   "lastOpenFiles": [
     "知識/統計/統計學/假設檢定/拒絕域.md",
     "知識/統計/統計學/假設檢定/檢定統計量.md",
