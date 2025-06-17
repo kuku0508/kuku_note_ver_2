@@ -4,7 +4,7 @@ T分配（T-distribution ; student's t distribution），是一種[[連續型機
 - - -
 # 定義
 $$
-T=
+T=\frac{\bar{x}-\mu}{S/\sqrt{n}}
 $$
 - - -
 # 參考資料
