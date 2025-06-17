@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
+                "file": "知識/統計/多變量分析/基礎知識/多變量分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多維常態分配 - 檢測"
+              "title": "多變量分析"
             }
           }
         ]
@@ -53,11 +53,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "參考資料",
+                "query": "# 參考資料",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -277,8 +277,9 @@
       }
     ]
   },
-  "active": "b41a5beae79a31ff",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
+    "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配.md",
     "知識/線性代數/基礎知識/向量/向量 - 乘法.md",
     "知識/線性代數/基礎知識/向量/向量 - 加法.md",
@@ -304,7 +305,6 @@
     "知識/程式語言/HTML/語法表/下標.md",
     "知識/程式語言/HTML/語法表/上標.md",
     "知識/程式語言/HTML/基礎知識/HTML.md",
-    "知識/程式語言/基礎知識/程式語言.md",
     "知識/統計/統計學/假設檢定",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",
