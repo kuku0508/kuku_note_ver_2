@@ -1,4 +1,4 @@
-
+T分配（T-distribution ; student's ）
 
 - - -
 # 參考資料
