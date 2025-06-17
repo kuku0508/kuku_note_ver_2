@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "參考資料",
+                "query": "https://www.youtube.com/watch?v=kYB8IZa5AuE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,7 +277,7 @@
       }
     ]
   },
-  "active": "b41a5beae79a31ff",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "知識/線性代數/線性轉換/線性轉換.md",
     "知識/線性代數/基礎知識/線性獨立.md",
