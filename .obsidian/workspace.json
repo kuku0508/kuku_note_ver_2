@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
+                "file": "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mermaid"
+              "title": "Mermaid in Obsidian"
             }
           }
         ]
@@ -279,6 +279,8 @@
   },
   "active": "b41a5beae79a31ff",
   "lastOpenFiles": [
+    "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
+    "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "知識/程式語言/JavaScript/基礎知識/JavaScript.md",
@@ -303,8 +305,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/連結的長度.md",
     "知識/線性代數/線性轉換/線性轉換.md",
     "知識/線性代數/基礎知識/矩陣/矩陣.md",
-    "知識/線性代數/基礎知識/線性獨立.md",
-    "知識/線性代數/基礎知識/線性組合.md",
     "知識/統計/統計學/假設檢定",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",
