@@ -250,8 +250,21 @@
                   "icon": "excalidraw-icon",
                   "title": "ch9"
                 }
+              },
+              {
+                "id": "dad9126f79afbe21",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch10.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch10"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -264,7 +277,7 @@
       }
     ]
   },
-  "active": "b41a5beae79a31ff",
+  "active": "dad9126f79afbe21",
   "lastOpenFiles": [
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/檢定統計量.md",
