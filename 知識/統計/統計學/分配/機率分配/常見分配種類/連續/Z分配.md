@@ -19,8 +19,7 @@ $e$：自然對數
 $$
 F(x;0,1)=\frac{1}{\sqrt{2\pi}}\int^x_{-\infty}exp\left(-\frac{t^2}{2}\right)dt
 $$
-其實就是把$\mu=0$、$\sigma=1$，代入原本的公式而已。
-
+其實就是把$\mu=0$、$\sigma=1$，代入常態分配的PDF跟CDF而已。
 - - -
 # 參考資料
 
