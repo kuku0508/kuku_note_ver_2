@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/多變量分析/檢定/Box's M test.md",
+                "file": "知識/程式語言/Mermaid/基礎知識/Mermaid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Box's M test"
+              "title": "Mermaid"
             }
           }
         ]
@@ -279,6 +279,11 @@
   },
   "active": "b41a5beae79a31ff",
   "lastOpenFiles": [
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/Markdown節點.md",
+    "知識/統計/多變量分析/MANOVA/MANOVA.md",
+    "知識/程式語言/JavaScript/基礎知識/JavaScript.md",
+    "知識/統計/多變量分析/檢定/Hotelling's T2 test.md",
+    "知識/統計/多變量分析/檢定/Box's M test.md",
     "未處理/觀察誤差 - 資料收集型態.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/觀察誤差/觀察誤差 - 測量工具.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/觀察誤差/觀察誤差 - 訪員.md",
@@ -300,11 +305,6 @@
     "知識/線性代數/基礎知識/矩陣/矩陣.md",
     "知識/線性代數/基礎知識/線性獨立.md",
     "知識/線性代數/基礎知識/線性組合.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
-    "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/標準誤.md",
-    "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
-    "知識/統計/統計學/假設檢定/對立假設.md",
     "知識/統計/統計學/假設檢定",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",

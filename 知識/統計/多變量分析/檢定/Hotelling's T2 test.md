@@ -1,3 +1,7 @@
+---
+參考資料:
+  - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
+---
 Hotelling's $T^2$ test（霍特林T平方檢定），是檢測[[多變量資料]]的[[多變量分析 - 平均|平均值]]是否為給定值的[[假設檢定]]。為一種[[多變量分析]]方法。
 - - -
 # 由來
@@ -61,9 +65,6 @@ $\Lambda^{2/n}$被稱為[[Wilks' lambda]]，其虛無假設為$\mu=\mu_0$，虛�
 - - -
 # 例題
 - [[MA Assignment 2]]
-- - -
-# 參考資料
-- Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 - - -
 parent::[[多變量分析目錄]],[[多變量資料]],[[多變量分析 - 平均]],[[多變量分析 - 共變異數]],[[多維常態分配]],[[假設檢定]],[[多變量分析]],[[F分配]],[[卡方分配]],[[假設檢定]]
 sibling::[[Wilks' lambda]]

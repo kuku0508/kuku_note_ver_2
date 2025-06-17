@@ -1,6 +1,6 @@
 ---
 參考資料:
-  - An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas
+  - Applied Multivariate Statistical Analysis, sixth editon ,Johnson Richard A. ;  Dean W. Wichern
 ---
 Box's M test，是一種檢定[[多變量資料]]中多個群組之間的[[多變量分析 - 共變異數|共變異數矩陣]]之間是否相等的[[假設檢定|檢定]]方法。
 群組就是，以某一個變數作為分組依據，將資料分成多個組別。
