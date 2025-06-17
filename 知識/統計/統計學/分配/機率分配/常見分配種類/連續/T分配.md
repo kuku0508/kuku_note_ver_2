@@ -4,8 +4,10 @@ T分配（T-distribution ; student's t distribution），是一種[[連續型機
 - - -
 # 定義
 $$
-T=\frac{\bar{x}-\mu}{S/\sqrt{n}}
+T=\frac{\bar{x}-\mu}{S/\sqrt{n}}\sim t(n-1)
 $$
+$S$：樣本標準差
+
 - - -
 # 參考資料
 
