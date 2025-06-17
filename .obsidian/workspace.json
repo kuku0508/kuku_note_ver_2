@@ -11,10 +11,14 @@
             "id": "b41a5beae79a31ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/假設檢定/虛無假設.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "虛無假設"
             }
           }
         ]
@@ -260,10 +264,13 @@
       }
     ]
   },
-  "active": "3f1ec415a8128f4f",
+  "active": "b41a5beae79a31ff",
   "lastOpenFiles": [
-    "知識/統計/統計學/資料/資料.md",
+    "知識/統計/統計學/假設檢定/虛無假設.md",
+    "文本/Department/數學/統計/時間數列/講義/空白筆記/Time Series-Session 2.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
+    "知識/統計/統計學/假設檢定",
+    "知識/統計/統計學/資料/資料.md",
     "知識/統計/統計學/估計/信賴區間.md",
     "知識/統計/抽樣調查/基礎知識/信心水準.md",
     "知識/統計/抽樣調查/基礎知識/估計誤差.md",
@@ -286,8 +293,6 @@
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
     "知識/統計/多變量分析/MANOVA/MANOVA.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
-    "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
-    "知識/統計/統計學/估計/區間估計.md",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",
     "知識/統計/統計學/估計",
@@ -308,7 +313,6 @@
     "文本/Department/數學/統計/政府統計實務/未命名",
     "文本/Department/數學/統計/機率論/題目/chapter 4",
     "文本/Department/數學/統計/機率論/題目/圖表",
-    "文本/Department/數學/統計/機率論/題目表格",
     "文本/Department/數學/統計/機率論/未命名.canvas"
   ]
 }
