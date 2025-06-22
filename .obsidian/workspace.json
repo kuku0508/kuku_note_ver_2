@@ -267,13 +267,16 @@
                 "id": "f1eab0c2b9d1ff15",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/女士品茶.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "女士品茶"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -286,7 +289,7 @@
       }
     ]
   },
-  "active": "b41a5beae79a31ff",
+  "active": "f1eab0c2b9d1ff15",
   "lastOpenFiles": [
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/假設檢定.md",
