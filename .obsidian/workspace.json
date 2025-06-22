@@ -273,7 +273,8 @@
                   "title": "新分頁"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -286,12 +287,12 @@
       }
     ]
   },
-  "active": "3f1ec415a8128f4f",
+  "active": "dad9126f79afbe21",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/雙尾檢定.md",
     "文本/Department/數學/統計/統計學/圖/雙尾檢定 圖.png",
     "知識/統計/統計學/假設檢定/左尾檢定.md",
-    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/統計學/圖/左尾檢定 圖.png",
     "未處理/附件/Pasted image 20250622113722.png",
     "知識/統計/統計學/假設檢定/右尾檢定.md",
