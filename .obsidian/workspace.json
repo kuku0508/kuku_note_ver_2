@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/估計/信賴區間.md",
+                "file": "知識/統計/統計學/假設檢定/P值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信賴區間"
+              "title": "P值"
             }
           }
         ]
@@ -290,6 +290,8 @@
   },
   "active": "b41a5beae79a31ff",
   "lastOpenFiles": [
+    "知識/統計/統計學/估計/信賴區間.md",
+    "知識/統計/統計學/假設檢定/P值.md",
     "知識/統計/統計學/假設檢定/假設檢定.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/Z分配.md",
@@ -320,7 +322,6 @@
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",
     "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
-    "知識/程式語言/Mermaid/基礎知識/Mermaid in Obsidian.md",
     "知識/統計/統計學/假設檢定",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
     "未處理/附件/Pasted image 20250610052458.png",
