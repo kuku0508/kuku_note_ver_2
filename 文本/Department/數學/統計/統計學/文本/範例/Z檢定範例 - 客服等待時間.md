@@ -13,8 +13,12 @@ $$
 而我們可以看到Z表
 ![[Z table 0-4.09.png|400]]
 P(Z>2.33)=0.01
-所以我們可以知道
+所以我們可以知道，當：
+$$$$
+
 $$
 \begin{align}
-2.33\leq\frac{\bar{X}-1.5}{0.2/\sqrt{36}}
-\end{align}$$
+&2.33\leq\frac{\bar{X}-1.5}{0.2/\sqrt{36}}\\
+&\Rightarrow\bar{X}
+\end{align}
+$$
