@@ -32,7 +32,7 @@ $$
 $$
 P=
 \begin{cases}
-2P(Z>|z|)
+2P(Z>|z|),&\text{when }H_1
 \end{cases}
 $$
 - - -
