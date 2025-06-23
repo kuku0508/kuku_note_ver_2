@@ -32,7 +32,9 @@ $$
 $$
 P=
 \begin{cases}
-2P(Z>|z|),&\text{when }H_1
+2P(Z>|z|),&\text{when }H_1\text{：}\mu\neq \mu_0\\\\
+P(Z>z),&\text{when }H_1\text{：}\mu> \mu_0\\\\
+P(Z<z),&\text{when }H_1\text{：}\mu< \mu_0\\\\
 \end{cases}
 $$
 - - -
