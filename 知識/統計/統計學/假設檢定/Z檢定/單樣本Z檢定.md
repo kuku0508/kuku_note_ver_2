@@ -12,6 +12,10 @@
 $$
 H_0\text{：}\mu\geq \mu_0\quad vs.\quad H_1\text{：}\mu<\mu_0
 $$
+### [[右尾檢定]]
+$$
+H_0\text{：}\mu\leq \mu_0\quad vs.\quad H_1\text{：}\mu>\mu_0
+$$
 - - -
 parent::[[假設檢定]],[[平均數]]
 sibling::
