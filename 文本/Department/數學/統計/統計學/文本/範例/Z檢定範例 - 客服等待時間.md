@@ -12,3 +12,4 @@ Z=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}=\frac{\bar{X}-1.5}{0.2/\sqrt{36}}
 $$
 而我們可以看到Z表
 ![[Z table 0-4.09.png|400]]
+P(Z>)
