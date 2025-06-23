@@ -8,5 +8,7 @@ $$
 # 答案
 我們可以用[[單樣本Z檢定]]來檢定線上平均等候時間會不會比1.5分鐘還要久：
 $$
-Z=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}
+Z=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}=\frac{\bar{X}-1.5}{0.2/\sqrt{36}}
 $$
+而我們可以看到Z表
+![[Z table 0-4.09.png|400]]
