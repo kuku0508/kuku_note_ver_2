@@ -44,6 +44,8 @@ P(Z<z),&\text{when }H_1\text{：}\mu< \mu_0
 \end{cases}
 $$
 - - -
+
+兒ㄦ
 parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]]
 sibling::
 child::
