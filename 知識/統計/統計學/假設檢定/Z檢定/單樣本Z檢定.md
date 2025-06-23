@@ -21,6 +21,8 @@ $$
 H_0\text{：}\mu= \mu_0\quad vs.\quad H_1\text{：}\mu\neq\mu_0
 $$
 - - -
+# 
+- - -
 parent::[[假設檢定]],[[平均數]]
 sibling::
 child::
