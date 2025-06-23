@@ -14,4 +14,7 @@ $$
 ![[Z table 0-4.09.png|400]]
 P(Z>2.33)=0.01
 所以我們可以知道
-2.33
+$$
+\begin{align}
+2.33\leq\frac{\bar{X}-1.5}{0.2/\sqrt{36}}
+\end{align}$$
