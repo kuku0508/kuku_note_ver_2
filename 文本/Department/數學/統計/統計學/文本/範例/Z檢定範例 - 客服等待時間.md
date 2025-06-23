@@ -14,11 +14,14 @@ $$
 ![[Z table 0-4.09.png|400]]
 P(Z>2.33)=0.01
 所以我們可以知道，當：
-$$$$
-
+$$
+2.33\leq\frac{\bar{X}-1.5}{0.2/\sqrt{36}}
+$$
+我們則拒絕虛無假設，也就是說
 $$
 \begin{align}
 &2.33\leq\frac{\bar{X}-1.5}{0.2/\sqrt{36}}\\
-&\Rightarrow\bar{X}
+&\Rightarrow\bar{X}\geq1.578
 \end{align}
 $$
+則我們會可以拒絕虛無假設。
