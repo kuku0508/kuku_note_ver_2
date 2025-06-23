@@ -28,8 +28,14 @@ $$
 Z=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}
 $$
 - - -
-
-_ 兒_
+# P值
+$$
+P=
+\begin{cases}
+2P(Z>|z|)
+\end{cases}
+$$
+- - -
 parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]]
 sibling::
 child::
