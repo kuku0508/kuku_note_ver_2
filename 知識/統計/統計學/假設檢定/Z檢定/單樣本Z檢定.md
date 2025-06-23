@@ -20,8 +20,11 @@ $$
 $$
 H_0\text{：}\mu= \mu_0\quad vs.\quad H_1\text{：}\mu\neq\mu_0
 $$
+$\mu$：母體平均數
+$\mu_0$：給定值
 - - -
-# 
+# 檢定統計量
+
 - - -
 parent::[[假設檢定]],[[平均數]]
 sibling::
