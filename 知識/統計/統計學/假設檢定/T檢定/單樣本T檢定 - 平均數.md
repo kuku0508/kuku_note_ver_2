@@ -26,7 +26,7 @@ $\mu_0$：給定值
 - - -
 # 檢定統計量
 $$
-Z=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}
+T=\frac{\bar{X}-\mu_0}{S/\sqrt{n}}
 $$
 $Z$：Z值（檢定統計量）
 $\bar{X}$：樣本平均數
@@ -39,9 +39,9 @@ $n$：樣本數
 $$
 P=
 \begin{cases}
-2P(Z>|z|),&\text{when }H_1\text{：}\mu\neq \mu_0\\\\
-P(Z>z),&\text{when }H_1\text{：}\mu> \mu_0\\\\
-P(Z<z),&\text{when }H_1\text{：}\mu< \mu_0
+2P(T>|t|),&\text{when }H_1\text{：}\mu\neq \mu_0\\\\
+P(T>t),&\text{when }H_1\text{：}\mu> \mu_0\\\\
+P(T<t),&\text{when }H_1\text{：}\mu< \mu_0
 \end{cases}
 $$
 - - -
