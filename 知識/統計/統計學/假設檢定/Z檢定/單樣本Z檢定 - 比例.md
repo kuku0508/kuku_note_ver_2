@@ -21,14 +21,14 @@ H_0\text{：}p\leq p_0\quad vs.\quad H_1\text{：}p>p_0
 $$
 ### [[雙尾檢定]]
 $$
-H_0\text{：}p= \mu_0\quad vs.\quad H_1\text{：}\mu\neq\mu_0
+H_0\text{：}p= p_0\quad vs.\quad H_1\text{：}p\neq p_0
 $$
 $\mu$：母體平均數
 $\mu_0$：給定值
 - - -
 # 檢定統計量
 $$
-Z=\frac{\bar{X}-\mu_0}{\sigma/\sqrt{n}}
+Z=\frac{\hat{p}-p_0}{p_0()/\sqrt{n}}
 $$
 $Z$：Z值（檢定統計量）
 $\bar{X}$：樣本平均數
