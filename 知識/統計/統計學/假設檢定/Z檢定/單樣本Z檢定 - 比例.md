@@ -13,15 +13,15 @@
 # 虛無假設&對立假設
 ### [[左尾檢定]]
 $$
-H_0\text{：}\mu\geq \mu_0\quad vs.\quad H_1\text{：}\mu<\mu_0
+H_0\text{：}p\geq p_0\quad vs.\quad H_1\text{：}p<p_0
 $$
 ### [[右尾檢定]]
 $$
-H_0\text{：}\mu\leq \mu_0\quad vs.\quad H_1\text{：}\mu>\mu_0
+H_0\text{：}p\leq p_0\quad vs.\quad H_1\text{：}p>p_0
 $$
 ### [[雙尾檢定]]
 $$
-H_0\text{：}\mu= \mu_0\quad vs.\quad H_1\text{：}\mu\neq\mu_0
+H_0\text{：}p= \mu_0\quad vs.\quad H_1\text{：}\mu\neq\mu_0
 $$
 $\mu$：母體平均數
 $\mu_0$：給定值
