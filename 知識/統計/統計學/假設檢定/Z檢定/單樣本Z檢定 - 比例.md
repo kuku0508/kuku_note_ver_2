@@ -40,9 +40,9 @@ $n$：樣本數
 $$
 P=
 \begin{cases}
-2P(Z>|z|),&\text{when }H_1\text{：}\mu\neq \mu_0\\\\
-P(Z>z),&\text{when }H_1\text{：}\mu> \mu_0\\\\
-P(Z<z),&\text{when }H_1\text{：}\mu< \mu_0
+2P(Z>|z|),&\text{when }H_1\text{：}p\neq p_0\\\\
+P(Z>z),&\text{when }H_1\text{：}p> p_0\\\\
+P(Z<z),&\text{when }H_1\text{：}p< p_0
 \end{cases}
 $$
 - - -
@@ -50,9 +50,5 @@ $$
 - [[Z檢定範例 - 客服等待時間]]
 - - -
 parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]],[[Z分配]]
-sibling::
-child::
-- - -
-parent::
 sibling::
 child::
