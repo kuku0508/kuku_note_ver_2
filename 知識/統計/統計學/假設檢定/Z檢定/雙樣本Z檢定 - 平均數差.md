@@ -28,7 +28,7 @@ $d_0$：給定值
 - - -
 # 檢定統計量
 $$
-Z=\frac{(\bar{x_1}-\bar{x_2})-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma^2_1}{n_1}}}
+Z=\frac{(\bar{x_1}-\bar{x_2})-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma^2_1}{n_1}+\frac{\sigma^2_2}{n_2}}}
 $$
 $Z$：Z值（檢定統計量）
 $\bar{X}$：樣本平均數
