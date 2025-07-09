@@ -250,6 +250,18 @@
                   "icon": "excalidraw-icon",
                   "title": "ch10"
                 }
+              },
+              {
+                "id": "e7fa09bb63df9b5f",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch9.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch9"
+                }
               }
             ]
           }
@@ -266,9 +278,9 @@
   },
   "active": "dad9126f79afbe21",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
-    "文本/Department/數學/統計/統計學/講義/ch10.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
+    "文本/Department/數學/統計/統計學/講義/ch10.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
     "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 選舉支持度調查.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 平均數.md",
