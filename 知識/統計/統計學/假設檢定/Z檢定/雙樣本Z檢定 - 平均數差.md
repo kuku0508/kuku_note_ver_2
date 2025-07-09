@@ -20,10 +20,11 @@ H_0\text{：}\mu_1-\mu_2\leq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2>d_0
 $$
 ### [[雙尾檢定]]
 $$
-H_0\text{：}\mu= \mu_0\quad vs.\quad H_1\text{：}\mu\neq\mu_0
+H_0\text{：}\mu_1-\mu_2= d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2\neq d_0
 $$
-$\mu$：母體平均數
-$\mu_0$：給定值
+$\mu_1$：母體1平均數
+$\mu_2$：母體2平均數
+$d_0$：給定值
 - - -
 # 檢定統計量
 $$
