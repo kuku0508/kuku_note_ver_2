@@ -6,17 +6,17 @@
 # 前提
 - 母體分配近似[[單變量常態分配|常態分配]]，或樣本數$n\geq 30$
 - 母體標準差$\sigma$已知
-- 兩個母體相互獨立
+- ==兩個母體相互獨立==
 - 樣本抽樣相互獨立且來自同分配（[[獨立同分配|iid]]）
 - - -
 # 虛無假設&對立假設
 ### [[左尾檢定]]
 $$
-H_0\text{：}\mu\geq \mu_0\quad vs.\quad H_1\text{：}\mu<\mu_0
+H_0\text{：}\mu_1-\mu_2\geq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2<d_0
 $$
 ### [[右尾檢定]]
 $$
-H_0\text{：}\mu\leq \mu_0\quad vs.\quad H_1\text{：}\mu>\mu_0
+H_0\text{：}\mu_1-\mu_2\leq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2>d_0
 $$
 ### [[雙尾檢定]]
 $$
