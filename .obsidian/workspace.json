@@ -240,18 +240,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "3f1ec415a8128f4f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch9.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch9"
-                }
-              },
-              {
                 "id": "dad9126f79afbe21",
                 "type": "leaf",
                 "state": {
@@ -261,18 +249,6 @@
                   },
                   "icon": "excalidraw-icon",
                   "title": "ch10"
-                }
-              },
-              {
-                "id": "f1eab0c2b9d1ff15",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 2"
                 }
               }
             ]
@@ -288,14 +264,15 @@
       }
     ]
   },
-  "active": "011c9f2718a95027",
+  "active": "dad9126f79afbe21",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 選舉支持度調查.md",
-    "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
+    "文本/Department/數學/統計/統計學/講義/ch10.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
+    "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
+    "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 選舉支持度調查.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 平均數.md",
     "文本/Department/數學/統計/統計學/文本/範例/模擬黑龍挖取率.md",
-    "文本/Department/數學/統計/統計學/講義/ch10.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/比例.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/中位數.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
@@ -310,7 +287,6 @@
     "文本/Department/數學/統計/統計學/文本/範例",
     "知識/統計/統計學/假設檢定/假設檢定.md",
     "知識/統計/統計學/估計/點估計.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "知識/統計/統計學/假設檢定/左尾檢定.md",
