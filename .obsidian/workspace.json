@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
+                "file": "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雙樣本獨立Z檢定 - 平均數差"
+              "title": "單樣本Z檢定 - 比例"
             }
           }
         ]
@@ -276,13 +276,13 @@
       }
     ]
   },
-  "active": "011c9f2718a95027",
+  "active": "dad9126f79afbe21",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
     "文本/Department/數學/統計/統計學/講義/ch10.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 平均數.md",
-    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 選舉支持度調查.md",
     "文本/Department/數學/統計/統計學/文本/範例/模擬黑龍挖取率.md",
