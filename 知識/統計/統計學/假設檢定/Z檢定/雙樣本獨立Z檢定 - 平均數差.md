@@ -45,9 +45,9 @@ $n_2$：抽樣自母體2的樣本數
 $$
 P=
 \begin{cases}
-2P(Z>|z|),&\text{when }H_1\text{：}\mu\neq \mu_0\\\\
-P(Z>z),&\text{when }H_1\text{：}\mu> \mu_0\\\\
-P(Z<z),&\text{when }H_1\text{：}\mu< \mu_0
+2P(Z>|z|),&\text{when }H_1\text{：}\mu_1-\mu_2\neq d_0\\\\
+P(Z>z),&\text{when }H_1\text{：}\mu_1-\mu_2> d_0\\\\
+P(Z<z),&\text{when }H_1\text{：}\mu_1-\mu_2< d_0
 \end{cases}
 $$
 - - -
