@@ -13,5 +13,5 @@ H_0\text{：}\mu_1-\mu_2\geq 0\quad vs.\quad H_1\text{：}\mu_1-\mu_2 < 0
 $$
 而檢定統計量為：
 $$
-Z=\frac{(\bar{x_1}-\bar{x_2})-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma^2_1}{n_1}+\frac{\sigma^2_2}{n_2}}}
+T=\frac{(\bar{x_1}-\bar{x_2})-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma^2_1}{n_1}+\frac{\sigma^2_2}{n_2}}}
 $$
