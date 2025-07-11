@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 肥料.md",
+                "file": "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Z檢定範例 - 肥料"
+              "title": "單樣本T檢定 - 平均數"
             }
           }
         ]
@@ -276,11 +276,11 @@
       }
     ]
   },
-  "active": "dad9126f79afbe21",
+  "active": "011c9f2718a95027",
   "lastOpenFiles": [
+    "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
     "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 肥料.md",
     "文本/Department/數學/統計/統計學/講義/ch10.md",
-    "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
     "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 客服等待時間.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
     "知識/統計/統計學/集合/獨立事件.md",
