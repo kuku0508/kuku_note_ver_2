@@ -49,7 +49,7 @@ T=\frac{(\bar{x_1}-\bar{x_2})-(\mu_1-\mu_2)}{\sqrt{\frac{S^2_1}{n_1}+\frac{S^2_2
 $$
 其中自由度d.f為：
 $$
-\text{d.f}=\frac{\left(\frac{S^2_1}{n_1}+\frac{S^2_2}{n_2}\right)^2}{\frac{\frac{s^2_1}{n_1}}{}}
+\text{d.f}=\frac{\left(\frac{S^2_1}{n_1}+\frac{S^2_2}{n_2}\right)^2}{\frac{\frac{S^2_1}{n_1}}{n_1-1}+\frac{\frac{S^2_2}{n_2}}{n_2-1}}
 $$
 
 - - -
