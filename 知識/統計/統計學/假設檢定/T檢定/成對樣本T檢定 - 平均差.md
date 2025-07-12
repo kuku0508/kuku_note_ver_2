@@ -6,7 +6,7 @@
 例如：吃完血壓藥之前後的舒張壓數值之差、在用藥之後的握力差等。
 - - -
 # 前提
--++
+- ==樣本為配對。==
 - 樣本差異的母體分配為常態/近似常態，或樣本數大於30。
 - 樣本抽樣相互獨立且來自同分配（[[獨立同分配|iid]]）。
 - - -
@@ -14,15 +14,15 @@
 假設$X$與$Y$分別為兩個常態母體的特性，且X與Y不獨立。而$X_d=X_i-Y_i$。
 ### [[左尾檢定]]
 $$
-H_0\text{：}X_d\geq d_0\quad vs.\quad H_1\text{：}X_d<d_0
+H_0\text{：}\bar{d}\geq d_0\quad vs.\quad H_1\text{：}X_d<d_0
 $$
 ### [[右尾檢定]]
 $$
-H_0\text{：}X_d\leq d_0\quad vs.\quad H_1\text{：}X_d>d_0
+H_0\text{：}\bar{d}\leq d_0\quad vs.\quad H_1\text{：}\bar{d}>d_0
 $$
 ### [[雙尾檢定]]
 $$
-H_0\text{：}X_d= d_0\quad vs.\quad H_1\text{：}X_d\neq d_0
+H_0\text{：}\bar{d}= d_0\quad vs.\quad H_1\text{：}\bar{d}\neq d_0
 $$
 $d_0$：給定值
 - - -
