@@ -35,8 +35,7 @@
               "title": "雙樣本T檢定 - 平均數差"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,19 +282,19 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 696,
         "width": 1280,
-        "height": 1392,
+        "height": 696,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ed6b1b5f1817fc5f",
+  "active": "011c9f2718a95027",
   "lastOpenFiles": [
+    "知識/統計/統計學/假設檢定/T檢定/雙樣本T檢定 - 平均數差.md",
     "知識/統計/統計學/假設檢定/T檢定/成對樣本T檢定 - 平均差.md",
     "文本/Department/數學/統計/統計學/文本/範例/雙樣本T檢定範例 - 肥料.md",
-    "知識/統計/統計學/假設檢定/T檢定/雙樣本T檢定 - 平均數差.md",
     "文本/Department/數學/統計/統計學/講義/ch10.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
