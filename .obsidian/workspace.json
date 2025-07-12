@@ -251,27 +251,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "dad9126f79afbe21",
+                "id": "8eb3d73b81f38d4a",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch10.md"
+                    "file": "文本/Department/數學/統計/統計學/講義/ch11.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch10"
-                }
-              },
-              {
-                "id": "e7fa09bb63df9b5f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch9.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch9"
+                  "title": "ch11"
                 }
               }
             ]
@@ -287,10 +275,12 @@
       }
     ]
   },
-  "active": "ed6b1b5f1817fc5f",
+  "active": "8eb3d73b81f38d4a",
   "lastOpenFiles": [
-    "未處理/方便抽樣.md",
+    "文本/Department/數學/統計/統計學/講義/ch10.md",
+    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 比例差.md",
+    "未處理/方便抽樣.md",
     "未處理/獨立同分配.md",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
     "知識/統計/統計學/假設檢定/T檢定/成對樣本T檢定 - 平均差.md",
@@ -300,8 +290,6 @@
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/統計學/假設檢定/雙尾檢定.md",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
-    "文本/Department/數學/統計/統計學/講義/ch10.md",
-    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/T分配.md",
     "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
     "文本/Department/數學/統計/統計學/文本/範例/Z檢定範例 - 客服等待時間.md",
