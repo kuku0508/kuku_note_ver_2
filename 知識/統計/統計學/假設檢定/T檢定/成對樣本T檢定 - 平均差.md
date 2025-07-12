@@ -14,7 +14,7 @@
 假設$X$與$Y$分別為兩個常態母體的特性，且X與Y不獨立。而$X_d=X_i-Y_i$。
 ### [[左尾檢定]]
 $$
-H_0\text{：}\bar{d}\geq d_0\quad vs.\quad H_1\text{：}X_d<d_0
+H_0\text{：}\bar{d}\geq d_0\quad vs.\quad H_1\text{：}\bar{d}<d_0
 $$
 ### [[右尾檢定]]
 $$
@@ -24,6 +24,7 @@ $$
 $$
 H_0\text{：}\bar{d}= d_0\quad vs.\quad H_1\text{：}\bar{d}\neq d_0
 $$
+$\bar{d}$：$X_d$的平均數
 $d_0$：給定值
 - - -
 # 檢定統計量
@@ -41,9 +42,9 @@ $n$：樣本差異的個數
 $$
 P=
 \begin{cases}
-2P(T>|t|),&\text{when }H_1\text{：}\mu_1-\mu_2\neq d_0\\\\
-P(T>t),&\text{when }H_1\text{：}\mu_1-\mu_2> d_0\\\\
-P(T<t),&\text{when }H_1\text{：}\mu_1-\mu_2< d_0
+2P(T>|t|),&\text{when }H_1\text{：}\bar{d}\neq d_0\\\\
+P(T>t),&\text{when }H_1\text{：}\bar{d} d_0\\\\
+P(T<t),&\text{when }H_1\text{：}\bar{d}< d_0
 \end{cases}
 $$
 - - -
