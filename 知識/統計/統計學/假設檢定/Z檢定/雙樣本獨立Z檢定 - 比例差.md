@@ -27,7 +27,7 @@ $d_0$：給定值
 - - -
 # 檢定統計量
 $$
-Z=\frac{(\bar{p_1}-\bar{p_2})-(p_1-p_2)}{\sqrt{\frac{1}{n_1}+\frac{1}{n_2}}}
+Z=\frac{(\bar{p_1}-\bar{p_2})-(p_1-p_2)}{\sqrt{\bar{p}(1-\bar{p})\left(\frac{1}{n_1}+\frac{1}{n_2}\right)}}
 $$
 $Z$：Z值（檢定統計量）
 $\bar{x_1}$：抽樣自母體1的樣本平均數
