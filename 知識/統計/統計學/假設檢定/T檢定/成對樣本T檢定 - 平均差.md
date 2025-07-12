@@ -28,7 +28,7 @@ $d_0$：給定值
 - - -
 # 檢定統計量
 $$
-T=\frac{\bar{d}-d_0}{\frac{S_d}{\sqrt{n}}}
+T=\frac{\bar{d}-d_0}{\frac{S_d}{\sqrt{n}}}\sim T(n-1)
 $$
 $T$：T值（檢定統計量）
 $\bar{d}$：樣本差異的平均數
@@ -36,7 +36,16 @@ $d_0$：給定值
 $S_d$：樣本差異的標準差
 $n$：樣本差異的個數
 - - -
-
+# P值
+在虛無假設為真的前提下，檢定統計量會服從[[T分配]]：
+$$
+P=
+\begin{cases}
+2P(T>|t|),&\text{when }H_1\text{：}\mu_1-\mu_2\neq d_0\\\\
+P(T>t),&\text{when }H_1\text{：}\mu_1-\mu_2> d_0\\\\
+P(T<t),&\text{when }H_1\text{：}\mu_1-\mu_2< d_0
+\end{cases}
+$$
 - - -
 parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]]
 sibling::
