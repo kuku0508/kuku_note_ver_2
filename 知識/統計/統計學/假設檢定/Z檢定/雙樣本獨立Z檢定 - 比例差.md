@@ -11,11 +11,11 @@
 # 虛無假設&對立假設
 ### [[左尾檢定]]
 $$
-H_0\text{：}\mu_1-\mu_2\geq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2<d_0
+H_0\text{：}p_1-p_2\geq d_0\quad vs.\quad H_1\text{：}p_1-p_2<d_0
 $$
 ### [[右尾檢定]]
 $$
-H_0\text{：}\mu_1-\mu_2\leq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2>d_0
+H_0\text{：}p_1-p_2\leq d_0\quad vs.\quad H_1\text{：}p_1-p_2>d_0
 $$
 ### [[雙尾檢定]]
 $$
