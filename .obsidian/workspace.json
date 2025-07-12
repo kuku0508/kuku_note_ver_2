@@ -21,14 +21,16 @@
             "id": "ed6b1b5f1817fc5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
+                "page": 1,
+                "left": -20,
+                "top": 595,
+                "zoom": 0.7634335803876854
               },
-              "icon": "lucide-file",
-              "title": "卡方分配"
+              "icon": "lucide-file-text",
+              "title": "Table of Distributions"
             }
           }
         ],
@@ -275,13 +277,14 @@
       }
     ]
   },
-  "active": "8eb3d73b81f38d4a",
+  "active": "ed6b1b5f1817fc5f",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
+    "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配.md",
     "知識/統計/統計學/圖表/圖/卡方分配圖.png",
     "未處理/附件/Pasted image 20250712160942.png",
-    "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 比例差.md",
     "文本/Department/數學/統計/統計學/講義/ch10.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
