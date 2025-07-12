@@ -47,8 +47,8 @@ $$
 P=
 \begin{cases}
 2P(Z>|z|),&\text{when }H_1\text{：}p_1-p_2\neq d_0\\\\
-P(Z>z),&\text{when }H_1\text{：}\mu_1-\mu_2> d_0\\\\
-P(Z<z),&\text{when }H_1\text{：}\mu_1-\mu_2< d_0
+P(Z>z),&\text{when }H_1\text{：}p_1-p_2> d_0\\\\
+P(Z<z),&\text{when }H_1\text{：}p_1-p_2< d_0
 \end{cases}
 $$
 - - -
