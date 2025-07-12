@@ -14,21 +14,22 @@
 假設$X$與$Y$分別為兩個常態母體的特性，且X與Y不獨立。而$X_d=X_i-Y_i$。
 ### [[左尾檢定]]
 $$
-H_0\text{：}\mu_1-\mu_2\geq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2<d_0
+H_0\text{：}X_d\geq d_0\quad vs.\quad H_1\text{：}X_d<d_0
 $$
 ### [[右尾檢定]]
 $$
-H_0\text{：}X_d\leq d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2>d_0
+H_0\text{：}X_d\leq d_0\quad vs.\quad H_1\text{：}X_d>d_0
 $$
 ### [[雙尾檢定]]
 $$
 H_0\text{：}X_d= d_0\quad vs.\quad H_1\text{：}X_d\neq d_0
 $$
-$\mu_1$：母體1平均數
-$\mu_2$：母體2平均數
 $d_0$：給定值
 - - -
-
+# 檢定統計量
+$$
+T=\frac{\bar{d}-d_0}{\frac{S^d}{}}
+$$
 - - -
 parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]]
 sibling::
