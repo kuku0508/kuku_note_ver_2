@@ -10,5 +10,6 @@ H_0\text{：}\bar{d}\leq 0\quad vs. \quad H_1\text{：}\bar{d}>0
 $$
 根據計算我們可以得到暈船前後拿起手機次數差的平均數為8.69863、標準差為10.18534。故我們可以得出檢定統計量為：
 $$
-T=\frac{\bar{d}-d_0}{\frac{S_d}{\sqrt{n}}}=\frac{8.69863}{\frac{10.18534}{\sqrt{73}}}\approx
+T=\frac{\bar{d}-d_0}{\frac{S_d}{\sqrt{n}}}=\frac{8.69863}{\frac{10.18534}{\sqrt{73}}}\approx 7.2969
 $$
+經過查表，我們可以知道P值為
