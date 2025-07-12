@@ -19,15 +19,15 @@ H_0\text{：}p_1-p_2\leq d_0\quad vs.\quad H_1\text{：}p_1-p_2>d_0
 $$
 ### [[雙尾檢定]]
 $$
-H_0\text{：}\mu_1-\mu_2= d_0\quad vs.\quad H_1\text{：}\mu_1-\mu_2\neq d_0
+H_0\text{：}p_1-p_2= d_0\quad vs.\quad H_1\text{：}p_1-p_2\neq d_0
 $$
-$\mu_1$：母體1平均數
-$\mu_2$：母體2平均數
+$p_1$：母體1比例
+$p_2$：母體2比例
 $d_0$：給定值
 - - -
 # 檢定統計量
 $$
-Z=\frac{(\bar{x_1}-\bar{x_2})-(\mu_1-\mu_2)}{\sqrt{\frac{\sigma^2_1}{n_1}+\frac{\sigma^2_2}{n_2}}}
+Z=\frac{(\bar{p_1}-\bar{p_2})-(p_1-p_2)}{\sqrt{\frac{1}{n_1}+\frac{1}{n_2}}}
 $$
 $Z$：Z值（檢定統計量）
 $\bar{x_1}$：抽樣自母體1的樣本平均數
