@@ -21,16 +21,14 @@
             "id": "ed6b1b5f1817fc5f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
-                "page": 1,
-                "left": -20,
-                "top": 595,
-                "zoom": 0.7634335803876854
+                "file": "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Table of Distributions"
+              "icon": "lucide-file",
+              "title": "卡方分配"
             }
           }
         ],
@@ -277,10 +275,12 @@
       }
     ]
   },
-  "active": "ed6b1b5f1817fc5f",
+  "active": "8eb3d73b81f38d4a",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
+    "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
+    "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
+    "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配.md",
     "知識/統計/統計學/圖表/圖/卡方分配圖.png",
@@ -310,7 +310,6 @@
     "知識/統計/統計學/假設檢定/T檢定",
     "文本/Department/數學/統計/統計學/文本/範例",
     "知識/統計/統計學/假設檢定/Z檢定",
-    "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
     "文本/Department/數學/統計/統計學/表/T table.png",
     "文本/Department/數學/統計/統計學/圖/雙尾檢定 圖.png",
     "文本/Department/數學/統計/統計學/圖/左尾檢定 圖.png",
@@ -318,9 +317,7 @@
     "文本/Department/數學/統計/統計學/圖/右尾檢定 圖.png",
     "知識/統計/統計學/假設檢定",
     "文本/Department/數學/統計/統計學/圖/信賴區間 95.png",
-    "未處理/附件/Pasted image 20250610052458.png",
     "知識/統計/統計學/估計",
-    "文本/Department/數學/統計/統計學/圖/文氏圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2",
