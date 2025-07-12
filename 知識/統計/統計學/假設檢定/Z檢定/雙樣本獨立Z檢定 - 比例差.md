@@ -1,5 +1,6 @@
 ---
 參考資料:
+  - Statistics the exploration and analysis of data,7e; Roxy peck, Jay L. Devore.
 ---
 雙樣本Z檢定（two-sample Z-test），是一種[[假設檢定]]，可以用於檢測==兩[[獨立事件|獨立]]母體==的母體[[比例]]差是否為給定的值。
 - - -
@@ -51,6 +52,6 @@ P(Z<z),&\text{when }H_1\text{：}\mu_1-\mu_2< d_0
 \end{cases}
 $$
 - - -
-parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]],[[Z分配]],[[獨立事件]]
+parent::[[假設檢定]],[[比例]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]],[[Z分配]],[[獨立事件]]
 sibling::
 child::
