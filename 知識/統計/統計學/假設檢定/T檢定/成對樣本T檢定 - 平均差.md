@@ -43,10 +43,13 @@ $$
 P=
 \begin{cases}
 2P(T>|t|),&\text{when }H_1\text{：}\bar{d}\neq d_0\\\\
-P(T>t),&\text{when }H_1\text{：}\bar{d} d_0\\\\
+P(T>t),&\text{when }H_1\text{：}\bar{d}> d_0\\\\
 P(T<t),&\text{when }H_1\text{：}\bar{d}< d_0
 \end{cases}
 $$
+- - -
+# 範例
+
 - - -
 parent::[[假設檢定]],[[平均數]],[[左尾檢定]],[[右尾檢定]],[[雙尾檢定]]
 sibling::
