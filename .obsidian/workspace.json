@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "011c9f2718a95027",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
-            }
-          },
-          {
             "id": "ed6b1b5f1817fc5f",
             "type": "leaf",
             "state": {
@@ -274,7 +264,7 @@
       }
     ]
   },
-  "active": "011c9f2718a95027",
+  "active": "ed6b1b5f1817fc5f",
   "lastOpenFiles": [
     "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
