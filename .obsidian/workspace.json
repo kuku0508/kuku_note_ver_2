@@ -57,6 +57,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "690d65d4b27c1bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f31db0515a09447a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "文本/Department/數學/統計/統計學/表/chi-square distribution table.png"
+              },
+              "icon": "lucide-image",
+              "title": "chi-square distribution table"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,10 +341,10 @@
       }
     ]
   },
-  "active": "21c0262ce0e4fcaa",
+  "active": "f31db0515a09447a",
   "lastOpenFiles": [
-    "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
     "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
+    "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
     "文本/Department/數學/統計/統計學/講義/ch12.md",
