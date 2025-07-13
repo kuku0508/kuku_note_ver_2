@@ -255,10 +255,12 @@
                 "id": "3edd2f551a5a6069",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch12.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch12"
                 }
               }
             ],
@@ -275,8 +277,10 @@
       }
     ]
   },
-  "active": "3edd2f551a5a6069",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/統計/統計學/假設檢定/未命名",
+    "文本/Department/數學/統計/統計學/講義/ch12.md",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/假設檢定/卡方檢定.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
@@ -307,8 +311,6 @@
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "知識/統計/統計學/假設檢定/雙尾檢定.md",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/T分配.md",
-    "知識/統計/統計學/假設檢定/Z檢定/單樣本Z檢定 - 比例.md",
     "知識/統計/統計學/假設檢定/T檢定",
     "文本/Department/數學/統計/統計學/文本/範例",
     "知識/統計/統計學/假設檢定/Z檢定",
