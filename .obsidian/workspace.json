@@ -277,8 +277,21 @@
                   "icon": "excalidraw-icon",
                   "title": "ch12"
                 }
+              },
+              {
+                "id": "95a88d64afd924db",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch9.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch9"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -293,9 +306,11 @@
   },
   "active": "7ad14a2a2fd0f363",
   "lastOpenFiles": [
-    "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
-    "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
+    "文本/Department/數學/統計/統計學/講義/ch9.md",
+    "文本/Department/數學/統計/統計學/講義/ch10.md",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
+    "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
+    "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
     "未處理/獨立同分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
     "文本/Department/數學/統計/統計學/講義/ch12.md",
@@ -315,8 +330,6 @@
     "知識/統計/統計學/圖表/圖/卡方分配圖.png",
     "未處理/附件/Pasted image 20250712160942.png",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 比例差.md",
-    "文本/Department/數學/統計/統計學/講義/ch10.md",
-    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "未處理/方便抽樣.md",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
     "知識/統計/統計學/假設檢定/T檢定/成對樣本T檢定 - 平均差.md",
