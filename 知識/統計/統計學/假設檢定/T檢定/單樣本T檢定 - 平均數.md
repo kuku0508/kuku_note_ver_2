@@ -26,7 +26,7 @@ $\mu_0$：給定值
 - - -
 # 檢定統計量
 $$
-T=\frac{\bar{X}-\mu_0}{S/\sqrt{n}}
+T=\frac{\bar{X}-\mu_0}{S/\sqrt{n}}\sim T(n-1)
 $$
 $T$：T值（檢定統計量）
 $\bar{X}$：樣本平均數
