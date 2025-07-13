@@ -341,8 +341,9 @@
       }
     ]
   },
-  "active": "f31db0515a09447a",
+  "active": "21c0262ce0e4fcaa",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
     "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
@@ -361,7 +362,6 @@
     "知識/統計/統計學/估計/信賴區間/信賴區間 - 變異數.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本比例.md",
     "知識/統計/統計學/估計/信賴區間",
-    "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配.md",
@@ -375,7 +375,6 @@
     "知識/統計/統計學/假設檢定/T檢定/雙樣本獨立T檢定 - 平均數差.md",
     "文本/Department/數學/統計/統計學/文本/範例/雙樣本T檢定範例 - 肥料.md",
     "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
-    "知識/統計/統計學/假設檢定/雙尾檢定.md",
     "知識/統計/統計學/假設檢定/T檢定",
     "文本/Department/數學/統計/統計學/文本/範例",
     "知識/統計/統計學/假設檢定/Z檢定",
