@@ -39,11 +39,11 @@
         "currentTab": 1
       },
       {
-        "id": "2e401aedb537a2e9",
+        "id": "d205319ceadd6515",
         "type": "tabs",
         "children": [
           {
-            "id": "3ea5e5532e1f9b2d",
+            "id": "21c0262ce0e4fcaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -323,7 +323,7 @@
       }
     ]
   },
-  "active": "3ea5e5532e1f9b2d",
+  "active": "21c0262ce0e4fcaa",
   "lastOpenFiles": [
     "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
     "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
