@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
+                "file": "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "卡方檢定 - 變異數"
+              "title": "卡方檢定 - 濾掛咖啡"
             }
           },
           {
@@ -304,8 +304,9 @@
   },
   "active": "ed6b1b5f1817fc5f",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
+    "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
+    "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
     "文本/Department/數學/統計/統計學/講義/ch12.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
