@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/假設檢定/F檢定/雙樣本F檢定.md",
+                "file": "知識/統計/統計學/假設檢定/F檢定/F檢定 - 雙變異數.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "雙樣本F檢定"
+              "title": "F檢定 - 雙變異數"
             }
           }
         ],
@@ -303,15 +303,15 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "69fa1f636ebc7619",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch11.md",
+    "知識/統計/統計學/假設檢定/F檢定/F檢定 - 雙變異數.md",
     "知識/統計/統計學/統計學目錄.md",
-    "知識/統計/統計學/假設檢定/F檢定/雙樣本F檢定.md",
     "知識/統計/統計學/假設檢定/對立假設.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
     "知識/統計/統計學/假設檢定/F檢定",
-    "文本/Department/數學/統計/統計學/講義/ch11.md",
     "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
