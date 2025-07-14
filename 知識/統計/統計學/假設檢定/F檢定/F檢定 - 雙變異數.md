@@ -11,7 +11,7 @@ F檢定（F-test），是一種[[假設檢定]]，可以來檢定兩母體的母
 # 虛無假設＆對立假設
 ### [[左尾檢定]]
 $$
-H_0\text{：}\sigma^2\geq \sigma^2_0\quad vs.\quad H_1\text{：}\sigma^2<\sigma^2_0
+H_0\text{：}\sigma^2_1\geq \sigma^2_2\quad vs.\quad H_1\text{：}\sigma^2_1< \sigma^2_2
 $$
 ### [[右尾檢定]]
 $$
