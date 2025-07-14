@@ -22,7 +22,7 @@ $$
 H_0\text{：}\sigma^2_1=\sigma^2_2\quad vs.\quad H_1\text{：}\sigma^2_1\neq \sigma^2_2
 $$
 $\sigma^2_1$：來自母體1的母體變異數
-$\sigma^2_2$：給定值
+$\sigma^2_2$：來自母體2的母體變異數
 - - -
 # 檢定統計量
 $$
