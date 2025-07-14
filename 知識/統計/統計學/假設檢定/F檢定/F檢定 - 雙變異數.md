@@ -15,14 +15,14 @@ H_0\text{：}\sigma^2_1\geq \sigma^2_2\quad vs.\quad H_1\text{：}\sigma^2_1< \s
 $$
 ### [[右尾檢定]]
 $$
-H_0\text{：}\sigma^2\leq \sigma^2_0\quad vs.\quad H_1\text{：}\sigma^2>\sigma^2_0
+H_0\text{：}\sigma^2_1\leq \sigma^2_2\quad vs.\quad H_1\text{：}\sigma^2_1>\sigma^2_2
 $$
 ### [[雙尾檢定]]
 $$
-H_0\text{：}\sigma^2= \sigma^2_0\quad vs.\quad H_1\text{：}\sigma^2\neq\sigma^2_0
+H_0\text{：}\sigma^2_1=\sigma^2_2\quad vs.\quad H_1\text{：}\sigma^2_1\neq \sigma^2_2
 $$
-$\sigma^2$：母體變異數
-$\sigma^2_0$：給定值
+$\sigma^2_1$：來自母體1的母體變異數
+$\sigma^2_2$：給定值
 - - -
 # 檢定統計量
 $$
