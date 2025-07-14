@@ -37,7 +37,7 @@ $S^2_2$：抽樣自母體2的樣本變異數
 $$
 P=
 \begin{cases}
-2\cdot min \lbrace P(\chi_{n-1}^2< \chi^2_{obs}),\,P(\chi_{n-1}^2> \chi^2_{obs})\rbrace &\text{when }H_1\text{：}\sigma^2_1\neq \sigma^2_2\\\\
+幹我不知道 &\text{when }H_1\text{：}\sigma^2_1\neq \sigma^2_2\\\\
 
 P(F\geq F_{obs}),&\text{when }H_1\text{：}\sigma^2_1> \sigma^2_2\\\\
 
