@@ -29,14 +29,14 @@ $$
 
 ## 3. 常見應用
 1. **兩變異數比檢定**  
-   $
-     F_\text{obs}=\frac{S_1^{2}}{S_2^{2}}
-     \sim F_{\,n_1-1,\;n_2-1}\quad(H_0)
-   $
+   $$
+F_\text{obs}=\frac{S_1^{2}}{S_2^{2}}
+\sim F_{\,n_1-1,\;n_2-1}\quad(H_0)
+   $$
 2. **單因子 ANOVA**：  
-   $
-     F=\frac{\text{組間均方 (MSB)}}{\text{組內均方 (MSW)}}\sim F_{\,k-1,\,N-k}
-   $
+   $$
+F=\frac{\text{組間均方 (MSB)}}{\text{組內均方 (MSW)}}\sim F_{\,k-1,\,N-k}
+   $$
    用來比較 $k$ 組平均數是否相等。
 3. **Welch ANOVA**（變異數不等）與 **共變數分析 (ANCOVA)** 亦以 F 統計量檢定。
 
@@ -44,7 +44,7 @@ $$
 
 ## 4. p 值計算
 - **右尾**：`pf(F_obs, d1, d2, lower.tail = FALSE)`  
-- **雙尾**：$F^\*=\max(F_{\text{obs}},1/F_{\text{obs}})$，  
+- **雙尾**：$F^*=\max(F_{\text{obs}},1/F_{\text{obs}})$，  
   `p = 2 * pf(F*, d1, d2, lower.tail = FALSE)`
 
 ---
