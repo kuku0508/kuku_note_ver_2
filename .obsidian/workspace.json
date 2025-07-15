@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "卡方檢定 - 變異數"
             }
-          },
-          {
-            "id": "69fa1f636ebc7619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/Department/數學/統計/統計學/文本/範例/F檢定 - 精準抓量.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F檢定 - 精準抓量"
-            }
-          },
-          {
-            "id": "62c6832eb89fb791",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/假設檢定/F檢定/F檢定 - 雙變異數.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F檢定 - 雙變異數"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,19 +240,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "8eb3d73b81f38d4a",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch11.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch11"
-                }
-              },
-              {
-                "id": "3edd2f551a5a6069",
+                "id": "6f8f9f3063f8128b",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -293,15 +252,39 @@
                 }
               },
               {
-                "id": "95a88d64afd924db",
+                "id": "3edd2f551a5a6069",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch9.md"
+                    "file": "文本/Department/數學/統計/統計學/講義/ch13.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "ch9"
+                  "title": "ch13"
+                }
+              },
+              {
+                "id": "0eeb0d54bb43833a",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch14.1~ch14.2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch14.1~ch14.2"
+                }
+              },
+              {
+                "id": "059eec9b3d842120",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/統計學/講義/ch14.3.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "ch14.3"
                 }
               }
             ]
@@ -317,12 +300,17 @@
       }
     ]
   },
-  "active": "69fa1f636ebc7619",
+  "active": "6f8f9f3063f8128b",
   "lastOpenFiles": [
-    "知識/統計/統計學/假設檢定/F檢定/F檢定 - 雙變異數.md",
-    "文本/Department/數學/統計/統計學/文本/範例/F檢定 - 精準抓量.md",
+    "文本/Department/數學/統計/統計學/講義/ch14.1~ch14.2.md",
+    "文本/Department/數學/統計/統計學/講義/ch14.3.md",
+    "文本/Department/數學/統計/統計學/講義/ch12.md",
+    "文本/Department/數學/統計/統計學/講義/ch13.md",
+    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
     "知識/統計/統計學/假設檢定/卡方檢定/卡方檢定 - 變異數.md",
+    "文本/Department/數學/統計/統計學/文本/範例/F檢定 - 精準抓量.md",
+    "知識/統計/統計學/假設檢定/F檢定/F檢定 - 雙變異數.md",
     "文本/Department/數學/統計/統計學/文本/範例/卡方檢定 - 濾掛咖啡.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/假設檢定/對立假設.md",
@@ -330,8 +318,6 @@
     "知識/統計/統計學/假設檢定/F檢定",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/統計學/假設檢定/T檢定/單樣本T檢定 - 平均數.md",
-    "文本/Department/數學/統計/統計學/講義/ch12.md",
-    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/統計學/講義/ch10.md",
     "未處理/獨立同分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
@@ -350,9 +336,6 @@
     "未處理/附件/Pasted image 20250712160942.png",
     "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 比例差.md",
     "未處理/方便抽樣.md",
-    "知識/統計/統計學/假設檢定/Z檢定/雙樣本獨立Z檢定 - 平均數差.md",
-    "知識/統計/統計學/假設檢定/T檢定/成對樣本T檢定 - 平均差.md",
-    "文本/Department/數學/統計/統計學/文本/範例/成對T檢定範例 - 暈船時看手機次數.md",
     "知識/統計/統計學/假設檢定/T檢定",
     "文本/Department/數學/統計/統計學/文本/範例",
     "知識/統計/統計學/假設檢定/Z檢定",
