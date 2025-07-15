@@ -28,5 +28,5 @@ H_0\text{：}\sigma_1=\sigma_2\quad vs. \quad H_1\text{：}\sigma_1\neq\sigma_2
 $$
 而檢定統計量為
 $$
-F=\frac{S_1^2}{}
+F=\frac{S_1^2}{S_2^2}
 $$
