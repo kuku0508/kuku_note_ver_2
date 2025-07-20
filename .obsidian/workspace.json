@@ -47,8 +47,7 @@
               "title": "chi-square distribution table"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,9 +326,10 @@
       }
     ]
   },
-  "active": "04df81d8a441433c",
+  "active": "f4619779dc23f330",
   "lastOpenFiles": [
     "知識/統計/統計學/假設檢定/卡方檢定/獨立性檢定.md",
+    "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "文本/Department/數學/統計/統計學/文本/範例/獨立性檢定範例 - 貓咪顔文字.md",
     "知識/統計/統計學/假設檢定/卡方檢定/適合度檢定.md",
     "文本/Department/數學/統計/統計學/講義/ch12.md",
@@ -355,9 +355,7 @@
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
     "文本/Department/數學/統計/統計學/文本/範例/F檢定範例 - 精準抓量.md",
-    "知識/統計/統計學/假設檢定/F檢定/F檢定 - 雙變異數.md",
     "知識/統計/統計學/假設檢定/F檢定",
-    "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/統計學/假設檢定/卡方檢定",
     "知識/統計/統計學/估計/信賴區間",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
