@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "皮",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,8 +290,9 @@
       }
     ]
   },
-  "active": "3edd2f551a5a6069",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "知識/統計/統計學/假設檢定/變異數分析",
     "文本/Department/數學/統計/統計學/講義/ch14.3.md",
     "文本/Department/數學/統計/統計學/講義/ch14.1~ch14.2.md",
     "文本/Department/數學/統計/統計學/講義/ch13.md",
@@ -320,7 +320,6 @@
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/T分配.md",
     "文本/Department/數學/統計/統計學/講義/ch9.md",
     "文本/Department/數學/統計/統計學/講義/ch11.md",
-    "文本/Department/數學/統計/統計學/文本/範例/F檢定範例 - 精準抓量.md",
     "知識/統計/統計學/假設檢定/F檢定",
     "知識/統計/統計學/假設檢定/卡方檢定",
     "知識/統計/統計學/估計/信賴區間",
