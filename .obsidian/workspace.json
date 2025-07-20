@@ -19,7 +19,8 @@
               },
               "icon": "lucide-file",
               "title": "統計學目錄"
-            }
+            },
+            "group": "a58abca988028e0e"
           },
           {
             "id": "f4c1875c4ffdda32",
@@ -46,6 +47,50 @@
               "icon": "lucide-image",
               "title": "chi-square distribution table"
             }
+          }
+        ]
+      },
+      {
+        "id": "47949bf49b00cce8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0c697806cfad83",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/統計學目錄.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "統計學目錄 的關聯圖"
+            },
+            "group": "a58abca988028e0e"
           }
         ]
       }
@@ -290,9 +335,11 @@
       }
     ]
   },
-  "active": "f4619779dc23f330",
+  "active": "bc6fc5a86ad93b4b",
   "lastOpenFiles": [
+    "知識/統計/機器學習/機器學習目錄.md",
     "知識/統計/統計知識總目錄.md",
+    "知識/統計/統計學/統計學目錄.md",
     "文本/Department/數學/統計/統計學/文本/範例/獨立性檢定範例 - 貓咪顔文字.md",
     "知識/統計/統計學/假設檢定/P值.md",
     "文本/Department/數學/統計/統計學/講義/ch13.md",
@@ -319,8 +366,6 @@
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/F分配.md",
     "知識/統計/統計學/圖表/圖/F distribution plot.png",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/卡方分配.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/T分配.md",
-    "文本/Department/數學/統計/統計學/講義/ch9.md",
     "知識/統計/統計學/假設檢定/F檢定",
     "知識/統計/統計學/假設檢定/卡方檢定",
     "知識/統計/統計學/估計/信賴區間",
