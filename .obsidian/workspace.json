@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/假設檢定/變異數分析/多重比較/Untitled.md",
+                "file": "知識/統計/統計學/假設檢定/變異數分析/多重比較/Bonferroni method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Bonferroni method"
             }
           }
         ]
@@ -267,7 +267,7 @@
   "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
     "知識/統計/統計學/統計學目錄.md",
-    "知識/統計/統計學/假設檢定/變異數分析/多重比較/Untitled.md",
+    "知識/統計/統計學/假設檢定/變異數分析/多重比較/Bonferroni method.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
     "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
