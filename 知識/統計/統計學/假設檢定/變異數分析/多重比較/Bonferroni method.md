@@ -11,7 +11,9 @@ $$
 \bar{x}_i-\bar{x}_j\pm t_{\alpha^*/2}\sqrt{\frac{MSE}{n_i}+\frac{MSE}{n_j}}
 $$
 其中：
-$\alpha^*=\frac{\alpha}{}$
+$\alpha^*=\frac{\alpha}{\binom{C}{2}}$
+$c$：組數
+$MSE$：組內變異
 - - -
 
 parent::[[多重比較]],[[信賴區間]]
