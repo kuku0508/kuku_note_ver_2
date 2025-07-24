@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
+                "file": "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two-Way MANOVA"
+              "title": "雙因子變異數分析"
             }
           }
         ]
@@ -286,11 +286,11 @@
   },
   "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
-    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "知識/統計/多變量分析/MANOVA/Two-Way MANOVA.md",
+    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
+    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/統計學/講義/ch13.md",
     "文本/Department/數學/統計/統計學/講義/ch14.1~ch14.2.md",
-    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較/Bonferroni method.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
     "知識/統計/統計學/資料/類別資料.md",
