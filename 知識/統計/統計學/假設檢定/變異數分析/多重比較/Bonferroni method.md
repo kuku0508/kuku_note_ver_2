@@ -10,6 +10,8 @@
 $$
 \bar{x}_i-\bar{x}_j\pm t_{\alpha^*/2}\sqrt{\frac{MSE}{n_i}+\frac{MSE}{n_j}}
 $$
+其中：
+$\alpha^*=\frac{\alpha}{}$
 - - -
 
 parent::[[多重比較]],[[信賴區間]]
