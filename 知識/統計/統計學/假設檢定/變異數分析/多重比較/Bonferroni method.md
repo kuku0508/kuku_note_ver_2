@@ -15,7 +15,6 @@ $\alpha^*=\frac{\alpha}{\binom{C}{2}}$
 $c$：組數
 $MSE$：組內變異
 - - -
-
 parent::[[多重比較]],[[信賴區間]]
 sibling::
 child::
