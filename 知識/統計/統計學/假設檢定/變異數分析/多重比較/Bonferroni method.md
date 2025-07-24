@@ -8,7 +8,7 @@
 
 而信賴區間的公式如下：
 $$
-|\bar{x}_i-\bar{x}_j|\pm t_{}
+\bar{x}_i-\bar{x}_j\pm t_{1-\frac{}{}}
 $$
 - - -
 
