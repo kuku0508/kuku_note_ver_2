@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
+                "file": "知識/統計/統計學/假設檢定/變異數分析/多重比較/Bonferroni method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "單因子變異數分析"
+              "title": "Bonferroni method"
             }
           }
         ]
@@ -267,13 +267,13 @@
   },
   "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
+    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較/Bonferroni method.md",
     "知識/程式語言/Latex/基礎知識/語法表/組合.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
     "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
-    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/多變量分析/MANOVA/One-Way MANOVA.md",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
