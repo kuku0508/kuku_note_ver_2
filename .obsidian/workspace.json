@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/基礎知識/RUN.md",
+                "file": "知識/統計/SAS/基礎知識/procedures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RUN"
+              "title": "procedures"
             }
           }
         ]
@@ -266,9 +266,10 @@
   },
   "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
-    "知識/統計/SAS/基礎知識/SAS.md",
     "知識/統計/SAS/基礎知識/datastep.md",
+    "知識/統計/SAS/基礎知識/procedures.md",
     "知識/統計/SAS/基礎知識/RUN.md",
+    "知識/統計/SAS/基礎知識/SAS.md",
     "知識/統計/SAS/基礎知識/SAS敘述句.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
@@ -296,7 +297,6 @@
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/多變量分析/多維常態分配/多維常態分配 - 檢測.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "知識/統計/統計學/假設檢定/變異數分析",
     "知識/統計/統計學/圖表/圖/F distribution plot.png",
     "知識/統計/統計學/假設檢定/F檢定",
