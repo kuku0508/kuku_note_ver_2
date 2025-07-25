@@ -14,7 +14,7 @@ card;
 5 2
 ;
 proc print;
-run;/* */
+run;/* 執行前面的所有敘述句*/
 ```
 - - -
 parent::[[SAS敘述句]]
