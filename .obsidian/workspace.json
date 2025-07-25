@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "雙因子",
+                "query": "created:2025-07-25",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,12 +94,12 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -285,7 +285,7 @@
       }
     ]
   },
-  "active": "d33b5d263fde6bfa",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "文本/Department/數學/統計/統計學/講義/ch13.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
