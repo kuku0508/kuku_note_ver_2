@@ -227,47 +227,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "f1cdc52f65326693",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e195793e53f19cb3",
-        "type": "window",
-        "children": [
-          {
-            "id": "62b63347374e027b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3edd2f551a5a6069",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch13.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch13"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 696,
-        "width": 1280,
-        "height": 696,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3edd2f551a5a6069",
+  "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
-    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/統計學/講義/ch13.md",
+    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較/Bonferroni method.md",
     "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
