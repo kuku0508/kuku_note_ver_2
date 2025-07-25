@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "created:2025-07-25",
+                "query": "created: 2025-07-25",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
