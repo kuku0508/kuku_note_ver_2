@@ -1,7 +1,8 @@
 # 基礎知識
 ``` dataview
 list
-from 知識/統計/SAS/SAS目錄
+from "知識/統計/SAS/基礎知識"
+where file.folder="知識/統計/SAS/基礎知識"
 ```
 # 假設檢定
 ## 無母數統計
