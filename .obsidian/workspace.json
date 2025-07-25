@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "created: 2025-07-25",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -285,7 +285,7 @@
       }
     ]
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
     "文本/Department/數學/統計/統計學/講義/ch13.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
