@@ -106,10 +106,10 @@
       }
     },
     {
-      "query": "path:知識/統計/SAS/基礎知識  ",
+      "query": "path:知識/統計/SAS  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16771584
       }
     }
   ],
@@ -123,6 +123,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.08317427835927907,
+  "scale": 0.32133638605037296,
   "close": false
 }
