@@ -396,7 +396,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -409,10 +409,10 @@
       }
     ]
   },
-  "active": "60c4f23b788571f7",
+  "active": "7d06c70becd69277",
   "lastOpenFiles": [
-    "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/SAS/基礎知識/敘述句/DATA.md",
+    "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/SAS/基礎知識/datastep.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
