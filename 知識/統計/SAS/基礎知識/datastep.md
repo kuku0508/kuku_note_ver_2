@@ -36,8 +36,8 @@ G --> H
 #### 變數處理
 - [[Input]]：認定原始資料中的變數
 - [[Format]]：指定變數輸出格式
-- [[Label]]：
-- [[Length]]
+- [[Label]]：設定變數的輸出標籤
+- [[Length]]：
 #### 條件篩選
 - [[If...then/else]]
 - [[Where]]

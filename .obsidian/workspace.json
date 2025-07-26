@@ -264,15 +264,15 @@
                 }
               },
               {
-                "id": "76d9470437ddd8dc",
+                "id": "1e7bd90523bea4cd",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md"
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 6"
+                  "title": "SAS Charpter 5"
                 }
               }
             ],
@@ -291,12 +291,13 @@
   },
   "active": "60c4f23b788571f7",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
+    "知識/統計/SAS/基礎知識/datastep.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 10.md",
-    "知識/統計/SAS/基礎知識/datastep.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
     "知識/統計/SAS/基礎知識/敘述句",
     "知識/統計/SAS/基礎知識/資料集.md",
@@ -317,7 +318,6 @@
     "知識/統計/SAS/基礎知識/procedures.md",
     "知識/統計/SAS/基礎知識/RUN.md",
     "知識/統計/SAS/基礎知識/SAS.md",
-    "知識/統計/SAS/基礎知識/SAS敘述句.md",
     "知識/統計/SAS/基礎知識",
     "未處理/附件/Pasted image 20250724170204.png",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
