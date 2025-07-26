@@ -37,9 +37,9 @@ G --> H
 - [[Input]]：認定原始資料中的變數
 - [[Format]]：指定變數輸出格式
 - [[Label]]：設定變數的輸出標籤
-- [[Length]]：
+- [[Length]]：設定變數輸出字元長度
 #### 條件篩選
-- [[If...then/else]]
+- [[If...then/else]]：衣條件
 - [[Where]]
 - [[Delete]]
 #### 迴圈與矩陣
