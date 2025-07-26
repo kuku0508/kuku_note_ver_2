@@ -5,7 +5,12 @@ datastep，簡單來說就是建立、修改、合併、分割、刪除資料集
 
 因此當SAS要使用資料進行分析的時候，就需要先把原始資料轉換成[[資料集]]。這個過程就是datastep。
 - - -
-
+```mermaid
+flowchart TD
+A@{shape: circle, label: "START"}
+B@{shape: dbl-circ, label: "結束"}
+A -->|為了部落| B
+```
 - - -
 parent::[[SAS]]
 sibling::
