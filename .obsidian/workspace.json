@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的箭頭連結.md",
+                "file": "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "有文字的箭頭連結"
+              "title": "shape節點"
             }
           }
         ]
@@ -286,8 +286,8 @@
   },
   "active": "d33b5d263fde6bfa",
   "lastOpenFiles": [
-    "知識/統計/SAS/基礎知識/datastep.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的箭頭連結.md",
+    "知識/統計/SAS/基礎知識/datastep.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的虛線箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/虛線箭頭連結.md",
