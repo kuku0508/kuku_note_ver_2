@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/基礎知識/敘述句/DATA.md",
+                "file": "知識/統計/SAS/基礎知識/datastep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DATA"
+              "title": "datastep"
             }
           }
         ]
@@ -409,9 +409,10 @@
       }
     ]
   },
-  "active": "7d06c70becd69277",
+  "active": "60c4f23b788571f7",
   "lastOpenFiles": [
     "知識/統計/SAS/基礎知識/敘述句/DATA.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/SAS/基礎知識/datastep.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
@@ -425,7 +426,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 10.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
     "知識/統計/SAS/基礎知識/敘述句",
     "知識/統計/SAS/基礎知識/資料集.md",
