@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/基礎知識/datastep.md",
+                "file": "未處理/處理中/WHERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "datastep"
+              "title": "WHERE"
+            }
+          },
+          {
+            "id": "10df2949d858b50b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/SAS/基礎知識/敘述句/DATA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DATA"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -409,28 +424,29 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "10df2949d858b50b",
   "lastOpenFiles": [
-    "未處理/處理中",
-    "未處理/KEEP.md",
+    "未處理/處理中/WHERE.md",
+    "未處理/Shapiro-Wilk test.md",
     "知識/統計/SAS/基礎知識/datastep.md",
-    "未處理/DROP.md",
-    "未處理/OUTPUT.md",
-    "未處理/ARRAY.md",
-    "未處理/DO迴圈.md",
-    "未處理/DELETE.md",
-    "未處理/WHERE.md",
-    "未處理/IF...THEN.md",
+    "未處理/處理中",
+    "未處理/處理中/KEEP.md",
+    "未處理/處理中/DROP.md",
+    "未處理/處理中/OUTPUT.md",
+    "未處理/處理中/ARRAY.md",
+    "未處理/處理中/DO迴圈.md",
+    "未處理/處理中/DELETE.md",
+    "未處理/處理中/IF...THEN.md",
     "知識/統計/SAS/基礎知識/敘述句/DATA.md",
     "IF...THEN/ELSE.md",
     "IF...THEN",
-    "未處理/LENGTH.md",
-    "未處理/LABEL.md",
-    "未處理/FORMAT.md",
-    "未處理/INPUT.md",
-    "未處理/MERGE.md",
-    "未處理/SET.md",
-    "未處理/INFILE.md",
+    "未處理/處理中/LENGTH.md",
+    "未處理/處理中/LABEL.md",
+    "未處理/處理中/FORMAT.md",
+    "未處理/處理中/INPUT.md",
+    "未處理/處理中/MERGE.md",
+    "未處理/處理中/SET.md",
+    "未處理/處理中/INFILE.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
@@ -452,7 +468,6 @@
     "文本/Department/數學/統計/統計學/表/Table of Distributions.pdf",
     "知識/統計/統計學/圖表/圖/卡方分配圖.png",
     "未處理/附件/Pasted image 20250712160942.png",
-    "知識/統計/統計學/假設檢定/T檢定",
     "文本/Department/數學/統計/統計學/表/T table.png",
     "文本/Department/數學/統計/統計學/圖/雙尾檢定 圖.png",
     "文本/Department/數學/統計/統計學/圖/左尾檢定 圖.png",
