@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f1e10f550fe08a9c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d33b5d263fde6bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/Mermaid/語法/流程圖/連結目錄/連結的長度.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "連結的長度"
-            }
-          }
-        ]
-      },
-      {
         "id": "1ea28eac76ba2d66",
         "type": "tabs",
         "children": [
@@ -284,10 +264,14 @@
       }
     ]
   },
-  "active": "d33b5d263fde6bfa",
+  "active": "60c4f23b788571f7",
   "lastOpenFiles": [
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的箭頭連結.md",
+    "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
     "知識/統計/SAS/基礎知識/datastep.md",
+    "知識/程式語言/Mermaid/語法/流程圖/子流程區域中的子流程區域.md",
+    "知識/程式語言/Mermaid/語法/流程圖/子流程區域.md",
+    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/連結的長度.md",
+    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/多重連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的虛線箭頭連結.md",
@@ -296,8 +280,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的粗箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/預設節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/左右雙線的節點.md",
-    "知識/程式語言/Mermaid/語法/流程圖/子流程區域中的子流程區域.md",
-    "知識/程式語言/Mermaid/語法/流程圖/子流程區域.md",
     "知識/程式語言/Mermaid/語法/流程圖/流程圖.md",
     "知識/統計/SAS/基礎知識/資料集.md",
     "知識/統計/SAS/基礎知識/procedures.md",
@@ -312,8 +294,6 @@
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "知識/統計/SAS/基礎知識",
-    "文本/Department/數學/統計/統計學/講義/ch13.md",
-    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "未處理/附件/Pasted image 20250724170204.png",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
