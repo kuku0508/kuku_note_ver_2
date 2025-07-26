@@ -40,7 +40,9 @@ G --> H
 - [[Length]]
 #### 條件篩選
 - [[If...then/else]]
-- where
+- [[Where]]
+- [[Delete]]
+#### 迴圈
 - - -
 parent::[[SAS]],[[資料集]]
 sibling::
