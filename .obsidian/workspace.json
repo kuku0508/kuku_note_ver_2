@@ -409,10 +409,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "60c4f23b788571f7",
   "lastOpenFiles": [
-    "知識/統計/SAS/基礎知識/datastep.md",
+    "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/SAS/基礎知識/敘述句/DATA.md",
+    "知識/統計/SAS/基礎知識/datastep.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
@@ -437,7 +438,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/節點目錄/shape節點.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的虛線箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
-    "知識/程式語言/Mermaid/語法/流程圖/連結目錄/虛線箭頭連結.md",
     "知識/統計/SAS/基礎知識",
     "未處理/附件/Pasted image 20250724170204.png",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
