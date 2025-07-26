@@ -9,7 +9,9 @@ datastep，簡單來說就是建立、修改、合併、分割、刪除資料集
 flowchart TD
 A@{shape: rect, label: "START"}
 B@{shape: rect, label: "讀入資料"}
-C@{shape: rect, label: "讀入資料"}
+C@{shape: flip-tri, label: "資料是否讀取完畢？"}
+D@{shape: rect, label: "執行SAS敘述句"}
+E@{shape: rect, label: "將資料加入至資料集"}
 A --> B
 ```
 - - -
