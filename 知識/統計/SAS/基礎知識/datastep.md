@@ -25,6 +25,6 @@ F --> G
 G --> H
 ```
 - - -
-parent::[[SAS]]
+parent::[[SAS]],[[資料集]]
 sibling::
 child::
