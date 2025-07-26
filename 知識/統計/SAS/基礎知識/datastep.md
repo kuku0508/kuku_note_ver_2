@@ -42,7 +42,9 @@ G --> H
 - [[If...then/else]]
 - [[Where]]
 - [[Delete]]
-#### 迴圈
+#### 迴圈與矩陣
+- [[Do迴圈]]
+- [[Array]]
 - - -
 parent::[[SAS]],[[資料集]]
 sibling::
