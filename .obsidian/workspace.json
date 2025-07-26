@@ -351,19 +351,57 @@
                 "id": "e6bb93c572c1ebb3",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 11.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 11"
+                }
+              },
+              {
+                "id": "ad441a542ea521ef",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 12.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 12"
+                }
+              },
+              {
+                "id": "965197779edfa7cf",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 13.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 13"
+                }
+              },
+              {
+                "id": "65c822431a0a44f8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 14"
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 696,
+        "y": 0,
         "width": 1280,
         "height": 696,
         "maximize": false,
@@ -371,8 +409,14 @@
       }
     ]
   },
-  "active": "e6bb93c572c1ebb3",
+  "active": "7d06c70becd69277",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 13.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 12.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 11.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 10.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
@@ -380,8 +424,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
     "知識/統計/SAS/基礎知識/datastep.md",
     "知識/統計/SAS/基礎知識/敘述句",
     "知識/統計/SAS/基礎知識/資料集.md",
@@ -396,10 +438,6 @@
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/虛線箭頭連結.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/有文字的粗箭頭連結.md",
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/預設節點.md",
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄/左右雙線的節點.md",
-    "知識/程式語言/Mermaid/語法/流程圖/流程圖.md",
-    "知識/統計/SAS/基礎知識/procedures.md",
     "知識/統計/SAS/基礎知識",
     "未處理/附件/Pasted image 20250724170204.png",
     "知識/統計/統計學/假設檢定/變異數分析/多重比較",
