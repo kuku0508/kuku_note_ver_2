@@ -12,6 +12,9 @@ B@{shape: rect, label: "讀入資料"}
 C@{shape: flip-tri, label: "資料是否讀取完畢？"}
 D@{shape: rect, label: "執行SAS敘述句"}
 E@{shape: rect, label: "將資料加入至資料集"}
+F@{shape: rect, label: "關閉資料集"}
+G@{shape: rect, label: "產生資料集"}
+H@{shape: rect, label: "執行下一個datastep 或procstep"}
 A --> B
 ```
 - - -
