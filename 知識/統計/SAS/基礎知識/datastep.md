@@ -35,8 +35,8 @@ G --> H
 - [[Merge]]：水平合併複數個資料集
 #### 變數處理
 - [[Input]]：認定原始資料中的變數
-- [[Format]]：
-- [[Label]]
+- [[Format]]：指定變數輸出格式
+- [[Label]]：
 - [[Length]]
 #### 條件篩選
 - [[If...then/else]]
