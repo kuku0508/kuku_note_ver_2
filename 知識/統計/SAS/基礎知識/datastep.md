@@ -32,9 +32,9 @@ G --> H
 #### 讀取資料
 - [[Infile]]：讀取外部檔案
 - [[Set]]：讀取資料集
-- [[Merge]]：
+- [[Merge]]：水平合併複數個資料集
 #### 變數處理
-- [[Input]]
+- [[Input]]：
 - [[Format]]
 - [[Label]]
 - [[Length]]
@@ -48,7 +48,7 @@ G --> H
 #### 輸出
 - [[Output]]
 - [[Drop]]
-- [[K]]
+- [[Keep]]
 - - -
 parent::[[SAS]],[[資料集]]
 sibling::
