@@ -7,9 +7,10 @@ datastep，簡單來說就是建立、修改、合併、分割、刪除資料集
 - - -
 ```mermaid
 flowchart TD
-A@{shape: circle, label: "START"}
-B@{shape: dbl-circ, label: "結束"}
-A -->|為了部落| B
+A@{shape: rect, label: "START"}
+B@{shape: rect, label: "讀入資料"}
+C@{shape: rect, label: "讀入資料"}
+A --> B
 ```
 - - -
 parent::[[SAS]]
