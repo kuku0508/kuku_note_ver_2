@@ -47,7 +47,7 @@ G --> H
 - [[Array]]：
 #### 輸出
 - [[Output]]
-- [[Drop]]
+- [[Drop]]：丟棄
 - [[Keep]]
 - - -
 parent::[[SAS]],[[資料集]]
