@@ -17,10 +17,10 @@ G@{shape: rect, label: "產生資料集"}
 H@{shape: rect, label: "執行下一個datastep 或procstep"}
 A --> B
 B --> C
-C --> D
+C -->|NO| D
 D --> E
 E --> B
-C --> F
+C -->|YES| F
 F --> G
 G --> H
 ```
