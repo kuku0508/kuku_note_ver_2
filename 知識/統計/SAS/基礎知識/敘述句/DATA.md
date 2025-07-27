@@ -11,7 +11,13 @@ DATA 資料集名稱
 - - -
 # 範例
 ```SAS
-DATA d1; *//*
+DATA d1;
+input x1 x2;
+card;
+1 2
+3 4
+5 6
+
 ```
 - - -
 parent::[[SAS敘述句]],[[資料集]]
