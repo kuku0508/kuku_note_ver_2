@@ -23,8 +23,9 @@ card;
 RUN
 ```
 
-**建立一個名稱為d1的永ｒ資料集：**
+**建立一個名稱為d1的永久性資料集：**
 ```SAS
+LIBNAME kuku "C:\Users\kuku\download";
 DATA d1;
 input x1 x2;
 card;
