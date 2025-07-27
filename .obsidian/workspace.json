@@ -415,7 +415,7 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 696,
         "width": 1280,
         "height": 696,
         "maximize": false,
@@ -423,8 +423,9 @@
       }
     ]
   },
-  "active": "9ce05e4ae3cf31a5",
+  "active": "10df2949d858b50b",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
     "知識/統計/SAS/基礎知識/敘述句/DATA.md",
     "未處理/處理中/暫時性資料集.md",
@@ -452,7 +453,6 @@
     "未處理/處理中/MERGE.md",
     "未處理/處理中/SET.md",
     "未處理/處理中/INFILE.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "知識/統計/SAS/基礎知識/敘述句",
     "知識/統計/SAS/基礎知識",
     "未處理/附件/Pasted image 20250724170204.png",
