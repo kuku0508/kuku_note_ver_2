@@ -20,7 +20,7 @@ card;
 5 6
 7 8
 ;
-RUN
+RUN;
 ```
 
 **建立一個名稱為d1的永久性資料集：**
@@ -35,11 +35,11 @@ card;
 5 6
 7 8
 ;
-RUN
+RUN;
 ```
 方法二：直接使用路徑
 ```SAS
-DATA d1;
+DATA "C:\Users\kuku\download";
 input x1 x2;
 card;
 1 2
@@ -47,7 +47,7 @@ card;
 5 6
 7 8
 ;
-RUN
+RUN;
 ```
 
 
