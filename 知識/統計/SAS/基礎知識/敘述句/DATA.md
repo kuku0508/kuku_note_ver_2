@@ -24,10 +24,22 @@ RUN
 ```
 
 **建立一個名稱為d1的永久性資料集：**
-方法一：使用
+方法一：使用資料館指引
 ```SAS
 LIBNAME kuku "C:\Users\kuku\download";
 DATA kuku.d1;
+input x1 x2;
+card;
+1 2
+3 4
+5 6
+7 8
+;
+RUN
+```
+方法二：直接使用路徑
+```SAS
+DATA d1;
 input x1 x2;
 card;
 1 2
