@@ -24,9 +24,10 @@ RUN
 ```
 
 **建立一個名稱為d1的永久性資料集：**
+方法一：使用
 ```SAS
 LIBNAME kuku "C:\Users\kuku\download";
-DATA d1;
+DATA kuku.d1;
 input x1 x2;
 card;
 1 2
@@ -36,6 +37,7 @@ card;
 ;
 RUN
 ```
+
 
 - - -
 parent::[[SAS敘述句]],[[資料集]]
