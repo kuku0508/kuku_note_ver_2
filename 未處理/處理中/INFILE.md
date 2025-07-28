@@ -10,8 +10,8 @@ INFILE "外部檔案路徑";
 ```
 - - -
 # 常用參數
-- [[FIRSTOBS]]：
-- [[OBS]]：
+- FIRSTOBS：從第幾個觀測值開始讀取資料
+- OBS：
 - - -
 parent::[[SAS敘述句]]
 sibling::
