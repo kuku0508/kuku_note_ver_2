@@ -279,7 +279,7 @@
                 }
               },
               {
-                "id": "a2a95657f92dd713",
+                "id": "71d014b185de2187",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -288,126 +288,6 @@
                   },
                   "icon": "excalidraw-icon",
                   "title": "SAS Charpter 4"
-                }
-              },
-              {
-                "id": "862c712fa8251196",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 5"
-                }
-              },
-              {
-                "id": "46a006391e4dbc1c",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 6"
-                }
-              },
-              {
-                "id": "edefd1d4479834ff",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 7"
-                }
-              },
-              {
-                "id": "0527e24361d2a1fc",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 8"
-                }
-              },
-              {
-                "id": "f29456715edb2094",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 9"
-                }
-              },
-              {
-                "id": "512cae9a9dd2bec0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 10.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 10"
-                }
-              },
-              {
-                "id": "e6bb93c572c1ebb3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 11.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 11"
-                }
-              },
-              {
-                "id": "ad441a542ea521ef",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 12.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 12"
-                }
-              },
-              {
-                "id": "965197779edfa7cf",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 13.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 13"
-                }
-              },
-              {
-                "id": "65c822431a0a44f8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 14.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 14"
                 }
               }
             ],
@@ -424,12 +304,12 @@
       }
     ]
   },
-  "active": "a2a95657f92dd713",
+  "active": "71d014b185de2187",
   "lastOpenFiles": [
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "未處理/處理中/INFILE.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/SAS/基礎知識/敘述句/DATA.md",
     "知識/統計/SAS/基礎知識/SAS命名限制.md",
     "知識/統計/SAS/基礎知識/datastep.md",
