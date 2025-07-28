@@ -17,7 +17,7 @@ INFILE "外部檔案路徑";
 # 範例
 ```SAS
 DATA d1;
-INFILE "C:\SAS\sales_2025.txt" /**/
+INFILE "C:\SAS\sales_2025.txt" /*外部檔案在C槽的SAS資料夾裡*/
    dlm=';'
    firstobs=2
    obs=100
