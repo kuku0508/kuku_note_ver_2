@@ -17,7 +17,7 @@ INFILE "外部檔案路徑";
 # 範例
 ```SAS
 DATA d1;
-INFILE ""
+INFILE "C:\SAS\ra"
 ```
 - - -
 parent::[[SAS敘述句]]
