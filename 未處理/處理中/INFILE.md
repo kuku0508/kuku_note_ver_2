@@ -10,7 +10,8 @@ INFILE "外部檔案路徑";
 ```
 - - -
 # 常用參數
-
+- [[FIRSTOBS]]：
+- [[OBS]]：
 - - -
 parent::[[SAS敘述句]]
 sibling::
