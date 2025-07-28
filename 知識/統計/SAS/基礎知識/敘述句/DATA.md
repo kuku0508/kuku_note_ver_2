@@ -39,7 +39,7 @@ RUN;
 ```
 方法二：直接使用路徑
 ```SAS
-DATA "C:\Users\kuku\download";
+DATA "C:\Users\kuku\download\d1";
 input x1 x2;
 card;
 1 2
