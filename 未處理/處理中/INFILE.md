@@ -21,6 +21,8 @@ INFILE "C:\SAS\sales_2025.txt" /*外部檔案在C槽的SAS資料夾裡*/
    dlm=';'  /*資料用 ; 來分隔變數*/
    firstobs=2 /*從第二行開始讀取*/
    obs=100 /*讀取一百個觀測值*/
+INPUT X1 X2;
+RUN;
 ```
 - - -
 parent::[[SAS敘述句]]
