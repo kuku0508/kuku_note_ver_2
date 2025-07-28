@@ -247,39 +247,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "ac82a6743b11c16c",
+        "id": "3a72cc55199bf117",
         "type": "window",
         "children": [
           {
-            "id": "4a060af5db1481d0",
+            "id": "1628255ab6c9f971",
             "type": "tabs",
             "children": [
               {
-                "id": "9ce05e4ae3cf31a5",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 2"
-                }
-              },
-              {
-                "id": "3f9fdabaf2252c6f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 3"
-                }
-              },
-              {
-                "id": "71d014b185de2187",
+                "id": "3e554d42583a5c85",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -290,8 +266,7 @@
                   "title": "SAS Charpter 4"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -304,7 +279,7 @@
       }
     ]
   },
-  "active": "71d014b185de2187",
+  "active": "3e554d42583a5c85",
   "lastOpenFiles": [
     "未處理/處理中/INFILE.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
