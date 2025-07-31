@@ -17,5 +17,6 @@
   "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@active-line-on": false,
   "minimal-style@@checkbox-shape": "checkbox-square",
-  "minimal-style@@metadata-dividers": false
+  "minimal-style@@metadata-dividers": false,
+  "minimal-style@@minimal-code-scroll": true
 }
