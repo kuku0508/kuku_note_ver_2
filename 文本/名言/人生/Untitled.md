@@ -2,5 +2,6 @@
 
 Sam：I'll talk to her.Maybe she'll listen. But with the shape the worlds in, it'll only be delaying the inevitable.Still,if it buys us time to try and build something better.A new lease on life,at least for a little bit.Well, I can think of one woman who made the most of a chance like that.Nothing lasts forever.Not even the world.But we gotta keep it going as long as we can, right? Patch the holes,change the parts, all that.So we can say we had a good run. That we lived.
 
-F
+Fragile：Thought you didn't like havubg to handle things with care.
+
 
