@@ -5,3 +5,8 @@ Sam：I'll talk to her.Maybe she'll listen. But with the shape the worlds in, it
 Fragile：Thought you didn't like havubg to handle things with care.
 
 Sam：Cause it was hard enough keeping my own shit together. Back when we met at the cave, the only thing I cared about was making it to the next sunrise. Sure as hell didn't care about America or "The Future." I was liveing a lie, hung up on past regrets. I was broken. But somewhere along the way, I started changing. Started meeting perple that made me think that maybe it wasn't all bad. People that put their faith in tomorrow and in me. That kept the lights in and waited for hope to arrive.So I gotta deliver, for their sake.
+
+Deadman：Even if it means you never come back?
+
+Sam：Fucked if I do, fucked if I don't, right?
+
