@@ -4,4 +4,4 @@ Sam：I'll talk to her.Maybe she'll listen. But with the shape the worlds in, it
 
 Fragile：Thought you didn't like havubg to handle things with care.
 
-Sam：Cause it was hard enough keeping my own shit together. Back when we met at the cave, the only thing I cared about 
+Sam：Cause it was hard enough keeping my own shit together. Back when we met at the cave, the only thing I cared about was making it to the next sunrise. Sure as hell didn't care about America or "The Future."
