@@ -13,6 +13,8 @@ Sam：Cause it was hard enough keeping my own shit together. Back when we met at
 
 Deadman：Even if it means you never come back?
 
+亡人：即使你再也回不來也一樣嗎？
+
 Sam：Fucked if I do, fucked if I don't, right? Take care of Lou.
 
-山姆：橫也是死，數也是死
+山姆：橫也是死，豎也是死，不是嗎？
