@@ -4,9 +4,11 @@ Sam：I'll talk to her.Maybe she'll listen. But with the shape the worlds in, it
 
 Fragile：Thought you didn't like having to handle things with care.
 
-翡若捷：
+翡若捷：我還以為你討厭要小心呵護的東西呢。
 
 Sam：Cause it was hard enough keeping my own shit together. Back when we met at the cave, the only thing I cared about was making it to the next sunrise. Sure as hell didn't care about America or "The Future." I was liveing a lie, hung up on past regrets. I was broken. But somewhere along the way, I started changing. Started meeting perple that made me think that maybe it wasn't all bad. People that put their faith in tomorrow and in me. That kept the lights in and waited for hope to arrive.So I gotta deliver, for their sake.
+
+山姆：因為在以前，光是要顧好自己就夠難了。我們在洞穴相遇那時，我只求活
 
 Deadman：Even if it means you never come back?
 
