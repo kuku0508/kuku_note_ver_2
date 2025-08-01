@@ -9,8 +9,10 @@ Fragile：Thought you didn't like having to handle things with care.
 Sam：Cause it was hard enough keeping my own shit together. Back when we met at the cave, the only thing I cared about was making it to the next sunrise. Sure as hell didn't care about America or "The Future." I was liveing a lie, hung up on past regrets. I was broken. But somewhere along the way, I started changing. Started meeting perple that made me think that maybe it wasn't all bad. People that put their faith in tomorrow and in me. That kept the lights in and waited for hope to arrive.So I gotta deliver, for their sake.
 
 山姆：因為在以前，光是要顧好自己就夠難了。我們在洞穴相遇那時，我只求活著看到第二天的日出而已。我一點也不在意美國跟「未來」。我活在謊言跟悔恨中，破碎不堪。
-但是不知道從哪時候開始，我改變了。我遇見了許多人，讓我發現這世界或許沒這麼糟。這些人把希望寄託在明天跟我身上。
+但是不知道從哪時候開始，我改變了。我遇見了許多人，讓我發現這世界或許沒這麼糟。這些人把希望寄託在明天跟我身上。他們因此得以撐下去，繼續等待希望到來。所以為了他們，我不能停下腳步。
 
 Deadman：Even if it means you never come back?
 
 Sam：Fucked if I do, fucked if I don't, right? Take care of Lou.
+
+山姆：橫也是死，數也是死
