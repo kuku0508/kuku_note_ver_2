@@ -10,3 +10,5 @@ Deadman：Even if it means you never come back?
 
 Sam：Fucked if I do, fucked if I don't, right?
 
+Deadman：take care of Lou.
+
