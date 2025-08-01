@@ -8,7 +8,4 @@ Sam：Cause it was hard enough keeping my own shit together. Back when we met at
 
 Deadman：Even if it means you never come back?
 
-Sam：Fucked if I do, fucked if I don't, right?
-
-Deadman：take care of Lou.
-
+Sam：Fucked if I do, fucked if I don't, right? Take care of Lou.
