@@ -4,12 +4,19 @@ list
 from "知識/統計/SAS/基礎知識"
 where file.folder="知識/統計/SAS/基礎知識"
 ```
-## 敘述句
+## 輸入法
+```dataview
+list
+from "知識/統計/SAS/基礎知識/輸入法"
+where file.folder="知識/統計/SAS/基礎知識/輸入法"
+```
+# 敘述句
 ```dataview
 list
 from "知識/統計/SAS/敘述句"
 where file.folder="知識/統計/SAS/敘述句"
 ```
+
 # 假設檢定
 ## 無母數統計
 #### 中位數檢定
