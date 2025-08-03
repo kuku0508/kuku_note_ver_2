@@ -297,27 +297,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "3e554d42583a5c85",
+                "id": "4eb77685b5f1d0b2",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md"
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 4"
-                }
-              },
-              {
-                "id": "a23b421268115e4f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 3"
+                  "title": "SAS Charpter 5"
                 }
               }
             ]
@@ -333,10 +321,11 @@
       }
     ]
   },
-  "active": "10df2949d858b50b",
+  "active": "4eb77685b5f1d0b2",
   "lastOpenFiles": [
-    "知識/統計/SAS/敘述句/FILENAME.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "知識/統計/SAS/敘述句/INFILE.md",
+    "知識/統計/SAS/敘述句/FILENAME.md",
     "知識/統計/SAS/敘述句/CARDS.md",
     "知識/統計/SAS/敘述句/DATALINES.md",
     "知識/統計/SAS/基礎知識/輸入法/列名輸入法.md",
@@ -349,7 +338,6 @@
     "知識/統計/SAS/敘述句/DATA.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "知識/統計/SAS/基礎知識/輸入法/格式輸入法.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 4.md",
     "文本/名言/名言目錄 - 價值觀.md",
     "文本/名言/名言目錄 - 愛.md",
     "文本/名言/名言目錄 - 無力感.md",
