@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/敘述句/FILENAME.md",
+                "file": "知識/統計/SAS/敘述句/INFILE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FILENAME"
+              "title": "INFILE"
             }
           },
           {
@@ -335,8 +335,8 @@
   },
   "active": "10df2949d858b50b",
   "lastOpenFiles": [
-    "知識/統計/SAS/敘述句/INFILE.md",
     "知識/統計/SAS/敘述句/FILENAME.md",
+    "知識/統計/SAS/敘述句/INFILE.md",
     "知識/統計/SAS/敘述句/CARDS.md",
     "知識/統計/SAS/敘述句/DATALINES.md",
     "知識/統計/SAS/基礎知識/輸入法/列名輸入法.md",
