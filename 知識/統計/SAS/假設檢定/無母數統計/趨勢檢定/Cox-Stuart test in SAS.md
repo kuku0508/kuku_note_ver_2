@@ -1,5 +1,5 @@
 處理事件：[[Cox-Stuart test]]
-使用的Procedure：[[UNIVARIATE]]
+使用的Procedure：[[PROC UNIVARIATE]]
 
 # 範例
 隨著汙染增加，蟲族的進攻不斷，現在堡壘裡面的人們正在討論是否需要增強牆邊武器威力，一派人馬認為不需要增強，蟲族看似並沒有增加的趨勢。另外一派人馬認為，蟲族進攻越發強烈，需要增強武器威力。以下我們收集了最近50波的蟲族攻擊的蟲族數量。
@@ -81,7 +81,7 @@ RUN;
 ```
 - `worm1`、`worm2`：我們這邊將50波的蟲族數量劃分成了兩個變數，`worm1`主要是前25波的蟲族數量，`worm2`是第26波到第50波的蟲族數量。會這樣劃分的原因是因為，在[[Cox-Stuart test]]裡面，我們也會把資料分半成兩組，將其相減，以進行[[Cox-Stuart test]]。
 - `DIFF`：你可以看到我們把前25波的蟲族數量減去了後25波的蟲族數量，就如前面所說在[[Cox-Stuart test]]，我們會將資料前半後半進行相減，檢視相減後的正負號數。所以這個變數你可以把他想成[[Cox-Stuart test]]裡面的配對結果。
-`PROC UNIVARIATE`：指定使用Procedure [[UNIVARIATE]]。
+`PROC UNIVARIATE`：指定使用Procedure [[PROC UNIVARIATE]]。
 - `VAR DIFF`：定義處理的變數為`DIFF`。
 - `RUN`：執行程式碼。
 
