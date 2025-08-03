@@ -131,8 +131,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -322,7 +321,7 @@
       }
     ]
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5.md",
     "知識/統計/SAS/敘述句/LIBNAME.md",
