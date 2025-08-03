@@ -49,6 +49,7 @@
     "BC-ignore-in-edges": "checkbox",
     "BC-ignore-out-edges": "checkbox",
     "g": "multitext",
-    "參考資料": "multitext"
+    "參考資料": "multitext",
+    "屬於環節": "multitext"
   }
 }
