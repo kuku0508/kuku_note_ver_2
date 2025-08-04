@@ -14,10 +14,16 @@ flowchart LR
 A@{shape:square,label: "原始數值資料"}
 B@{shape:square,label: "十進位"}
 C@{shape:square,label: "十六進位"}
-D@{shape:square,label: "8位元"}
+D@{shape:square,label: "8個位元"}
 A-->|輸入|B
 B-->|轉換|C
 C-->|儲存|D
+```
+#### 讀取
+```mermaid
+flowchart LR
+D@{shape:square,label: "8個位元"}
+A-->|輸入|B
 ```
 - - -
 # 基本語法
