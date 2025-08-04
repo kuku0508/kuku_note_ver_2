@@ -41,6 +41,7 @@ CARDS;
 PROC PRINT LABEL; /*加上LABEL讓輸出套用標籤*/
 RUN;
 ```
+輸出：
 - - -
 parent::[[SAS敘述句]],[[datastep]],[[procedures]]
 sibling::
