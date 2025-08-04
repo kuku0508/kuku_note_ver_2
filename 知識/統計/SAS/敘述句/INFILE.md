@@ -2,7 +2,7 @@
 參考資料: 
 屬於環節: "[[datastep]]"
 ---
-INFILE，是一種[[知識/統計/SAS/基礎知識/SAS敘述句]]，專門用來讀取SAS外部的[[資料]]。屬於[[datastep]]使用的敘述句。常見可以讀取的資料有CSV、TXT、DAT，只要內容是文字格式就能讀。
+INFILE，是一種[[SAS敘述句]]，專門用來讀取SAS外部的[[資料]]。屬於[[datastep]]使用的敘述句。常見可以讀取的資料有CSV、TXT、DAT，只要內容是文字格式就能讀。
 
 而為了讓讀取的資料的變數被定義，通常會搭配[[INPUT]]使用。且INPUT要放在INFILE的後面，否則會出現錯誤。
 - - -
@@ -33,6 +33,6 @@ INPUT X1 X2;
 RUN;
 ```
 - - -
-parent::[[知識/統計/SAS/基礎知識/SAS敘述句]],[[資料]]
+parent::[[SAS敘述句]],[[資料]]
 sibling::[[INPUT]]
 child::
