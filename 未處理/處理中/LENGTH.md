@@ -10,7 +10,10 @@ LENGTH，是SAS中用來定義變數儲存長度的[[知識/統計/SAS/基礎知
 SAS數值資料的讀取方式如下
 ```mermaid
 flowchart LR
-A@{shape:square,label:"原始數值資料"}
+A@{shape:square,label: "原始數值資料"}
+B@{shape:square,label: "十進位"}
+C@{shape:square,label: "十六進位"}
+D@{shape:square,label: "8位元"}
 ```
 - - -
 # 基本語法
