@@ -22,8 +22,9 @@ C-->|儲存|D
 #### 讀取
 ```mermaid
 flowchart LR
+A@{shape:square,label: "資料"}
 D@{shape:square,label: "8個位元"}
-A-->|輸入|B
+D-->|輸入|A
 ```
 - - -
 # 基本語法
