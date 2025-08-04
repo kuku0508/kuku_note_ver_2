@@ -7,13 +7,16 @@ LENGTH，是SAS中用來定義變數儲存長度的[[知識/統計/SAS/基礎知
 倘若變數的儲存長度越長越長，資料的處理則需要花費更多的時間。反之則越短。
 - - -
 # 背景知識
-SAS數值資料的讀取方式如下
+SAS數值資料的預設讀取方式如下
 ```mermaid
 flowchart LR
 A@{shape:square,label: "原始數值資料"}
 B@{shape:square,label: "十進位"}
 C@{shape:square,label: "十六進位"}
 D@{shape:square,label: "8位元"}
+A-->|輸入|B
+B-->|轉換|C
+C-->|儲存|D
 ```
 - - -
 # 基本語法
