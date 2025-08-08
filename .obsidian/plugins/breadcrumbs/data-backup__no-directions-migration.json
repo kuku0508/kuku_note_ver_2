@@ -1,0 +1,290 @@
+{
+	"is_dirty": false,
+	"edge_fields": [
+		{
+			"label": "parent"
+		},
+		{
+			"label": "child"
+		},
+		{
+			"label": "sibling"
+		},
+		{
+			"label": "next"
+		},
+		{
+			"label": "prev"
+		}
+	],
+	"edge_field_groups": [
+		{
+			"label": "parent",
+			"fields": [
+				"parent"
+			]
+		},
+		{
+			"label": "child",
+			"fields": [
+				"child"
+			]
+		},
+		{
+			"label": "sibling",
+			"fields": [
+				"sibling"
+			]
+		},
+		{
+			"label": "nexts",
+			"fields": [
+				"next"
+			]
+		},
+		{
+			"label": "prevs",
+			"fields": [
+				"prev"
+			]
+		}
+	],
+	"implied_relations": {
+		"transitive": [
+			{
+				"name": "",
+				"rounds": 1,
+				"chain": [
+					{
+						"field": "parent"
+					}
+				],
+				"close_field": "child",
+				"close_reversed": true
+			},
+			{
+				"name": "",
+				"rounds": 1,
+				"chain": [
+					{
+						"field": "child"
+					}
+				],
+				"close_field": "parent",
+				"close_reversed": true
+			},
+			{
+				"name": "",
+				"rounds": 1,
+				"chain": [
+					{
+						"field": "sibling"
+					}
+				],
+				"close_field": "sibling",
+				"close_reversed": true
+			},
+			{
+				"name": "",
+				"rounds": 1,
+				"chain": [
+					{
+						"field": "next"
+					}
+				],
+				"close_field": "prev",
+				"close_reversed": true
+			},
+			{
+				"name": "",
+				"rounds": 1,
+				"chain": [
+					{
+						"field": "prev"
+					}
+				],
+				"close_field": "next",
+				"close_reversed": true
+			}
+		]
+	},
+	"explicit_edge_sources": {
+		"typed_link": {},
+		"list_note": {
+			"default_neighbour_field": "parent"
+		},
+		"tag_note": {
+			"default_field": "parent"
+		},
+		"regex_note": {
+			"default_field": "parent"
+		},
+		"dendron_note": {
+			"enabled": false,
+			"delimiter": ".",
+			"default_field": "parent",
+			"display_trimmed": false
+		},
+		"johnny_decimal_note": {
+			"enabled": false,
+			"delimiter": ".",
+			"default_field": "parent"
+		},
+		"date_note": {
+			"enabled": false,
+			"date_format": "yyyy-MM-dd",
+			"default_field": "next",
+			"stretch_to_existing": false
+		}
+	},
+	"views": {
+		"page": {
+			"all": {
+				"sticky": false,
+				"readable_line_width": true
+			},
+			"trail": {
+				"enabled": false,
+				"format": "path",
+				"selection": "longest",
+				"default_depth": 999,
+				"no_path_message": "",
+				"show_controls": true,
+				"merge_fields": false,
+				"field_group_labels": [
+					"parent"
+				],
+				"show_node_options": {
+					"ext": false,
+					"folder": false,
+					"alias": false
+				}
+			},
+			"prev_next": {
+				"enabled": true,
+				"show_node_options": {
+					"ext": false,
+					"folder": false,
+					"alias": false
+				},
+				"field_group_labels": {
+					"prev": [
+						"prevs"
+					],
+					"next": [
+						"nexts"
+					]
+				}
+			}
+		},
+		"side": {
+			"matrix": {
+				"collapse": true,
+				"edge_sort_id": {
+					"field": "basename",
+					"order": 1
+				},
+				"show_node_options": {
+					"ext": false,
+					"folder": false,
+					"alias": false
+				},
+				"show_attributes": [
+					"source",
+					"implied_kind",
+					"round"
+				],
+				"field_group_labels": [
+					"parent",
+					"child",
+					"sibling",
+					"nexts",
+					"prevs"
+				]
+			},
+			"tree": {
+				"collapse": false,
+				"show_attributes": [],
+				"merge_fields": false,
+				"field_group_labels": [
+					"downs"
+				],
+				"edge_sort_id": {
+					"field": "basename",
+					"order": 1
+				},
+				"show_node_options": {
+					"ext": false,
+					"folder": false,
+					"alias": false
+				}
+			}
+		},
+		"codeblocks": {
+			"show_node_options": {
+				"ext": false,
+				"folder": false,
+				"alias": false
+			}
+		}
+	},
+	"commands": {
+		"rebuild_graph": {
+			"notify": true,
+			"trigger": {
+				"note_save": false,
+				"layout_change": false
+			}
+		},
+		"list_index": {
+			"default_options": {
+				"fields": [
+					"parent",
+					"child",
+					"sibling",
+					"next",
+					"prev"
+				],
+				"indent": "\\t",
+				"link_kind": "wiki",
+				"show_attributes": [],
+				"field_group_labels": [
+					"parent",
+					"child",
+					"sibling",
+					"nexts",
+					"prevs"
+				],
+				"edge_sort_id": {
+					"order": 1,
+					"field": "basename"
+				},
+				"show_node_options": {
+					"ext": true,
+					"alias": true,
+					"folder": true
+				}
+			}
+		},
+		"freeze_implied_edges": {
+			"default_options": {
+				"destination": "frontmatter"
+			}
+		},
+		"thread": {
+			"default_options": {
+				"destination": "frontmatter",
+				"target_path_template": "{{source.folder}}/{{attr.field}} {{source.basename}}"
+			}
+		}
+	},
+	"suggestors": {
+		"edge_field": {
+			"enabled": false,
+			"trigger": "."
+		}
+	},
+	"debug": {
+		"level": "INFO"
+	}
+}
