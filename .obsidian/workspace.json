@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/敘述句/ATTRIB.md",
+                "file": "知識/統計/SAS/敘述句/LENGTH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATTRIB"
+              "title": "LENGTH"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "位元",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +131,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -321,11 +322,11 @@
       }
     ]
   },
-  "active": "5e42e41d30f48f85",
+  "active": "3b2297ab3e99c560",
   "lastOpenFiles": [
+    "知識/統計/SAS/敘述句/ATTRIB.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 問卷的資料處理.md",
-    "知識/統計/SAS/敘述句/ATTRIB.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 11 與宣告有關之敘述.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 12 程式共同使用之敘述句.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 13 資料遺失的表示與處理.md",
