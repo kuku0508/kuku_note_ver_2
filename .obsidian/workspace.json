@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 11.md"
+                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter 11"
+              "title": "SAS Charpter 5 資料集變數修飾"
             }
           },
           {
@@ -321,15 +321,18 @@
   },
   "active": "3b2297ab3e99c560",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 10 控制流程與行動之敘述.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6 資料集間的組合連結.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC REG.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 13 資料遺失的表示與處理.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 14 SAS常用的函數.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 12 程式共同使用之敘述句.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 11 與宣告有關之敘述.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 10 控制流程與行動之敘述.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4 輸入資料集.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 3 資料集之敘述.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 2 SAS語言基本結構.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC CORR.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 13.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC REG.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC GPLOT.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC TTEST.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC UNIVARIATE.md",
@@ -344,9 +347,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
-    "知識/統計/SAS/敘述句/LABEL.md",
-    "知識/統計/SAS/敘述句/INPUT.md",
-    "未處理/處理中/INFORMAT.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
