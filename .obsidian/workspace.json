@@ -25,14 +25,12 @@
             "id": "3b2297ab3e99c560",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/SAS/敘述句/ATTRIB.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 問卷的資料處理.md"
               },
-              "icon": "lucide-file",
-              "title": "ATTRIB"
+              "icon": "excalidraw-icon",
+              "title": "SAS Charpter 問卷的資料處理"
             }
           },
           {
@@ -289,51 +287,26 @@
     "type": "floating",
     "children": [
       {
-        "id": "3a72cc55199bf117",
+        "id": "08035c8c17e432d5",
         "type": "window",
         "children": [
           {
-            "id": "1628255ab6c9f971",
+            "id": "95591efbfd360353",
             "type": "tabs",
             "children": [
               {
-                "id": "4eb77685b5f1d0b2",
+                "id": "71c891ecde242269",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md"
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 問卷的資料處理.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 5 資料集變數修飾"
-                }
-              },
-              {
-                "id": "70b24ff1314b7122",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 8"
-                }
-              },
-              {
-                "id": "91044c062f1e43db",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 9"
+                  "title": "SAS Charpter 問卷的資料處理"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -346,13 +319,16 @@
       }
     ]
   },
-  "active": "91044c062f1e43db",
+  "active": "71c891ecde242269",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 問卷的資料處理.md",
+    "知識/統計/SAS/敘述句/ATTRIB.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 1 SAS前述.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
-    "知識/統計/SAS/敘述句/ATTRIB.md",
     "知識/統計/SAS/敘述句/LABEL.md",
     "知識/統計/SAS/敘述句/INPUT.md",
     "未處理/處理中/INFORMAT.md",
@@ -371,9 +347,6 @@
     "知識/統計/SAS/基礎知識/datastep.md",
     "知識/統計/SAS/假設檢定/無母數統計/中位數檢定/sign test & sign rank sign in SAS.md",
     "知識/統計/SAS/假設檢定/無母數統計/趨勢檢定/Cox-Stuart test in SAS.md",
-    "知識/統計/SAS/基礎知識/輸入法/列名輸入法.md",
-    "知識/統計/SAS/基礎知識/輸入法/欄位輸入法.md",
-    "知識/統計/SAS/基礎知識/SAS敘述句.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
