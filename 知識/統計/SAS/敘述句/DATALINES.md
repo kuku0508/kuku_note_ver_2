@@ -5,7 +5,7 @@
 DATALINES，是SAS裡面的一個[[SAS敘述句|敘述句]]，主要用來在SAS內部輸入資料。須要搭配[[INPUT]]一起使用。
 - - -
 # 基本語法
-DATALINES跟分號「;」之間會有資料，意思也就是DATALINES就是告訴系統後面就是我們要輸入的資料，一直到碰到分號表示資料結束。
+DATALINES跟分號「;」之間會有[[資料]]，意思也就是DATALINES就是告訴系統後面就是我們要輸入的資料，一直到碰到分號表示資料結束。
 ```SAS
 DATALINES
 資料
@@ -47,6 +47,6 @@ DATALINES4; /*（資料輸入）*/
 ;;;;
 ```
 - - -
-parent::[[SAS敘述句]]
-sibling::[[INPUT]]
+parent::[[SAS敘述句]],[[資料]],[[INPUT]]
+sibling::[[CARDS]]
 child::
