@@ -30,11 +30,12 @@ LENGTH：定義變數儲存的長度
 DATA D1;
 	INPUT id name$ sex$ score1-score3;
 	average=(score1+score2+score3)/3;
+	LENGTH mark$6;
 	IF average >=60 then mark="及格";
 	IF average<60 then mark="不及格";
 	LABEL id="學號" name="姓名" sex="性別" score1="平時成績" score2="期中成績" 
 			score3="期末成績";
-	FORMAT id
+	
 ```
 - - -
 parent::[[SAS敘述句]],[[變數]]
