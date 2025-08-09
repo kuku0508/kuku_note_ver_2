@@ -8,7 +8,12 @@ ATTRIB是一種[[SAS敘述句]]，這個比較是一個整合型的敘述句，�
 - 輸入格式（[[FORMAT]]）
 - 輸出格式（[[INFORMAT]]）
 - 標籤（[[LABEL]]）
-- 長度
+- 儲存長度（[[LENGTH]]）
+- - -
+# 基本語法
+```SAS
+ATTRIB 1u04gj
+```
 - - -
 parent::
 sibling::
