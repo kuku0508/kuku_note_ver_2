@@ -319,9 +319,21 @@
                   "icon": "excalidraw-icon",
                   "title": "SAS Charpter 8"
                 }
+              },
+              {
+                "id": "91044c062f1e43db",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 9"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -334,8 +346,9 @@
       }
     ]
   },
-  "active": "70b24ff1314b7122",
+  "active": "91044c062f1e43db",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 8.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
@@ -361,7 +374,6 @@
     "知識/統計/SAS/基礎知識/輸入法/列名輸入法.md",
     "知識/統計/SAS/基礎知識/輸入法/欄位輸入法.md",
     "知識/統計/SAS/基礎知識/SAS敘述句.md",
-    "未處理/Q-Q plot.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
