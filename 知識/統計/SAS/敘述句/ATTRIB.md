@@ -35,7 +35,9 @@ DATA D1;
 	IF average<60 then mark="不及格";
 	LABEL id="學號" name="姓名" sex="性別" score1="平時成績" score2="期中成績" 
 			score3="期末成績";
-	
+	FORMAT average 5.2;
+CARDS;
+
 ```
 - - -
 parent::[[SAS敘述句]],[[變數]]
