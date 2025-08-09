@@ -4,7 +4,7 @@
   - "[[datastep]]"
   - "[[procedures]]"
 ---
-ATTRIB是一種[[SAS敘述句]]，
+ATTRIB是一種[[SAS敘述句]]，這個比較是一個整合型的敘述句，
 - - -
 parent::
 sibling::
