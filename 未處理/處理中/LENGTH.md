@@ -41,8 +41,23 @@ LENGTH 變數名稱 ($) 儲存長度;
 - - -
 # 範例
 ```SAS
-
+data d1;
+input x y;
+length y 4;
+cards;
+1.1 1.1
+1.2 1.2
+1.3 1.3
+1.4 1.4
+;
+data d2;
+	set d1;
+	put x= y=;
+run;
+proc print;
+run;
 ```
+在這個範例裡面，我們定義了變數y的長度，也
 - - -
 parent::[[SAS敘述句]]
 sibling::
