@@ -32,7 +32,8 @@ DATA D1;
 	average=(score1+score2+score3)/3;
 	IF average >=60 then mark="及格";
 	IF average<60 then mark="不及格";
-	LABEL id="學號" n
+	LABEL id="學號" name="姓名" sex="性別" score1="平時成績" score2="期中成績" 
+			score=3
 ```
 - - -
 parent::[[SAS敘述句]],[[變數]]
