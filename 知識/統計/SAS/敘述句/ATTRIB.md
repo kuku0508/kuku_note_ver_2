@@ -25,7 +25,8 @@ INFORMAT：定義輸入時的格式
 LABEL：定義變數的標籤
 LENGTH：定義變數儲存的長度
 - - -
-# 
+# 範例
+
 - - -
 parent::[[SAS敘述句]],[[變數]]
 sibling::[[FORMAT]],[[INFORMAT]],[[LABEL]],[[LENGTH]]
