@@ -5,8 +5,8 @@
   - "[[procedures]]"
 ---
 ATTRIB是一種[[SAS敘述句]]，這個比較是一個整合型的敘述句，他可以定義[[變數]]的：
-- 輸入格式（[[FORMAT]]）
-- 輸出格式（[[INFORMAT]]）
+- 輸出格式（[[FORMAT]]）
+- 輸入格式（[[INFORMAT]]）
 - 標籤（[[LABEL]]）
 - 儲存長度（[[LENGTH]]）
 - - -
