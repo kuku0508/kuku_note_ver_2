@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/敘述句/Untitled.md",
+                "file": "知識/統計/SAS/敘述句/ATTRIB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ATTRIB"
             }
           },
           {
@@ -338,7 +338,7 @@
   "active": "3b2297ab3e99c560",
   "lastOpenFiles": [
     "知識/統計/SAS/敘述句/LENGTH.md",
-    "知識/統計/SAS/敘述句/Untitled.md",
+    "知識/統計/SAS/敘述句/ATTRIB.md",
     "知識/統計/SAS/敘述句/FILENAME.md",
     "知識/統計/SAS/敘述句/DATALINES.md",
     "知識/統計/統計學/資料/資料.md",
