@@ -28,6 +28,7 @@ LENGTH：定義變數儲存的長度
 # 範例
 ```SAS
 DATA D1;
+INPUT id name$ sex$ score1-score3;
 
 ```
 - - -
