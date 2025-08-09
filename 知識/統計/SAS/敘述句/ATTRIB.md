@@ -30,7 +30,7 @@ LENGTH：定義變數儲存的長度
 DATA D1;
 	INPUT id name$ sex$ score1-score3;
 	average=(score1+score2+score3)/3;
-	IF average >=
+	IF average >=60 then mark
 ```
 - - -
 parent::[[SAS敘述句]],[[變數]]
