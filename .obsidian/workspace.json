@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC GPLOT.md"
+                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 2 SAS語言基本結構.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter PROC GPLOT"
+              "title": "SAS Charpter 2 SAS語言基本結構"
             }
           },
           {
@@ -319,10 +319,18 @@
       }
     ]
   },
-  "active": "f851aa432fbfbf3d",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 3.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 2 SAS語言基本結構.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC CORR.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 13.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC REG.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC GPLOT.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter MEANS.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC TTEST.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC UNIVARIATE.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC MEANS.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC RANK.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC GCHART.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC TRANSPOSE.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC FORMAT.md",
@@ -339,14 +347,6 @@
     "未處理/處理中/INFORMAT.md",
     "知識/統計/SAS/敘述句/LENGTH.md",
     "知識/統計/SAS/敘述句/FILENAME.md",
-    "知識/統計/SAS/敘述句/DATALINES.md",
-    "知識/統計/統計學/資料/資料.md",
-    "知識/統計/SAS/敘述句/CARDS.md",
-    "知識/統計/SAS/敘述句/LIBNAME.md",
-    "知識/統計/SAS/敘述句/INFILE.md",
-    "知識/統計/SAS/敘述句/DATA.md",
-    "知識/統計/SAS/敘述句/RUN.md",
-    "筆記狀態.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
