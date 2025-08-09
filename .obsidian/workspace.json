@@ -313,14 +313,15 @@
                 "id": "4999ed587fb91aae",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 9 資料輸出入敘述和格式"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -333,10 +334,11 @@
       }
     ]
   },
-  "active": "4999ed587fb91aae",
+  "active": "71c891ecde242269",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
     "知識/統計/SAS/敘述句/ATTRIB.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
     "未處理/處理中/FORMAT.md",
     "知識/統計/SAS/敘述句/LABEL.md",
     "知識/統計/SAS/基礎知識/輸入法/欄位輸入法.md",
@@ -360,7 +362,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC TTEST.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC UNIVARIATE.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC MEANS.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC RANK.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
