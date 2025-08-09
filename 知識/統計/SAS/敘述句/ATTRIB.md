@@ -20,7 +20,8 @@ ATTRIB 變數名稱
 ```
 其中
 FORMAT：指定輸出時的顯示格式，不影響變數在資料集的實際儲存值。
-INFORMAT：指定
+INFORMAT：定義輸入時的格式
+LABEL：定義變數的標籤
 
 - - -
 parent::[[SAS敘述句]],[[變數]]
