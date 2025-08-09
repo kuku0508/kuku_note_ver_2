@@ -23,8 +23,6 @@ FORMAT：指定輸出時的顯示格式，不影響變數在資料集的實際�
 INFORMAT：定義輸入時的格式
 LABEL：定義變數的標籤
 LENGTH：定義變數儲存的長度
-
-
 - - -
 parent::[[SAS敘述句]],[[變數]]
 sibling::[[FORMAT]],[[INFORMAT]],[[LABEL]],[[LENGTH]]
