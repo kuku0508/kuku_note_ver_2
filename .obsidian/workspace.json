@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/敘述句/KEEP.md",
+                "file": "未處理/處理中/DROP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KEEP"
+              "title": "DROP"
             }
           },
           {
@@ -333,10 +333,12 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "3b2297ab3e99c560",
   "lastOpenFiles": [
-    "知識/統計/SAS/敘述句/ATTRIB.md",
     "知識/統計/SAS/敘述句/KEEP.md",
+    "未處理/處理中/DROP.md",
+    "未處理/處理中/OUTPUT.md",
+    "知識/統計/SAS/敘述句/ATTRIB.md",
     "知識/統計/SAS/敘述句/LABEL.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
@@ -359,8 +361,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 2 SAS語言基本結構.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC CORR.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC GPLOT.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC TTEST.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC UNIVARIATE.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
