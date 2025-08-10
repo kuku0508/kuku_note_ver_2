@@ -49,8 +49,6 @@ RUN;
 上面的程式碼用到了`LENGTH`、`LABEL`、`FORMAT`三個敘述句來定義變數，而我們完全可以用`ATTRIB`來替代這三個敘述句。改成下面的程式碼：
 ```SAS
 DATA C1;
-	INPUT id name$ sex$ score1-score3;
-	average=(score1+score2+score3)/3;
 	ATTRIB
 	id 
 		LABEL ="學號"
@@ -70,6 +68,8 @@ DATA C1;
 	average
 		LABEL="學期總成績"
 		FORMAT=5.2;
+	INPUT id name$ sex$ score1-score3;
+	average=(score1+score2+score3)/3;
 	IF average >=60 then mark="及格";
 	IF average<60 then mark="不及格";
 CARDS;
