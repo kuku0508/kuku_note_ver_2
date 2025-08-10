@@ -46,6 +46,8 @@ CARDS;
 PROC PRINT;
 RUN;
 ```
+上面的程式碼用到了``
+
 - - -
 parent::[[SAS敘述句]],[[變數]]
 sibling::[[FORMAT]],[[INFORMAT]],[[LABEL]],[[LENGTH]]
