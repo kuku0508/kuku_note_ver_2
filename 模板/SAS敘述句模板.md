@@ -4,6 +4,6 @@
 ---
 
 - - -
-parent::
+parent::[[SAS敘述句]]
 sibling::
 child::
