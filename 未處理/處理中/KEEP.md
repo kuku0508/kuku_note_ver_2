@@ -45,13 +45,16 @@ CARDS;
 PROC PRINT DATA=C1 LABEL;
 RUN;
 ```
-例如我們現在有一個資料集C1有學生的「學號」、「姓名」、「平時成績」、「期中成績」、「期末成績」、「學期總成績」以及「備註」。
+例如我們現在有一個資料集C1有學生的「學號」、「姓名」、「性別」、「平時成績」、「期中成績」、「期末成績」、「學期總成績」以及「備註」。
 
 而為了要項同學公布成績，且保護隱私，我們想要只保留學號、各項成績以及備註。那我們就可以利用KEEP：
 ```SAS
 data score_without_name;
+	set c1
+	keep id score1-score3 average mark;
 
 ```
+
 - - -
 parent::
 sibling::
