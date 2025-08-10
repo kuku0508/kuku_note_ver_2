@@ -46,7 +46,7 @@ CARDS;
 PROC PRINT;
 RUN;
 ```
-上面的程式碼用到了``
+上面的程式碼用到了`LENGTH`、`LABEL`、`FORMAT`三個敘述句來定義變數，而我們完全可以用`ATTRIB`來替代這三個敘述句
 
 - - -
 parent::[[SAS敘述句]],[[變數]]
