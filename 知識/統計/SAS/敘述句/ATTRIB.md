@@ -47,7 +47,42 @@ PROC PRINT;
 RUN;
 ```
 上面的程式碼用到了`LENGTH`、`LABEL`、`FORMAT`三個敘述句來定義變數，而我們完全可以用`ATTRIB`來替代這三個敘述句。改成下面的程式碼：
-
+```SAS
+DATA C1;
+	INPUT id name$ sex$ score1-score3;
+	average=(score1+score2+score3)/3;
+	ATTRIB
+	id 
+		LABEL ="學號"
+	name
+		LABEL="姓名"
+	sex
+		LABEL="性別"
+	score1
+		LABEL="平時成績"
+	score2
+		LABEL="期中成績"
+	score3
+		LABEL="期末成績"
+	mark
+		LABEL="備註"
+		LENGTH =$6. 
+	average
+		LABEL="學期總成績"
+		FORMAT=5.2;
+	IF average >=60 then mark="及格";
+	IF average<60 then mark="不及格";
+CARDS;
+123456789 Ameria F 100 96 95
+123456790 Gura F 70 66 79
+123456791 Kuku M 80 92 90
+123456792 Ina F 100 95 96
+123456793 Calli F 80 83 79
+123456794 Jarry M 10 0 5
+;
+PROC PRINT DATA=C1 LABEL;
+RUN;
+```
 
 - - -
 parent::[[SAS敘述句]],[[變數]]
