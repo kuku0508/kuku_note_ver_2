@@ -50,12 +50,12 @@ RUN;
 而為了要項同學公布成績，且保護隱私，我們想要只保留學號、各項成績以及備註。那我們就可以利用KEEP：
 ```SAS
 data score_without_name;
-	set c1 /*匯入資料集*/
+	set c1; /*匯入資料集*/
 	keep id score1-score3 average mark;
 proc print data=score_without_name label;
 run;
 ```
-
+g
 - - -
 parent::
 sibling::
