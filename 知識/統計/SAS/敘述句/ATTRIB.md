@@ -16,7 +16,7 @@ ATTRIB是一種[[SAS敘述句]]，這個比較是一個整合型的敘述句，�
 ATTRIB 變數名稱
 		FORMAT=輸出格式
 		INFORMAT=輸入格式
-		LABEL=輸出格式
+		LABEL="標籤文字"
 		LENGTH=($)儲存長度;
 ```
 其中
@@ -66,7 +66,7 @@ DATA C1;
 		LABEL="期末成績"
 	mark
 		LABEL="備註"
-		LENGTH =$6. 
+		LENGTH =$6
 	average
 		LABEL="學期總成績"
 		FORMAT=5.2;
