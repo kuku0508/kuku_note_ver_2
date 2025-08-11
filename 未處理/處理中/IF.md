@@ -17,7 +17,7 @@ IF 條件 THEN 敘述句
 ```SAS
 IF 條件1 THEN 敘述句
 	ELSE IF 條件2 THEN 敘述句
-	ELSE 條件3 THEN 敘述句
+	ELSE 敘述句
 ```
 如果我們今天遇到了有兩個以上的條件需要判斷的時候，我們就可以使用IF...THEN...ELSE
 
