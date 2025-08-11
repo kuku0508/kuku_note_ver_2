@@ -32,7 +32,7 @@ RENAME 舊變數名稱=新的變數名稱;
 DATA var_rename;
 	SET score;  /*匯入資料集*/
 	 RENAME F1=id F2=name F3=sex F4=score1 F5=score2 F6=score3;  /*重新命名變數*/
-	 average=(F1+F2+F3)/3;  /*利用變數計算平均*/
+	 average=(F4+F5+F6)/3;  /*利用變數計算平均*/
 ```
 - - -
 parent::[[SAS敘述句]]
