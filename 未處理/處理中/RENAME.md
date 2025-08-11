@@ -30,8 +30,9 @@ RENAME 舊變數名稱=新的變數名稱;
 
 ```SAS
 DATA var_rename;
-	set score;/*匯入資料集*/
-	 
+	SET score;/*匯入資料集*/
+	 RENAME F1=id F2=name F3=sex F4=score1 F5=score2 F6=score3;
+	 average=(score1+scor)
 ```
 - - -
 parent::[[SAS敘述句]]
