@@ -16,8 +16,10 @@ IF 條件 THEN 敘述句
 
 ```SAS
 IF 條件 THEN 敘述句
+	ELSE IF 敘述句
 	ELSE 敘述句
 ```
+如果我們今天
 
 - - -
 parent::[[SAS敘述句]]
