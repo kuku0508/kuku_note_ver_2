@@ -98,7 +98,7 @@ data mark;
 ```SAS
 data mark;
 	set score;
-	length mark$ 10
+	length mark$ 11
 IF NOT(score3<95) THEN mark="你也太猛了"
 	ELSE IF score3>60 THEN mark="你超棒"
 	ELSE mark="感覺像Jerry"

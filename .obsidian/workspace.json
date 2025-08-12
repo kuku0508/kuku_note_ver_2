@@ -49,8 +49,7 @@
               "title": "LENGTH"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,8 +304,9 @@
       }
     ]
   },
-  "active": "e4c834777109fb74",
+  "active": "3b2297ab3e99c560",
   "lastOpenFiles": [
+    "知識/統計/SAS/敘述句/LENGTH.md",
     "未處理/處理中/IF.md",
     "筆記狀態.md",
     "知識/統計/SAS/敘述句/LABEL.md",
@@ -326,7 +326,6 @@
     "知識/統計/SAS/基礎知識/輸入法/欄位輸入法.md",
     "知識/統計/SAS/基礎知識/輸入法/格式輸入法.md",
     "知識/統計/SAS/基礎知識/輸入法/列名輸入法.md",
-    "知識/統計/SAS/敘述句/LENGTH.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 問卷的資料處理.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 11 與宣告有關之敘述.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 12 程式共同使用之敘述句.md",
