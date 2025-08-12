@@ -13,7 +13,8 @@ IF 條件 THEN DELETE;
 ```
 表示，如果觀測值符合條件的話，則刪除觀測值。
 - - -
-# 
+# 備註
+- 倘若只有`DELETE`作為敘述句
 - - -
 parent::
 sibling::
