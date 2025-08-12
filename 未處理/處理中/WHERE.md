@@ -39,7 +39,8 @@ data average;
 	average=(score1+score2+score3)/3;
 	where average>60;
 ```
-這樣的程式碼會導致average這個變數不被找到，因為
+這樣的程式碼會導致average這個變數不能被找到，因為他是在現在的資料集是不存在的。
+- - -
 
 - - -
 parent::[[SAS敘述句]]
