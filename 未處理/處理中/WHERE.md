@@ -7,7 +7,7 @@
 WHERE，是一種[[SAS敘述句]]，我們可以透過這個敘述句來找到資料集中符合條件的觀測值。
 - - -
 # IF vs. WHERE
-- [[IF]]跟
+跟[[WHERE]]的差別在於
 - - -
 parent::[[SAS敘述句]]
 sibling::[[IF]]
