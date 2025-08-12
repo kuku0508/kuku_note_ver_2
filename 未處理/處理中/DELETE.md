@@ -7,7 +7,11 @@ DELETE，是一種[[SAS敘述句]]。可以用來刪除觀測值。倘若觀測�
 - - -
 # 基本語法
 
-通常DELELT
+通常DELETE會搭配`IF`來一起使用。
+```SAS
+IF 條件 THEN DELETE;
+```
+表示，如果觀測值符合條件的話，
 
 - - -
 parent::
