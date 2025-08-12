@@ -7,7 +7,7 @@ DELETE，是一種[[SAS敘述句]]。可以用來刪除觀測值。倘若觀測�
 - - -
 # 基本語法
 
-通常DELETE會搭配`IF`來一起使用。
+通常DELETE會搭配[[IF]]來一起使用。
 ```SAS
 IF 條件 THEN DELETE;
 ```
@@ -22,10 +22,13 @@ IF 條件 THEN DELETE;
 ```SAS
 data customer_without_missing;
 	set customer;
-	
+	 do i = 1 to 3;
+        if var{i} = . then delete;  /* 只要任一欄位是缺失值就刪除 */
+    end;
+run;
 ```
 
 - - -
-parent::
-sibling::
+parent::[[SAS敘述句]]
+sibling::[[IF]]
 child::
