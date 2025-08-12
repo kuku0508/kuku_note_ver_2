@@ -115,5 +115,5 @@ IF NOT(score3<95) THEN mark="你也太猛了";
 
 - - -
 parent::[[SAS敘述句]]
-sibling::
+sibling::[[WHERE]]
 child::
