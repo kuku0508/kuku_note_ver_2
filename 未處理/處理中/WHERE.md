@@ -33,10 +33,10 @@ WHERE 條件;
 | 5   | 80           | 83           | 79               |
 | 6   | 10           | 0            | 5                |
 
-
-
 ```SAS
-
+data average;
+	set score;
+	average=(score1+score2+sc)
 ```
 - - -
 parent::[[SAS敘述句]]
