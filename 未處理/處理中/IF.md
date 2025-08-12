@@ -30,6 +30,9 @@ IF 條件1 THEN 敘述句
 
 如果還有更多條件，則是增加更多ELSE IF。
 - - -
+# 範例
+
+- - -
 parent::[[SAS敘述句]]
 sibling::
 child::
