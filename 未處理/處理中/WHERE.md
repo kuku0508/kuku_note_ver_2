@@ -36,8 +36,11 @@ WHERE 條件;
 ```SAS
 data average;
 	set score;
-	average=(score1+score2+sc)
+	average=(score1+score2+score3)/3;
+	where average>60;
 ```
+這樣的程式碼會導致average這個變數不被找到，因為
+
 - - -
 parent::[[SAS敘述句]]
 sibling::[[IF]]
