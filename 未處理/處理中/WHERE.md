@@ -53,8 +53,12 @@ data average;
 | 5   | 123456793 | Calli    | F       | 80           | 83           | 79               |
 | 6   | 123456794 | Jarry    | M       | 10           | 0            | 5                |
 而今天我們想要找到資料集中性別為"F"的，所以我們可以用以下的程式碼來達到這個要求：
-
-
+```SAS
+data f1;
+	set score;
+	where sex="F";
+run;
+```
 - - -
 parent::[[SAS敘述句]]
 sibling::[[IF]]
