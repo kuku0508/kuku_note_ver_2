@@ -21,8 +21,8 @@ IF 條件 THEN 敘述句;
 倘若條件不成立，則會跳過該敘述句（但該觀測值不會被刪掉）
 #### 多條件篩選+執行敘述句
 ```SAS
-IF 條件1 THEN 敘述句
-	ELSE IF 條件2 THEN 敘述句
+IF 條件1 THEN 敘述句;
+	ELSE IF 條件2 THEN 敘述句;
 	ELSE 敘述句;
 ```
 如果我們今天遇到了有兩個以上的條件需要判斷的時候，我們就可以使用IF...THEN...ELSE
@@ -35,18 +35,18 @@ IF 條件1 THEN 敘述句
 #### 多條件同時成立
 當我們今天規定需要多條件"同時"成立的話，那我們可以在條件之間使用`AND`/`&`來達成這件事：
 ```SAS
-IF 條件1 AND/& 條件2 (THEN 敘述句)
+IF 條件1 AND/& 條件2 (THEN 敘述句);
 ```
 雖然我們使用的是`IF......THEN`，但`IF......THEN......ELSE`也可以成立。
 #### 任一以上條件成立
 當我們今天規定只要其中一個以上的條件成立，那我們可以在條件之間使用`OR`/`|`來達成這件事：
 ```SAS
-IF 條件1 OR/| 條件2 (THEN 敘述句)
+IF 條件1 OR/| 條件2 (THEN 敘述句);
 ```
 #### 反轉條件的真偽
 當我們今天想要讓條件變成跟這個條件互斥，那我們可以在條件前加上`NOT`/`^`來達成這件事：
 ```SAS
-IF NOT/^(條件1) (THEN)
+IF NOT/^(條件1) (THEN 敘述句);
 ```
 以上的這些運算子可以一起搭配使用。
 - - -
@@ -81,7 +81,7 @@ run;
 data mark;
 	set score;
 	IF score2>90 OR score3>70 THEN mark="你們超級棒";
-	label mark="備註"
+	label mark="備註";
 ```
 
 | 觀測值 | 學號(id)    | 姓名(name) | 性別(sex) | 平時成績(score1) | 期中成績(score2) | 期末成績<br>(score3) | 備註<br>(mark) |
@@ -98,10 +98,10 @@ data mark;
 ```SAS
 data mark;
 	set score;
-	length mark$ 11
-IF NOT(score3<95) THEN mark="你也太猛了"
-	ELSE IF score3>60 THEN mark="你超棒"
-	ELSE mark="感覺像Jerry"
+	length mark$ 11;
+IF NOT(score3<95) THEN mark="你也太猛了";
+	ELSE IF score3>60 THEN mark="你超棒";
+	ELSE mark="感覺像Jerry";
 ```
 
 - - -
