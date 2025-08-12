@@ -96,8 +96,12 @@ data mark;
 而如果我今天想要透過期末成績來分級，在備註那邊分別給予不同的內容，0到60是"感覺像Jerry"，60到94是"你超棒"，95到100是"你也太猛了"。
 
 ```SAS
+data mark;
+	set score;
+	length mark$ 10
 IF NOT(score3<95) THEN mark="你也太猛了"
 	ELSE IF score3>60 THEN mark="你超棒"
+	ELSE mark="感覺像Jerry"
 ```
 
 - - -
