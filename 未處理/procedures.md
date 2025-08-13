@@ -12,10 +12,13 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 - [[PROC SORT]]：資料排序
 - [[PROC PRINT]]：顯示資料內容
 - [[PROC TRANSPOSE]]：資料轉置
-- [[PROC DATASETS]]：管理資料集（刪除、修改變數等）
+- [[PROC DATASETS]]：管理資料集（刪除、修改變數之類的）
 #### 統計分析
 - [[PROC MEANS]]：計算描述統計量（平均數、變異數、最大最小值之類的）
-- [[PROC FREQ]]
+- [[PROC FREQ]]：計算次數分配與交叉表
+- [[PROC TTEST]]：t檢定
+- [[PROC ANOVA]]：變異數分析
+- [[PROC REG]]：線性迴歸分析
 
 
 - - -
