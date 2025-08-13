@@ -7,7 +7,8 @@ PROC SORT，是一種SAS的[[procedures]]。我們主要可以透過PROC SORT來
 # 基本語法
 ```SAS
 PROC SORT (第一參數);
-	BY (DESCENDING) 變數1
+	BY (DESCENDING) 變數1 (DESCENDING) 變數2......;
+RUN;
 ```
 - - -
 parent::[[SAS敘述句]]
