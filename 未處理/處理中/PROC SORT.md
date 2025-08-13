@@ -63,7 +63,7 @@ PROC SORT DATA= score OUT=sort NODUPKEY;
 run;
 ```
 
-會選擇用NODUPKEY來解決清除蟲ZJ
+會選擇用NODUPKEY來解決清除重複輸入是因為，在用PROC SORT的時候，有使用學號來作為排序標準，而學號又是一對一的對應，所以就不用擔心錯誤刪除。
 
 - - -
 parent::[[SAS敘述句]]
