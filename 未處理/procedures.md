@@ -7,7 +7,10 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 在執行一個`PROCstep`時，SAS會呼叫對應的內建程序（procedures），並依照使用者設定的選項以及參數，讀取資料集並產生結果。這些輸出可能是表格、統計檢定結果、圖形或是新的資料集。
 - - -
 # 常用的程序
-- [[]]
+- [[PROC SORT]]：資料排序
+- [[PROC PRINT]]：顯示資料內容
+- [[PROC TRANSPOSE]]：資U
+- [[PROC DATASETS]]
 - - -
 parent::[[SAS]],[[資料集]],[[datastep]]
 sibling::
