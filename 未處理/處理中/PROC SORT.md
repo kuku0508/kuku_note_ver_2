@@ -63,12 +63,10 @@ BY是要定義你要作為排序標準的變數。可以一次指定多個變數
 
 那我們可以使用PROC SORT來完成這幾個要求
 ```SAS
-PROC SORT DATA= score OUT=sort NODUPKEY;
+PROC SORT DATA= score OUT=sort NODUPREC;
 	BY average DESCENDING id;
 run;
 ```
-
-會選擇用NODUPKEY來解決清除重複輸入是因為，在用PROC SORT的時候，有使用學號來作為排序標準，而學號又是一對一的對應，所以就不用擔心錯誤刪除。
 
 - - -
 parent::[[procedures]]
