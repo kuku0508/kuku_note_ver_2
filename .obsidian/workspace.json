@@ -292,21 +292,8 @@
                   "icon": "excalidraw-icon",
                   "title": "SAS Charpter 6 資料集間的組合連結"
                 }
-              },
-              {
-                "id": "7c5c3a11763a16a8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 2 SAS語言基本結構.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 2 SAS語言基本結構"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -319,9 +306,10 @@
       }
     ]
   },
-  "active": "7c5c3a11763a16a8",
+  "active": "3b2297ab3e99c560",
   "lastOpenFiles": [
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 6 資料集間的組合連結.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 2 SAS語言基本結構.md",
     "未處理/處理中/PROC SORT.md",
     "未處理/procedures.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 5 資料集變數修飾.md",
@@ -346,7 +334,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
     "知識/統計/SAS/基礎知識/輸入法/欄位輸入法.md",
     "知識/統計/SAS/基礎知識/輸入法/格式輸入法.md",
-    "知識/統計/SAS/基礎知識/輸入法/列名輸入法.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
