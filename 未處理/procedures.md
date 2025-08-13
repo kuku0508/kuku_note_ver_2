@@ -13,7 +13,9 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 - [[PROC PRINT]]：顯示資料內容
 - [[PROC TRANSPOSE]]：資料轉置
 - [[PROC DATASETS]]：管理資料集（刪除、修改變數之類的）
-- [[PROC IMPORT]]
+- [[PROC IMPORT]]：匯入外部檔案
+- [[PROC EXPORT]]：輸出資料集
+- [[PROC FORMAT]]：建立與管理格式
 #### 統計分析
 - [[PROC MEANS]]：計算描述統計量（平均數、變異數、最大最小值之類的）
 - [[PROC FREQ]]：計算次數分配與交叉表
