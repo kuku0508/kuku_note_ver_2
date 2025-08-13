@@ -9,8 +9,9 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 # 常用的程序
 - [[PROC SORT]]：資料排序
 - [[PROC PRINT]]：顯示資料內容
-- [[PROC TRANSPOSE]]：資U
-- [[PROC DATASETS]]
+- [[PROC TRANSPOSE]]：資料轉置
+- [[PROC DATASETS]]：管理資料集（刪除、修改變數等）
+
 - - -
 parent::[[SAS]],[[資料集]],[[datastep]]
 sibling::
