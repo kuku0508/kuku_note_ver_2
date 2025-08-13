@@ -19,6 +19,10 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 - [[PROC TTEST]]：t檢定
 - [[PROC ANOVA]]：變異數分析
 - [[PROC REG]]：線性迴歸分析
+- [[PROC CORR]]：相關係數計算
+- [[PROC GLM]]：廣義線性模型分析
+#### 圖形輸出
+- [[PROC SGPLOT]]
 
 
 - - -
