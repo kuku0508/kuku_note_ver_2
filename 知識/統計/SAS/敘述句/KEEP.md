@@ -28,11 +28,11 @@ DATA C1;
 		LABEL="期末成績"
 	average
 		LABEL="學期總成績"
-		FORMAT=5.2;
+		FORMAT=5.2
 	mark
 		LABEL="備註"
 		LENGTH =$6
-
+;
 	INPUT id name$ sex$ score1-score3;
 	average=(score1+score2+score3)/3;
 	IF average >=60 then mark="及格";
