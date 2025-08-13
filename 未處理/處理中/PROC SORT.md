@@ -10,6 +10,13 @@ PROC SORT (第一參數);
 	BY (DESCENDING) 變數1 (DESCENDING) 變數2......;
 RUN;
 ```
+
+#### 第一參數
+
+|     |     |
+| --- | --- |
+|     |     |
+
 - - -
 parent::[[SAS敘述句]]
 sibling::
