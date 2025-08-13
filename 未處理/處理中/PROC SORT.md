@@ -18,7 +18,7 @@ RUN;
 | DATA | 指定要排序的資料集     |
 | OUT  | 指定產生排序後結果的資料集 |
 
-- `DESCENDING`：指定
+- `DESCENDING`：讓變數的排序
 
 - - -
 parent::[[SAS敘述句]]
