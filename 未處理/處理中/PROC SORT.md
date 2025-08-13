@@ -63,6 +63,8 @@ PROC SORT DATA= score OUT=sort NODUPKEY;
 run;
 ```
 
+會選擇用NODUPKEY來解決清除蟲ZJ
+
 - - -
 parent::[[SAS敘述句]]
 sibling::
