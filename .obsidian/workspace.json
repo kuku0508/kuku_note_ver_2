@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 439.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -307,7 +307,7 @@
       }
     ]
   },
-  "active": "55f71cc0289352e6",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "知識/統計/SAS/敘述句/LABEL.md",
     "未處理/procedures.md",

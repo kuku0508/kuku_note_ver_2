@@ -22,7 +22,8 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 - [[PROC CORR]]：相關係數計算
 - [[PROC GLM]]：廣義線性模型分析
 #### 圖形輸出
-- [[PROC SGPLOT]]
+- [[PROC SGPLOT]] ：繪製單一圖形
+- [[PROC SGPANEL]]：多圖形分麵顯示
 
 
 - - -
