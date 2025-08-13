@@ -13,6 +13,7 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 - [[PROC PRINT]]：顯示資料內容
 - [[PROC TRANSPOSE]]：資料轉置
 - [[PROC DATASETS]]：管理資料集（刪除、修改變數之類的）
+- [[PROC IMPORT]]
 #### 統計分析
 - [[PROC MEANS]]：計算描述統計量（平均數、變異數、最大最小值之類的）
 - [[PROC FREQ]]：計算次數分配與交叉表
@@ -24,8 +25,7 @@ procedures，簡單來說是[[SAS]]中用來分析、處理或著輸出資料的
 #### 圖形輸出
 - [[PROC SGPLOT]] ：繪製單一圖形
 - [[PROC SGPANEL]]：多圖形分麵顯示
-
-
+- [[PROC SGSCATTER]]：散佈圖
 - - -
 parent::[[SAS]],[[資料集]],[[datastep]]
 sibling::
