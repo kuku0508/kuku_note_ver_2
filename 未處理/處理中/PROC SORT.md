@@ -6,16 +6,19 @@ PROC SORT，是一種SAS的[[procedures]]。我們主要可以透過PROC SORT來
 - - -
 # 基本語法
 ```SAS
-PROC SORT (第一參數);
+PROC SORT (第一參數=);
 	BY (DESCENDING) 變數1 (DESCENDING) 變數2......;
 RUN;
 ```
 
 #### 第一參數
 
-| 參數名稱 | 功能  |
-| ---- | --- |
-|      |     |
+| 參數名稱 | 功能            |
+| ---- | ------------- |
+| DATA | 指定要排序的資料集     |
+| OUT  | 指定產生排序後結果的資料集 |
+
+DESCENDING
 
 - - -
 parent::[[SAS敘述句]]
