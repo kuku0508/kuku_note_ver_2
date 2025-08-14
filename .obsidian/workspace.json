@@ -29,7 +29,17 @@
               "state": {
                 "file": "知識/統計/SAS/基礎知識/資料集選項.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
               "title": "資料集選項"
