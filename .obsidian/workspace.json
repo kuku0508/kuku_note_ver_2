@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "OBS",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -117,7 +117,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -307,7 +308,7 @@
       }
     ]
   },
-  "active": "55f71cc0289352e6",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "知識/統計/SAS/敘述句/KEEP.md",
     "知識/統計/SAS/敘述句/DROP.md",
