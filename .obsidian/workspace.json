@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/SAS/敘述句/DROP.md",
+                "file": "知識/統計/SAS/敘述句/RENAME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DROP"
+              "title": "RENAME"
             }
           },
           {
