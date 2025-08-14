@@ -33,11 +33,12 @@ RENAME 舊變數名稱=新的變數名稱;
 | 6   | 123456794 | Jarry  | M   | 10  | 0   | 5   |
 
 如果我們要把變數變成比較明確的名稱，那我們就可以用`RENAME`。
-而如果我們要計算分數的平均值，因為我們還沒
+而如果我們要計算分數的平均值，因為我們還沒真的改名，所以我們還是要用舊變數來計算平均值。
 ```SAS
 DATA var_rename;
 	SET score;  /*匯入資料集*/
-	 RENAME F1=id F2=name F3=sex F4=score1 F5=score2 F6=score3;  /*重新命名變數*/
+	 RENAME F1=id F2=name F3=sex F4=score1 F5=score2 F6=score3;  
+	 /*重新命名變數*/
 	 average=(F4+F5+F6)/3;  /*利用變數計算平均*/
 ```
 - - -
