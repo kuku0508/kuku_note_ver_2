@@ -16,7 +16,6 @@ list
 from "知識/統計/SAS/敘述句"
 where file.folder="知識/統計/SAS/敘述句"
 ```
-
 # 假設檢定
 ## 無母數統計
 #### 中位數檢定
