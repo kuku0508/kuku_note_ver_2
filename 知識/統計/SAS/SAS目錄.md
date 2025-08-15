@@ -19,8 +19,8 @@ where file.folder="知識/統計/SAS/敘述句"
 # PROCEDURES
 ```dataview
 list
-from "知識/統計/SAS/procedures"
-where file.folder="知識/統計/SAS/procedures"
+from "知識/統計/SAS/PROCEDURES"
+where file.folder="知識/統計/SAS/PROCEDURES"
 ```
 
 # 假設檢定
