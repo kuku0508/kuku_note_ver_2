@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/處理中/PROC SORT.md",
+                "file": "知識/統計/SAS/SAS目錄.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PROC SORT"
+              "title": "SAS目錄"
             }
           },
           {
@@ -333,6 +333,8 @@
   },
   "active": "55f71cc0289352e6",
   "lastOpenFiles": [
+    "未處理/處理中/PROC SORT.md",
+    "知識/統計/SAS/PROCEDURES",
     "未處理/處理中/SET.md",
     "未處理/randtests.md",
     "知識/統計/SAS/基礎知識/procedures.md",
@@ -358,7 +360,6 @@
     "未處理/PROC ANOVA.md",
     "未處理/PROC TTEST.md",
     "未處理/PROC FREQ.md",
-    "未處理/PROC MEANS.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
@@ -371,7 +372,6 @@
     "知識/統計/統計學/圖表/圖/F distribution plot.png",
     "知識/統計/統計學/假設檢定/F檢定",
     "知識/統計/統計學/假設檢定/卡方檢定",
-    "知識/統計/統計學/估計/信賴區間",
     "文本/Department/數學/統計/統計學/表/Z table/Z table -4.09-0.png",
     "知識/統計/統計學/圖表/圖/卡方分配圖.png",
     "未處理/附件/Pasted image 20250712160942.png",
