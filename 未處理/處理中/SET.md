@@ -3,7 +3,7 @@
 屬於環節:
   - "[[datastep]]"
 ---
-SET
+SET，是一種[[SAS敘述句]]
 - - -
 parent::
 sibling::
