@@ -7,7 +7,7 @@ UPDATE，是一種[[SAS敘述句]]，主要用來更新原本就存在的資料�
 - - -
 # 基本語法
 ```SAS
-UPDATE 
+UPDATE 要更新的資料集名稱
 ```
 - - -
 parent::[[SAS敘述句]]
