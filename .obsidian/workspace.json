@@ -25,24 +25,10 @@
             "id": "55f71cc0289352e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未處理/處理中/MERGE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MERGE"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           },
           {
@@ -333,9 +319,9 @@
   },
   "active": "55f71cc0289352e6",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 6 資料集間的組合連結.md",
     "未處理/處理中/MERGE.md",
     "知識/統計/SAS/敘述句/SET.md",
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 6 資料集間的組合連結.md",
     "知識/統計/SAS/基礎知識/datastep.md",
     "知識/統計/SAS/PROCEDURES/PROC SORT.md",
     "知識/統計/SAS/SAS目錄.md",
