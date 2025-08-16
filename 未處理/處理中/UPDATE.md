@@ -51,7 +51,10 @@ proc sort data=score;
 proc sort data=data_update;
 	by id;
 run;
-data 
+data new_data;
+	UPDATE score data_update;
+	by id;
+run;
 ```
 - - -
 parent::[[SAS敘述句]]
