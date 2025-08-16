@@ -36,7 +36,13 @@ BY 變數名稱;
 這邊有一個資料集score記錄了班級同學的名稱，而如果我們要更新資料集score，更新內容如下：
 - 123456789的score2應該為100分
 - 123456794的名字應為「Jerry smith」
-- 
+- 123456790的score3應為95。
+
+而這時候我們可以使用UPDATE來更新資料集：
+```SAS
+data data_update;
+input
+```
 - - -
 parent::[[SAS敘述句]]
 sibling::
