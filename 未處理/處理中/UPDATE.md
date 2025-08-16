@@ -41,11 +41,17 @@ BY 變數名稱;
 而這時候我們可以使用UPDATE來更新資料集：
 ```SAS
 data data_update;
-input id name$ sex$ score1-score3;
+input id name$ 11-21 sex$ score1-score3;
 datalines;
 123456789 .           . . 100 .
 123456794 Jerry smith . . . .
 123456790 . . . . 95
+proc sort data=score;
+	by id;
+proc sort data=data_update;
+	by id;
+run;
+data 
 ```
 - - -
 parent::[[SAS敘述句]]
