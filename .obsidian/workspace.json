@@ -282,6 +282,7 @@
   },
   "active": "55f71cc0289352e6",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/統計/R語言/資料預處理/time to event data in R.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/Assignment 1.md",
@@ -308,7 +309,6 @@
     "未處理/PROC SGSCATTER.md",
     "未處理/PROC SGPANEL.md",
     "未處理/PROC SGPLOT.md",
-    "未處理/PROC GLM.md",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
     "IF...THEN",
