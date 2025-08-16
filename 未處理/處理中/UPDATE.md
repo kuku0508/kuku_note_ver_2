@@ -43,8 +43,9 @@ BY 變數名稱;
 data data_update;
 input id name$ sex$ score1-score3;
 datalines;
-123456789 . . . 100 .
-123456794 Jerry smith . . 
+123456789 .           . . 100 .
+123456794 Jerry smith . . . .
+123456790 . . . . 95
 ```
 - - -
 parent::[[SAS敘述句]]
