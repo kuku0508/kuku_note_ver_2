@@ -280,43 +280,6 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "f1cdc52f65326693",
-    "type": "floating",
-    "children": [
-      {
-        "id": "08035c8c17e432d5",
-        "type": "window",
-        "children": [
-          {
-            "id": "95591efbfd360353",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "71c891ecde242269",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 6 資料集間的組合連結.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 6 資料集間的組合連結"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "55f71cc0289352e6",
   "lastOpenFiles": [
     "未處理/處理中/MERGE.md",
