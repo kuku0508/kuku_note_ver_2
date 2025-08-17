@@ -48,8 +48,11 @@ datalines;
 123456789 .           . . 100 .
 123456794 Jerry smith . . . .
 123456790 . . . . 95
-data
-proc sort data=score;
+data new_score;
+	set score;
+	LENGTH name$ 20;
+run;
+proc sort data=new_score;
 	by id;
 proc sort data=data_update;
 	by id;
