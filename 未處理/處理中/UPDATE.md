@@ -22,6 +22,7 @@ BY 變數名稱;
 - - -
 # 備註
 - 更新資料集以及要更新的資料集都需要先以BY指定的變數來進行排序。
+- 要更新的資料集會決定變數的屬性（例如Type、長度、標籤、格式等）
 - - -
 # 範例
 
@@ -47,6 +48,7 @@ datalines;
 123456789 .           . . 100 .
 123456794 Jerry smith . . . .
 123456790 . . . . 95
+data
 proc sort data=score;
 	by id;
 proc sort data=data_update;
