@@ -41,6 +41,7 @@ BY 變數名稱;
 而這時候我們可以使用UPDATE來更新資料集：
 ```SAS
 data data_update;
+LENGTH name 50.; /*Jerry Smith位元組太多*/
 input id name$ 11-21 sex$ score1-score3;
 datalines;
 123456789 .           . . 100 .
