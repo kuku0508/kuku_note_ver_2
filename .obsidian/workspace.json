@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md"
+                "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Ch-03"
+              "title": "Ch-02"
             }
           }
         ]
@@ -264,6 +264,7 @@
   },
   "active": "04eb4f72633b302f",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-03.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch1.md",
     "文本/Department/數學/統計/SQL/講義/資料庫導論與應用 ch4.md",
@@ -289,7 +290,6 @@
     "知識/統計/SAS/敘述句/FILENAME.md",
     "知識/統計/SAS/敘述句/CARDS.md",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
-    "知識/統計/R語言/資料預處理/time to event data in R.md",
     "知識/統計/SAS/PROCEDURES",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
