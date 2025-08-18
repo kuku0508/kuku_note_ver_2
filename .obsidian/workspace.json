@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/抽樣調查目錄.md",
+                "file": "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抽樣調查目錄"
+              "title": "誤差來源"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Jarry",
+                "query": "interviewer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,10 +265,13 @@
       }
     ]
   },
-  "active": "b87c515692f1c9e1",
+  "active": "04eb4f72633b302f",
   "lastOpenFiles": [
     "知識/統計/抽樣調查/抽樣調查目錄.md",
+    "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
+    "知識/統計/抽樣調查/基礎知識/誤差來源/觀察誤差/觀察誤差 - 訪員.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
+    "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/抽樣誤差.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/無反應.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/觀察誤差.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/電訪.md",
@@ -289,9 +293,6 @@
     "知識/統計/SAS/基礎知識/輸入法/格式輸入法.md",
     "知識/統計/SAS/基礎知識/輸入法/欄位輸入法.md",
     "知識/統計/SAS/PROCEDURES/PROC SORT.md",
-    "知識/統計/SAS/敘述句/RENAME.md",
-    "知識/統計/SAS/敘述句/KEEP.md",
-    "知識/統計/SAS/敘述句/DROP.md",
     "知識/統計/SAS/PROCEDURES",
     "知識/統計/SAS/基礎知識/輸入法",
     "未處理/處理中",
