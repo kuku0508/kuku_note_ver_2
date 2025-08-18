@@ -227,10 +227,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "04eb4f72633b302f",
+  "floating": {
+    "id": "4963867906369159",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a94cef4baf1cc17",
+        "type": "window",
+        "children": [
+          {
+            "id": "9f14d1ac37f4b607",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b87c515692f1c9e1",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Ch-02"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 696,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b87c515692f1c9e1",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/無反應.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
+    "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/無反應.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/觀察誤差.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/電訪.md",
