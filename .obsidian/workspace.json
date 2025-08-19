@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ffb3",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,7 +265,7 @@
       }
     ]
   },
-  "active": "04eb4f72633b302f",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "未處理/多重共線性.md",
     "未處理/處理中/問卷設計 - 問題排序.md",
