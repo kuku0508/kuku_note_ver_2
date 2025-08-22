@@ -240,31 +240,18 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b83dafe657f1144a",
+                "id": "67601803a3d3f4af",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-01 Introduction.md"
+                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-03 Some Basic Concepts of Statistics.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Ch-01 Introduction"
-                }
-              },
-              {
-                "id": "b87c515692f1c9e1",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-02"
+                  "title": "Ch-03 Some Basic Concepts of Statistics"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -277,10 +264,10 @@
       }
     ]
   },
-  "active": "b87c515692f1c9e1",
+  "active": "67601803a3d3f4af",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-02 Elements of the Sampling Problem.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-01 Introduction.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-02.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/規劃調查的步驟.md",
     "知識/統計/抽樣調查/基礎知識/資料收集方法.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
