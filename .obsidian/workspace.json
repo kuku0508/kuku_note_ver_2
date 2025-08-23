@@ -256,20 +256,20 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 696,
+        "y": 0,
         "width": 1280,
-        "height": 696,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "04eb4f72633b302f",
+  "active": "67601803a3d3f4af",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/基礎知識/資料收集/規劃調查的步驟.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03 Some Basic Concepts of Statistics.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-02 Elements of the Sampling Problem.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-01 Introduction.md",
-    "知識/統計/抽樣調查/基礎知識/資料收集/規劃調查的步驟.md",
     "知識/統計/抽樣調查/基礎知識/資料收集方法.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
     "未處理/觀察誤差 - 資料收集型態.md",
