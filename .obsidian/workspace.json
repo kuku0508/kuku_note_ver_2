@@ -11,14 +11,10 @@
             "id": "04eb4f72633b302f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "平均數"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -266,7 +262,8 @@
   },
   "active": "04eb4f72633b302f",
   "lastOpenFiles": [
-    "未處理/簡單隨機抽樣 平均數.md",
+    "未處理/簡單隨機抽樣 - 平均數.md",
+    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
     "知識/統計/抽樣調查/基礎知識/機率抽樣/簡單隨機抽樣.md",
     "知識/統計/抽樣調查/基礎知識/估計誤差.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
@@ -279,7 +276,6 @@
     "文本/名言/遊戲/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
     "文本/名言/遊戲/The last of us Ending Scene.md",
     "文本/名言/人生/有遺憾挺好.md",
-    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
     "知識/統計/抽樣調查/基礎知識/機率抽樣/機率抽樣.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/總和.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-03 Some Basic Concepts of Statistics.md",
