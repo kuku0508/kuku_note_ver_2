@@ -11,10 +11,13 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -273,8 +276,9 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "ed8f92da488a7034",
   "lastOpenFiles": [
+    "筆記狀態.md",
     "未命名.base",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
