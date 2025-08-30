@@ -11,10 +11,13 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "bases",
+              "state": {
+                "file": "未命名.base",
+                "viewName": "檢視"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "未命名"
             }
           }
         ]
@@ -192,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "未命名.base"
+              },
               "icon": "lucide-file-signature",
               "title": "註腳"
             }
@@ -271,7 +276,7 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "ed8f92da488a7034",
   "lastOpenFiles": [
     "未命名.base",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
