@@ -6,3 +6,6 @@ views:
         - file.mtime > "2025-08-30"
     order:
       - file.name
+  - type: cards
+    name: 檢視
+    image: file.file
