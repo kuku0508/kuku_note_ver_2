@@ -203,6 +203,16 @@
               "icon": "lucide-ghost",
               "title": "bc-matrix-view"
             }
+          },
+          {
+            "id": "63a7cf70255405a4",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "註腳"
+            }
           }
         ],
         "currentTab": 2
