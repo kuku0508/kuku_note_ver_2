@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea28eac76ba2d66",
+        "id": "e7ba247078167c83",
         "type": "tabs",
         "children": [
           {
-            "id": "04eb4f72633b302f",
+            "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -195,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "未命名.base"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "註腳"
             }
@@ -276,10 +271,10 @@
       }
     ]
   },
-  "active": "04eb4f72633b302f",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/抽樣調查目錄.md",
     "未命名.base",
+    "知識/統計/抽樣調查/抽樣調查目錄.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/規劃調查的步驟.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 平均數.md",
