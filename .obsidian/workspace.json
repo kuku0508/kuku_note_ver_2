@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "有限",
+                "query": "[\"parent\":",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,7 +292,7 @@
       }
     ]
   },
-  "active": "ed8f92da488a7034",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "未命名.base",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖示/黑龍 圖示.png",
