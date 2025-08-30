@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "抽樣調查目錄"
             }
+          },
+          {
+            "id": "973aad429f1bf724",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,8 +200,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "外掛程式已不復活躍"
+              "icon": "lucide-ghost",
+              "title": "bc-matrix-view"
             }
           }
         ],
@@ -201,6 +214,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -264,8 +278,9 @@
       }
     ]
   },
-  "active": "04eb4f72633b302f",
+  "active": "de00389645db6ac6",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/規劃調查的步驟.md",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 平均數.md",
@@ -274,7 +289,6 @@
     "知識/統計/抽樣調查/簡單隨機抽樣",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
     "知識/統計/抽樣調查/基礎知識/估計誤差.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "文本/名言/人生/我一直很敬佩.md",
     "文本/名言/名言目錄 - 愛.md",
     "文本/名言/哲學/繩子跟棍子.md",
