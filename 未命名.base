@@ -1,5 +1,8 @@
 views:
   - type: table
     name: 表格
+    filters:
+      and:
+        - file.mtime > "2025-08-30"
     order:
       - file.name
