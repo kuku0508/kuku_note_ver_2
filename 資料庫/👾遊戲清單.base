@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.inFolder("資料庫/👾遊戲清單")
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.basename
