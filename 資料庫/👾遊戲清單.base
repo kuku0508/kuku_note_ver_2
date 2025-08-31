@@ -19,3 +19,5 @@ views:
     columnSize:
       file.basename: 322
       note.平台: 171
+  - type: cards
+    name: 檢視

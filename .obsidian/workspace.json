@@ -11,14 +11,13 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
-                "mode": "source",
-                "source": false
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Monster Hunter Wilds - 魔物獵人 荒野"
+              "icon": "lucide-table",
+              "title": "👾遊戲清單"
             }
           }
         ]
@@ -197,7 +196,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md"
+                "file": "資料庫/👾遊戲清單.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -293,8 +292,9 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "資料庫/👾遊戲清單.base",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
+    "未處理/附件/Pasted image 20250831171032.png",
+    "資料庫/👾遊戲清單.base",
     "模板/遊戲.md",
     "資料庫/👾遊戲清單",
     "模板/筆記.md",
@@ -337,7 +337,6 @@
     "知識/統計/統計學/圖表/圖/卡方分配圖.png",
     "未處理/附件/Pasted image 20250712160942.png",
     "文本/Department/數學/統計/統計學/表/T table.png",
-    "文本/Department/數學/統計/統計學/圖/雙尾檢定 圖.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
   ]
