@@ -54,6 +54,7 @@
     "fvbeewgv": "checkbox",
     "全破?": "checkbox",
     "平台": "multitext",
-    "遊玩狀態": "multitext"
+    "遊玩狀態": "multitext",
+    "封面": "text"
   }
 }
