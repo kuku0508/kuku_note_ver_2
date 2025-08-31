@@ -11,14 +11,12 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "筆記狀態.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/未分類/圖/obsidian放大鏡.png"
               },
-              "icon": "lucide-file",
-              "title": "筆記狀態"
+              "icon": "lucide-image",
+              "title": "obsidian放大鏡"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obsidian",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +72,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +196,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "筆記狀態.md"
+                "file": "文本/未分類/圖/obsidian放大鏡.png"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -291,11 +290,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
+    "筆記狀態.md",
     "未命名",
     "未命名.base",
-    "筆記狀態.md",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖示/黑龍 圖示.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖示",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
@@ -329,7 +328,6 @@
     "知識/心理學",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/問卷設計",
     "知識/統計/SAS/PROCEDURES",
-    "知識/統計/SAS/基礎知識/輸入法",
     "未處理/附件/Pasted image 20250724170204.png",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/統計學/圖表/圖/F distribution plot.png",
