@@ -11,13 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/未命名.base",
-                "viewName": "表格"
+                "file": "模板/筆記.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "筆記"
             }
           }
         ]
@@ -196,7 +197,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/未命名.base"
+                "file": "模板/筆記.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -292,8 +293,8 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "未處理/Untitled.md",
     "資料庫/未命名.base",
+    "未處理/Untitled.md",
     "筆記狀態.md",
     "資料庫",
     "未處理/未命名.base",
