@@ -7,7 +7,8 @@ tags:
 封面: "[[魔物獵人 荒野 封面.png]]"
 icon:
 ---
-![[魔物獵人 荒野 封面.png]]
+![[魔物獵人 荒野 封面.png|300]]
+![[Pasted image 20250831172809.png|300]]
 - - -
 parent::
 sibling::
