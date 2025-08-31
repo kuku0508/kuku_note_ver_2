@@ -11,13 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "筆記狀態.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "筆記狀態"
             }
           }
         ]
@@ -196,7 +197,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "未命名.base"
+                "file": "筆記狀態.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -292,8 +293,8 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "筆記狀態.md",
     "未命名.base",
+    "筆記狀態.md",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖示/黑龍 圖示.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖示",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
