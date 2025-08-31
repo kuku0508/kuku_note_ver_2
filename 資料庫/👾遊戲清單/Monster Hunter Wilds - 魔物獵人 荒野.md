@@ -4,10 +4,10 @@ tags:
 平台:
 遊玩狀態:
 位置:
-封面: "[[Pasted image 20250831171032.png]]"
+封面: "[[魔物獵人 荒野 封面.png]]"
 icon:
 ---
-![[Pasted image 20250831171032.png]]
+![[魔物獵人 荒野 封面.png]]
 - - -
 parent::
 sibling::
