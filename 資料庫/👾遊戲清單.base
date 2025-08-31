@@ -27,6 +27,6 @@ views:
   - type: cards
     name: 檢視 2
     image: note.icon
-    imageAspectRatio: 1.05
+    imageAspectRatio: 0.75
     imageFit: contain
-    cardSize: 210
+    cardSize: 190

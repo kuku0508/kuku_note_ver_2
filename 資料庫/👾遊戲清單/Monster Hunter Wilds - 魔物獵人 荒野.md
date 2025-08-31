@@ -5,10 +5,10 @@ tags:
 遊玩狀態:
 位置:
 封面: "[[魔物獵人 荒野 封面.png]]"
-icon:
+icon: "[[魔物獵人 荒野 Icon.png]]"
 ---
 ![[魔物獵人 荒野 封面.png|300]]
-![[Pasted image 20250831172809.png|300]]
+![[魔物獵人 荒野 Icon.png|300]]
 - - -
 parent::
 sibling::
