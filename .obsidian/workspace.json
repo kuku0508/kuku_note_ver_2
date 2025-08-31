@@ -22,6 +22,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "86e5c012dc6a84df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "984d59ff5ce7385c",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "檢視"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "👾遊戲清單"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
