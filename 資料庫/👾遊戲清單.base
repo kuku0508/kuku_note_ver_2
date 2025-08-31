@@ -13,6 +13,9 @@ views:
       - 遊玩狀態
       - icon
       - tags
+    sort:
+      - property: 平台
+        direction: DESC
     columnSize:
       file.basename: 322
       note.平台: 171
