@@ -6,3 +6,13 @@ views:
     name: 表格
     order:
       - file.basename
+      - 平台
+      - 位置
+      - 型態
+      - 封面
+      - 遊玩狀態
+      - icon
+      - tags
+    columnSize:
+      file.basename: 322
+      note.平台: 171
