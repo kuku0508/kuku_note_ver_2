@@ -21,3 +21,8 @@ views:
       note.平台: 171
   - type: cards
     name: 檢視
+    image: note.封面
+    imageFit: ""
+    cardSize: 400
+  - type: table
+    name: 檢視 2
