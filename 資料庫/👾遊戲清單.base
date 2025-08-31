@@ -22,7 +22,7 @@ views:
   - type: cards
     name: 檢視
     image: note.封面
-    imageFit: ""
-    cardSize: 400
+    imageFit: contain
+    cardSize: 270
   - type: table
     name: 檢視 2
