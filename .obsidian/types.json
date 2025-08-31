@@ -51,6 +51,8 @@
     "g": "multitext",
     "參考資料": "multitext",
     "屬於環節": "multitext",
-    "fvbeewgv": "checkbox"
+    "fvbeewgv": "checkbox",
+    "全破?": "checkbox",
+    "平台": "multitext"
   }
 }
