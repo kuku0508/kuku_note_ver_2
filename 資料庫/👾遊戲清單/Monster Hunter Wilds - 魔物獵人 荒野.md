@@ -12,6 +12,6 @@ icon: "[[魔物獵人 荒野 Icon.png]]"
 # 簡介
  
 - - -
-parent::
+parent::[[👾遊戲清單.base]]
 sibling::
 child::
