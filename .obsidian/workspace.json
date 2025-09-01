@@ -11,14 +11,13 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "文本/名言/辯論/囍.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/名言/未命名.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "囍"
+              "icon": "lucide-table",
+              "title": "未命名"
             }
           }
         ]
@@ -197,7 +196,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/名言/辯論/囍.md"
+                "file": "文本/名言/未命名.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -293,6 +292,10 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
+    "文本/名言/辯論/囍.md",
+    "文本/名言/未命名.base",
+    "文本/名言/名言總目錄.md",
+    "文本/名言/名言目錄 - 辯論.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 總和.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
@@ -318,7 +321,6 @@
     "知識/程式語言/MarkDown/語法/Markdown語法表.md",
     "未命名.base",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖/黑龍/黑龍 圖示.png",
-    "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/規劃調查的步驟.md",
     "未處理/Untitled Kanban.md",
@@ -329,10 +331,6 @@
     "文本/名言/哲學/繩子跟棍子.md",
     "文本/名言/哲學/道路.md",
     "文本/名言/愛/違背本性的愛你.md",
-    "文本/名言/愛/條件是留給不愛的人的.md",
-    "文本/名言/遊戲/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
-    "文本/名言/遊戲/The last of us Ending Scene.md",
-    "文本/名言/人生/有遺憾挺好.md",
     "未處理/附件/Pasted image 20250724170204.png",
     "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "知識/統計/統計學/圖表/圖/F distribution plot.png",
