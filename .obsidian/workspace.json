@@ -25,14 +25,13 @@
             "id": "f49c68aaacf181f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "文本/名言/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "資料庫/名言資料庫.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-table",
+              "title": "名言資料庫"
             }
           }
         ],
@@ -212,7 +211,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/名言/Untitled.md"
+                "file": "資料庫/名言資料庫.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -308,8 +307,9 @@
   },
   "active": "f49c68aaacf181f1",
   "lastOpenFiles": [
+    "文本/名言/克里夫昂格對BB的遺言.md",
     "資料庫/名言資料庫.base",
-    "文本/名言/Untitled.md",
+    "文本/名言/for those who'll come after.md",
     "文本/名言/我一直很敬佩.md",
     "文本/名言/山姆的演講.md",
     "文本/名言/未命名",
@@ -317,7 +317,6 @@
     "文本/名言/囍.md",
     "文本/名言/今夜無人入睡.md",
     "文本/名言/有遺憾挺好.md",
-    "文本/名言/克里夫昂格對BB的遺言.md",
     "文本/名言/道路.md",
     "文本/名言/繩子跟棍子.md",
     "文本/名言/奧本海默 世界的毀滅者.md",
