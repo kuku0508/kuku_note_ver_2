@@ -19,6 +19,7 @@ views:
     columnSize:
       file.basename: 322
       note.平台: 171
+      note.icon: 198
   - type: cards
     name: 卡片(封面)
     image: note.封面

@@ -55,6 +55,8 @@
     "全破?": "checkbox",
     "平台": "multitext",
     "遊玩狀態": "multitext",
-    "封面": "text"
+    "封面": "text",
+    "型態": "multitext",
+    "位置": "multitext"
   }
 }
