@@ -11,14 +11,13 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
-                "mode": "source",
-                "source": false
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Monster Hunter Wilds - 魔物獵人 荒野"
+              "icon": "lucide-table",
+              "title": "👾遊戲清單"
             }
           }
         ]
@@ -197,7 +196,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md"
+                "file": "資料庫/👾遊戲清單.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -293,8 +292,8 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "資料庫/👾遊戲清單.base",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
+    "資料庫/👾遊戲清單.base",
     "模板/增加標籤",
     "模板/遊戲.md",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 封面.png",
