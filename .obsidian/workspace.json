@@ -11,13 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "文本/名言/未命名.base",
-                "viewName": "表格"
+                "file": "文本/名言/辯論/囍.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "囍"
             }
           }
         ]
@@ -196,7 +197,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/名言/未命名.base"
+                "file": "文本/名言/辯論/囍.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -292,8 +293,8 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "文本/名言/辯論/囍.md",
     "文本/名言/未命名.base",
+    "文本/名言/辯論/囍.md",
     "文本/名言/名言總目錄.md",
     "文本/名言/名言目錄 - 辯論.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 總和.md",
