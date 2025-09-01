@@ -1,4 +1,12 @@
+---
+tags:
+  - 名言
+  - 遊戲
+參考資料:
+---
 **Ellie**: Hey wait.
+
+**艾莉**：嘿，等等。
 
 **Ellie**: Back in Boston... Back when I was bitten... I wasn't alone. My best friend was there. And she got bit too. We didn't know what to do. So... _[...]_ She says... "Let's just wait it out. Y'know, we can be all poetic and just lose our minds together." _[pause]_ I'm still waiting for my turn.
 
@@ -22,10 +30,6 @@ _[Ellie distances herself for a longer beat. With all hesitation, she looks up t
 
 **Ellie**: ...Okay.
 
-**艾莉**：嘿，等等。
-
-**艾莉**：在波士頓的時候......我被咬的時候......我不是一個人。我最好的朋友也在場，他也被咬了。我們不知該怎麼辦，所以......他就說......「我們先靜觀其變，說不定一起變成瘋子也可以很詩意呀」_[停頓]_ 我還在等輪到我的那一刻。
-
 **喬爾**：艾莉......
 
 **艾莉**：他的名字是萊莉，她是第一個犧牲者。接著就是泰絲。_[一拍]_ 然後是山姆。
@@ -48,9 +52,3 @@ _[艾莉停滯了很長的時間。她猶豫後，抬起頭看著喬爾，最後
 
 
 <iframe title="The Last of Us - Ending and Credits" src="https://www.youtube.com/embed/coTGONUS6XY?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
-
-
-- - -
-parent::[[名言目錄 - 遊戲]]
-
-#名言 #遊戲 
