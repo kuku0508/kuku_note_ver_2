@@ -6,20 +6,20 @@ views:
     name: 表格
     order:
       - file.basename
+      - tags
       - 平台
       - 位置
       - 型態
-      - 封面
       - 遊玩狀態
-      - icon
-      - tags
     sort:
       - property: 平台
         direction: DESC
     columnSize:
       file.basename: 322
+      note.tags: 299
       note.平台: 171
-      note.icon: 198
+      note.位置: 203
+      note.型態: 299
   - type: cards
     name: 卡片(封面)
     image: note.封面
