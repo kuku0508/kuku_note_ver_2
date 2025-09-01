@@ -46,15 +46,9 @@ _[喬爾猶豫了很久]_
 
 _[Ellie distances herself for a longer beat. With all hesitation, she looks up to Joel and finally nods]_
 
-**Ellie**: ...Okay.
-
-
-
-
-
 _[艾莉停滯了很長的時間。她猶豫後，抬起頭看著喬爾，最後點了點頭。]_
 
-**艾莉**：...OK
+**Ellie**: ...Okay.
 
-
+**艾莉**：...Okay.
 <iframe title="The Last of Us - Ending and Credits" src="https://www.youtube.com/embed/coTGONUS6XY?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
