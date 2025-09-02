@@ -20,22 +20,8 @@
               "icon": "lucide-file",
               "title": "囍"
             }
-          },
-          {
-            "id": "f49c68aaacf181f1",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "資料庫/名言資料庫.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "名言資料庫"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +291,11 @@
       }
     ]
   },
-  "active": "f49c68aaacf181f1",
+  "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
+    "未處理/未命名.canvas",
     "資料庫/名言資料庫.base",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "文本/名言/克里夫昂格對BB的遺言.md",
     "文本/名言/for those who'll come after.md",
     "文本/名言/我一直很敬佩.md",
