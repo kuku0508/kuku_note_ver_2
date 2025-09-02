@@ -58,7 +58,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -241,19 +241,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
-      "zk-prefixer:创建时间戳笔记": false,
-      "random-note:开始漫游笔记": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false,
-      "bases:创建新数据库": false,
-      "obsidian-kanban:创建新看板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "sheet-plus:创建 Excel 文件": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "bases:建立新的 base": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "sheet-plus:Create excel file": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -334,7 +334,6 @@
     "文本/名言/羅南森學長-寫給辯論門外的少年.md",
     "文本/名言/名言總目錄.md",
     "文本/名言/名言目錄 - 辯論.md",
-    "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 總和.md",
     "資料庫/👾遊戲清單.base",
     "模板/增加標籤",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 封面.png",
