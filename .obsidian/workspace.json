@@ -11,16 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 252,
-                "zoom": 0.9142156862745098
+                "file": "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NA Assignment 10"
+              "icon": "lucide-file",
+              "title": "Assignment 10"
             }
           }
         ]
@@ -293,10 +291,11 @@
       }
     ]
   },
-  "active": "ed8f92da488a7034",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 10.md",
+    "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/Assignment.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
+    "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 10.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 3.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 2.pdf",
