@@ -11,16 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/線性代數/考卷/期中考練習題ANS.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 369,
-                "zoom": 0.9142156862745098
+                "file": "文本/Department/數學/統計/應用統計方法/作業/題目型作業/第二次作業.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "期中考練習題ANS"
+              "icon": "lucide-file",
+              "title": "第二次作業"
             }
           }
         ]
@@ -295,6 +293,13 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/應用統計方法/作業/題目型作業/題目pdf/作業二.pdf",
+    "文本/Department/數學/統計/類別資料分析/問題/CDA 第五次作業 4.2.md",
+    "文本/Department/數學/統計/類別資料分析/問題/CDA 第六次作業.md",
+    "文本/Department/數學/微積分/高微(ch1-part2).md",
+    "文本/Department/數學/線性代數/考卷/期中考練習題ANS.pdf",
+    "文本/Department/數學/線性代數/考卷/線性代數期中考練習題.pdf",
+    "文本/Department/數學/線性代數/考卷/期中考練習題答案.md",
     "文本/Department/數學/線性代數/考卷/期中考練習題.md",
     "未處理/簡單隨機抽樣 - 樣本數.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
@@ -320,11 +325,6 @@
     "文本/名言/道路.md",
     "文本/名言/繩子跟棍子.md",
     "文本/名言/奧本海默 世界的毀滅者.md",
-    "文本/名言/違背本性的愛你.md",
-    "文本/名言/條件是留給不愛的人的.md",
-    "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
-    "文本/名言/The last of us Ending Scene.md",
-    "文本/名言/好奇心 安全感.md",
     "模板/增加標籤",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 封面.png",
     "未處理/附件/魔物獵人 荒野 Icon.png",
@@ -332,8 +332,6 @@
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖",
     "文本/遊戲/魔物獵人/魔物獵人 荒野",
     "資料庫/👾遊戲清單",
-    "資料庫",
-    "未處理/未命名.base",
     "文本/未分類/圖/obsidian放大鏡.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖/黑龍/黑龍 圖示.png",
     "未處理/附件/Pasted image 20250724170204.png",
