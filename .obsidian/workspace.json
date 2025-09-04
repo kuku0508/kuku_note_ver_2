@@ -11,16 +11,12 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
-                "page": 1,
-                "left": -16,
-                "top": 792,
-                "zoom": 0.9276960784313726
+                "file": "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Exercise"
+              "icon": "excalidraw-icon",
+              "title": "Assignment & Exercise"
             }
           }
         ]
@@ -293,10 +289,11 @@
       }
     ]
   },
-  "active": "ed8f92da488a7034",
+  "active": "0ac825bbb0ae0f91",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/~$Linear Regression assignment 2 data.xlsx",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf",
