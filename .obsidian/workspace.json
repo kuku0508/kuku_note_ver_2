@@ -11,14 +11,12 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "文本/Department/數學/統計/迴歸分析/題目型作業/Assignment 4.md",
-                "mode": "source",
-                "source": false
+                "file": "文本/Department/數學/統計/迴歸分析/報告/Pasted image 20241227122522.png"
               },
-              "icon": "lucide-file",
-              "title": "Assignment 4"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241227122522"
             }
           }
         ]
@@ -293,8 +291,11 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md",
+    "文本/Department/數學/統計/迴歸分析/報告/隨意筆記/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
+    "文本/Department/數學/統計/迴歸分析/報告/隨意筆記",
+    "文本/Department/數學/統計/迴歸分析/報告/Pasted image 20241227122522.png",
     "文本/Department/數學/統計/迴歸分析/題目型作業/Assignment 4.md",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/Assignment 1.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/Assignment 2.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/Assignment 3.md",
@@ -325,7 +326,6 @@
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 3.pdf",
-    "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 2.pdf",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.1.md",
     "文本/Department/數學/統計/應用統計方法/作業/題目型作業/第二次作業.md",
     "文本/Department/數學/統計/類別資料分析/問題/CDA 第五次作業 4.2.md",
@@ -335,11 +335,8 @@
     "文本/Department/數學/線性代數/考卷/期中考練習題.md",
     "未處理/簡單隨機抽樣 - 樣本數.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
-    "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣.md",
-    "未處理/簡單隨機抽樣 - 樣本大小.md",
     "未處理/未命名.canvas",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 封面.png",
-    "未處理/附件/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
   ]

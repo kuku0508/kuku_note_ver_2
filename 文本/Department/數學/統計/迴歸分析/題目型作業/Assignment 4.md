@@ -1,4 +1,4 @@
-![[Assignment & Exercise]]
+[[Assignment & Exercise]]
 # Problem 3.5
 Consider the gasoline nileage data in Table B.3
 
