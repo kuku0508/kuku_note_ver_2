@@ -1,5 +1,6 @@
 # 問題：
-![[MA Assignment.pdf]]
+[[MA Assignment]]
+
 1. Using R or SAS, find the determinant, trace, inverse, eigenvalues, and eigenvectors of the matrix A, where：
 $$
 A=
