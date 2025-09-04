@@ -11,16 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
-                "page": 5,
-                "left": -16,
-                "top": 252,
-                "zoom": 0.9142156862745098
+                "file": "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MA Assignment"
+              "icon": "lucide-file",
+              "title": "MA Assignment 3"
             }
           }
         ]
@@ -295,10 +293,14 @@
   },
   "active": "ed8f92da488a7034",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.md",
+    "文本/Department/數學/統計/存活分析/講義/Survival Analysis topic 1.md",
+    "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/存活分析/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/研究背景.md",
     "文本/Department/數學/統計/存活分析/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
-    "文本/Department/數學/統計/存活分析/講義/Survival Analysis topic 1.md",
     "文本/Department/數學/統計/政府統計實務/講義/人口及住宅普查.md",
     "文本/Department/數學/統計/時間數列/問題/時間數列 第二次作業.md",
     "文本/Department/數學/統計/迴歸分析/資料集/Linear regression Table B.3 Gasoline Mileage Performance for 32 Automobiles.pdf",
@@ -335,11 +337,8 @@
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 2.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 1.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 10.pdf",
-    "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.1.md",
     "文本/Department/數學/統計/應用統計方法/作業/題目型作業/第二次作業.md",
-    "文本/Department/數學/統計/類別資料分析/問題/CDA 第五次作業 4.2.md",
-    "文本/Department/數學/統計/類別資料分析/問題/CDA 第六次作業.md",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
