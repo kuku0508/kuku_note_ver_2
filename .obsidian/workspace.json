@@ -11,12 +11,12 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "文本/Department/數學/統計/R/講義/介紹.md"
+                "file": "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png"
               },
-              "icon": "excalidraw-icon",
-              "title": "介紹"
+              "icon": "lucide-image",
+              "title": "魔物獵人 荒野 Icon"
             }
           }
         ]
@@ -289,10 +289,10 @@
       }
     ]
   },
-  "active": "ed8f92da488a7034",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/附件/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/R/講義/介紹.md",
+    "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "文本/Department/數學/統計/R/講義",
     "文本/Department/數學/統計/R",
