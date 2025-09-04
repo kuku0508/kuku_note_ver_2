@@ -1,4 +1,5 @@
-![[Exercise.pdf]]
+# 題目
+
 ## a
 $$
 y=

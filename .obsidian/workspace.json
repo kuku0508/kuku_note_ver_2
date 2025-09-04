@@ -11,12 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md"
+                "file": "文本/Department/數學/統計/迴歸分析/題目型作業/Exercise.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Assignment & Exercise"
+              "icon": "lucide-file",
+              "title": "Exercise"
             }
           }
         ]
@@ -289,11 +291,15 @@
       }
     ]
   },
-  "active": "0ac825bbb0ae0f91",
+  "active": "ed8f92da488a7034",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 e.png",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 a.png",
+    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/~$Linear Regression assignment 2 data.xlsx",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Assignment & Exercise.md",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf",
@@ -317,7 +323,6 @@
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 7.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 3.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 2.pdf",
-    "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/NA Assignment 1.pdf",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 1/chapter 4 1.1.md",
     "文本/Department/數學/統計/應用統計方法/作業/題目型作業/第二次作業.md",
     "文本/Department/數學/統計/類別資料分析/問題/CDA 第五次作業 4.2.md",
@@ -335,9 +340,6 @@
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 封面.png",
     "未處理/附件/魔物獵人 荒野 Icon.png",
     "文本/未分類/圖/obsidian放大鏡.png",
-    "文本/遊戲/魔物獵人/魔物獵人 世界/魔物/圖/黑龍/黑龍 圖示.png",
-    "未處理/附件/Pasted image 20250724170204.png",
-    "文本/Department/數學/統計/統計學/表/chi-square distribution table.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
   ]
