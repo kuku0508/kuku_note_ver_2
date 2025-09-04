@@ -1,4 +1,4 @@
-![[Regression analysis Assignment 2.pdf]] 
+[[Assignment & Exercise]]
 # 問題：
 ## Problem 2.4
 Table B.3 presents data on the gasoline mileage performance of 32 different automoblies.

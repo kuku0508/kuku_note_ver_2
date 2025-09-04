@@ -1,5 +1,5 @@
 # 問題：
-![[Regression analysis Assignment 1.pdf]]
+[[Assignment & Exercise]]
 # 回答：
 ## (a) Show that $\hat{\beta}_0$ is a linear combination of $y_i$
 由題目可以知道
