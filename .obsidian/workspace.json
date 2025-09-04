@@ -11,12 +11,14 @@
             "id": "ed8f92da488a7034",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/Assignment.md"
+                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Assignment"
+              "icon": "lucide-file",
+              "title": "Topic1"
             }
           }
         ]
@@ -289,9 +291,15 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "ed8f92da488a7034",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/Untitled.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式",
+    "文本/Department/數學/統計/資料探勘/講義",
+    "文本/Department/數學/統計/資料探勘/講義/本篇",
+    "未處理/附件/魔物獵人 荒野 Icon.png",
+    "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/Assignment.md",
     "文本/Department/數學/統計/資料探勘",
     "文本/Department/數學/統計/應用統計方法/作業/題目型作業/題目pdf/作業二.pdf",
     "文本/Department/數學/統計/類別資料分析/問題/CDA 第五次作業 4.2.md",
@@ -323,20 +331,14 @@
     "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 a.png",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Exercise.pdf",
     "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/~$Linear Regression assignment 2 data.xlsx",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 2.pdf",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis Assignment 1.pdf",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/題目pdf/Regression analysis assignment 4.pdf",
     "文本/Department/數學/統計/無母數統計/題目型作業/表/one-sample runs test result in R.png",
     "文本/Department/數學/統計/無母數統計/題目型作業/表/NA Assignment 7 Friedman test SAS output.png",
     "文本/Department/數學/統計/無母數統計/題目型作業/表/NA Assignment 7 chi-square table.png",
-    "文本/Department/數學/統計/無母數統計/題目型作業/表/Jonckheere terpstra查表 6 6 8.png",
-    "文本/Department/數學/統計/無母數統計/題目型作業/題目pdf/Assignment.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 10.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 7.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 6.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 5.md",
     "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 4.md",
-    "文本/Department/數學/統計/無母數統計/題目型作業/Assignment 3.md",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
