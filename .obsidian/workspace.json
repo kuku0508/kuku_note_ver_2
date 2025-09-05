@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數（比例）.md",
+                "file": "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 差異估計（平均數）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "簡單隨機抽樣 - 樣本數（比例）"
+              "title": "簡單隨機抽樣 - 差異估計（平均數）"
             }
           }
         ]
@@ -291,9 +291,10 @@
       }
     ]
   },
-  "active": "e4ec27fb2f4b3dba",
+  "active": "ed8f92da488a7034",
   "lastOpenFiles": [
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數（比例）.md",
+    "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 差異估計（平均數）.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 比例.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數(平均數).md",
@@ -328,7 +329,6 @@
     "文本/Department/數學/統計/類別資料分析/問題/CDA 第六次作業.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 3.md",
     "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 2.md",
-    "文本/Department/數學/統計/多變量分析/Assignment/MA Assignment 1.md",
     "文本/Department/數學/統計/多變量分析/Assignment/PDF File/MA Assignment.pdf",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
