@@ -259,15 +259,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "3a94cef4baf1cc17",
+        "id": "d2f7d759ac8feb59",
         "type": "window",
         "children": [
           {
-            "id": "9f14d1ac37f4b607",
+            "id": "1b1d8c1ede87970d",
             "type": "tabs",
             "children": [
               {
-                "id": "aa8e5aa33d2d787b",
+                "id": "9b5105e93c71c286",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -291,11 +291,11 @@
       }
     ]
   },
-  "active": "aa8e5aa33d2d787b",
+  "active": "9b5105e93c71c286",
   "lastOpenFiles": [
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 差異估計（比例）.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-04 Simple Random Sampling.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 差異估計（平均數）.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數(平均數).md",
