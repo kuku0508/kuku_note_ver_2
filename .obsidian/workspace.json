@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本數.md",
+                "file": "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數(總和).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": true,
-                  "searchQuery": "樣本數",
+                  "showSearch": false,
+                  "searchQuery": "",
                   "backlinkCollapsed": false,
                   "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "樣本數"
+              "title": "簡單隨機抽樣 - 樣本數(總和)"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -302,10 +301,10 @@
       }
     ]
   },
-  "active": "8170c139e5fc9288",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/基礎知識/名詞解釋/元素.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本數.md",
+    "知識/統計/抽樣調查/基礎知識/名詞解釋/元素.md",
     "知識/統計/統計學/基礎知識/樣本.md",
     "知識/統計/抽樣調查/基礎知識/名詞解釋/樣本.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數(總和).md",
