@@ -7,6 +7,8 @@ tags:
 $$
 n_i=n\cdot\frac{N_i\sigma_i}{\sum^L_{k=1}N_k\sigma_k}
 $$
-
+$$
+n=\frac{\left(\sum^L_{i=1}N_i\sigma_i\right)}{}
+$$
 - - -
 parent::[[配置率]],[[分層抽樣 - 樣本數（總和）]],[[分層抽樣 - 樣本數（平均數）]]
