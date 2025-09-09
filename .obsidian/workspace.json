@@ -55,8 +55,7 @@
               "title": "尼曼配置"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -326,10 +325,10 @@
       }
     ]
   },
-  "active": "3c8d8f2f3c892c8d",
+  "active": "8170c139e5fc9288",
   "lastOpenFiles": [
-    "未處理/比例配置.md",
     "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
+    "未處理/比例配置.md",
     "未處理/配置率.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 樣本數（平均數）.md",
