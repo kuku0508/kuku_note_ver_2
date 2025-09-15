@@ -8,6 +8,5 @@
   "monospaceFontFamily": "俐方體11號,Jf open 粉圓 2.0",
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "showViewHeader": true,
-  "showRibbon": true
+  "showViewHeader": true
 }
