@@ -11,24 +11,12 @@
             "id": "8170c139e5fc9288",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/事後分層.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
+                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md"
               },
-              "icon": "lucide-file",
-              "title": "事後分層"
+              "icon": "excalidraw-icon",
+              "title": "第一章"
             }
           },
           {
@@ -288,47 +276,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "4963867906369159",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d2f7d759ac8feb59",
-        "type": "window",
-        "children": [
-          {
-            "id": "1b1d8c1ede87970d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9b5105e93c71c286",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Ch-05 Stratified Random Sampling"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
     "知識/統計/抽樣調查/分層抽樣/事後分層.md",
+    "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
     "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/進階R/講義",
     "文本/Department/數學/統計/進階R",
