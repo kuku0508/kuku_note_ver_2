@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "分層抽樣 - 平均數"
+              "title": "資料探勘目錄"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 分層抽樣 - 平均數"
+              "title": "Backlinks for 資料探勘目錄"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 分層抽樣 - 平均數"
+              "title": "Outgoing links from 資料探勘目錄"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 分層抽樣 - 平均數"
+              "title": "Outline of 資料探勘目錄"
             }
           },
           {
@@ -207,7 +207,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md"
+                "file": "知識/統計/資料探勘/資料探勘目錄.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -266,8 +266,8 @@
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
-    "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
+    "知識/統計/資料探勘/資料探勘目錄.md",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 2v.png",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 v.png",
     "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
