@@ -11,19 +11,9 @@
             "id": "8170c139e5fc9288",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md"
-              }
-            }
-          },
-          {
-            "id": "3c8d8f2f3c892c8d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md"
+                "file": "知識/統計/資料探勘/資料探勘目錄.md"
               }
             }
           },
@@ -232,6 +222,8 @@
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
+    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/資料探勘/基礎知識",
@@ -240,7 +232,6 @@
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/統計學/統計學目錄.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
     "知識/統計/抽樣調查/分層抽樣/事後分層.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
     "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
@@ -253,7 +244,6 @@
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 分層方法.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/問卷設計/問卷設計.md",
-    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/抽樣調查/分層抽樣/配置率.md",
     "知識/統計/抽樣調查/分層抽樣/比例配置.md",
     "未處理/PROC SGPANEL.md",
