@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/關聯式資料庫.md",
+                "file": "未處理/資料儲存.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "關聯式資料庫"
+              "title": "資料儲存"
             }
           },
           {
@@ -290,8 +290,8 @@
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
-    "未處理/資料儲存.md",
     "未處理/關聯式資料庫.md",
+    "未處理/資料儲存.md",
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "文本/Department/程式語言/python/Python程式語言設計/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計",
