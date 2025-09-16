@@ -15,20 +15,9 @@
               "state": {
                 "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "資料探勘"
+                "source": false
+              }
             }
           },
           {
@@ -39,20 +28,9 @@
               "state": {
                 "file": "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
                 "mode": "source",
-                "source": false,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "尼曼配置"
+                "source": false
+              }
             }
           }
         ]
@@ -74,11 +52,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -93,9 +68,7 @@
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜尋"
+              }
             }
           },
           {
@@ -103,16 +76,14 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "書籤"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 321.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -128,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,9 +107,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "張成 的反向連結"
+              }
             }
           },
           {
@@ -147,12 +116,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "張成 的對外連結"
+              }
             }
           },
           {
@@ -162,12 +129,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "標籤"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -176,13 +139,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "張成 的大綱"
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md"
+              }
             }
           },
           {
@@ -190,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "state": {}
             }
           },
           {
@@ -200,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -210,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           },
           {
@@ -220,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "bc-matrix-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "bc-matrix-view"
+              "state": {}
             }
           },
           {
@@ -232,9 +182,7 @@
               "type": "footnotes",
               "state": {
                 "file": "資料庫/名言資料庫.base"
-              },
-              "icon": "lucide-file-signature",
-              "title": "註腳"
+              }
             }
           },
           {
@@ -246,9 +194,7 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "所有屬性"
+              }
             }
           }
         ],
@@ -261,34 +207,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "command-palette:開啟命令面板": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "workspaces:管理工作區配置": false,
-      "bases:建立新的 base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "sheet-plus:Create excel file": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templates:插入模板": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
+      "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d2506d8f78c87e8f",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "知識/統計/資料探勘/資料探勘目錄.md",
