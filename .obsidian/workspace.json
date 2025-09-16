@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
+                "file": "文本/Department/程式語言/python/Python程式語言設計/專題.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "資料探勘"
-            }
-          },
-          {
-            "id": "3c8d8f2f3c892c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "尼曼配置"
+              "title": "專題"
             }
           }
         ]
@@ -95,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜尋"
+              "title": "Search"
             }
           },
           {
@@ -105,14 +81,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "書籤"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 321.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "張成 的反向連結"
+              "title": "Backlinks for 資料探勘"
             }
           },
           {
@@ -147,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "張成 的對外連結"
+              "title": "Outgoing links from 資料探勘"
             }
           },
           {
@@ -167,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "標籤"
+              "title": "Tags"
             }
           },
           {
@@ -176,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "張成 的大綱"
+              "title": "Outline of 資料探勘"
             }
           },
           {
@@ -191,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -201,8 +177,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -211,8 +187,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -231,10 +207,10 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/名言資料庫.base"
+                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md"
               },
               "icon": "lucide-file-signature",
-              "title": "註腳"
+              "title": "Footnotes"
             }
           },
           {
@@ -248,7 +224,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "所有屬性"
+              "title": "All properties"
             }
           }
         ],
@@ -265,6 +241,7 @@
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
@@ -272,46 +249,58 @@
       "workspaces:管理工作區配置": false,
       "bases:建立新的 base": false,
       "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "sheet-plus:Create excel file": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open media": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templates:插入模板": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open media": false,
       "obsidian42-brat:BRAT": false
     }
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
+    "文本/Department/程式語言/python/Python程式語言設計/專題.md",
+    "文本/Department/程式語言/python/Python程式語言設計",
     "知識/統計/資料探勘/資料探勘目錄.md",
+    "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
+    "文本/Department/數學/線性代數/圖/向量 - 乘法 2v.png",
+    "文本/Department/數學/線性代數/圖/向量 - 乘法 v.png",
+    "文本/Department/數學/線性代數/圖/向量箭頭轉成點.gif",
+    "文本/Department/數學/線性代數/圖/行列式 二維空間旋轉.gif",
+    "文本/Department/數學/線性代數/圖/行列式 二維算法.png",
+    "文本/Department/數學/線性代數/圖/行列式 面積改變範例.gif",
+    "文本/Department/數學/線性代數/圖/行列式 Right Hand Rule.png",
+    "文本/Department/數學/線性代數/圖/行列式 Sarrus rule.png",
+    "文本/Department/數學/線性代數/圖/矩陣向量-乘法 旋轉後翻轉.gif",
+    "文本/Department/數學/線性代數/圖/矩陣向量-乘法 翻轉後旋轉.gif",
+    "知識/統計/資料探勘/資料儲存",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
+    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/資料探勘/基礎知識",
     "知識/統計/資料探勘",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/統計學/統計學目錄.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
     "知識/統計/抽樣調查/分層抽樣/事後分層.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
     "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/進階R/講義",
     "文本/Department/數學/統計/進階R",
-    "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
     "知識/統計/抽樣調查/分層抽樣/累積平方根次數法.md",
     "知識/程式語言/HTML/語法表/下標.md",
     "知識/統計/抽樣調查/分層抽樣/分層抽樣.md",
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 分層方法.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/問卷設計/問卷設計.md",
-    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/抽樣調查/分層抽樣/配置率.md",
     "知識/統計/抽樣調查/分層抽樣/比例配置.md",
     "未處理/PROC SGPANEL.md",
@@ -319,23 +308,10 @@
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 樣本數（比例）.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/抽樣分配/抽樣分配 - 樣本比例.md",
     "知識/統計/抽樣調查/簡單隨機抽樣/簡單隨機抽樣 - 差異估計（比例）.md",
-    "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 樣本數（平均數）.md",
     "知識/統計/抽樣調查/分層抽樣",
     "資料庫/👾遊戲清單.base",
     "資料庫/名言資料庫.base",
-    "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/R/講義",
-    "文本/Department/數學/統計/R",
-    "文本/Department/數學/統計/資料探勘/講義/程式",
-    "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
-    "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 e.png",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 a.png",
-    "文本/Department/數學/統計/無母數統計/題目型作業/表/one-sample runs test result in R.png",
-    "文本/Department/數學/統計/無母數統計/題目型作業/表/NA Assignment 7 Friedman test SAS output.png",
-    "文本/Department/數學/統計/無母數統計/題目型作業/表/NA Assignment 7 chi-square table.png",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
