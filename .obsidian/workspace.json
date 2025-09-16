@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/資料探勘/基礎知識/資料探勘.md",
+                "file": "文本/Department/程式語言/python/Python程式語言設計/專題.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "資料探勘"
+              "title": "專題"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -167,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -177,8 +177,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -187,8 +187,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -237,17 +237,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "bases:建立新的 base": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -257,15 +257,18 @@
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open media": false,
+      "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false,
       "obsidian42-brat:BRAT": false
     }
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
+    "知識/統計/資料探勘/基礎知識/資料探勘.md",
+    "文本/Department/程式語言/python/Python程式語言設計/專題.md",
+    "文本/Department/程式語言/python/Python程式語言設計",
     "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 平均數.md",
     "文本/Department/數學/線性代數/圖/向量 - 乘法 2v.png",
@@ -281,7 +284,6 @@
     "知識/統計/資料探勘/資料儲存",
     "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
     "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
-    "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "知識/統計/資料探勘/基礎知識",
     "知識/統計/資料探勘",
     "知識/統計/抽樣調查/抽樣調查目錄.md",
@@ -310,7 +312,6 @@
     "資料庫/👾遊戲清單.base",
     "資料庫/名言資料庫.base",
     "文本/Department/數學/統計/R/講義",
-    "文本/Department/數學/統計/R",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
