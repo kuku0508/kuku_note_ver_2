@@ -35,27 +35,16 @@
             "id": "3c8d8f2f3c892c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
               },
-              "icon": "lucide-file",
-              "title": "尼曼配置"
+              "icon": "excalidraw-icon",
+              "title": "chapter 1 The experiment, the design and the analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,11 +277,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "3c8d8f2f3c892c8d",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
+    "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "知識/統計/實驗設計",
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
@@ -323,10 +313,8 @@
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 分層方法.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/問卷設計/問卷設計.md",
-    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/抽樣調查/分層抽樣/配置率.md",
     "知識/統計/抽樣調查/分層抽樣/比例配置.md",
-    "知識/統計/抽樣調查/分層抽樣",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
