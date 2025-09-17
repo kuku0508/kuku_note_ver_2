@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b68a045517e3e41c",
+        "id": "aba2efbfe836aa56",
         "type": "tabs",
         "children": [
           {
-            "id": "8170c139e5fc9288",
+            "id": "90e4ac7705e2a5a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/資料倉儲.md",
+                "file": "知識/統計/資料探勘/資料探勘目錄.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "資料倉儲"
-            }
-          },
-          {
-            "id": "3c8d8f2f3c892c8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "尼曼配置"
+              "title": "資料探勘目錄"
             }
           }
         ]
@@ -288,11 +264,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8170c139e5fc9288",
+  "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
+    "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
-    "未處理/資料倉儲.md",
-    "未處理/關聯式資料庫.md",
+    "知識/統計/資料探勘/資料儲存/關聯式資料庫.md",
+    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
@@ -322,7 +299,6 @@
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 分層方法.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/問卷設計/問卷設計.md",
-    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/抽樣調查/分層抽樣/配置率.md",
     "知識/統計/抽樣調查/分層抽樣/比例配置.md",
     "知識/統計/抽樣調查/分層抽樣",
