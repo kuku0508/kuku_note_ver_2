@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/資料探勘/資料儲存/資料儲存.md",
+                "file": "未處理/資料倉儲.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "資料儲存"
+              "title": "資料倉儲"
             }
           },
           {
@@ -290,8 +290,9 @@
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
-    "未處理/關聯式資料庫.md",
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
+    "未處理/資料倉儲.md",
+    "未處理/關聯式資料庫.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
@@ -324,7 +325,6 @@
     "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/抽樣調查/分層抽樣/配置率.md",
     "知識/統計/抽樣調查/分層抽樣/比例配置.md",
-    "未處理/PROC SGPANEL.md",
     "知識/統計/抽樣調查/分層抽樣",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
