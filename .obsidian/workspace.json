@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/資料探勘/資料探勘目錄.md",
+                "file": "知識/統計/資料探勘/資料儲存/資料倉儲.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "資料探勘目錄"
+              "title": "資料倉儲"
             }
           }
         ]
@@ -266,6 +266,7 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
+    "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
     "知識/統計/資料探勘/資料儲存/關聯式資料庫.md",
@@ -275,7 +276,6 @@
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義",
     "文本/Department/數學/統計/實驗設計",
-    "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/資料探勘/資料儲存",
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "文本/Department/程式語言/python/Python程式語言設計/專題.md",
