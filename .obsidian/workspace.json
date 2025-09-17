@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/實驗設計目錄.md",
+                "file": "未處理/關聯式資料庫.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗設計目錄"
+              "title": "關聯式資料庫"
             }
           },
           {
             "id": "3c8d8f2f3c892c8d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                "file": "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "chapter 1 The experiment, the design and the analysis"
+              "icon": "lucide-file",
+              "title": "尼曼配置"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +191,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -190,8 +201,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -200,8 +211,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -260,38 +271,35 @@
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
       "bases:建立新的 base": false,
-      "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open media": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templates:插入模板": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open media": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3c8d8f2f3c892c8d",
+  "active": "8170c139e5fc9288",
   "lastOpenFiles": [
-    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
-    "知識/統計/實驗設計/實驗設計目錄.md",
-    "知識/統計/實驗設計/基礎知識",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "知識/統計/資料探勘/基礎知識/資料探勘.md",
-    "知識/統計/實驗設計",
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
+    "知識/統計/實驗設計/實驗設計目錄.md",
+    "知識/統計/實驗設計",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義",
-    "文本/Department/數學/統計/實驗設計/未命名.canvas",
     "文本/Department/數學/統計/實驗設計",
     "未處理/關聯式資料庫.md",
     "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/資料探勘/資料儲存",
+    "知識/統計/資料探勘/基礎知識/資料探勘.md",
     "文本/Department/程式語言/python/Python程式語言設計/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計",
     "知識/統計/資料探勘/基礎知識",
@@ -313,8 +321,11 @@
     "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 分層方法.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/抽樣調查/基礎知識/資料收集/資料收集方法/問卷設計/問卷設計.md",
+    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/抽樣調查/分層抽樣/配置率.md",
     "知識/統計/抽樣調查/分層抽樣/比例配置.md",
+    "未處理/PROC SGPANEL.md",
+    "知識/統計/抽樣調查/分層抽樣",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
