@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/關聯式資料庫.md",
+                "file": "知識/統計/資料探勘/資料儲存/資料儲存.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "關聯式資料庫"
+              "title": "資料儲存"
             }
           },
           {
@@ -290,13 +290,13 @@
   },
   "active": "8170c139e5fc9288",
   "lastOpenFiles": [
+    "未處理/關聯式資料庫.md",
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義",
     "文本/Department/數學/統計/實驗設計",
-    "未處理/關聯式資料庫.md",
     "知識/統計/資料探勘/資料探勘目錄.md",
     "知識/統計/資料探勘/資料儲存",
     "知識/統計/資料探勘/基礎知識/資料探勘.md",
