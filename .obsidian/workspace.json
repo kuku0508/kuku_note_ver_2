@@ -11,12 +11,24 @@
             "id": "90e4ac7705e2a5a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md"
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 6 Fixed, Random, and Mixed Models 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "chapter 5 Factorial Experiments"
+              "icon": "lucide-file",
+              "title": "chapter 6 Fixed, Random, and Mixed Models 1"
             }
           }
         ]
@@ -254,8 +266,10 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 6 Fixed, Random, and Mixed Models.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 6 Fixed, Random, and Mixed Models 1.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
@@ -278,8 +292,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 8.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 7.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 6.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 5.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 4.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
