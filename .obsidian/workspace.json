@@ -13,13 +13,24 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/作業研究/講義/Chapter 1.md"
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 1"
+              "title": "chapter 1 The experiment, the design and the analysis"
+            }
+          },
+          {
+            "id": "3526a8acc65b5902",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +263,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "bb60239d8be64593",
+  "active": "3526a8acc65b5902",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 1.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 1.md",
@@ -265,7 +277,6 @@
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 15 讀檔與存檔.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 Pandas.md",
