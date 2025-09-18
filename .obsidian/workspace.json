@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,10 +289,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "933e7a0d15a3fc1b",
+  "active": "c04d87f07fc4f074",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
