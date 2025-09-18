@@ -11,10 +11,24 @@
             "id": "90e4ac7705e2a5a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/實驗設計/基礎知識/固定效應.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "固定效應"
             }
           }
         ]
@@ -250,13 +264,51 @@
       "obsidian42-brat:BRAT": false
     }
   },
+  "floating": {
+    "id": "c4d27a1e5ac43037",
+    "type": "floating",
+    "children": [
+      {
+        "id": "712f33e2ea3cf3de",
+        "type": "window",
+        "children": [
+          {
+            "id": "8de805d5f364b3f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d8a662e12da0f8b9",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 1 The experiment, the design and the analysis"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "知識/統計/實驗設計/基礎知識/固定效應.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "知識/統計/SAS/基礎知識/procedures.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
-    "知識/統計/實驗設計/基礎知識/固定效應.md",
     "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "知識/統計/實驗設計/基礎知識",
     "未處理/隨機效應.md",
@@ -280,7 +332,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1 介紹＆安裝環境.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
     "文本/Department/心理學/心理學導論/講義",
