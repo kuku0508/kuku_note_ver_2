@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb60239d8be64593",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chapter 1 The experiment, the design and the analysis"
-            }
-          },
-          {
             "id": "3526a8acc65b5902",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/實驗設計目錄.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,11 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗設計目錄"
+              "title": "實驗設計"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "6ee713f637e2139b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef2245963903b4fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "chapter 1 The experiment, the design and the analysis"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,10 +284,10 @@
   },
   "active": "3526a8acc65b5902",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計/基礎知識",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 1.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
     "文本/Department/數學/統計/作業研究/講義",
