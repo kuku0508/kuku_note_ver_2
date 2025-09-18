@@ -7,5 +7,15 @@
       ],
       "key": "M"
     }
+  ],
+  "editor:rename-heading": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
