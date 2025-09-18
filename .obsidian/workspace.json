@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/心理學/心理學導論/講義/Chapter 1.md"
+                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md"
               },
               "icon": "excalidraw-icon",
               "title": "Chapter 1"
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 331.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -254,8 +254,8 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "文本/Department/心理學/心理學導論/講義/Chapter 1.md",
+    "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "文本/Department/心理學/心理學導論/講義",
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
@@ -278,7 +278,7 @@
     "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/統計學/統計學目錄.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/第一章.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
     "知識/統計/抽樣調查/分層抽樣/事後分層.md",
     "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
     "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
