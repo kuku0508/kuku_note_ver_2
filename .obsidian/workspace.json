@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 3"
+              "title": "Chapter 10"
             }
           }
         ]
@@ -252,10 +252,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "90e4ac7705e2a5a2",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7 容器.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6 模組.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5 函數.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4 迴圈.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3 控制.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2 概論.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1 介紹＆安裝環境.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16.md",
@@ -265,7 +270,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 9.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 8.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 7.md",
@@ -276,10 +280,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 1.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5.md",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
