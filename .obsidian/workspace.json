@@ -23,10 +23,24 @@
             "id": "3526a8acc65b5902",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/實驗設計/實驗設計目錄.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "實驗設計目錄"
             }
           }
         ],
@@ -265,6 +279,9 @@
   },
   "active": "3526a8acc65b5902",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "知識/統計/實驗設計/實驗設計目錄.md",
+    "知識/統計/實驗設計/基礎知識",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 1.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
@@ -291,8 +308,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5 函數.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4 迴圈.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3 控制.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2 概論.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1 介紹＆安裝環境.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
@@ -300,7 +315,6 @@
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
     "知識/統計/實驗設計",
-    "文本/Department/數學/統計/實驗設計/講義",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
