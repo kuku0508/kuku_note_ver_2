@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "aba2efbfe836aa56",
+        "id": "8fb001856ecc6899",
         "type": "tabs",
         "children": [
           {
-            "id": "90e4ac7705e2a5a2",
+            "id": "68f4bb5b93ee5d55",
             "type": "leaf",
             "state": {
-              "type": "mx-welcome",
-              "state": {},
-              "icon": "home",
-              "title": "Media Extended onboarding"
+              "type": "markdown",
+              "state": {
+                "file": "未處理/隨機效應.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "隨機效應"
             }
           }
         ]
@@ -278,24 +292,24 @@
           }
         ],
         "direction": "vertical",
-        "x": 882,
-        "y": 20,
-        "width": 796,
-        "height": 1352,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "90e4ac7705e2a5a2",
+  "active": "68f4bb5b93ee5d55",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "知識/統計/實驗設計/基礎知識/固定效應.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計.md",
-    "知識/統計/SAS/基礎知識/procedures.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "知識/統計/實驗設計/基礎知識/固定效應.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "未處理/First Media Note.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "知識/統計/SAS/基礎知識/procedures.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
     "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "知識/統計/實驗設計/基礎知識",
@@ -316,7 +330,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 15 讀檔與存檔.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11 爬蟲part3：selenium.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12 爬蟲part4：API串接.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10 爬蟲part2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
