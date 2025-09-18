@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 10"
+              "title": "Chapter 13"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 393.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -254,6 +254,9 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12 爬蟲part4：API串接.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11 爬蟲part3：selenium.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10 爬蟲part2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7 容器.md",
@@ -267,9 +270,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 15.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 9.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 8.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 7.md",
