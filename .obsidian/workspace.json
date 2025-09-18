@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/因子.md",
+                "file": "未處理/水準.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "因子"
+              "title": "水準"
             }
           },
           {
@@ -291,8 +291,9 @@
   },
   "active": "3526a8acc65b5902",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
+    "未處理/水準.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
     "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
@@ -319,7 +320,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12 爬蟲part4：API串接.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11 爬蟲part3：selenium.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10 爬蟲part2.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
