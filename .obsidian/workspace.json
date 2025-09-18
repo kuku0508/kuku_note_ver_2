@@ -11,24 +11,10 @@
             "id": "90e4ac7705e2a5a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/實驗設計/基礎知識/固定效應.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "固定效應"
+              "type": "mx-welcome",
+              "state": {},
+              "icon": "home",
+              "title": "Media Extended onboarding"
             }
           }
         ]
@@ -261,7 +247,9 @@
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open media": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "media-extended:Open external media": false,
+      "sheet-plus:建立 Excel 檔案": false
     }
   },
   "floating": {
@@ -269,22 +257,34 @@
     "type": "floating",
     "children": [
       {
-        "id": "712f33e2ea3cf3de",
+        "id": "76272d1f28884023",
         "type": "window",
         "children": [
           {
-            "id": "8de805d5f364b3f5",
+            "id": "df7534a3d6f23248",
             "type": "tabs",
             "children": [
               {
-                "id": "d8a662e12da0f8b9",
+                "id": "47dbd5822fbe07a8",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
-                  "icon": "excalidraw-icon",
+                  "icon": "lucide-file",
                   "title": "chapter 1 The experiment, the design and the analysis"
                 }
               }
@@ -292,16 +292,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "90e4ac7705e2a5a2",
+  "active": "47dbd5822fbe07a8",
   "lastOpenFiles": [
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/固定效應.md",
