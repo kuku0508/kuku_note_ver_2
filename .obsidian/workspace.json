@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 1"
+              "title": "Chapter 2"
             }
           }
         ]
@@ -254,8 +254,9 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/程式語言/python/Python程式語言設計/隨機筆記/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
+    "文本/Department/程式語言/python/Python程式語言設計/隨機筆記/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
@@ -289,7 +290,6 @@
     "知識/統計/抽樣調查/分層抽樣/累積平方根次數法.md",
     "知識/程式語言/HTML/語法表/下標.md",
     "知識/統計/抽樣調查/分層抽樣/分層抽樣.md",
-    "知識/統計/抽樣調查/分層抽樣/分層抽樣 - 分層方法.md",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
