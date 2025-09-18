@@ -16,21 +16,8 @@
               "icon": "home",
               "title": "Media Extended onboarding"
             }
-          },
-          {
-            "id": "0d6439dbbd93dab4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization 1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,10 +250,47 @@
       "sheet-plus:建立 Excel 檔案": false
     }
   },
-  "active": "0d6439dbbd93dab4",
+  "floating": {
+    "id": "c4d27a1e5ac43037",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e0170e7505ebf349",
+        "type": "window",
+        "children": [
+          {
+            "id": "4d21dce043becb1b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0d6439dbbd93dab4",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 1 The experiment, the design and the analysis"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 882,
+        "y": 20,
+        "width": 796,
+        "height": 1352,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization 1.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/基礎知識/固定效應.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
