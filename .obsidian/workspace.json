@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
+                "file": "知識/統計/實驗設計/基礎知識/因子.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗設計"
+              "title": "因子"
             }
           },
           {
@@ -290,8 +290,9 @@
   },
   "active": "3526a8acc65b5902",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "知識/統計/實驗設計/基礎知識/因子.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
@@ -318,7 +319,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6 模組.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5 函數.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4 迴圈.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3 控制.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
