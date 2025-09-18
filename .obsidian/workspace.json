@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 6"
+              "title": "Chapter 8"
             }
           }
         ]
@@ -254,11 +254,21 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 7.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 6.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 5.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 4.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 3.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 2.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 1.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1.md",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
@@ -277,19 +287,9 @@
     "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義",
     "文本/Department/數學/統計/實驗設計",
     "知識/統計/資料探勘/資料儲存",
-    "知識/統計/資料探勘/基礎知識/資料探勘.md",
-    "文本/Department/程式語言/python/Python程式語言設計",
-    "知識/統計/抽樣調查/抽樣調查目錄.md",
-    "知識/統計/抽樣調查/基礎知識/抽樣調查.md",
-    "知識/統計/統計知識總目錄.md",
-    "知識/統計/統計學/統計學目錄.md",
-    "知識/統計/抽樣調查/分層抽樣/事後分層.md",
-    "文本/Department/數學/統計/抽樣調查/講義/Ch-05 Stratified Random Sampling.md",
-    "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
