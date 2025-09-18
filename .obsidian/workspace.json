@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 2 Single-Factor Experiments with No Restrictions on Randomization.md"
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 4.md"
               },
               "icon": "excalidraw-icon",
-              "title": "chapter 2 Single-Factor Experiments with No Restrictions on Randomization"
+              "title": "chapter 4"
             }
           }
         ]
@@ -254,8 +254,9 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 4.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 2 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 15 讀檔與存檔.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 Pandas.md",
@@ -279,7 +280,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 5.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 4.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 3.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
