@@ -32,24 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6ee713f637e2139b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef2245963903b4fd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chapter 1 The experiment, the design and the analysis"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
