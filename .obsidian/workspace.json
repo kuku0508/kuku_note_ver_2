@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "樣本",
+                "query": "連續",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -291,6 +292,9 @@
   "active": "3526a8acc65b5902",
   "lastOpenFiles": [
     "知識/統計/統計學/基礎知識/變數.md",
+    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
+    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
+    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
     "知識/統計/迴歸分析/基礎知識/預測變數.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
@@ -316,9 +320,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11 爬蟲part3：selenium.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10 爬蟲part2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7 容器.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6 模組.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
