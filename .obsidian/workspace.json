@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 291.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -252,7 +252,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "90e4ac7705e2a5a2",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "文本/Department/心理學/心理學導論/講義/Chapter 1.md",
