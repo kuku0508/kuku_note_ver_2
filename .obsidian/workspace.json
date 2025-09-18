@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 9"
+              "title": "Chapter 11"
             }
           }
         ]
@@ -254,10 +254,11 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 9.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 8.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 7.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 6.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 5.md",
@@ -266,6 +267,9 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 1.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4.md",
@@ -282,10 +286,6 @@
     "文本/Department/心理學/心理學導論/講義",
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
-    "知識/統計/資料探勘/資料探勘目錄.md",
-    "知識/統計/資料探勘/資料儲存/資料儲存.md",
-    "知識/統計/資料探勘/資料儲存/關聯式資料庫.md",
-    "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
     "知識/統計/實驗設計",
     "文本/Department/數學/統計/實驗設計/講義",
     "文本/Department/數學/統計/實驗設計",
