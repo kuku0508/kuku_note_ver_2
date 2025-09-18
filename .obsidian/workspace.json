@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0057537971748c49",
+        "id": "aba2efbfe836aa56",
         "type": "tabs",
         "children": [
           {
-            "id": "3526a8acc65b5902",
+            "id": "90e4ac7705e2a5a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未處理/隨機效應.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "隨機效應"
-            }
-          },
-          {
-            "id": "c04d87f07fc4f074",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chapter 1 The experiment, the design and the analysis"
-            }
-          },
-          {
-            "id": "933e7a0d15a3fc1b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -87,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "連續",
+                "query": "樣本",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 439.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -191,8 +153,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -201,8 +163,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -211,8 +173,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -265,7 +227,6 @@
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
@@ -273,59 +234,60 @@
       "workspaces:管理工作區配置": false,
       "bases:建立新的 base": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
       "sheet-plus:Create excel file": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open media": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templates:插入模板": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open media": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3526a8acc65b5902",
+  "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "未處理/隨機效應.md",
-    "未處理/水準.md",
-    "知識/統計/實驗設計/基礎知識/固定效應.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "知識/統計/SAS/基礎知識/procedures.md",
+    "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "知識/統計/統計學/基礎知識/變數.md",
-    "知識/統計/統計學/分配/隨機變數/隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/連續型隨機變數.md",
-    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
-    "知識/統計/迴歸分析/基礎知識/預測變數.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
-    "知識/統計/實驗設計/實驗設計目錄.md",
+    "知識/統計/實驗設計/基礎知識/固定效應.md",
+    "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "知識/統計/實驗設計/基礎知識",
-    "文本/Department/數學/統計/作業研究/講義/Chapter 1.md",
+    "未處理/隨機效應.md",
+    "文本/Department/程式語言/python/Python程式語言設計/隨機筆記/專題.md",
+    "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6 模組.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7 容器.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5 函數.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4 迴圈.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3 控制.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2 概論.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13 Numpy.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 Pandas.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 15 讀檔與存檔.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11 爬蟲part3：selenium.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12 爬蟲part4：API串接.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10 爬蟲part2.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1 介紹＆安裝環境.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 9 1.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 8 Experiments of Two or More Factors-Restrictions on Randomization.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 7 Nested and Nested-Factorial Experiments.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 6 Fixed, Random, and Mixed Models.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 15 讀檔與存檔.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 Pandas.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13 Numpy.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12 爬蟲part4：API串接.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義 1",
-    "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
-    "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/心理學/心理學導論/講義",
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
     "知識/統計/實驗設計",
+    "文本/Department/數學/統計/實驗設計/講義",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
