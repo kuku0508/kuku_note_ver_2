@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "實驗設計"
             }
+          },
+          {
+            "id": "c04d87f07fc4f074",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "chapter 1 The experiment, the design and the analysis"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,10 +277,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3526a8acc65b5902",
+  "active": "c04d87f07fc4f074",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/數學/統計/作業研究/講義/Chapter 1.md",
