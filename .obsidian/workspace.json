@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/水準.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "水準"
+              "title": "實驗設計"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +108,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -290,12 +288,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c04d87f07fc4f074",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/水準.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "未處理/水準.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/分配/隨機變數/隨機變數.md",
