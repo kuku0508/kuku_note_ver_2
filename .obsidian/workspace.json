@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/固定效應.md",
+                "file": "知識/統計/實驗設計/基礎知識/固定效應.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -291,8 +291,9 @@
   "active": "3526a8acc65b5902",
   "lastOpenFiles": [
     "未處理/水準.md",
-    "未處理/固定效應.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "未處理/隨機效應.md",
+    "知識/統計/實驗設計/基礎知識/固定效應.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
@@ -318,7 +319,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 Pandas.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13 Numpy.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12 爬蟲part4：API串接.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11 爬蟲part3：selenium.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
