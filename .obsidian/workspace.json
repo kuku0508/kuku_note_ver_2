@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 8"
+              "title": "Chapter 9"
             }
           }
         ]
@@ -254,8 +254,9 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 7.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 6.md",
@@ -285,7 +286,6 @@
     "知識/統計/資料探勘/資料儲存/資料儲存.md",
     "知識/統計/資料探勘/資料儲存/關聯式資料庫.md",
     "知識/統計/抽樣調查/分層抽樣/尼曼配置.md",
-    "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計",
     "文本/Department/數學/統計/實驗設計/講義",
     "文本/Department/數學/統計/實驗設計",
