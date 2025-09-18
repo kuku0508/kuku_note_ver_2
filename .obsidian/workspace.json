@@ -11,12 +11,24 @@
             "id": "90e4ac7705e2a5a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12.md"
+                "file": "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 12"
+              "icon": "lucide-file",
+              "title": "Chapter 14 1"
             }
           }
         ]
@@ -254,8 +266,11 @@
   },
   "active": "90e4ac7705e2a5a2",
   "lastOpenFiles": [
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 1.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 12.md",
+    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 11.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 10.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 9.md",
@@ -280,9 +295,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
-    "文本/Department/心理學/心理學導論/講義/Chapter 1.md",
     "文本/Department/心理學/心理學導論/講義",
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
