@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aba2efbfe836aa56",
+        "id": "0057537971748c49",
         "type": "tabs",
         "children": [
           {
-            "id": "90e4ac7705e2a5a2",
+            "id": "bb60239d8be64593",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 9.md"
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md"
               },
               "icon": "excalidraw-icon",
-              "title": "chapter 9"
+              "title": "chapter 9 2f Factorial Experiments"
             }
           }
         ]
@@ -252,10 +252,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "90e4ac7705e2a5a2",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 9 1.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 8 Experiments of Two or More Factors-Restrictions on Randomization.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 9.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 7 Nested and Nested-Factorial Experiments.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 6 Fixed, Random, and Mixed Models.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
@@ -279,7 +280,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2 概論.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 1 介紹＆安裝環境.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 9.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義 1/Chapter 8.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義 1",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
