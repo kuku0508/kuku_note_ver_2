@@ -292,10 +292,12 @@
                 "id": "87469b2fc9ddf849",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
                 }
               }
             ],
