@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/處理.md",
+                "file": "未處理/因子實驗.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "處理"
+              "title": "因子實驗"
             }
           }
         ],
@@ -316,11 +316,12 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "未處理/因子實驗.md",
+    "知識/統計/實驗設計/基礎知識/處理.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "未處理/處理.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "conflict-files-obsidian-git.md",
     "知識/統計/實驗設計/基礎知識/隨機效應.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
@@ -343,7 +344,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3 控制.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 2 概論.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 13 Numpy.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 14 Pandas.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
