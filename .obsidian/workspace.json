@@ -11,12 +11,24 @@
             "id": "68f4bb5b93ee5d55",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
+              "icon": "lucide-file",
+              "title": "實驗設計"
             }
           }
         ]
@@ -289,10 +301,10 @@
       }
     ]
   },
-  "active": "0d6439dbbd93dab4",
+  "active": "68f4bb5b93ee5d55",
   "lastOpenFiles": [
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "知識/統計/實驗設計/基礎知識/隨機效應.md",
     "知識/統計/實驗設計/基礎知識/Drawing 2025-09-19 02.47.11.excalidraw.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
