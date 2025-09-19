@@ -42,33 +42,9 @@
               "icon": "lucide-file",
               "title": "實驗設計"
             }
-          },
-          {
-            "id": "ca6ef11638acf58e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -338,7 +314,7 @@
       }
     ]
   },
-  "active": "ca6ef11638acf58e",
+  "active": "0d6439dbbd93dab4",
   "lastOpenFiles": [
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "conflict-files-obsidian-git.md",
