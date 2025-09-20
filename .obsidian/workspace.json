@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
+                "file": "文本/名言/山姆的演講.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗設計"
+              "title": "山姆的演講"
             }
           }
         ],
@@ -326,8 +326,10 @@
       }
     ]
   },
-  "active": "0d6439dbbd93dab4",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "資料庫/名言資料庫.base",
+    "文本/名言/我一直很敬佩.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "未處理/巢式實驗.md",
@@ -354,8 +356,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7 容器.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 5 函數.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 4 迴圈.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 3 控制.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
@@ -363,7 +363,6 @@
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
     "知識/統計/實驗設計",
-    "文本/Department/數學/統計/實驗設計/講義",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
