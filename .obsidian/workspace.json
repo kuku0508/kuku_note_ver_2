@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/巢式實驗.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "巢式實驗"
+              "title": "實驗設計"
             }
           }
         ],
@@ -313,8 +313,7 @@
                   "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -327,14 +326,14 @@
       }
     ]
   },
-  "active": "b4d626a752099f2e",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "未處理/巢式實驗.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "知識/統計/實驗設計/基礎知識/因子實驗.md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "知識/統計/實驗設計/基礎知識/隨機效應.md",
     "知識/統計/實驗設計/基礎知識/處理.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
