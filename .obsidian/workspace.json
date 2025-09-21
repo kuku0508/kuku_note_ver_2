@@ -300,8 +300,21 @@
                   "icon": "excalidraw-icon",
                   "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
                 }
+              },
+              {
+                "id": "f643455a6d5c32ba",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "CH1 and CH2"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -314,10 +327,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "f643455a6d5c32ba",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "資料庫/名言資料庫.base",
     "文本/名言/山姆的演講.md",
     "文本/名言/我一直很敬佩.md",
