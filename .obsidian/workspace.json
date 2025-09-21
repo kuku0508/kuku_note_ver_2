@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "樣本",
+                "query": "筆記",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -351,11 +351,12 @@
       }
     ]
   },
-  "active": "d21af103c160c766",
+  "active": "74274b5d011aaa67",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
+    "模板/筆記.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "未處理/外部資料.md",
-    "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "資料庫/名言資料庫.base",
@@ -381,7 +382,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6 模組.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
