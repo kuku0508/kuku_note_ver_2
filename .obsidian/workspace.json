@@ -312,9 +312,33 @@
                   "icon": "excalidraw-icon",
                   "title": "CH1 and CH2"
                 }
+              },
+              {
+                "id": "74274b5d011aaa67",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "未處理/外部資料.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "外部資料"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -327,8 +351,10 @@
       }
     ]
   },
-  "active": "f643455a6d5c32ba",
+  "active": "74274b5d011aaa67",
   "lastOpenFiles": [
+    "未處理/外部資料.md",
+    "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
@@ -356,8 +382,6 @@
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 6 模組.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 7 容器.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 16 字串.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
