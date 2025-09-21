@@ -25,10 +25,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/作業研究/講義/Chapter 2.md"
+                "file": "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 2"
+              "title": "CH1 and CH2"
             }
           }
         ],
@@ -351,12 +351,12 @@
       }
     ]
   },
-  "active": "74274b5d011aaa67",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "未處理/外部資料.md",
     "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "資料庫/名言資料庫.base",
     "文本/名言/山姆的演講.md",
