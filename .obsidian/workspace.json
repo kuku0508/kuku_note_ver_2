@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md"
+                "file": "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md"
               },
               "icon": "excalidraw-icon",
               "title": "CH1 and CH2"
@@ -307,7 +307,7 @@
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md"
+                    "file": "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md"
                   },
                   "icon": "excalidraw-icon",
                   "title": "CH1 and CH2"
@@ -319,7 +319,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "未處理/外部資料.md",
+                    "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -351,12 +351,13 @@
       }
     ]
   },
-  "active": "74274b5d011aaa67",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/進階R/講義/CH1 and CH2.md",
+    "文本/Department/數學/統計/進階R/資料/外部資料.md",
+    "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
+    "文本/Department/數學/統計/進階R/資料",
     "模板/筆記.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
-    "未處理/外部資料.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "資料庫/名言資料庫.base",
@@ -381,14 +382,12 @@
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記/專題.md",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 9 Matplotlib.md",
-    "文本/Department/程式語言/python/Python程式語言設計/講義/Chapter 8 爬蟲.md",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
     "文本/Department/數學/統計/作業研究/講義",
     "文本/Department/數學/統計/作業研究",
     "文本/Department/心理學/心理學導論/講義",
     "文本/Department/心理學/心理學導論",
     "文本/Department/心理學",
-    "知識/統計/實驗設計",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
