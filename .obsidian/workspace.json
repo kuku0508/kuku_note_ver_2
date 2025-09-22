@@ -23,12 +23,24 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md"
+                "file": "文本/Department/數學/統計/進階R/上課筆記.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "CH1 and CH2"
+              "icon": "lucide-file",
+              "title": "上課筆記"
             }
           }
         ],
@@ -337,8 +349,7 @@
                   "title": "外部資料"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
@@ -351,14 +362,15 @@
       }
     ]
   },
-  "active": "74274b5d011aaa67",
+  "active": "3069153642c832a3",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "文本/Department/數學/統計/進階R/資料/外部資料.md",
+    "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
-    "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/進階R/資料",
     "模板/筆記.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "資料庫/名言資料庫.base",
     "文本/名言/山姆的演講.md",
