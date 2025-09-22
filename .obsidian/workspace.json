@@ -15,8 +15,8 @@
               "state": {
                 "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/上課筆記.md",
+                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "上課筆記"
+              "title": "外部資料"
             }
           }
         ],
@@ -67,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "檔案瀏覽器"
+              "title": "Files"
             }
           },
           {
@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -190,8 +190,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -200,8 +200,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -250,31 +250,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "command-palette:開啟命令面板": false,
-      "zk-prefixer:建立新唯一筆記": false,
-      "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false,
-      "workspaces:管理工作區配置": false,
-      "bases:建立新的 base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:Create excel file": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templates:插入模板": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian42-brat:BRAT": false,
-      "media-extended:Open external media": false,
-      "sheet-plus:建立 Excel 檔案": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "floating": {
@@ -289,42 +289,6 @@
             "id": "4d21dce043becb1b",
             "type": "tabs",
             "children": [
-              {
-                "id": "0d6439dbbd93dab4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 1 The experiment, the design and the analysis"
-                }
-              },
-              {
-                "id": "b4d626a752099f2e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
-                }
-              },
-              {
-                "id": "f643455a6d5c32ba",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "CH1 and CH2"
-                }
-              },
               {
                 "id": "74274b5d011aaa67",
                 "type": "leaf",
@@ -355,8 +319,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "width": 960,
+        "height": 1152,
         "maximize": false,
         "zoom": 0
       }
@@ -364,10 +328,11 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
+    "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "文本/Department/數學/統計/進階R/資料",
     "模板/筆記.md",
@@ -376,7 +341,6 @@
     "文本/名言/山姆的演講.md",
     "文本/名言/我一直很敬佩.md",
     "未處理/巢式實驗.md",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "知識/統計/實驗設計/基礎知識/因子實驗.md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "知識/統計/實驗設計/基礎知識/隨機效應.md",
