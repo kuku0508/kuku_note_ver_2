@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/上課筆記.md",
+                "file": "文本/名言/for those who'll come after.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "上課筆記"
+              "title": "for those who'll come after"
             }
           }
         ],
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "筆記",
+                "query": "[\"參考資料\":光與影]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,7 +97,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -362,10 +363,10 @@
       }
     ]
   },
-  "active": "d21af103c160c766",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
+    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
