@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
+                "file": "文本/Department/數學/統計/進階R/上課筆記.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "外部資料"
+              "title": "上課筆記"
             }
           }
         ],
@@ -328,8 +328,8 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
+    "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
