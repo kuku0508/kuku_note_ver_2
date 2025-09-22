@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "上課筆記"
             }
+          },
+          {
+            "id": "1d66cfa914c793a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -362,11 +386,12 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "1d66cfa914c793a8",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/進階R/上課筆記.md",
+    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
-    "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "文本/Department/數學/統計/進階R/資料",
@@ -383,7 +408,6 @@
     "知識/統計/實驗設計/基礎知識/處理.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
-    "conflict-files-obsidian-git.md",
     "知識/統計/實驗設計/基礎知識/Drawing 2025-09-19 02.47.11.excalidraw.md",
     "知識/統計/實驗設計/基礎知識/固定效應.md",
     "未處理/First Media Note.md",
