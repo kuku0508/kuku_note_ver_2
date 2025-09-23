@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "上課筆記"
             }
+          },
+          {
+            "id": "fde9eebd122ab60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -362,12 +386,12 @@
       }
     ]
   },
-  "active": "4905539b127e8cf9",
+  "active": "0d6439dbbd93dab4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/名言/for those who'll come after.md",
-    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
