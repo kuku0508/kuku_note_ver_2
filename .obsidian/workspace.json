@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/實驗設計目錄.md",
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機實驗.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗設計目錄"
+              "title": "完全隨機實驗"
             }
           }
         ],
@@ -365,6 +365,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/實驗設計目錄.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機實驗.md",
+    "知識/統計/實驗設計/完全隨機實驗",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
@@ -391,8 +394,6 @@
     "知識/統計/實驗設計/基礎知識/Drawing 2025-09-19 02.47.11.excalidraw.md",
     "知識/統計/實驗設計/基礎知識/固定效應.md",
     "未處理/First Media Note.md",
-    "知識/統計/SAS/基礎知識/procedures.md",
-    "知識/統計/資料探勘/資料儲存/資料倉儲.md",
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
@@ -400,7 +401,6 @@
     "文本/Department/數學/統計/作業研究",
     "文本/Department/心理學/心理學導論/講義",
     "文本/Department/心理學/心理學導論",
-    "文本/Department/心理學",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
