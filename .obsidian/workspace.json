@@ -23,24 +23,17 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/隨機效果.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未處理/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "隨機效果"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ],
@@ -365,8 +358,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/基礎知識/固定效果.md",
     "知識/統計/實驗設計/基礎知識/隨機效果.md",
+    "未處理/未命名.canvas",
+    "知識/統計/實驗設計/基礎知識/固定效果.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
@@ -393,7 +387,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "知識/統計/實驗設計/基礎知識/處理.md",
     "知識/統計/實驗設計/基礎知識/Drawing 2025-09-19 02.47.11.excalidraw.md",
-    "未處理/First Media Note.md",
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
@@ -411,7 +404,6 @@
     "文本/Department/數學/統計/無母數統計/題目型作業/表/one-sample runs test result in R.png",
     "文本/Department/數學/統計/無母數統計/題目型作業/表/NA Assignment 7 Friedman test SAS output.png",
     "文本/Department/數學/統計/無母數統計/題目型作業/表/NA Assignment 7 chi-square table.png",
-    "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
   ]
