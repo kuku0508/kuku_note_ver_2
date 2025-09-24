@@ -23,17 +23,24 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未處理/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "知識/統計/實驗設計/基礎知識/隨機效果.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "隨機效果"
             }
           }
         ],
@@ -358,8 +365,8 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/基礎知識/隨機效果.md",
     "未處理/未命名.canvas",
+    "知識/統計/實驗設計/基礎知識/隨機效果.md",
     "知識/統計/實驗設計/基礎知識/固定效果.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
