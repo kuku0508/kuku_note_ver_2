@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "完全隨機設計"
+              "title": "完全隨機設計 - 模型"
             }
           }
         ],
@@ -365,14 +365,15 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/實驗設計目錄.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/基礎知識/隨機效果.md",
     "未處理/未命名.canvas",
     "知識/統計/實驗設計/基礎知識/固定效果.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
