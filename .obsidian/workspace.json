@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
+                "file": "知識/統計/實驗設計/基礎知識/隨機效應.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "完全隨機設計"
+              "title": "隨機效應"
             }
           }
         ],
@@ -357,7 +357,7 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 696,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
@@ -365,9 +365,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/統計/實驗設計/完全隨機實驗",
