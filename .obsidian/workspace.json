@@ -43,8 +43,7 @@
               "title": "完全隨機設計 - 模型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 268.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -180,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -190,8 +189,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -200,8 +199,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -250,31 +249,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
       "bases:建立新的 base": false,
-      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templates:插入模板": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian42-brat:BRAT": false,
-      "media-extended:Open external media": false,
-      "sheet-plus:建立 Excel 檔案": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -309,8 +308,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "CH1 and CH2"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -345,28 +344,28 @@
                   "state": {
                     "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d21af103c160c766",
+  "active": "68f4bb5b93ee5d55",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/實驗設計目錄.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
+    "知識/統計/實驗設計/實驗設計目錄.md",
     "知識/程式語言/MarkDown/語法/語法表/簡易超連結.md",
     "文本/Department/數學/統計/統計學/文本/範例/F檢定範例 - 精準抓量.md",
     "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
@@ -382,7 +381,6 @@
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
     "conflict-files-obsidian-git.md",
