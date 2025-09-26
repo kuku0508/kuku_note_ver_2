@@ -337,8 +337,7 @@
                   "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
@@ -351,8 +350,9 @@
       }
     ]
   },
-  "active": "d21af103c160c766",
+  "active": "f1fc035465709c9c",
   "lastOpenFiles": [
+    "文本/書/我可以被擁抱嗎？因為太過寂寞而叫了蕾絲邊應召.md",
     "文本/書/英文課本.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
@@ -381,7 +381,6 @@
     "文本/名言/for those who'll come after.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "文本/Department/數學/統計/進階R/資料",
-    "模板/筆記.md",
     "資料庫/名言資料庫.base",
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
