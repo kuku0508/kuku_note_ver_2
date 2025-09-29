@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
+                "file": "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "光與影：33號遠征隊 - 評論"
+              "title": "Clair Obscur：Expedition 33 - 光與影：33號遠征隊"
             }
           }
         ],
@@ -339,11 +339,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
     "文本/遊戲/光與影：33號遠征隊/文本",
     "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
-    "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
     "模板/遊戲.md",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
     "資料庫/👾遊戲清單.base",
@@ -381,7 +381,6 @@
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
     "文本/Department/程式語言/python/Python程式語言設計/講義",
-    "文本/Department/數學/統計/作業研究/講義",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 - Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
