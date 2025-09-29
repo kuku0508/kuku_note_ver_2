@@ -23,24 +23,10 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Clair Obscur：Expedition 33 - 光與影：33號遠征隊"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ],
@@ -341,9 +327,10 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.14.md",
+    "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
     "文本/遊戲/光與影：33號遠征隊/文本",
-    "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "模板/遊戲.md",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
     "資料庫/👾遊戲清單.base",
