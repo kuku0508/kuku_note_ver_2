@@ -17,6 +17,10 @@
     {
       "folder": "未處理",
       "template": "模板/筆記.md"
+    },
+    {
+      "folder": "資料庫/👾遊戲清單",
+      "template": "模板/遊戲.md"
     }
   ],
   "enable_file_templates": false,

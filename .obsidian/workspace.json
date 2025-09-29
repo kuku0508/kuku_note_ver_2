@@ -26,7 +26,7 @@
               "type": "bases",
               "state": {
                 "file": "資料庫/👾遊戲清單.base",
-                "viewName": "卡片(icon)"
+                "viewName": "卡片(封面)"
               },
               "icon": "lucide-layout-grid",
               "title": "👾遊戲清單"
@@ -330,8 +330,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
     "資料庫/名言資料庫.base",
+    "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
+    "資料庫/👾遊戲清單/未命名.md",
     "資料庫/👾遊戲清單.base",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
@@ -358,7 +359,6 @@
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 9 2f Factorial Experiments.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/進階R/資料",
     "知識/統計/實驗設計/基礎知識",
     "文本/Department/程式語言/python/Python程式語言設計/隨機筆記",
