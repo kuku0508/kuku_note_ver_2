@@ -23,13 +23,24 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/名言資料庫.base",
-                "viewName": "表格"
+                "file": "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "名言資料庫"
+              "icon": "lucide-file",
+              "title": "Clair Obscur：Expedition 33 - 光與影：33號遠征隊"
             }
           }
         ],
@@ -330,11 +341,12 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "資料庫/👾遊戲清單.base",
+    "未處理/附件/光與影：33號遠征隊 - 封面.png",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
-    "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
-    "未處理/附件/33號遠征隊 - icon.png",
     "資料庫/名言資料庫.base",
+    "資料庫/👾遊戲清單.base",
+    "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
+    "未處理/附件/光與影：33號遠征隊 - icon.png",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
