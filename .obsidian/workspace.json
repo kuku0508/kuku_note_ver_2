@@ -26,7 +26,7 @@
               "type": "bases",
               "state": {
                 "file": "資料庫/👾遊戲清單.base",
-                "viewName": "卡片(封面)"
+                "viewName": "卡片(icon)"
               },
               "icon": "lucide-layout-grid",
               "title": "👾遊戲清單"

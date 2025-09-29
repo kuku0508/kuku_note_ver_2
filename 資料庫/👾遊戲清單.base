@@ -22,13 +22,13 @@ views:
       note.型態: 299
   - type: cards
     name: 卡片(封面)
-    image: note.封面
+    image: note.封面 600*900
     imageFit: contain
     cardSize: 190
     imageAspectRatio: 1.5
   - type: cards
     name: 卡片(icon)
-    image: note.icon
+    image: note.icon 512*512
     imageAspectRatio: 1
     imageFit: contain
     cardSize: 190
