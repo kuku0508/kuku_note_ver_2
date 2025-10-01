@@ -23,24 +23,12 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/辯論/一辯稿/菁英盃.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md"
               },
-              "icon": "lucide-file",
-              "title": "菁英盃"
+              "icon": "excalidraw-icon",
+              "title": "MA chapter7"
             }
           }
         ],
@@ -340,6 +328,12 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter6.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter5.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter2.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter4.md",
+    "文本/Department/辯論/一辯稿/菁英盃.md",
     "文本/Department/辯論/一辯稿/廉政盃.md",
     "文本/Department/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
@@ -369,12 +363,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/統計/實驗設計/實驗設計目錄.md",
-    "知識/程式語言/MarkDown/語法/語法表/簡易超連結.md",
-    "文本/Department/數學/統計/統計學/文本/範例/F檢定範例 - 精準抓量.md",
-    "知識/程式語言/Mermaid/語法/流程圖/子流程區域方向.md",
-    "知識/統計/迴歸分析/基礎知識/殘差.md",
-    "知識/統計/迴歸分析/簡單線性迴歸/誤差項.md",
-    "知識/統計/實驗設計/基礎知識/隨機效果.md",
     "未處理/未命名.canvas",
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料",
