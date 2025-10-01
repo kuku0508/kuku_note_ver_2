@@ -15,8 +15,8 @@
               "state": {
                 "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
@@ -168,8 +168,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -178,8 +178,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -188,8 +188,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -238,7 +238,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -249,20 +248,21 @@
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
       "bases:建立新的 base": false,
+      "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
       "omnisearch:Omnisearch": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templates:插入模板": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "obsidian42-brat:BRAT": false,
-      "media-extended:Open external media": false,
-      "sheet-plus:建立 Excel 檔案": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "floating": {
@@ -297,8 +297,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -309,8 +309,8 @@
                   "state": {
                     "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               }
             ]
@@ -320,14 +320,15 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 1392,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d21af103c160c766",
+  "active": "b4d626a752099f2e",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.14.md",
@@ -363,7 +364,6 @@
     "未處理/未命名.canvas",
     "知識/統計/實驗設計/基礎知識/固定效果.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
-    "知識/統計/實驗設計/基礎知識/因子.md",
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料",
     "知識/統計/實驗設計/基礎知識",
