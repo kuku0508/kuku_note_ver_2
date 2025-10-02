@@ -23,24 +23,12 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/敘述統計.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md"
               },
-              "icon": "lucide-file",
-              "title": "敘述統計"
+              "icon": "excalidraw-icon",
+              "title": "MA chapter3"
             }
           }
         ],
@@ -76,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "描述統計",
+                "query": "多變量",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -97,8 +85,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -342,6 +329,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
+    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+    "知識/統計/統計學/基礎知識/敘述統計.md",
     "知識/統計/統計學/基礎知識/推論統計.md",
     "文本/書/Business Statistics Communicating with Numbers.md",
     "知識/統計/統計學/圖表/圖/點圖.md",
@@ -374,9 +364,6 @@
     "文本/遊戲/光與影：33號遠征隊",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - 封面.png",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
-    "文本/書/思辨賽局 (修訂版)：看穿局勢、創造優勢的策略智慧.md",
-    "文本/書/思辨，從問對問題開始：美國大學邏輯思考聖經.md",
     "未處理/未命名.canvas",
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料",
