@@ -313,7 +313,8 @@
                   "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -326,7 +327,7 @@
       }
     ]
   },
-  "active": "b4d626a752099f2e",
+  "active": "4320563f1ed9d430",
   "lastOpenFiles": [
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
