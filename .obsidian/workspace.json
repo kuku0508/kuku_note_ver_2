@@ -324,9 +324,19 @@
                   "icon": "excalidraw-icon",
                   "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
+              },
+              {
+                "id": "0a1f5452607db0aa",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新分頁"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -339,8 +349,13 @@
       }
     ]
   },
-  "active": "d21af103c160c766",
+  "active": "0a1f5452607db0aa",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/統計學/講義/ch1.1~ch2.2.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "知識/統計/統計學/圖表/圖/點圖.md",
     "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
     "知識/統計/統計學/圖表/圖/長條圖.md",
@@ -351,8 +366,6 @@
     "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "知識/統計/統計學/圖表/圖/柏拉圖.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 2/chapter 4 2.14.md",
     "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
@@ -368,14 +381,11 @@
     "文本/遊戲/光與影：33號遠征隊",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - 封面.png",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "文本/書/思辨賽局 (修訂版)：看穿局勢、創造優勢的策略智慧.md",
     "文本/書/思辨，從問對問題開始：美國大學邏輯思考聖經.md",
     "文本/書/我可以被擁抱嗎？因為太過寂寞而叫了蕾絲邊應召.md",
     "文本/書/英文課本.md",
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "未處理/未命名.canvas",
     "知識/統計/實驗設計/完全隨機實驗",
     "文本/Department/數學/統計/進階R/資料",
