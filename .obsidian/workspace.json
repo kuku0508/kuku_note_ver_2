@@ -15,8 +15,8 @@
               "state": {
                 "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
             }
           },
           {
@@ -43,8 +43,7 @@
               "title": "道路"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,7 +337,7 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "68f4bb5b93ee5d55",
   "lastOpenFiles": [
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/名言/道路.md",
