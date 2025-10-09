@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "關於區塊鏈的隨機筆記"
             }
+          },
+          {
+            "id": "b35d1f99c0fd30d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未處理/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,9 +289,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d21af103c160c766",
+  "active": "b35d1f99c0fd30d9",
   "lastOpenFiles": [
     "文本/Department/數學/統計/資料探勘/關於區塊鏈的隨機筆記.md",
+    "未處理/未命名.md",
     "此筆記庫介紹.md",
     "文本/名言/道路.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
@@ -292,7 +318,6 @@
     "知識/統計/統計學/圖表/圖/次數多邊形圖.md",
     "知識/統計/統計學/圖表/圖/莖葉圖.md",
     "知識/統計/統計學/圖表/圖/時間數列圖.md",
-    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "文本/遊戲/光與影：33號遠征隊/文本",
     "資料庫/👾遊戲清單.base",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/黑龍 圖示.png",
