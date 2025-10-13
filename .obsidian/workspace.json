@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+                "file": "知識/統計/SAS/敘述句/LABEL.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主成分分析"
+              "title": "LABEL"
             }
           }
         ]
@@ -340,8 +340,8 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
+    "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510111022.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
