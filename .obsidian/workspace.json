@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/資料/類別資料.md",
+                "file": "知識/統計/類別資料分析/無序尺度.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "類別資料"
+              "title": "無序尺度"
             }
           }
         ]
@@ -341,8 +341,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "知識/統計/類別資料分析/無序尺度.md",
     "知識/統計/統計學/資料/類別資料.md",
+    "知識/統計/類別資料分析/有序尺度.md",
+    "知識/統計/類別資料分析/無序尺度.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
@@ -369,7 +370,6 @@
     "文本/Department/數學/統計/多變量分析/講義/MA chapter3.md",
     "文本/Department/數學/統計/多變量分析/講義/MA chapter7.md",
     "知識/統計/統計學/基礎知識/敘述統計.md",
-    "知識/統計/統計學/基礎知識/推論統計.md",
     "文本/遊戲/光與影：33號遠征隊/文本",
     "資料庫/👾遊戲清單.base",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/黑龍 圖示.png",
