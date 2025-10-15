@@ -11,24 +11,12 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/未分類/文本/楊寧の題目.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/作業研究/講義/Chapter 3.md"
               },
-              "icon": "lucide-file",
-              "title": "楊寧の題目"
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3"
             }
           }
         ]
@@ -284,8 +272,8 @@
                   "state": {
                     "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
                   },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
+                  "icon": "excalidraw-icon",
+                  "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
                 }
               },
               {
@@ -320,19 +308,18 @@
                   "state": {
                     "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Chapter 1"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 1392,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
@@ -340,9 +327,12 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/作業研究/講義/Chapter 2.md",
+    "文本/Department/數學/統計/作業研究/講義/Chapter 3.md",
+    "未處理/Drawing 2025-10-15 12.19.56.excalidraw.md",
+    "文本/未分類/文本/楊寧の題目.md",
     "未處理/附件/Pasted image 20251015010033.png",
     "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
-    "文本/未分類/文本/楊寧の題目.md",
     "知識/統計/統計學/資料/比例尺度.md",
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/資料/區間尺度.md",
@@ -366,8 +356,6 @@
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "文本/Department/數學/統計/資料探勘/關於區塊鏈的隨機筆記.md",
-    "conflict-files-obsidian-git.md",
-    "文本/名言/道路.md",
     "資料庫/名言資料庫.base",
     "文本/遊戲/光與影：33號遠征隊/文本",
     "資料庫/👾遊戲清單.base",
@@ -386,7 +374,6 @@
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
     "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 regression.png",
     "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.11 no intercept.png",
-    "文本/Department/數學/統計/迴歸分析/題目型作業/program output/Assignment 3 2.10 e.png",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
   ]
