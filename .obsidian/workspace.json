@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
+                "file": "文本/Department/數學/統計/進階R/上課筆記.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "外部資料"
+              "title": "上課筆記"
             }
           }
         ]
@@ -339,6 +339,7 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/R/講義/介紹.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 3.md",
@@ -365,7 +366,6 @@
     "文本/Department/數學/統計/資料漫步/筆記/202510111022.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "資料庫/名言資料庫.base",
