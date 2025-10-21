@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
+                "file": "文本/Department/數學/統計/資料漫步/筆記/202510212122.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "變異數"
+              "title": "202510212122"
             }
           }
         ]
@@ -266,12 +266,14 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
+    "文本/Department/數學/統計/資料漫步/筆記/202510212122.md",
+    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/中位數.md",
     "conflict-files-obsidian-git.md",
-    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "文本/未分類/文本/楊寧の題目.md",
     "未處理/附件/Pasted image 20251015010033.png",
     "知識/統計/統計學/資料/比例尺度.md",
@@ -291,8 +293,6 @@
     "文本/Department/數學/統計/資料漫步/筆記/202510111022.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "資料庫/名言資料庫.base",
