@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
+                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/中位數.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202510131419"
-            }
-          },
-          {
-            "id": "6a06b1fd9fd795b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "中位數"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,7 +264,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6a06b1fd9fd795b0",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
     "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "conflict-files-obsidian-git.md",
