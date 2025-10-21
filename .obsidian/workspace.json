@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "中位數"
             }
+          },
+          {
+            "id": "85cfaa003a836bc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,10 +289,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d21af103c160c766",
+  "active": "85cfaa003a836bc1",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
+    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/中位數.md",
     "conflict-files-obsidian-git.md",
+    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "文本/未分類/文本/楊寧の題目.md",
     "未處理/附件/Pasted image 20251015010033.png",
     "知識/統計/統計學/資料/比例尺度.md",
