@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "202510131419"
             }
+          },
+          {
+            "id": "6a06b1fd9fd795b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,83 +289,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "c4d27a1e5ac43037",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e0170e7505ebf349",
-        "type": "window",
-        "children": [
-          {
-            "id": "4d21dce043becb1b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b4d626a752099f2e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
-              },
-              {
-                "id": "4320563f1ed9d430",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
-              },
-              {
-                "id": "f6b4b3f7da7635fb",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
-              },
-              {
-                "id": "ef1e5f7c4a84e66e",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Chapter 1"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0149359e53ee65ad",
+  "active": "6a06b1fd9fd795b0",
   "lastOpenFiles": [
     "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
+    "conflict-files-obsidian-git.md",
     "文本/未分類/文本/楊寧の題目.md",
     "未處理/附件/Pasted image 20251015010033.png",
     "知識/統計/統計學/資料/比例尺度.md",
@@ -366,7 +318,6 @@
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "文本/Department/數學/統計/資料探勘/關於區塊鏈的隨機筆記.md",
-    "conflict-files-obsidian-git.md",
     "文本/名言/道路.md",
     "資料庫/名言資料庫.base",
     "文本/遊戲/光與影：33號遠征隊/文本",
