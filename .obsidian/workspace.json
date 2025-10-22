@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/獨立事件.md",
+                "file": "知識/統計/統計學/集合/交集.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "獨立事件"
+              "title": "交集"
             }
           }
         ]
@@ -267,6 +267,8 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/交集.md",
+    "知識/統計/統計學/集合/獨立事件.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510212122.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
@@ -292,8 +294,6 @@
     "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "知識/統計/多變量分析/主成分分析 PCA/主成分.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510111022.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "資料庫/名言資料庫.base",
