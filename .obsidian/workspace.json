@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 10 控制流程與行動之敘述.md"
+                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 13 資料遺失的表示與處理.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter 10 控制流程與行動之敘述"
+              "title": "SAS Charpter 13 資料遺失的表示與處理"
             }
           }
         ]
@@ -254,6 +254,7 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 10 控制流程與行動之敘述.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 13 資料遺失的表示與處理.md",
     "知識/統計/統計學/集合/交集.md",
     "知識/程式語言/Latex/基礎知識/語法表/交集.md",
@@ -280,7 +281,6 @@
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
     "知識/統計/SAS/敘述句/LABEL.md",
-    "知識/統計/多變量分析/主成分分析 PCA/主成分分析.md",
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "資料庫/名言資料庫.base",
