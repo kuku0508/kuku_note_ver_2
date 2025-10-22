@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料漫步/筆記/202510212122.md",
+                "file": "知識/統計/統計學/集合/獨立事件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202510212122"
+              "title": "獨立事件"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "連續型",
+                "query": "bigcap",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,8 +267,8 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510212122.md",
+    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
