@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md"
+                "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 4 輸入資料集.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SAS Charpter 8 資料輸出入之指標控制"
+              "title": "SAS Charpter 4 輸入資料集"
             }
           }
         ]
@@ -254,6 +254,7 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 13 資料遺失的表示與處理.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 10 控制流程與行動之敘述.md",
     "知識/統計/統計學/集合/交集.md",
@@ -278,7 +279,6 @@
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/類別資料分析/有序尺度.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
-    "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 7 輸出與顯示資料.md",
     "知識/統計/SAS/敘述句/LABEL.md",
     "文本/Department/數學/統計/資料漫步/筆記",
