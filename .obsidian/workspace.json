@@ -11,24 +11,13 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "文本/名言/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "資料庫/名言資料庫.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-table",
+              "title": "名言資料庫"
             }
           }
         ]
@@ -266,8 +255,8 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/名言/你這輩子就是這樣了.md",
     "文本/名言/山姆的演講.md",
-    "文本/名言/Untitled.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 4 輸入資料集.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 8 資料輸出入之指標控制.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 13 資料遺失的表示與處理.md",
