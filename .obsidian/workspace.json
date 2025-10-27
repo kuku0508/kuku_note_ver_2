@@ -11,12 +11,24 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md"
+                "file": "文本/名言/粉紅色的雪.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 1"
+              "icon": "lucide-file",
+              "title": "粉紅色的雪"
             }
           }
         ]
@@ -254,6 +266,7 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
     "文本/名言/你這輩子就是這樣了.md",
     "資料庫/名言資料庫.base",
     "文本/名言/山姆的演講.md",
