@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/convergence in distribution/Untitled.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.32.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "chapter7 2.32"
             }
           }
         ]
@@ -264,10 +264,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d21af103c160c766",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/convergence in probability",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.25.md",
-    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/Untitled.md",
+    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.32.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.24.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.23.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.22.md",
@@ -294,7 +295,6 @@
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/二項分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/超幾何分配.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/連續型均勻分配.md",
     "資料庫/名言資料庫.base",
     "未處理/附件/Pasted image 20251015010033.png",
     "文本/Department/數學/統計/資料漫步/筆記",
