@@ -11,12 +11,24 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+              "icon": "lucide-file",
+              "title": "離散型隨機變數"
             }
           }
         ]
@@ -42,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -76,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 366.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -225,23 +237,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "bases:建立新的 base": false,
+      "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
       "obsidian-git:Open Git source control": false,
-      "sheet-plus:Create excel file": false,
+      "sheet-plus:建立 Excel 檔案": false,
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open external media": false,
@@ -252,13 +264,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/Untitled.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution",
     "文本/Department/數學/統計/數理統計/題目",
     "文本/Department/數學/統計/數理統計",
-    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/多變量分析/多變量分析目錄.md",
+    "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "知識/統計/統計學/資料/量性資料.md",
     "知識/統計/統計學/資料/區間尺度.md",
     "知識/統計/統計學/分配/機率分配/機率質量函數.md",
@@ -295,7 +308,6 @@
     "文本/遊戲/光與影：33號遠征隊",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - 封面.png",
     "未處理/未命名.canvas",
-    "知識/統計/實驗設計/完全隨機實驗",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 - Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
