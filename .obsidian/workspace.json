@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean/chapter7 1.8.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/further limit theorems/chapter7 1.10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chapter7 1.8"
+              "title": "chapter7 1.10"
             }
           }
         ]
@@ -264,11 +264,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/未命名",
-    "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean/chapter7 1.6.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean/chapter7 1.8.md",
+    "文本/Department/數學/統計/數理統計/題目/further limit theorems/chapter7 1.10.md",
+    "文本/Department/數學/統計/數理統計/題目/further limit theorems",
+    "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean/chapter7 1.6.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in probability/chapter7 3.2.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean",
     "文本/Department/數學/統計/數理統計/題目/convergence in probability/chapter7 3.1.md",
@@ -302,7 +303,6 @@
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
     "文本/遊戲/光與影：33號遠征隊/文本",
-    "資料庫/👾遊戲清單.base",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/黑龍 圖示.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/素材/黑龍/黑龍的邪眼.png",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - icon.png",
