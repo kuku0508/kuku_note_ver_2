@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/convergence in distribution/7.1.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "離散型隨機變數"
-            }
-          },
-          {
-            "id": "08b55033bc295e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "7.1.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,7 +264,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "08b55033bc295e10",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
     "知識/統計/統計學/分配/隨機變數/離散型隨機變數.md",
     "conflict-files-obsidian-git.md",
