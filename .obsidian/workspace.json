@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.32.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/convergence in probability/chapter7 1.4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chapter7 2.32"
+              "title": "chapter7 1.4"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 315.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -237,23 +237,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "bases:建立新的 base": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "sheet-plus:建立 Excel 檔案": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "sheet-plus:Create excel file": false,
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open external media": false,
@@ -264,11 +264,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/convergence in probability/chapter7 1.2.md",
+    "文本/Department/數學/統計/數理統計/題目/convergence in probability/chapter7 1.4.md",
+    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.32.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in probability",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.25.md",
-    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.32.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.24.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.23.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.22.md",
@@ -294,7 +296,6 @@
     "知識/統計/統計學/分配/機率分配/機率質量函數.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/二項分配.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/離散/超幾何分配.md",
     "資料庫/名言資料庫.base",
     "未處理/附件/Pasted image 20251015010033.png",
     "文本/Department/數學/統計/資料漫步/筆記",
@@ -305,7 +306,6 @@
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/素材/黑龍/黑龍的邪眼.png",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - icon.png",
     "文本/遊戲/光與影：33號遠征隊/圖",
-    "文本/遊戲/光與影：33號遠征隊",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - 封面.png",
     "未處理/未命名.canvas",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 - Icon.png",
