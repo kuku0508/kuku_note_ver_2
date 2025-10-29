@@ -11,12 +11,24 @@
             "id": "d21af103c160c766",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                "file": "文本/Department/數學/統計/數理統計/題目/convergence in distribution/7.1.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
+              "icon": "lucide-file",
+              "title": "7.1.1"
             }
           }
         ]
@@ -254,6 +266,8 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/7.1.1.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution",
     "文本/Department/數學/統計/數理統計/題目",
     "文本/Department/數學/統計/數理統計",
@@ -282,7 +296,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/交集.md",
     "知識/統計/統計學/集合/獨立事件.md",
     "文本/Department/數學/統計/資料漫步/筆記/202510212122.md",
-    "文本/Department/數學/統計/資料漫步/筆記/202510131419.md",
     "未處理/附件/Pasted image 20251015010033.png",
     "文本/Department/數學/統計/資料漫步/筆記",
     "文本/Department/數學/統計/資料漫步",
@@ -295,7 +308,6 @@
     "文本/遊戲/光與影：33號遠征隊",
     "文本/遊戲/光與影：33號遠征隊/圖/光與影：33號遠征隊 - 封面.png",
     "未處理/未命名.canvas",
-    "知識/統計/實驗設計/完全隨機實驗",
     "文本/遊戲/魔物獵人/魔物獵人 荒野/圖/魔物獵人 荒野 - Icon.png",
     "文本/Department/數學/統計/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
