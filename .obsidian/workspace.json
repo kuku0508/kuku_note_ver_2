@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/family of distributions/exponential family/chapter11 5.2 in Roussas(1997).md",
+                "file": "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chapter11 5.2 in Roussas(1997)"
+              "title": "chapter9 2.11"
             }
           }
         ]
@@ -264,11 +264,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "d21af103c160c766",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.8.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.11.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.7.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.6.md",
+    "文本/Department/數學/統計/數理統計/題目/family of distributions/exponential family/chapter11 5.2 in Roussas(1997).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency",
     "文本/Department/數學/統計/數理統計/題目/data reduction",
     "文本/Department/數學/統計/數理統計/題目/family of distributions/exponential family/chapter11 5.1 in Roussas(1997).md",
-    "文本/Department/數學/統計/數理統計/題目/family of distributions/exponential family/chapter11 5.2 in Roussas(1997).md",
     "文本/Department/數學/統計/數理統計/題目/family of distributions/exponential family/chapter11 4.1 in Roussas(1997).md",
     "文本/Department/數學/統計/數理統計/題目/family of distributions/basic comcepts/chapter11 1.1 in Roussas(1997).md",
     "文本/Department/數學/統計/數理統計/題目/family of distributions/exponential family",
@@ -295,13 +300,8 @@
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 2.1.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.4.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 2.32.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 2.25.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 2.24.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution",
-    "文本/Department/數學/統計/數理統計/題目",
-    "文本/Department/數學/統計/數理統計",
     "未處理/附件/Pasted image 20251015010033.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/黑龍 圖示.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/素材/黑龍/黑龍的邪眼.png",
