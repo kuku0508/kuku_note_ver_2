@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Introduction to Mathematical Statistics.md"
+                "file": "文本/書/A Course In Mathematical Statistics.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Introduction to Mathematical Statistics"
+              "title": "A Course In Mathematical Statistics"
             }
           }
         ]
@@ -254,8 +254,9 @@
   },
   "active": "d21af103c160c766",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/further limit theorems/chapter7 1.10.md",
     "文本/書/Introduction to Mathematical Statistics.md",
+    "文本/書/Untitled.md",
+    "文本/Department/數學/統計/數理統計/題目/further limit theorems/chapter7 1.10.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean/chapter7 1.8.md",
     "文本/Department/數學/統計/數理統計/題目/further limit theorems",
     "文本/Department/數學/統計/數理統計/題目/convergence in the r-th mean/chapter7 1.6.md",
@@ -282,7 +283,6 @@
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 2.3.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 1.5.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 1.3.md",
-    "文本/Department/數學/統計/數理統計/題目/convergence in distribution/chapter7 1.1.md",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution",
     "文本/Department/數學/統計/數理統計/題目",
     "文本/Department/數學/統計/數理統計",
