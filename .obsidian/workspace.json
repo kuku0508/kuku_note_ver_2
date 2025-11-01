@@ -11,10 +11,12 @@
             "id": "ffbb90a69b46a839",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新分頁"
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/Business Statistics Communicating with Numbers.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Business Statistics Communicating with Numbers"
             }
           }
         ]
