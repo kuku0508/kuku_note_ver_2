@@ -294,9 +294,33 @@
               "icon": "lucide-file",
               "title": "chapter5 26"
             }
+          },
+          {
+            "id": "d529544b72e5eb1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未處理/新的/chapter5 5.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "chapter5 5"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -529,15 +553,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f0bb3353117b1272",
+  "active": "1d4a9199c56fa8da",
   "lastOpenFiles": [
-    "未處理/新的/chapter5 17.md",
+    "未處理/新的/chapter5 9.md",
+    "未處理/新的/chapter5 30.md",
     "未處理/新的/chapter5 26.md",
+    "未處理/新的/chapter5 17.md",
     "未處理/新的/chapter5 15.md",
     "未處理/新的/chapter5 14.md",
     "未處理/新的/chapter5 13.md",
     "未處理/新的/chapter5 10.md",
-    "未處理/新的/chapter5 9.md",
     "未處理/新的/chapter5 8.md",
     "未處理/新的/chapter5 7.md",
     "未處理/新的/chapter5 6.md",
@@ -559,7 +584,6 @@
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in the r-th mean/chapter7 1.6.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 3.2.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 3.1.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 2.1.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/further limit theorems",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in the r-th mean",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability",
