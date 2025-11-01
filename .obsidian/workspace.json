@@ -11,10 +11,24 @@
             "id": "ffcbb1f9b94b7ff5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未處理/未處理/支持創新偏誤.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "支持創新偏誤"
             }
           }
         ]
@@ -252,7 +266,7 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "未處理/未命名",
+    "未處理/未處理",
     "未處理/新的",
     "文本/Department/數學/統計/實驗設計/題目",
     "文本/Department/數學/統計/數理統計/題目/convergence in distribution/7.1.1.md",

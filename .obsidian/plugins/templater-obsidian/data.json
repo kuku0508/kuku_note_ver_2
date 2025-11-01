@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "未處理",
+      "folder": "未處理/新的",
       "template": "模板/筆記.md"
     },
     {
