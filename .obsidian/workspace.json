@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/R/講義/介紹.md"
+                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md"
               },
               "icon": "excalidraw-icon",
-              "title": "介紹"
+              "title": "Chapter 4、5"
             }
           }
         ]
@@ -254,6 +254,7 @@
   },
   "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/R/講義/介紹.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 3 單形法.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
@@ -279,7 +280,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 3/chapter 3 20.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3/chapter 3 16.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3/chapter 3 18.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 3/chapter 3 17.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
