@@ -11,23 +11,11 @@
             "id": "ffbb90a69b46a839",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic6.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Topic6"
             }
           }
