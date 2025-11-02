@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
+                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic6.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Topic4"
+              "title": "Topic6"
             }
           }
         ]
@@ -266,8 +266,10 @@
   },
   "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic6.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic2.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
@@ -290,8 +292,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 7.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 5.md",
     "未處理/未處理/支持創新偏誤.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 3/chapter 3 21.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 3/chapter 3 25.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
