@@ -11,12 +11,24 @@
             "id": "ffbb90a69b46a839",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md"
+                "file": "文本/Department/數學/統計/資料探勘/作業/程式碼/HW 2 R程式碼.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Topic3"
+              "icon": "lucide-file",
+              "title": "HW 2 R程式碼"
             }
           }
         ]
@@ -254,10 +266,13 @@
   },
   "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/作業/程式碼",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
+    "文本/Department/數學/統計/資料探勘/作業/程式碼/HW 2 R程式碼.md",
+    "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic6.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic2.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
@@ -278,8 +293,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 9.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 8.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 7.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 5.md",
-    "未處理/未處理/支持創新偏誤.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
@@ -289,7 +302,6 @@
     "文本/Department/數學/統計/數理統計/題目/limit theorems/further limit theorems",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in the r-th mean",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution",
     "未處理/附件/Pasted image 20251015010033.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/黑龍 圖示.png",
     "文本/遊戲/魔物獵人/魔物獵人 世界/圖/魔物/黑龍/素材/黑龍/黑龍的邪眼.png",
