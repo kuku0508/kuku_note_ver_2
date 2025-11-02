@@ -26,6 +26,7 @@ train <- out$train
 test <- out$test
 
 variable.names(out$train)
+
 # (2)
 summary(train$Age)
 
@@ -33,9 +34,19 @@ summary(train$Age)
 # 還有什麼比較簡潔的方法，所以我問了chatgpt
 vars <- c("HeartDisease","Age","Sex","Cholesterol","FastingBS","Angina","HeartPeakReading")
 summary(train[,vars])
+summary(test[,vars])
 
+# 排個版
 par(mfrow=c(1,3))
+# train box plot
 boxplot(train$Age, main = "Age")
 boxplot(train$Cholesterol, main = "Cholesterol")
 boxplot(train$HeartPeakReading, main = "HeartPeakReading")
+# test box plot
+boxplot(test$Age, main = "Age")
+boxplot(test$Cholesterol, main = "Cholesterol")
+boxplot(test$HeartPeakReading, main = "HeartPeakReading")
+# reset
 par(mfrow=c(1,1))
+
+# (3)
