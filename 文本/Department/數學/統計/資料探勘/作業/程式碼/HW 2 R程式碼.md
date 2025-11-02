@@ -31,3 +31,11 @@ summary(train$Age)
 
 # AI footstep 我在想除了用14個summary以外，
 # 還有什麼比較簡潔的方法，所以我問了chatgpt
+vars <- c("HeartDisease","Age","Sex","Cholesterol","FastingBS","Angina","HeartPeakReading")
+summary(train[,vars])
+
+par(mfrow=c(1,3))
+boxplot(train$Age, main = "Age")
+boxplot(train$Cholesterol, main = "Cholesterol")
+boxplot(train$HeartPeakReading, main = "HeartPeakReading")
+par(mfrow=c(1,1))
