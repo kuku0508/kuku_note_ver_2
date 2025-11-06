@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0007ce5439b92664",
+        "id": "9f50182721d6be16",
         "type": "tabs",
         "children": [
           {
-            "id": "ffbb90a69b46a839",
+            "id": "5171e45e9b7cbc0f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/無有鄉.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "無有鄉"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -252,10 +250,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ffbb90a69b46a839",
+  "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
-    "模板/目錄.md",
     "文本/書/無有鄉.md",
+    "模板/目錄.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
