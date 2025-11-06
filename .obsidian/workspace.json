@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
+                "file": "知識/線性代數/基礎知識/行列式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "矩陣向量 - 乘法"
+              "title": "行列式"
             }
           }
         ]
@@ -266,6 +266,7 @@
   },
   "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
+    "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/書/無有鄉.md",
     "模板/目錄.md",
@@ -293,7 +294,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 17.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 15.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 14.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 13.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
