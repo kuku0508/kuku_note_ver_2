@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/線性代數總目錄.md",
+                "file": "文本/Department/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "線性代數總目錄"
+              "title": "《表達的目的》"
             }
           }
         ]
@@ -266,6 +266,8 @@
   },
   "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
+    "知識/線性代數/線性代數總目錄.md",
+    "文本/Department/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
     "知識/線性代數/基礎知識/行列式.md",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
@@ -292,8 +294,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 4/chapter4 1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 6.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 26.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 17.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 15.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
