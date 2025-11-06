@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas 的反向連結"
+              "title": "chapter7 1.1 的反向連結"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas 的大綱"
+              "title": "chapter7 1.1 的大綱"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -282,10 +282,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ffbb90a69b46a839",
+  "active": "d6e801a4018105b1",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
     "文本/書/A Course In Mathematical Statistics.md",
     "模板/目錄.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
