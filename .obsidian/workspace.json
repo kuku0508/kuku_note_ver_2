@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/連線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "chapter7 1.1 的反向連結"
+              "title": "連線 的反向連結"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/連線.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "chapter7 1.1 的大綱"
+              "title": "連線 的大綱"
             }
           },
           {
@@ -225,7 +225,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/連線.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -331,10 +331,10 @@
       }
     ]
   },
-  "active": "d6e801a4018105b1",
+  "active": "e9fcbc1a46754832",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/A Course In Mathematical Statistics.md",
