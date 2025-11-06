@@ -11,24 +11,12 @@
             "id": "ffbb90a69b46a839",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "模板/目錄.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/書/A Course In Mathematical Statistics.md"
               },
-              "icon": "lucide-file",
-              "title": "目錄"
+              "icon": "excalidraw-icon",
+              "title": "A Course In Mathematical Statistics"
             }
           }
         ]
@@ -266,6 +254,7 @@
   },
   "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
+    "模板/目錄.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
@@ -293,7 +282,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 13.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 10.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 9.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 8.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
