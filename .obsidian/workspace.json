@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/A Course In Mathematical Statistics.md"
+                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
               },
               "icon": "excalidraw-icon",
-              "title": "A Course In Mathematical Statistics"
+              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "張成 的反向連結"
+              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas 的反向連結"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "張成 的大綱"
+              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas 的大綱"
             }
           },
           {
@@ -155,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -165,8 +165,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -175,8 +175,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -185,8 +185,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "bc-matrix-view"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -195,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/名言資料庫.base"
+                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -216,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -254,6 +254,7 @@
   },
   "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
+    "文本/書/A Course In Mathematical Statistics.md",
     "模板/目錄.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
@@ -281,7 +282,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 14.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 13.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 10.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 9.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
