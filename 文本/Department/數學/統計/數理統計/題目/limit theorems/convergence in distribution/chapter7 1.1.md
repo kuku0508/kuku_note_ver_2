@@ -1,2 +1,2 @@
 # 問題
-For $n=1,2,\cdots ,$ let $X_n$ be a r.v with d.f $F_n$ defined by: $F_n(x)=0$ for $x<n$, and $F_n(x)=1$ for $x\geq n$. Then show that $$\circlearrowleft$$
+For $n=1,2,\cdots ,$ let $X_n$ be a r.v with d.f $F_n$ defined by: $F_n(x)=0$ for $x<n$, and $F_n(x)=1$ for $x\geq n$. Then show that $\xrightarrow[145]{}$
