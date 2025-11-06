@@ -13,40 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
+                "file": "文本/書/無有鄉.md"
               },
               "icon": "excalidraw-icon",
-              "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a9dc06a91c4e1892",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d6e801a4018105b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "chapter7 1.1"
+              "title": "無有鄉"
             }
           }
         ]
@@ -122,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+                "file": "知識/線性代數/基礎知識/張成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "chapter7 1.1 的反向連結"
+              "title": "張成 的反向連結"
             }
           },
           {
@@ -170,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+                "file": "知識/線性代數/基礎知識/張成.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "chapter7 1.1 的大綱"
+              "title": "張成 的大綱"
             }
           },
           {
@@ -185,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -195,8 +165,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -205,8 +175,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -215,8 +185,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-ghost",
+              "title": "bc-matrix-view"
             }
           },
           {
@@ -225,7 +195,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md"
+                "file": "資料庫/名言資料庫.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -246,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -282,20 +252,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d6e801a4018105b1",
+  "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
-    "知識/程式語言/Latex/基礎知識/語法表/字體.md",
-    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
-    "文本/書/A Course In Mathematical Statistics.md",
     "模板/目錄.md",
+    "文本/書/無有鄉.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
@@ -312,6 +272,16 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic6.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 3 單形法.md",
+    "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
+    "文本/書/Business Statistics Communicating with Numbers.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 4/chapter4 1.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 6.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 26.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 17.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 15.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 14.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 13.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 10.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
