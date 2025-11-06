@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
+                "file": "知識/線性代數/基礎知識/行列式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "《表達的目的》"
+              "title": "行列式"
             }
           }
         ]
