@@ -20,6 +20,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "a9dc06a91c4e1892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e801a4018105b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "chapter7 1.1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,6 +284,8 @@
   },
   "active": "ffbb90a69b46a839",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/A Course In Mathematical Statistics.md",
     "模板/目錄.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
@@ -280,8 +312,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 17.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 15.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 14.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 13.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 10.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
     "文本/Department/數學/統計/實驗設計/題目/chapter 4",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5",
