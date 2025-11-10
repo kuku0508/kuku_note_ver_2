@@ -341,10 +341,12 @@
                 "id": "21173d141a6978e7",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 5 Factorial Experiments"
                 }
               }
             ],
@@ -365,6 +367,8 @@
   "lastOpenFiles": [
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
@@ -387,8 +391,6 @@
     "文本/書/無有鄉.md",
     "模板/目錄.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
-    "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
