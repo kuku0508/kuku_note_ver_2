@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Elementary Linear Algebra.md"
+                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Elementary Linear Algebra"
+              "title": "Chapter 4、5"
             }
           }
         ]
@@ -254,8 +254,9 @@
   },
   "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
-    "知識/線性代數/基礎知識/行列式.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
     "文本/書/Elementary Linear Algebra.md",
+    "知識/線性代數/基礎知識/行列式.md",
     "知識/線性代數/線性代數總目錄.md",
     "文本/Department/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
     "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
@@ -270,7 +271,6 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic2.md",
     "文本/Department/數學/統計/R/講義/介紹.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
     "文本/Department/數學/統計/資料探勘/作業/關於區塊鏈的隨機筆記.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼/HW 2 R程式碼.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
