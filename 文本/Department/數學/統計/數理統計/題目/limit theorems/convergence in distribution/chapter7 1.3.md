@@ -1,1 +1,1 @@
-For $n=1,2\ldots,$ let $X_n$ be a r.v distributed as $B(n,p_n)$ and suppose that $np_n\xrightarrow[n\rightarrow\infty]{}\lambda\in ()$
+For $n=1,2\ldots,$ let $X_n$ be a r.v distributed as $B(n,p_n)$ and suppose that $np_n\xrightarrow[n\rightarrow\infty]{}\lambda\in (0,\infty)$. Then show that $X_n\xrightarrow[n\rightarrow\infty]{d}X$,wjere X is a r.v distributed as 
