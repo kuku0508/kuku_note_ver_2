@@ -1,0 +1,1 @@
+For $n=1,2\ldots,$ let $X_n$ be a r.v distributed as B
