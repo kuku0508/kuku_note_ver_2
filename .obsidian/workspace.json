@@ -312,8 +312,21 @@
                   "icon": "excalidraw-icon",
                   "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
+              },
+              {
+                "id": "25880f5715f59982",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -326,8 +339,9 @@
       }
     ]
   },
-  "active": "32fece5431e9f657",
+  "active": "25880f5715f59982",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
@@ -353,7 +367,6 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic2.md",
-    "文本/Department/數學/統計/R/講義/介紹.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
