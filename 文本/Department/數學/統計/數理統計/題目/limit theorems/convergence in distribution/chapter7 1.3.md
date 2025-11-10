@@ -1,1 +1,1 @@
-For $n=1,2\ldots,$ let $X_n$ be a r.v distributed as B
+For $n=1,2\ldots,$ let $X_n$ be a r.v distributed as $B(n,p_n)$ and suppose that $np_n\xrightarrow[n\rightarrow\infty]{}\lambda$
