@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
+                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "變異數"
+              "title": "期望值"
             }
           }
         ],
@@ -326,11 +326,12 @@
       }
     ]
   },
-  "active": "09a6a089a346f19f",
+  "active": "32fece5431e9f657",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.3.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
@@ -353,7 +354,6 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic2.md",
     "文本/Department/數學/統計/R/講義/介紹.md",
     "文本/Department/數學/統計/資料探勘/作業/關於區塊鏈的隨機筆記.md",
-    "文本/Department/數學/統計/資料探勘/作業/程式碼/HW 2 R程式碼.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
