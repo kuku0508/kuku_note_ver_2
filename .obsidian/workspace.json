@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "chapter7 1.5"
             }
+          },
+          {
+            "id": "32fece5431e9f657",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,14 +312,14 @@
       }
     ]
   },
-  "active": "09a6a089a346f19f",
+  "active": "32fece5431e9f657",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.3.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
