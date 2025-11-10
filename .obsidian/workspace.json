@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "期望值"
+              "title": "chapter7 1.2"
             }
           }
         ],
@@ -328,8 +328,8 @@
   },
   "active": "32fece5431e9f657",
   "lastOpenFiles": [
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
