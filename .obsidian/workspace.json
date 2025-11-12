@@ -37,11 +37,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "資料庫/👾遊戲清單.base",
-                "viewName": "檢視"
+                "file": "資料庫/名言資料庫.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-list",
-              "title": "👾遊戲清單"
+              "icon": "lucide-table",
+              "title": "名言資料庫"
             }
           },
           {
@@ -304,6 +304,7 @@
   },
   "active": "52352fd60dcf27f6",
   "lastOpenFiles": [
+    "資料庫/👾遊戲清單.base",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
@@ -329,7 +330,6 @@
     "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/書/無有鄉.md",
     "模板/目錄.md",
-    "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
