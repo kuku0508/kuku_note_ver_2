@@ -32,19 +32,6 @@
             }
           },
           {
-            "id": "52352fd60dcf27f6",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "📃名言資料庫"
-            }
-          },
-          {
             "id": "f4e6a078030978e7",
             "type": "leaf",
             "state": {
@@ -93,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
