@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "完全隨機設計"
+              "title": "README"
             }
           }
         ],
@@ -340,9 +340,10 @@
   },
   "active": "f4e6a078030978e7",
   "lastOpenFiles": [
+    "筆記狀態.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
@@ -368,7 +369,6 @@
     "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
-    "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
