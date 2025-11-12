@@ -47,24 +47,13 @@
             "id": "32fece5431e9f657",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "卡片(icon)"
               },
-              "icon": "lucide-file",
-              "title": "設計階段"
+              "icon": "lucide-layout-grid",
+              "title": "👾遊戲清單"
             }
           }
         ],
@@ -374,7 +363,7 @@
       }
     ]
   },
-  "active": "ecd1f1c1cc6460db",
+  "active": "32fece5431e9f657",
   "lastOpenFiles": [
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
