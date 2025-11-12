@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "筆記狀態.md",
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "筆記狀態"
+              "title": "完全隨機設計 - 模型"
             }
           }
         ],
