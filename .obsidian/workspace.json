@@ -38,9 +38,9 @@
               "type": "bases",
               "state": {
                 "file": "資料庫/📃名言資料庫.base",
-                "viewName": "檢視"
+                "viewName": "表格"
               },
-              "icon": "lucide-map",
+              "icon": "lucide-table",
               "title": "📃名言資料庫"
             }
           }
