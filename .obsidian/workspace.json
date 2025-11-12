@@ -50,11 +50,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "資料庫/👾遊戲清單.base",
+                "file": "資料庫/名言資料庫.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
-              "title": "👾遊戲清單"
+              "title": "名言資料庫"
             }
           },
           {
@@ -317,9 +317,9 @@
   },
   "active": "f4e6a078030978e7",
   "lastOpenFiles": [
+    "資料庫/👾遊戲清單.base",
     "測試筆記.md",
     "資料庫/名言資料庫.base",
-    "資料庫/👾遊戲清單.base",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
