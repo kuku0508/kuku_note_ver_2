@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "完全隨機設計 - 模型"
+              "title": "實驗設計"
             }
           }
         ],
@@ -339,10 +339,10 @@
       }
     ]
   },
-  "active": "ab508d464862bdf4",
+  "active": "f4e6a078030978e7",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "模板/遊戲.md",
