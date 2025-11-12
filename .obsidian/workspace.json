@@ -38,9 +38,9 @@
               "type": "bases",
               "state": {
                 "file": "資料庫/👾遊戲清單.base",
-                "viewName": "表格"
+                "viewName": "檢視"
               },
-              "icon": "lucide-table",
+              "icon": "lucide-list",
               "title": "👾遊戲清單"
             }
           },
