@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chapter7 1.2"
+              "title": "設計階段"
             }
           }
         ],
@@ -376,11 +376,12 @@
   },
   "active": "32fece5431e9f657",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
     "conflict-files-obsidian-git.md",
     "資料庫/📃名言資料庫.base",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
     "測試筆記.md",
     "模板/📝筆記.md",
@@ -389,7 +390,6 @@
     "模板/'📕書.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
