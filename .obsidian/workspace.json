@@ -37,24 +37,35 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "資料庫/名言資料庫.base",
+                "file": "資料庫/📃名言資料庫.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
-              "title": "名言資料庫"
+              "title": "📃名言資料庫"
             }
           },
           {
             "id": "f4e6a078030978e7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/名言資料庫.base",
-                "viewName": "表格"
+                "file": "模板/目錄.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "名言資料庫"
+              "icon": "lucide-file",
+              "title": "目錄"
             }
           },
           {
@@ -315,11 +326,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f4e6a078030978e7",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "資料庫/📃名言資料庫.base",
     "資料庫/👾遊戲清單.base",
     "測試筆記.md",
-    "資料庫/名言資料庫.base",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
