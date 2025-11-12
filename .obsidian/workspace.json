@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9f1087ef15ffe7b5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.10.3"
+            }
+          },
+          {
             "id": "32fece5431e9f657",
             "type": "leaf",
             "state": {
@@ -362,10 +374,10 @@
       }
     ]
   },
-  "active": "09a6a089a346f19f",
+  "active": "38e16f904ca35457",
   "lastOpenFiles": [
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
