@@ -317,10 +317,12 @@
                 "id": "ab508d464862bdf4",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "新分頁"
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 1 The experiment, the design and the analysis"
                 }
               }
             ],
@@ -337,8 +339,9 @@
       }
     ]
   },
-  "active": "ab508d464862bdf4",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
@@ -366,7 +369,6 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
-    "文本/書/Elementary Linear Algebra.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
