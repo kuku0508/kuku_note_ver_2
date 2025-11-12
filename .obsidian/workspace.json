@@ -35,13 +35,24 @@
             "id": "f4e6a078030978e7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "表格"
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "📃名言資料庫"
+              "icon": "lucide-file",
+              "title": "實驗設計"
             }
           }
         ],
@@ -330,6 +341,7 @@
   },
   "active": "f4e6a078030978e7",
   "lastOpenFiles": [
+    "資料庫/📃名言資料庫.base",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/名言/山姆的演講.md",
@@ -341,7 +353,6 @@
     "模板/'📕書.md",
     "模板/📖作業.md",
     "模板/📜目錄.md",
-    "資料庫/📃名言資料庫.base",
     "資料庫/👾遊戲清單.base",
     "測試筆記.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
@@ -357,7 +368,6 @@
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic3.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
