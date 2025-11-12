@@ -35,12 +35,13 @@
             "id": "52352fd60dcf27f6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.10.3"
+              "icon": "lucide-table",
+              "title": "👾遊戲清單"
             }
           },
           {
