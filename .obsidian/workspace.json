@@ -35,24 +35,12 @@
             "id": "f4e6a078030978e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
               },
-              "icon": "lucide-file",
-              "title": "完全隨機設計 - 模型"
+              "icon": "excalidraw-icon",
+              "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
             }
           },
           {
@@ -137,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -315,6 +303,7 @@
   },
   "active": "f4e6a078030978e7",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "模板/遊戲.md",
     "模板/📝筆記.md",
@@ -342,7 +331,6 @@
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
     "文本/書/Elementary Linear Algebra.md",
-    "知識/線性代數/基礎知識/行列式.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
