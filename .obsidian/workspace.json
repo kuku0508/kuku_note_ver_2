@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chapter7 1.5"
-            }
-          },
-          {
-            "id": "f4e6a078030978e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1"
+              "title": "完全隨機設計 - 虛無假設"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,10 +264,49 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f4e6a078030978e7",
+  "floating": {
+    "id": "f8df284e6a02dae4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a2be1c8e894c0ab7",
+        "type": "window",
+        "children": [
+          {
+            "id": "332c80c97c6b757b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9f4d49bbb1d5ea09",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9f4d49bbb1d5ea09",
   "lastOpenFiles": [
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
     "文本/Department/數學/統計/多變量分析/圖/Assignment1/MA Assignment1 chi-square plot Profits Assets.png",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
@@ -315,7 +329,6 @@
     "模板/📜目錄.md",
     "資料庫/👾遊戲清單.base",
     "測試筆記.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
