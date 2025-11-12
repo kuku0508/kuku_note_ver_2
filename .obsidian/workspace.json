@@ -48,12 +48,24 @@
             "id": "f4e6a078030978e7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "模板/書.md"
+                "file": "模板/遊戲.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "書"
+              "icon": "lucide-file",
+              "title": "遊戲"
             }
           },
           {
@@ -316,6 +328,8 @@
   },
   "active": "f4e6a078030978e7",
   "lastOpenFiles": [
+    "模板/📝筆記.md",
+    "模板/'📕書.md",
     "模板/📖作業.md",
     "模板/📜目錄.md",
     "資料庫/📃名言資料庫.base",
@@ -342,8 +356,6 @@
     "知識/線性代數/基礎知識/行列式.md",
     "知識/線性代數/線性代數總目錄.md",
     "文本/Department/說服/《說服力指南》/筆記/《表達的目的》/《表達的目的》/《表達的目的》.md",
-    "知識/線性代數/線性轉換/矩陣向量 - 乘法.md",
-    "知識/線性代數/線性轉換/反矩陣/反矩陣.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
