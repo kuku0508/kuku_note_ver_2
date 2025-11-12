@@ -14,3 +14,7 @@ views:
     sort: []
     columnSize:
       file.name: 478
+  - type: map
+    name: 檢視
+    mapHeight: 400
+    defaultZoom: 4

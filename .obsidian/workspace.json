@@ -35,24 +35,13 @@
             "id": "f4e6a078030978e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "資料庫/📃名言資料庫.base",
+                "viewName": "檢視"
               },
-              "icon": "lucide-file",
-              "title": "實驗設計"
+              "icon": "lucide-map",
+              "title": "📃名言資料庫"
             }
           }
         ],
@@ -339,10 +328,10 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "f4e6a078030978e7",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/名言/山姆的演講.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
