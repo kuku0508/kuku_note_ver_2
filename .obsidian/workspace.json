@@ -296,7 +296,7 @@
         "y": 0,
         "width": 662,
         "height": 1032,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
