@@ -355,17 +355,17 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
+        "width": 745,
         "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "32fece5431e9f657",
+  "active": "09a6a089a346f19f",
   "lastOpenFiles": [
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 3 單形法.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "資料庫/👾遊戲清單.base",
