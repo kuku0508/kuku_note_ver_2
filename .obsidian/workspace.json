@@ -11,10 +11,24 @@
             "id": "68b258507a3113e6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "實驗／計畫階段"
             }
           }
         ]
@@ -289,8 +303,8 @@
   },
   "active": "68b258507a3113e6",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "模板/魔物獵人魔物.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
