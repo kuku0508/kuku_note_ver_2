@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗／計畫階段"
+              "title": "實驗設計"
             }
           }
         ]
@@ -294,7 +294,7 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 519,
+        "width": 662,
         "height": 1032,
         "maximize": false,
         "zoom": 0
