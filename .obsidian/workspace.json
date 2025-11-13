@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/機率論/機率論總目錄.md",
+                "file": "知識/統計/實驗設計/基礎知識/因子.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "機率論總目錄"
+              "title": "因子"
             }
           }
         ]
@@ -277,15 +277,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "5171e45e9b7cbc0f",
+                "id": "86cdd454f83d3c93",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "chapter 1 The experiment, the design and the analysis"
+                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
                 }
               }
             ]
@@ -303,8 +303,11 @@
   },
   "active": "68b258507a3113e6",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/實驗設計目錄.md",
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "知識/統計/機率論/機率論總目錄.md",
+    "知識/統計/實驗設計/實驗設計目錄.md",
     "文本/Department/數學/統計/迴歸分析/報告/隨意筆記/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
     "知識/統計/實驗設計/基礎知識/隨機效果.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
@@ -313,12 +316,10 @@
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "知識/統計/實驗設計/基礎知識/因子.md",
     "知識/統計/實驗設計/基礎知識/水準.md",
     "模板/魔物獵人魔物.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
@@ -329,7 +330,6 @@
     "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
-    "conflict-files-obsidian-git.md",
     "資料庫/📃名言資料庫.base",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
