@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
+                "file": "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "完全隨機設計 - 假設檢定"
+              "title": "單因子變異數分析"
             }
           }
         ]
@@ -303,9 +303,9 @@
   },
   "active": "68b258507a3113e6",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
