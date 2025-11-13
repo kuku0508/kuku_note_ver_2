@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分析階段（analysis phase）.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "分析階段（analysis phase）"
+              "title": "分析階段"
             }
           }
         ]
@@ -303,10 +303,10 @@
   },
   "active": "68b258507a3113e6",
   "lastOpenFiles": [
-    "知識/統計/實驗設計/基礎知識/實驗設計.md",
-    "分析階段（analysis phase）.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "模板/魔物獵人魔物.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
