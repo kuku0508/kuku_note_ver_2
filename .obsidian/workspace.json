@@ -42,21 +42,9 @@
               "icon": "lucide-book-up",
               "title": "發行記錄 1.10.3"
             }
-          },
-          {
-            "id": "32fece5431e9f657",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "chapter 5 對偶理論"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -355,14 +343,14 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 745,
+        "width": 519,
         "height": 1032,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "09a6a089a346f19f",
+  "active": "9f1087ef15ffe7b5",
   "lastOpenFiles": [
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
