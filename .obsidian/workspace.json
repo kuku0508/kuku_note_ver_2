@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "9f1087ef15ffe7b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.10.3"
-            }
-          },
-          {
             "id": "32fece5431e9f657",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md"
+                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "chapter 5 對偶理論"
+              "title": "Topic1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,42 +300,6 @@
                   "icon": "excalidraw-icon",
                   "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
                 }
-              },
-              {
-                "id": "25880f5715f59982",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org )"
-                }
-              },
-              {
-                "id": "e4e1d97b42acf231",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
-                }
-              },
-              {
-                "id": "21173d141a6978e7",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 5 Factorial Experiments"
-                }
               }
             ]
           }
@@ -362,10 +314,14 @@
       }
     ]
   },
-  "active": "f44715f6d25cec93",
+  "active": "32fece5431e9f657",
   "lastOpenFiles": [
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
+    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 3 單形法.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
     "資料庫/👾遊戲清單.base",
@@ -383,14 +339,10 @@
     "模板/📜目錄.md",
     "模板/📖作業.md",
     "模板/'📕書.md",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks -- ( WeLib.org ).md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 4 Single-Factor Experiments with：Randomized Block and Latin Square Designs.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/期望值.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/基礎母體參數／樣本統計量/變異數.md",
-    "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.3.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.1.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
