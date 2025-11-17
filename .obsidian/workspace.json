@@ -67,8 +67,7 @@
               "title": "完全隨機設計 - 假設檢定"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -338,7 +337,7 @@
       }
     ]
   },
-  "active": "09a6a089a346f19f",
+  "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
