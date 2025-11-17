@@ -11,23 +11,11 @@
             "id": "5171e45e9b7cbc0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/作業/HW2/assignment2 解答.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/資料探勘/作業/HW2/assignment2 解答.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "assignment2 解答"
             }
           },
