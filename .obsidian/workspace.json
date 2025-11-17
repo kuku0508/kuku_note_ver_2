@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/上課筆記.md",
+                "file": "文本/Department/數學/統計/資料探勘/上課筆記.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,8 +67,7 @@
               "title": "完全隨機設計 - 假設檢定"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,10 +300,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "32fece5431e9f657",
+  "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
+    "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼/HW 2 R程式碼.md",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
     "文本/Department/數學/統計/資料探勘/作業/HW2/assignment2 解答.md",
@@ -323,7 +323,6 @@
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 2 線性規劃概論.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
