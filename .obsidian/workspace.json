@@ -11,12 +11,24 @@
             "id": "5171e45e9b7cbc0f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/作業/HW2/assignment2 解答.md"
+                "file": "文本/Department/數學/統計/資料探勘/上課筆記.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "assignment2 解答"
+              "icon": "lucide-file",
+              "title": "上課筆記"
             }
           },
           {
@@ -288,72 +300,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "46ce736ee6eeb168",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6ffb17bc6bf1382a",
-        "type": "window",
-        "children": [
-          {
-            "id": "e379b00511c42feb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "09a6a089a346f19f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
-                }
-              },
-              {
-                "id": "95f4f2daf0cdcbf8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Chapter 1"
-                }
-              },
-              {
-                "id": "9d930aa69dc99699",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Chapter 2、3"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1230,
-        "height": 1152,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5171e45e9b7cbc0f",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/作業/HW2/assignment2 解答.md",
+    "文本/Department/數學/統計/資料探勘/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/作業/HW1",
     "文本/Department/數學/統計/資料探勘/作業/HW2",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
