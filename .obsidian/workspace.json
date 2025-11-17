@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bruce",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,7 +301,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5171e45e9b7cbc0f",
+  "active": "56f3f8a6dc850f6f",
   "lastOpenFiles": [
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
