@@ -347,21 +347,9 @@
                   "icon": "excalidraw-icon",
                   "title": "Chapter 2、3"
                 }
-              },
-              {
-                "id": "6c1ef61da6b897db",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Chapter 4、5"
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -374,10 +362,13 @@
       }
     ]
   },
-  "active": "6c1ef61da6b897db",
+  "active": "95f4f2daf0cdcbf8",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
+    "文本/Department/數學/統計/多變量分析/講義/MA chapter6.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 1.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
     "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/資料探勘/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
@@ -403,9 +394,6 @@
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in probability/chapter7 1.2.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
-    "測試筆記.md",
-    "模板/📝筆記.md",
-    "模板/📜目錄.md",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
     "文本/Department/數學/統計/實驗設計/題目/chapter 3",
