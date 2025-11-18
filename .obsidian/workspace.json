@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bruce",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,8 +120,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -301,8 +300,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/未命名",
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "conflict-files-obsidian-git.md",
@@ -334,7 +334,6 @@
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/實驗／計畫階段.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 虛無假設.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
