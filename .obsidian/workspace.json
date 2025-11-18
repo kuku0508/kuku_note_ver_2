@@ -11,17 +11,36 @@
             "id": "5171e45e9b7cbc0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "文本/Department/數學/統計/資料探勘/上課筆記.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "上課筆記"
+            }
+          },
+          {
+            "id": "7362ec7ef745f1f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/Department/數學/統計/資料探勘/報告/Drawing 2025-11-19 02.33.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-19 02.33.10.excalidraw"
             }
           },
           {
@@ -60,7 +79,8 @@
               "title": "完全隨機設計 - 假設檢定"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -293,9 +313,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5171e45e9b7cbc0f",
+  "active": "7362ec7ef745f1f1",
   "lastOpenFiles": [
     "文本/Department/數學/統計/資料探勘/上課筆記.md",
+    "文本/Department/數學/統計/資料探勘/報告/Drawing 2025-11-19 02.33.10.excalidraw.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告/Untitled Kanban.md",
     "文本/Department/數學/統計/資料探勘/報告",
