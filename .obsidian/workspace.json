@@ -32,27 +32,27 @@
             }
           },
           {
-            "id": "7362ec7ef745f1f1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/Department/數學/統計/資料探勘/報告/Drawing 2025-11-19 02.33.10.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-19 02.33.10.excalidraw"
-            }
-          },
-          {
             "id": "32fece5431e9f657",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md"
+                "file": "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Topic1"
+              "icon": "lucide-file",
+              "title": "202511190233"
             }
           },
           {
@@ -313,15 +313,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7362ec7ef745f1f1",
+  "active": "32fece5431e9f657",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/上課筆記.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
+    "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
     "文本/Department/數學/統計/資料探勘/報告/Drawing 2025-11-19 02.33.10.excalidraw.md",
+    "文本/Department/數學/統計/資料探勘/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告/Untitled Kanban.md",
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/進階R/上課筆記.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼/HW 2 R程式碼.md",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
@@ -348,7 +349,6 @@
     "文本/Department/數學/統計/作業研究/講義/Chapter 3 單形法.md",
     "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計三階段/設計階段.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
