@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "完全隨機設計 - 假設檢定"
             }
+          },
+          {
+            "id": "08e641d6abe3dd5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "箭頭"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,10 +337,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "32fece5431e9f657",
+  "active": "08e641d6abe3dd5f",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "文本/Department/數學/統計/資料探勘/報告/Drawing 2025-11-19 02.33.10.excalidraw.md",
     "文本/Department/數學/統計/資料探勘/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
