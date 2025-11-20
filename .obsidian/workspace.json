@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/連線.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "連線"
+              "title": "特殊符號"
             }
           }
         ],
@@ -340,9 +340,10 @@
   "active": "08e641d6abe3dd5f",
   "lastOpenFiles": [
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
+    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "知識/程式語言/Mermaid/語法/流程圖/連結目錄/箭頭連結.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "文本/Department/數學/統計/資料探勘/報告/Drawing 2025-11-19 02.33.10.excalidraw.md",
@@ -372,7 +373,6 @@
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 5 Factorial Experiments.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
