@@ -5,7 +5,7 @@ tags:
   - 實驗設計
   - ANOVA
 ---
-![[Pasted image 20251127040550.png]]
+![[完全隨機設計 - ANOVA理論依據 分佈圖.png]]
 - - -
 parent::
 sibling::
