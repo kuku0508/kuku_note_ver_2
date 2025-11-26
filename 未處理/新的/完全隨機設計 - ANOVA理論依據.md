@@ -8,7 +8,10 @@ tags:
 ![[完全隨機設計 - ANOVA理論依據 散佈圖.png|500]]
 - - -
 # 母體
-在母體中，
+在母體中，完全隨機設計可以表示為：
+$$
+Y_{ij}=\mu+\tau_j+\epsilon
+$$
 - - -
 parent::
 sibling::
