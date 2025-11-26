@@ -16,11 +16,11 @@
   "folder_templates": [
     {
       "folder": "未處理/新的",
-      "template": "模板/📖作業.md"
+      "template": "模板/📝筆記.md"
     },
     {
       "folder": "資料庫/👾遊戲清單",
-      "template": "模板/"
+      "template": "模板/👾遊戲.md"
     }
   ],
   "enable_file_templates": false,
