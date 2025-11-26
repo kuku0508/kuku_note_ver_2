@@ -6,7 +6,9 @@ tags:
   - ANOVA
 ---
 ![[完全隨機設計 - ANOVA理論依據 散佈圖.png|500]]
-
+- - -
+# 母體
+在母體中，
 - - -
 parent::
 sibling::
