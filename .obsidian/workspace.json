@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "實驗設計"
+              "title": "完全隨機設計 - 假設檢定"
             }
           },
           {
@@ -324,8 +324,7 @@
                   "title": "chapter 1 The experiment, the design and the analysis"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -340,9 +339,9 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
