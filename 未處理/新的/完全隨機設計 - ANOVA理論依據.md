@@ -19,6 +19,8 @@ $$
 &\Rightarrow Y_{ij}-\mu=(\mu_j-\mu)+(Y_{ij}-\mu_j)
 \end{align}
 $$
+- - -
+# 樣本
 
 - - -
 parent::
