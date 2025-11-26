@@ -25,7 +25,7 @@ Y_{ij}-\bar{Y}_{..}=(\bar{Y}_{.j}-\bar{Y}_{..})+(Y_{ij}-\bar{Y}_{.j})
 $$
 $$
 \begin{align}
-T=\sum^k_{j=1}
+T=\sum^k_{j=1}\sum^{n_j}_{i=1}Y_{ij}=\sum^k_{j=1}T_{.j}
 \end{align}
 $$
 
