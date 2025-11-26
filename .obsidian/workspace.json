@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e83e49fa066029bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "完全隨機設計 - 模型"
+            }
+          },
+          {
             "id": "08e641d6abe3dd5f",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "完全隨機設計"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,11 +362,11 @@
       }
     ]
   },
-  "active": "eb31bddec196ebb7",
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
-    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
