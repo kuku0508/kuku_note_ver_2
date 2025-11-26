@@ -6,7 +6,7 @@ tags:
   - ANOVA
 ---
 ![[完全隨機設計 - ANOVA理論依據 散佈圖.png|500]]
-
+[[單因子變異數分析]]
 - - -
 parent::
 sibling::
