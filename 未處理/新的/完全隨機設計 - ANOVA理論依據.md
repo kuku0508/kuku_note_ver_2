@@ -14,8 +14,9 @@ Y_{ij}=\mu+\tau_j+\epsilon_{ij}
 $$
 進而可以改寫為：
 $$
-Y_{ij}-\mu=+\tau_j+\epsilon_{ij}
+Y_{ij}=\mu+(\mu_j-\mu)+\epsilon_{ij}
 $$
+
 - - -
 parent::
 sibling::
