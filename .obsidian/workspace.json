@@ -79,8 +79,7 @@
               "title": "完全隨機設計"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -362,8 +361,9 @@
       }
     ]
   },
-  "active": "e83e49fa066029bf",
+  "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
@@ -392,7 +392,6 @@
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "conflict-files-obsidian-git.md",
-    "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼/HW 2 R程式碼.md",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
     "文本/Department/數學/統計/資料探勘/作業/HW2",
     "文本/Department/數學/統計/資料探勘/作業/HW1",
