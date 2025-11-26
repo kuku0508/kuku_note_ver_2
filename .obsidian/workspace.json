@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+                "file": "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "One-sample runs test"
+              "title": "完全隨機設計"
             }
           }
         ],
@@ -339,8 +339,10 @@
   },
   "active": "08e641d6abe3dd5f",
   "lastOpenFiles": [
-    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
+    "知識/統計/時間數列/基礎知識/時間數列.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 7 Nested and Nested-Factorial Experiments.md",
     "知識/統計/無母數統計/隨機性檢定/One-sample runs test.md",
+    "知識/統計/R語言/假設檢定/One-sample runs test in R.md",
     "文本/Department/數學/統計/學者照片/Abraham Wald.png",
     "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
@@ -372,8 +374,6 @@
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
     "文本/Department/數學/統計/數理統計/題目/limit theorems/convergence in distribution/chapter7 1.5.md",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段",
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "文本/Department/數學/統計/資料探勘/作業",
