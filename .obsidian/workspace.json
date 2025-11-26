@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
+                "file": "知識/統計/實驗設計/基礎知識/實驗設計.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "分析階段"
+              "title": "實驗設計"
             }
           },
           {
@@ -311,8 +311,21 @@
                   "icon": "excalidraw-icon",
                   "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
                 }
+              },
+              {
+                "id": "5732459a82a14d87",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 1 The experiment, the design and the analysis"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -325,11 +338,13 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "5732459a82a14d87",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計.md",
+    "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/資料探勘/上課筆記.md",
     "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
     "知識/統計/時間數列/基礎知識/時間數列.md",
@@ -357,8 +372,6 @@
     "文本/Department/數學/統計/資料探勘/作業/HW2",
     "文本/Department/數學/統計/資料探勘/作業/HW1/關於區塊鏈的隨機筆記.md",
     "文本/Department/數學/統計/資料探勘/作業/HW1",
-    "文本/Department/數學/統計/進階R/資料/外部資料.md",
-    "文本/Department/數學/統計/進階R/資料/講義/CH1 and CH2.md",
     "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/迴歸分析/報告/三種熱傳導.png",
