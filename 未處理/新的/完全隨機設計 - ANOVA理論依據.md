@@ -15,8 +15,8 @@ $$
 進而可以改寫為：
 $$
 \begin{align}
-Y_{ij}=\mu+(\mu_j-\mu)+(Y_{ij}-\mu_j)\\
-\Rightarrow Y_{ij}-\mu=(\mu_j-\mu)+(Y_{ij}-\mu_j)\\
+&Y_{ij}=\mu+(\mu_j-\mu)+(Y_{ij}-\mu_j)\\\\
+&\Rightarrow Y_{ij}-\mu=(\mu_j-\mu)+(Y_{ij}-\mu_j)
 \end{align}
 $$
 
