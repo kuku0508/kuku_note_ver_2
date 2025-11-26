@@ -25,11 +25,13 @@ Y_{ij}-\bar{Y}_{..}=(\bar{Y}_{.j}-\bar{Y}_{..})+(Y_{ij}-\bar{Y}_{.j})
 $$
 $$
 \begin{align}
+&\text{where}\\
 &T=\sum^k_{j=1}\sum^{n_j}_{i=1}Y_{ij}=\sum^k_{j=1}T_{.j}\quad,\\
-&N=\sum^k_{j=1}n_j\,\,,\,\bar{Y}_{.j}=T_{.j}/n_j\,\,and\,\,\bar{Y}_{..}=\sum^k_{j=1}n_j\bar{Y}_{.j}/N\\
+&N=\sum^k_{j=1}n_j\,\,,\,\bar{Y}_{.j}=T_{.j}/n_j\,\,and\,\,\bar{Y}_{..}=\sum^k_{j=1}n_j\bar{Y}_{.j}/N\\\\
 &\sum\sum(Y_{ij}-\bar{Y}_{..})^2=\sum\sum (\bar{Y}_{.j}-\bar{Y}_{..})^2+\sum\sum(Y_{ij}-\bar{Y}_{.j})^2
 \end{align}
 $$
+
 
 - - -
 parent::
