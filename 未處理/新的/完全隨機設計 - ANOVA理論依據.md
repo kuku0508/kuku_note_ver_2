@@ -21,8 +21,14 @@ $$
 # 樣本
 而在樣本中，可以表示為：
 $$
-Y_{ij}-\bar{Y_{..}}=(\bar{Y}_{.j}-\bar{Y}_{..})+(Y_{ij}-\bar{Y}_{.j})
+Y_{ij}-\bar{Y}_{..}=(\bar{Y}_{.j}-\bar{Y}_{..})+(Y_{ij}-\bar{Y}_{.j})
 $$
+$$
+\begin{align}
+T=\sum^k_{j=1}
+\end{align}
+$$
+
 - - -
 parent::
 sibling::
