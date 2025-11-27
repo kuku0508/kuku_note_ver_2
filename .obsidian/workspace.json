@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
+                "file": "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "完全隨機設計 - ANOVA理論依據"
+              "title": "單因子變異數分析"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "變異數分析",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -132,7 +132,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -363,8 +364,8 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
