@@ -45,7 +45,7 @@ $$
 $Y_{ij}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon})\Rightarrow\bar{Y}_{.j}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon}/n_j)$。
 
 而在處理效果$\tau_j$皆為0且$\bar{Y}_{.j}\sim NID(\mu\,,\,\sigma^2_{\epsilon}/n_j)$
-
+$n_j\sum^k_{j=1}(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)$
 - - -
 parent::
 sibling::
