@@ -32,7 +32,12 @@ $$
 \end{align}
 $$
 
-若處理效果$\tau_j=0 \quad\forall\,j$則
+若處理效果$\tau_j=0 \quad\forall\,j$則：
+$$
+\begin{align}
+
+\end{align}
+$$
 - - -
 parent::
 sibling::
