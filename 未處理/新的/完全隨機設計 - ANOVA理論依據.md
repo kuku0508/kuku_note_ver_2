@@ -55,7 +55,7 @@ $$
 $$
 \begin{align}
 SS_T&=\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{..})^2\\
-&=\sigma^2_{\epsilon}()
+&=\sigma^2_{\epsilon}\left(\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-{\bar{Y}_{..}})^2/\sigma^2_{\epsilon}\right)
 \end{align}
 $$
 
