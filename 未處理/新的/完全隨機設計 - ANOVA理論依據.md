@@ -55,6 +55,13 @@ $$
 $$
 SST
 $$
+$$
+\begin{array}{|c|c|}
+我&朱&許&林\\
+線
+\end{array}
+$$
+
 
 - - -
 parent::
