@@ -35,7 +35,8 @@ $$
 若處理效果$\tau_j=0 \quad\forall\,j$則：
 $$
 \begin{align}
-\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\overrightarrow{U.E}
+\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
+\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}
 \end{align}
 $$
 - - -
