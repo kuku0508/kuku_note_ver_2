@@ -36,7 +36,8 @@ $$
 $$
 \begin{align}
 \sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
-\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}
+\sum\sum(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
+\left(\sum\sum(Y_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{}\right)
 \end{align}
 $$
 - - -
