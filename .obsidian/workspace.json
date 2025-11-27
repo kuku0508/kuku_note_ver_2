@@ -132,12 +132,11 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 275.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -362,7 +361,7 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
