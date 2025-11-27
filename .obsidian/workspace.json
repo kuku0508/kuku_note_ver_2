@@ -336,18 +336,6 @@
                   "icon": "excalidraw-icon",
                   "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
                 }
-              },
-              {
-                "id": "5732459a82a14d87",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/統計學/講義/ch13.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "ch13"
-                }
               }
             ]
           }
@@ -357,17 +345,19 @@
         "y": 696,
         "width": 1280,
         "height": 696,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "56f3f8a6dc850f6f",
+  "active": "eb31bddec196ebb7",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/統計學/講義/ch13.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
     "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
@@ -381,7 +371,6 @@
     "文本/Department/數學/統計/學者照片/Jacob Wolfowitz.png",
     "文本/Department/數學/統計/學者照片/John arbuthnot.png",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
-    "文本/Department/數學/統計/統計學/講義/ch13.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
     "模板/📝筆記.md",
@@ -399,7 +388,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/字體.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
