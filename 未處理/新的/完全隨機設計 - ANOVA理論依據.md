@@ -49,7 +49,7 @@ $$
 \begin{align}
 &\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{n_j-1}\\
 &\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{N-k}\\
-&\Rightarrow\frac{SSE}{\sigma^2}
+&\Rightarrow\frac{SSE}{\sigma^2_{\epsilon}}\sim\chi^2_{N-k}
 \end{align}
 $$
 
