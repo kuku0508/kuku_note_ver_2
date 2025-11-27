@@ -58,7 +58,8 @@ $$
 $$
 \begin{array}{|c|c|}
 我&朱&許&林\\
-線
+\hline
+現&前&前前&前前前
 \end{array}
 $$
 
