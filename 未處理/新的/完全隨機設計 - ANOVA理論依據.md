@@ -35,9 +35,10 @@ $$
 若處理效果$\tau_j=0 \quad\forall\,j$則：
 $$
 \begin{align}
-\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
-\sum\sum(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
-\left(\sum\sum(Y_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\bar{Y_{.j}}}\,,\,\sigma^2_{\epsilon}=n_j\right)
+&\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
+&\sum\sum(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
+&\left(\sum\sum(Y_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\bar{Y_{.j}}}\,,\,\sigma^2_{\epsilon}=n_j\bar{Y_{.j}}\right)
+\sum\sum(Y_{ij}-\bar{Y}_{.j})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}
 \end{align}
 $$
 - - -
