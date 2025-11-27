@@ -47,8 +47,8 @@ $Y_{ij}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon})\Rightarrow\bar{Y}_{.j}\sim NID(\m
 而在處理效果$\tau_j$皆為0且$\bar{Y}_{.j}\sim NID(\mu\,,\,\sigma^2_{\epsilon}/n_j)$，則：
 $$
 \begin{align}
-&\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{n_j-1}\\
-\Rightarrow&\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{N-k}\\
+Y_{ij}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon})&\Rightarrow\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{n_j-1}\\
+&\Rightarrow\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{N-k}\\
 &\Rightarrow\frac{SSE}{\sigma^2_{\epsilon}}\sim\chi^2_{N-k}
 \end{align}
 $$
