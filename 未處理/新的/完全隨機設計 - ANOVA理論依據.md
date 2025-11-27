@@ -35,7 +35,7 @@ $$
 若處理效果$\tau_j=0 \quad\forall\,j$則：
 $$
 \begin{align}
-
+\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\overrightarrow{U.E}
 \end{align}
 $$
 - - -
