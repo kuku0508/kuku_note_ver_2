@@ -54,7 +54,7 @@ SS_T&=\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{..})^2\\
 &=\sigma^2_{\epsilon}\left(\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-{\bar{Y}_{..}})^2/\sigma^2_{\epsilon}\right)\sim\chi^2_{N-1}\\
 &\Rightarrow\frac{SS_T}{\sigma^2_\epsilon}\sim\chi^2_{N-1}\\\\
 SS_{TR}&=\sum^k_{j=1}\sum^{n_j}_{i=1}(\bar{Y}_{.j}-\bar{Y}_{..})^2=\sum^k_{j=1}n_j(\bar{Y}_{.j}-\bar{Y}_{..})^2\\
-&=\sum^k_{j=1}\sigma^2_\epsilon\left[(\bar{Y}_{.j-\bar{Y}_{..}})\right]
+&=\sum^k_{j=1}\sigma^2_\epsilon\left[(\bar{Y}_{.j}-\bar{Y}_{..})^2/(\sigma^2_\epsilon)\right]
 \end{align}
 $$
 
