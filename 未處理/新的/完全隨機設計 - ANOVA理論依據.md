@@ -37,10 +37,11 @@ $$
 \begin{align}
 &\sum\sum(Y_{ij}-\bar{Y}_{..})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
 &\sum\sum(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}\\
-&\left(\sum\sum(Y_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\bar{Y_{.j}}}\,,\,\sigma^2_{\epsilon}=n_j\bar{Y_{.j}}\right)
-\sum\sum(Y_{ij}-\bar{Y}_{.j})^2/(N-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}
+&\left(\sum\sum(Y_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\bar{Y_{.j}}}\,,\,\sigma^2_{\epsilon}=n_j\bar{Y_{.j}}\right)\\
+&\sum\sum(Y_{ij}-\bar{Y}_{.j})^2/(N-k)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}
 \end{align}
 $$
+上面指的是，$Y_{ij}-\bar{Y}_{..}$(\bar{Y}_{.j}-\bar{Y}_{..})+(Y_{ij}-\bar{Y}_{.j})$
 - - -
 parent::
 sibling::
