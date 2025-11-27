@@ -41,7 +41,7 @@ $$
 &\sum\sum(Y_{ij}-\bar{Y}_{.j})^2/(N-k)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}
 \end{align}
 $$
-上面指的是，$Y_{ij}-\bar{Y}_{..}$(\bar{Y}_{.j}-\bar{Y}_{..})+(Y_{ij}-\bar{Y}_{.j})$
+上面指的是，$Y_{ij}-\bar{Y}_{..}$（SST）、$(\bar{Y}_{.j}-\bar{Y}_{..})$（SSTR）、$(Y_{ij}-\bar{Y}_{.j})$（SSE）除以
 - - -
 parent::
 sibling::
