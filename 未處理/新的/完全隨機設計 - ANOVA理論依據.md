@@ -50,12 +50,10 @@ $$
 Y_{ij}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon})&\Rightarrow\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{n_j-1}\\
 &\Rightarrow\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{.j})^2/\sigma^2_{\epsilon}\sim\chi^2_{N-k}\\
 &\Rightarrow\frac{SSE}{\sigma^2_{\epsilon}}\sim\chi^2_{N-k}
-\end{align}
-$$
-$$
 \begin{align}
 SS_T&=\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{..})^2\\
-&=\sigma^2_{\epsilon}\left(\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-{\bar{Y}_{..}})^2/\sigma^2_{\epsilon}\right)
+&=\sigma^2_{\epsilon}\left(\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-{\bar{Y}_{..}})^2/\sigma^2_{\epsilon}\right)\sim\chi^2_{N-1}\\
+&\Rightarrow\frac{SS_T}{\sigma^2_\epsilon}\sim\chi^2_{N-1}
 \end{align}
 $$
 
