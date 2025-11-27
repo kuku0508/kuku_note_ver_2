@@ -53,7 +53,10 @@ Y_{ij}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon})&\Rightarrow\sum^{n_j}_{i=1}(Y_{ij}
 \end{align}
 $$
 $$
-SS_T=\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij-)
+\begin{align}
+SS_T&=\sum^k_{j=1}\sum^{n_j}_{i=1}(Y_{ij}-\bar{Y}_{..})^2\\
+&=\sigma^2_{\epsilon}()
+\end{align}
 $$
 
 
