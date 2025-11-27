@@ -44,9 +44,7 @@ $$
 上面指的是，$Y_{ij}-\bar{Y}_{..}$（SST）、$(\bar{Y}_{.j}-\bar{Y}_{..})$（SSTR）、$(Y_{ij}-\bar{Y}_{.j})$（SSE）除以各自的自由度變成MST、MSTR、MSE之後會為變異數的無偏估計量。且：
 $Y_{ij}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon})\Rightarrow\bar{Y}_{.j}\sim NID(\mu_j\,,\,\sigma^2_{\epsilon}/n_j)$。
 
-而在處理效果$\tau_j$皆為0且$\bar{Y}_{.j}\sim NID(\mu\,,\,\sigma^2_{\epsilon}/n_j)$
-$n_j\sum^k_{j=1}(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)=\sum\sum(\bar{Y}_{.j}-\bar{Y}_{..})^2/(k-1)\underrightarrow{\quad\quad  U.E\quad \quad }\sigma^2_{\epsilon}n_j(\sigma^2_{\epsilon}/n_j)=\sigma^2_{\epsilon}$
-
+而在處理效果$\tau_j$皆為0且$\bar{Y}_{.j}\sim NID(\mu\,,\,\sigma^2_{\epsilon}/n_j)$，則：
 
 - - -
 parent::
