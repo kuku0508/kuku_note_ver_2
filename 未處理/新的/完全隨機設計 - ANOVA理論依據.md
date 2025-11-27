@@ -52,7 +52,9 @@ $$
 &\Rightarrow\frac{SSE}{\sigma^2_{\epsilon}}\sim\chi^2_{N-k}
 \end{align}
 $$
+$$
 
+$$
 
 - - -
 parent::
