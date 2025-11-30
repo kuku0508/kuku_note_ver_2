@@ -366,9 +366,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 582,
         "width": 1280,
-        "height": 696,
+        "height": 810,
         "maximize": false,
         "zoom": 0
       }
