@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.9.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 1.8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 9 5.9"
+              "title": "Chapter 9 1.8"
             }
           }
         ]
@@ -325,12 +325,16 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 1.7.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 1.8.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 1.6.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 1.5.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.9.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.8.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.9.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.7.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.6.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.5.md",
@@ -354,9 +358,6 @@
     "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary",
     "文本/Department/數學/統計/作業研究/講義/Chapter 7 運輸與指派問題.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
     "文本/Department/數學/統計/學者照片/Abraham Wald.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
@@ -373,7 +374,6 @@
     "文本/Department/數學/統計/資料探勘/作業/HW2",
     "文本/Department/數學/統計/資料探勘/作業/HW1",
     "資料庫/👾遊戲清單.base",
-    "資料庫/📃名言資料庫.base",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
