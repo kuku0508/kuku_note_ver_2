@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.3.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.9.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 9 5.3"
+              "title": "Chapter 9 5.9"
             }
           }
         ]
@@ -327,8 +327,14 @@
   },
   "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.2(i).md",
+    "文本/Department/數學/統計/數理統計/題目/未命名",
+    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.8.md",
+    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.9.md",
+    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.7.md",
+    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.6.md",
+    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.5.md",
     "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.3.md",
+    "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.2(i).md",
     "文本/Department/數學/統計/數理統計/題目/Method of Moments/Chapter 9 5.1.md",
     "文本/Department/數學/統計/數理統計/題目/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
@@ -350,10 +356,6 @@
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
-    "文本/Department/數學/統計/統計學/講義/ch13.md",
-    "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
-    "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
-    "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
     "文本/Department/數學/統計/學者照片/Abraham Wald.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
@@ -364,8 +366,6 @@
     "文本/Department/數學/統計/學者照片/Harold hotelling.png",
     "文本/Department/數學/統計/學者照片/Jacob Wolfowitz.png",
     "文本/Department/數學/統計/學者照片/John arbuthnot.png",
-    "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
