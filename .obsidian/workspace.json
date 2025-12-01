@@ -285,17 +285,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
-      "obsidian-git:Open Git source control": false,
-      "sheet-plus:建立 Excel 檔案": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open external media": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -309,7 +298,18 @@
       "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "floating": {
@@ -332,8 +332,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -344,8 +344,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Topic5"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -366,24 +366,24 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 582,
-        "width": 1280,
-        "height": 810,
+        "y": 0,
+        "width": 725,
+        "height": 1152,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "584d3429713b7f1d",
+  "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
+    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/統計學/講義/ch13.md",
-    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
     "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
     "文本/Department/數學/統計/學者照片/Abraham Wald.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
