@@ -136,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 297.5
   },
   "right": {
     "id": "7adfdd81032c0fe7",
@@ -373,7 +373,7 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
