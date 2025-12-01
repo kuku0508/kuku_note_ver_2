@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
             }
           }
         ]
@@ -34,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
             }
           },
           {
@@ -50,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
             }
           },
           {
@@ -58,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
             }
           }
         ]
@@ -88,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
             }
           },
           {
@@ -99,7 +110,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
             }
           },
           {
@@ -109,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
             }
           },
           {
@@ -118,7 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
             }
           }
         ]
@@ -130,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:建立新的 base": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,

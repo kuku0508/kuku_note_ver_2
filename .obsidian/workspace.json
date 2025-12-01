@@ -332,8 +332,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -344,8 +344,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "Topic5"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -367,7 +367,7 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 725,
+        "width": 734,
         "height": 1152,
         "maximize": false,
         "zoom": 0
@@ -376,10 +376,10 @@
   },
   "active": "584d3429713b7f1d",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/統計學/講義/ch13.md",
     "文本/Department/數學/統計/統計學/文本/範例/單因子變異數分析範例 - 年齡與甜度.md",
     "知識/統計/統計學/假設檢定/變異數分析/單因子變異數分析.md",
