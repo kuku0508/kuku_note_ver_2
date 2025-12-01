@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
+                "file": "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 51(a) in Hogg and Craig (1995)"
+              "title": "Chapter 7 61 in Hogg and Craig (1995)"
             }
           }
         ]
@@ -327,9 +327,12 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 58 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 57 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 24 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 23 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary/Chapter 7 56 in Hogg and Craig (1995).md",
@@ -362,9 +365,6 @@
     "模板/📕書.md",
     "知識/統計/實驗設計/基礎知識/實驗設計.md",
     "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
-    "文本/Department/數學/統計/資料探勘/上課筆記.md",
-    "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
-    "知識/統計/時間數列/基礎知識/時間數列.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
@@ -376,4 +376,6 @@
     "文本/Department/數學/統計/資料探勘/作業/程式碼",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
-    "文本/Department/數學/統計/機率論/未命名.canv
+    "文本/Department/數學/統計/機率論/未命名.canvas"
+  ]
+}
