@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
+                "file": "文本/Department/數學/統計/數理統計/題目/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 7 61 in Hogg and Craig (1995)"
+              "title": "Untitled"
             }
           }
         ]
@@ -325,10 +325,14 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 58 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/未命名",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/Untitled.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 65 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 58 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 57 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
@@ -361,10 +365,6 @@
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 假設檢定.md",
     "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
-    "模板/📝筆記.md",
-    "模板/📕書.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計.md",
-    "知識/統計/實驗設計/基礎知識/實驗設計三階段/分析階段.md",
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
