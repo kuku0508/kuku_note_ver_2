@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "測試筆記.md",
+                "file": "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "測試筆記"
+              "title": "程式碼"
+            }
+          },
+          {
+            "id": "48fc48843161d563",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.10.6"
             }
           },
           {
@@ -79,7 +91,8 @@
               "title": "完全隨機設計"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -312,84 +325,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "469f7a5911b7df6e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60452bd7ff70f667",
-        "type": "window",
-        "children": [
-          {
-            "id": "7ee3627e5838e04d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eb31bddec196ebb7",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
-              },
-              {
-                "id": "2dd380b4530daab8",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
-              },
-              {
-                "id": "584d3429713b7f1d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw"
-                }
-              },
-              {
-                "id": "56ea02d51a99724d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 5 對偶理論"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 696,
-        "width": 1280,
-        "height": 696,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "955fbea3115cd0cc",
+  "active": "48fc48843161d563",
   "lastOpenFiles": [
-    "筆記狀態.md",
+    "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
+    "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
     "測試筆記.md",
+    "筆記狀態.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
@@ -412,8 +353,6 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 5.1.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.5.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.4.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.2.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.3.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
