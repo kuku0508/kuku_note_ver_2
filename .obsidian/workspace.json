@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
+                "file": "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "程式碼"
-            }
-          },
-          {
-            "id": "48fc48843161d563",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.10.6"
+              "title": "雙因子變異數分析"
             }
           },
           {
@@ -298,6 +286,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -311,30 +310,90 @@
       "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
-      "obsidian-git:Open Git source control": false,
-      "sheet-plus:建立 Excel 檔案": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open external media": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48fc48843161d563",
+  "floating": {
+    "id": "469f7a5911b7df6e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "60452bd7ff70f667",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ee3627e5838e04d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb31bddec196ebb7",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
+                }
+              },
+              {
+                "id": "2dd380b4530daab8",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Topic5"
+                }
+              },
+              {
+                "id": "584d3429713b7f1d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Topic4"
+                }
+              },
+              {
+                "id": "56ea02d51a99724d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "chapter 5 對偶理論"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 696,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "56ea02d51a99724d",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/報告/202511190233.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
-    "測試筆記.md",
-    "筆記狀態.md",
-    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "conflict-files-obsidian-git.md",
+    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 65 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
@@ -353,6 +412,9 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 5.1.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.5.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.4.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.2.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.3.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.1.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
