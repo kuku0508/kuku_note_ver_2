@@ -326,19 +326,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "eb31bddec196ebb7",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "chapter 3 Single-Factor Experiments with No Restrictions on Randomization"
-                }
-              },
-              {
-                "id": "2dd380b4530daab8",
+                "id": "1554f84803622bd4",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -348,21 +336,8 @@
                   "icon": "excalidraw-icon",
                   "title": "Topic5"
                 }
-              },
-              {
-                "id": "584d3429713b7f1d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Topic4"
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -375,12 +350,12 @@
       }
     ]
   },
-  "active": "584d3429713b7f1d",
+  "active": "1554f84803622bd4",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "conflict-files-obsidian-git.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
