@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "程式碼"
+              "title": "Question 1"
             }
           },
           {
@@ -363,9 +363,11 @@
       }
     ]
   },
-  "active": "21d2374f2842ec41",
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
+    "文本/Department/數學/統計/數理統計/題目/其他",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
@@ -390,7 +392,6 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 5.1.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.5.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.4.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.2.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
@@ -411,7 +412,6 @@
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
     "文本/Department/數學/統計/資料探勘/作業/HW2",
     "文本/Department/數學/統計/資料探勘/作業/HW1",
-    "資料庫/👾遊戲清單.base",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"

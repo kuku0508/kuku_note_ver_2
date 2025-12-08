@@ -1,0 +1,1 @@
+Let $X_{(1)}$ denote the first order stati
