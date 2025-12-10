@@ -277,11 +277,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,7 +363,7 @@
       }
     ]
   },
-  "active": "5b7f534b92c70fc7",
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
