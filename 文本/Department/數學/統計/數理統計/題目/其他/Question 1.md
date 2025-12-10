@@ -5,3 +5,8 @@ Let $X_{(1)}$ denote the first order statistic of a random sample of size $n$ fr
 3. Show directly (without using part (a) ) that$X_{(1)}\xrightarrow{\quad p\quad}0$
 4. Let $Z_n=nX_{(1)}$. Find the limiting distribution of $Z_n$. Then identify the name of the distribution you obtain.
 # 回答
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|     |     |     |
