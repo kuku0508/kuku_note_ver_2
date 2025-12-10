@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
+                "file": "知識/線性代數/基礎知識/張成.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Question 1 的大綱"
+              "title": "張成 的大綱"
             }
           },
           {
@@ -216,8 +216,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -226,8 +226,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -236,8 +236,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -246,8 +246,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-ghost",
+              "title": "bc-matrix-view"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md"
+                "file": "資料庫/名言資料庫.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -286,6 +286,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -299,19 +310,7 @@
       "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
-      "obsidian-git:Open Git source control": false,
-      "sheet-plus:建立 Excel 檔案": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open external media": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "floating": {
@@ -350,31 +349,27 @@
                   "title": "Topic4"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
         "x": 1280,
         "y": 0,
         "width": 1280,
-        "height": 1032,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e83e49fa066029bf",
+  "active": "e85bef8d799d95be",
   "lastOpenFiles": [
-    "資料庫/📃名言資料庫.base",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
-    "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
-    "文本/名言/克里夫昂格對BB的遺言.md",
-    "文本/名言/你這輩子就是這樣了.md",
-    "文本/名言/for those who'll come after.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
     "文本/Department/數學/統計/數理統計/題目/其他",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "conflict-files-obsidian-git.md",
@@ -392,6 +387,11 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.6.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.5.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.2(i).md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.3.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.1.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 5.1.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.5.md",
+    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.4.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
@@ -411,6 +411,7 @@
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
     "文本/Department/數學/統計/資料探勘/作業/HW2",
+    "文本/Department/數學/統計/資料探勘/作業/HW1",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
