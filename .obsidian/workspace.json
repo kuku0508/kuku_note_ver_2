@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "張成 的大綱"
+              "title": "Question 1 的大綱"
             }
           },
           {
@@ -216,8 +216,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -226,8 +226,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -236,8 +236,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -246,8 +246,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "bc-matrix-view"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -256,7 +256,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/名言資料庫.base"
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -277,12 +277,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,7 +309,8 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
   "floating": {
@@ -362,7 +362,7 @@
       }
     ]
   },
-  "active": "e46237274c454c40",
+  "active": "5b7f534b92c70fc7",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
