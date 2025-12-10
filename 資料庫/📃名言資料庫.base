@@ -11,6 +11,8 @@ views:
       - tags
       - 參考資料
       - formula.未命名
-    sort: []
+    sort:
+      - property: 參考資料
+        direction: ASC
     columnSize:
       file.name: 478
