@@ -35,13 +35,24 @@
             "id": "e83e49fa066029bf",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "表格"
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "📃名言資料庫"
+              "icon": "lucide-file",
+              "title": "Question 1"
             }
           },
           {
@@ -190,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📃名言資料庫 的大綱"
+              "title": "Question 1 的大綱"
             }
           },
           {
@@ -245,7 +256,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "資料庫/📃名言資料庫.base"
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -354,9 +365,9 @@
   },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
+    "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
-    "資料庫/📃名言資料庫.base",
     "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
     "文本/名言/克里夫昂格對BB的遺言.md",
     "文本/名言/你這輩子就是這樣了.md",
