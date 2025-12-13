@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
+                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Question 1"
+              "title": "外部資料"
             }
           },
           {
@@ -363,12 +363,12 @@
       }
     ]
   },
-  "active": "e85bef8d799d95be",
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
     "文本/Department/數學/統計/數理統計/題目/其他",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
