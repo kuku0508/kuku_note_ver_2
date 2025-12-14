@@ -348,9 +348,21 @@
                   "icon": "excalidraw-icon",
                   "title": "SAS Charpter PROC FORMAT"
                 }
+              },
+              {
+                "id": "a3430227035a78e5",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "SAS Charpter 9 資料輸出入敘述和格式"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -363,8 +375,9 @@
       }
     ]
   },
-  "active": "e85bef8d799d95be",
+  "active": "a3430227035a78e5",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC FORMAT.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
@@ -391,7 +404,6 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.3.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.1.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 5.1.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood/Chapter 9 2.5.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
