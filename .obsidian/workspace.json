@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "張成"
+              "title": "Question 2"
             }
           },
           {
@@ -377,6 +377,8 @@
   },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
+    "知識/線性代數/基礎知識/張成.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC FORMAT.md",
@@ -402,8 +404,6 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.6.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.5.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.2(i).md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.3.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.1.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
