@@ -6,4 +6,4 @@ Let $X_1,X_2,\ldots,X_n$ be a random sample from Poisson distribution with param
 4. Let $T=\sum^n_{i=1}X_i$ . Use the defintion to show that $T$ is a sufficient statistic for $\theta$.
 5. Use the factorization theorem to show that T is a sufficient statistic for $\theta$.
 6. Is $T$ a minimal sufficient statistic? Why?
-# 回答：
+# 回答： 
