@@ -6,5 +6,6 @@ $$
 Assume that $\beta=1$. Let $\bar{X}=\frac{1}{n}\sum^n_{i=1}X_i$ .
 1. Show that  $\bar{X}\xrightarrow{\quad p\quad}\alpha$
 2. Find the limiting distribution of $\sqrt{n}(\bar{X}-\alpha)$.
-3. 
+3. Obtain the limiting distribution of $\frac{\sqrt{n}(\bar{X}-\alpha)}{\bar{X}}$.
+4. Let $Y_n=1/\bar{X}$. Find the limiting
 # 回答：
