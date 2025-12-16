@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Question 2"
+              "title": "Question 1"
             }
           },
           {
@@ -377,8 +377,8 @@
   },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/線性代數/基礎知識/張成.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
