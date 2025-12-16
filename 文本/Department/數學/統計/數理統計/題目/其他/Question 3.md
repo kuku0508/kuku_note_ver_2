@@ -13,4 +13,7 @@ Let $X_1,X_2,\ldots,X_n$ be a random sample from Poisson distribution with param
 $$
 X=\lbrace0,1,2,\ldots\rbrace
 $$
-2. 簡單來說，他問的就是
+2. 簡單來說，他問的就是$\theta$的範圍，而我們知道卜瓦松分配參數的範圍，就是大於0就可以了，所以就寫：
+3. $$
+   
+   $$
