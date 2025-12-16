@@ -11,5 +11,6 @@ Let $X_1,X_2,\ldots,X_n$ be a random sample from Poisson distribution with param
    就是指「隨機變數可能取到、且機率為正的所有值」
    所以就是X的範圍，也就是：
 $$
-X=\lbrace
+X=\lbrace0,1,2,\ldots\rbrace
 $$
+2. 簡單來說，他問的就是
