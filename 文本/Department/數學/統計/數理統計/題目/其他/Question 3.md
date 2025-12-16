@@ -8,4 +8,8 @@ Let $X_1,X_2,\ldots,X_n$ be a random sample from Poisson distribution with param
 6. Is $T$ a minimal sufficient statistic? Why?
 # 回答： 
 1. 可能要先翻譯一下，反正所謂support of Poisson distribution
-   就是指「隨機變數可能取到、且機率為證的所有值」
+   就是指「隨機變數可能取到、且機率為正的所有值」
+   所以就是X的範圍，也就是：
+$$
+X=\lbrace
+$$
