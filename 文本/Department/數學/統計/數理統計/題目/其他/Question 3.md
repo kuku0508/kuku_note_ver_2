@@ -7,4 +7,5 @@ Let $X_1,X_2,\ldots,X_n$ be a random sample from Poisson distribution with param
 5. Use the factorization theorem to show that T is a sufficient statistic for $\theta$.
 6. Is $T$ a minimal sufficient statistic? Why?
 # 回答： 
-1. 
+1. 可能要先翻譯一下，反正所謂support of Poisson distribution
+   就是指「當今天」
