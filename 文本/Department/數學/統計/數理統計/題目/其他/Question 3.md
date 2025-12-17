@@ -35,6 +35,8 @@ f(x;\theta)=\frac{e^{-\theta}\cdot\theta^x}{x!}
 $$
 裡面的
 $$
-\begin{}
-\theta^x\xrightarrow{改寫成}e^{xln\theta}
-\end{align}$$
+\begin{align}
+\theta^x&\xrightarrow{改寫成}e^{xln\theta}\\\\
+&\Rightarrow \frac{e^{-\theta}\cdot\t}{}
+\end{align}
+$$
