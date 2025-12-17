@@ -31,5 +31,9 @@ $$
 	   
 所以在這題裡面，我們可以把卜瓦松分配的pmf：
 $$
-f(x;\theta)=\frac{e^-\theta\cdot\theta}{}
+f(x;\theta)=\frac{e^{-\theta}\cdot\theta^x}{x!}
+$$
+裡面的
+$$
+\theta
 $$
