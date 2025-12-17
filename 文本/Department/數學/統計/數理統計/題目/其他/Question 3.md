@@ -35,5 +35,5 @@ f(x;\theta)=\frac{e^{-\theta}\cdot\theta^x}{x!}
 $$
 裡面的
 $$
-\theta
+\theta^x\xoverrightarrow{改寫成}
 $$
