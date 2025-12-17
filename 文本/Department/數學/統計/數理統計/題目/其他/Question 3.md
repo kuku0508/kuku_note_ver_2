@@ -21,6 +21,9 @@ $$
 	1. 寫出分配的pmf/pdf
 	2. 把有包含參數的部分，改寫成exp的形式
 	   $$
-	   h(x)c(\theta)exp[T(X)]
+	   h(x)c(\theta)exp[T(x)Q(\theta)]
 	   $$
+	   其中：
+	   $h(x)$：與$\theta$無關，可以為常數
+	3. 
 所以在這題裡面，
