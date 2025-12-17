@@ -44,3 +44,4 @@ $$
 &=h(x)\cdot c(\theta)exp[T(x)\cdot Q(\theta)]
 \end{align}
 $$
+則得證，卜瓦松分配為指數族。
