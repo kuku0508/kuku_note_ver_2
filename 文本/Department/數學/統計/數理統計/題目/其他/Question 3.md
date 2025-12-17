@@ -41,6 +41,6 @@ $$
 &=\frac{e^{-\theta+xln\theta}}{x!}\\
 &=\frac{1}{x!}exp\left\lbrace xln\theta-\theta\right\rbrace\\
 &=\frac{1}{x!}\cdot e^{-\theta}exp[x\cdot ln\theta]\\
-&=h(x)\cdot e^{-\theta}
+&=h(x)\cdot c(\theta)exp[T(x)\cdot Q(\theta)]
 \end{align}
 $$
