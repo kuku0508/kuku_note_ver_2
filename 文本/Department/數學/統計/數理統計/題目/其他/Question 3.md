@@ -39,6 +39,8 @@ $$
 \theta^x&\xrightarrow{改寫成}e^{xln\theta}\\\\
 &\Rightarrow \frac{e^{-\theta}\cdot e^{xln\theta}}{x!}\\
 &=\frac{e^{-\theta+xln\theta}}{x!}\\
-&=\frac{1}{x!}exp\left\lbrace xln\theta-\theta \right\rbrace
+&=\frac{1}{x!}exp\left\lbrace xln\theta-\theta\right\rbrace\\
+&=\frac{1}{x!}\cdot e^{-
+}
 \end{align}
 $$
