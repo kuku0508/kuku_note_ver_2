@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/連線.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "箭頭"
+              "title": "連線"
             }
           },
           {
@@ -377,6 +377,7 @@
   },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 4.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
@@ -405,7 +406,6 @@
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 24 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.8.md",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments/Chapter 9 5.9.md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
