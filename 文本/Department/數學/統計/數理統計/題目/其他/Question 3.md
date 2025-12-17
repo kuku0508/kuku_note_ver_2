@@ -18,4 +18,5 @@ $$
 \theta=(0,\infty)
 $$
 3. 當我們要判斷一個分配是不是屬於exponential family的時候，我們需要進行以下的步驟：
-	1. 
+	1. 寫出分配的pmf/pdf
+	2. 
