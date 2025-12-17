@@ -286,17 +286,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
-      "obsidian-git:Open Git source control": false,
-      "sheet-plus:建立 Excel 檔案": false,
-      "widgets:Add widget": false,
-      "3d-graph-new:Global 3D Graph": false,
-      "media-extended:Open external media": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -310,7 +299,18 @@
       "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "floating": {
@@ -345,8 +345,8 @@
                   "state": {
                     "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC FORMAT.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter PROC FORMAT"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               },
               {
@@ -357,19 +357,18 @@
                   "state": {
                     "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 9 資料輸出入敘述和格式"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 960,
         "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
@@ -377,8 +376,9 @@
   },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/其他/Question 4.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 4.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計.md",
@@ -393,7 +393,6 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
     "文本/Department/數學/統計/數理統計/題目/其他",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "conflict-files-obsidian-git.md",
