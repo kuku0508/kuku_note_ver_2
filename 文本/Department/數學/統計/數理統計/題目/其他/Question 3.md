@@ -29,4 +29,7 @@ $$
 	   $T(x)$：與$\theta$無關，須包含x
 	   $Q(\theta)$：與$\theta$有關，不可為常數
 	   
-所以在這題裡面，我們可以把
+所以在這題裡面，我們可以把卜瓦松分配的pmf：
+$$
+f(x;\theta)=\frac{e^-\theta\cdot\theta}{}
+$$
