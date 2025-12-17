@@ -40,7 +40,7 @@ $$
 &\Rightarrow \frac{e^{-\theta}\cdot e^{xln\theta}}{x!}\\
 &=\frac{e^{-\theta+xln\theta}}{x!}\\
 &=\frac{1}{x!}exp\left\lbrace xln\theta-\theta\right\rbrace\\
-&=\frac{1}{x!}\cdot e^{-
-}
+&=\frac{1}{x!}\cdot e^{-\theta}exp[x\cdot ln\theta]\\
+&=h(x)\cdot e^{-\theta}
 \end{align}
 $$
