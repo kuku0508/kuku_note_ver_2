@@ -313,72 +313,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "469f7a5911b7df6e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60452bd7ff70f667",
-        "type": "window",
-        "children": [
-          {
-            "id": "7ee3627e5838e04d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1554f84803622bd4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Topic5"
-                }
-              },
-              {
-                "id": "e85bef8d799d95be",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC FORMAT.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter PROC FORMAT"
-                }
-              },
-              {
-                "id": "a3430227035a78e5",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "SAS Charpter 9 資料輸出入敘述和格式"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
-    "知識/線性代數/基礎知識/張成.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
+    "知識/線性代數/基礎知識/張成.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
@@ -395,7 +334,6 @@
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/資料探勘/報告/程式碼.md",
     "文本/Department/數學/統計/數理統計/題目/其他",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 5 對偶理論.md",
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "conflict-files-obsidian-git.md",
