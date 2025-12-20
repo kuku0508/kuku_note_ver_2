@@ -67,7 +67,11 @@ $f_T(t;\theta)$為T的pmf/pdf
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
-P(X=x)=\prod^n_{i=1}\frac{e^{-\theta}\theta^{x_i}}{x_i!}=\frac{e^{-n\theta}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}
+F_{\underline{X}\mid T}(\underline{x}\mid t)
+=\frac{P(\underline{X}=x,T(\underline{X})=T(x))}{P(T(\underline{X})=t)}
+=\frac{P(X=x)}{P(T(\underline{X})=t)}
+=\frac{f_{\underline{X}}(x;\theta)}{f_T(t;\theta)}
+$$
 $$
 而因為sufficient statistic 充分統計量
 A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the conditional distribution of the sample $\underline{X}$ given the value of $T(\underline{X})$ does not depend on $\theta$ that is $f_{\underline{X}\mid T}(\underline{x}\mid t)$ is independent of $\theta$ .
@@ -85,5 +89,9 @@ T\sim Poisson(n\theta)
 $$
 我們就可以知道：
 $$
-P(T=t)=\frac{e^{-n\theta}n\theta^{t_i}}{t_i!}
+P(T=t)=\frac{e^{-n\theta}(n\theta)^{t_i}}{t_i!}
+$$
+故我們可以得到：
+$$
+
 $$
