@@ -80,5 +80,5 @@ T\sim Poisson(n\theta)
 $$
 我們就可以知道：
 $$
-P(T=t)=\frac{e^{-\theta n^2}n\theta^{\sum^n_{i=1}x_i}}{\prod^n_{}}
+P(T=t)=\frac{e^{-\theta n^2}n\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i !}
 $$
