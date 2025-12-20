@@ -62,8 +62,8 @@ F_{\underline{X}\mid T}(\underline{x}\mid t)
 $$
 若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
 其中
-$P(X=x)$為joint pmf/pdf。
-$P(T=t)$
+$f_{\underline{X}}(x;\theta)$為joint pmf/pdf。
+$f_{\underline{X}}(x;\theta)}{f_T(t;\theta)$
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
