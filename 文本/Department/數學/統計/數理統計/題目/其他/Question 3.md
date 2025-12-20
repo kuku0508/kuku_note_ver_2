@@ -62,5 +62,5 @@ $$
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
-P(X=x)=\prod^n_{i=1}\frac{e^{-\theta}\theta^{x_i}}{x_i!}=\frac{e^{-n\theta}\th}{}
+P(X=x)=\prod^n_{i=1}\frac{e^{-\theta}\theta^{x_i}}{x_i!}=\frac{e^{-n\theta}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}
 $$
