@@ -85,5 +85,5 @@ T\sim Poisson(n\theta)
 $$
 我們就可以知道：
 $$
-P(T=t)=\frac{}{}
+P(T=t)=\frac{e^{-n\theta}n\theta^{t_i}}{t_i!}
 $$
