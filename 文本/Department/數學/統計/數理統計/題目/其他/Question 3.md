@@ -94,6 +94,6 @@ $$
 F_{\underline{X}\mid T}(\underline{x}\mid t)
 &=\frac{f_{\underline{X}}(x;\theta)}{f_T(t;\theta)}\\\\
 &=\frac{\frac{\cancel{e^{-n\theta}}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}}{\frac{\cancel{e^{-n\theta}}(n\theta)^{t_i}}{t_i!}}\\\\
-&=\frac{\frac{\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}}{\frac{(n\theta)^{t_i}}{t_i!}}
+&=\frac{\frac{\cancel{\theta^{t_i}}}{\prod^n_{i=1}x_i!}}{\frac{n^{t_i}\cancel{\theta^{t_i}}}{t_i!}}
 \end{align}
 $$
