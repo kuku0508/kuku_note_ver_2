@@ -51,4 +51,4 @@ $$
 
 #### 第四題
 sufficient statistic 充分統計量
-A statistic $T(\underline{X})$ 
+A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the conditional distribution of the sample $\under
