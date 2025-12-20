@@ -7,17 +7,20 @@ Let $X_1,X_2,\ldots,X_n$ be a random sample from Poisson distribution with param
 5. Use the factorization theorem to show that T is a sufficient statistic for $\theta$.
 6. Is $T$ a minimal sufficient statistic? Why?
 # 回答： 
-1. 可能要先翻譯一下，反正所謂support of Poisson distribution
-   就是指「隨機變數可能取到、且機率為正的所有值」
-   所以就是X的範圍，也就是：
+#### 第一題
+可能要先翻譯一下，反正所謂support of Poisson distribution
+就是指「隨機變數可能取到、且機率為正的所有值」
+所以就是X的範圍，也就是：
 $$
 X=\lbrace0,1,2,\ldots\rbrace
 $$
-2. 簡單來說，他問的就是$\theta$的範圍，而我們知道卜瓦松分配參數的範圍，就是大於0就可以了，所以就寫：
+#### 第二題
+簡單來說，他問的就是$\theta$的範圍，而我們知道卜瓦松分配參數的範圍，就是大於0就可以了，所以就寫：
 $$
 \theta=(0,\infty)
 $$
-3. 當我們要判斷一個分配是不是屬於exponential family的時候，我們需要進行以下的步驟：
+#### 第三題
+當我們要判斷一個分配是不是屬於exponential family的時候，我們需要進行以下的步驟：
 	1. 寫出分配的pmf/pdf
 	2. 把有包含參數的部分，改寫成exp的形式
 	   $$
