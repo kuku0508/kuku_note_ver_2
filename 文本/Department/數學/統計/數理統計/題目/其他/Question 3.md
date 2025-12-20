@@ -78,4 +78,4 @@ $$
 $$
 T\sim Poisson(n\theta)
 $$
-
+接下來，我們
