@@ -57,4 +57,5 @@ A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the con
 $$
 P(X=x\mid T=t)=\frac{P(X=x)}{P(T=t)},\quad 其中T(x)=t
 $$
-若此條件分配不含參數$\the
+若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
+
