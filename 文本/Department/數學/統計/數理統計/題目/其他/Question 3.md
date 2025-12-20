@@ -86,16 +86,16 @@ T\sim Poisson(n\theta)
 $$
 我們就可以知道：
 $$
-P(T=t)=\frac{e^{-n\theta}(n\theta)^{t_i}}{t_i!}
+P(T=t)=\frac{e^{-n\theta}(n\theta)^{t}}{t!}
 $$
 故我們可以得到：
 $$
 \begin{align}
 f_{\underline{X}\mid T}(\underline{x}\mid t)
 &=\frac{f_{\underline{X}}(x;\theta)}{f_T(t;\theta)}\\\\
-&=\frac{\frac{\cancel{e^{-n\theta}}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}}{\frac{\cancel{e^{-n\theta}}(n\theta)^{t_i}}{t_i!}}\\\\
-&=\frac{\frac{\cancel{\theta^{t_i}}}{\prod^n_{i=1}x_i!}}{\frac{n^{t_i}\cancel{\theta^{t_i}}}{t_i!}}\\\\
-&=\frac{t_i!}{\prod^n_{i=1}x_i!\,n^{t_i}}
+&=\frac{\frac{\cancel{e^{-n\theta}}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}}{\frac{\cancel{e^{-n\theta}}(n\theta)^{t}}{t!}}\\\\
+&=\frac{\frac{\cancel{\theta^{t}}}{\prod^n_{i=1}x_i!}}{\frac{n^{t}\cancel{\theta^{t}}}{t!}}\\\\
+&=\frac{t!}{\prod^n_{i=1}x_i!\,n^{t}}
 \end{align}
 $$
 我們可以發現條件機率$F_{\underline{X}\mid T}(\underline{x}\mid t)$中並不包含參數$\theta$，故T對於參數$\theta$來說是充分統計量。
