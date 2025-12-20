@@ -102,5 +102,5 @@ $$
 
 但他後面的分數寫
 $$
-\frac{\frac{1}{\sqrt{}}}{}
+\frac{\frac{1}{\sqrt{2\pi\sigma^2}}exp[\frac{\sum}{}]}{}
 $$
