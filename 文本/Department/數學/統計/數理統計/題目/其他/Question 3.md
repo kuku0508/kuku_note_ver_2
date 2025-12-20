@@ -64,3 +64,14 @@ $$
 $$
 P(X=x)=\prod^n_{i=1}\frac{e^{-\theta}\theta^{x_i}}{x_i!}=\frac{e^{-n\theta}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}
 $$
+而因為sufficient statistic 充分統計量
+A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the conditional distribution of the sample $\underline{X}$ given the value of $T(\underline{X})$ does not depend on $\theta$ that is $f_{\underline{X}\mid T}(\underline{x}\mid t)$ is independent of $\theta$ .
+
+也就是當在給定$T(\underline{X})=t$ 的前提下，若條件分配
+$$
+P(X=x\mid T=t)=\frac{P(X=x)}{P(T=t)},\quad 其中T(x)=t
+$$
+若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
+其中$P(X=x)$為joint pmf/pdf。
+
+而因為$T=\sum^n_{i=1}x_i$，所以我們可以知道T
