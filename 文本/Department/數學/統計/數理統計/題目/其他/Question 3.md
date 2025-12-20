@@ -78,4 +78,7 @@ $$
 $$
 T\sim Poisson(n\theta)
 $$
-接下來，我們
+我們就可以知道：
+$$
+P(T=t)=\frac{e^{-\theta}\theta^{}}{}
+$$
