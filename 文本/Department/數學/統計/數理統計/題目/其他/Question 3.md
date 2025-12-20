@@ -55,7 +55,7 @@ A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the con
 
 也就是當在給定$T(\underline{X})=t$ 的前提下，若條件分配
 $$
-F_{\underline{X}\mid T}(\underline{x}\mid t)=\frac{P(X=x)}{P(T(\underline{X})=t)}=\frac{f_{\underline{X}}(x;\theta)}{f_T(x;\theta)}
+F_{\underline{X}\mid T}(\underline{x}\mid t)=\frac{P(\underline{X}=x,T(\underline{X})=T(x))}{}=\frac{P(X=x)}{P(T(\underline{X})=t)}=\frac{f_{\underline{X}}(x;\theta)}{f_T(t;\theta)}
 $$
 若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
 其中
