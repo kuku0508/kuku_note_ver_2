@@ -62,5 +62,5 @@ $$
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
-P(X=x)=\prod^n_{i=1}
+P(X=x)=\prod^n_{i=1}\frac{e^{-\theta}\theta^x}{x!}
 $$
