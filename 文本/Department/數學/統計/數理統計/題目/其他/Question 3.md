@@ -62,5 +62,5 @@ $$
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
-P()
+P(X=x)=\prod
 $$
