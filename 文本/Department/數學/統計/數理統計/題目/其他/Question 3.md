@@ -50,4 +50,5 @@ $$
 則得證，卜瓦松分配為指數族。
 
 #### 第四題
-suffi充分統計量
+sufficient statistic 充分統計量
+A statistic $T(\underline{X})$ 
