@@ -55,5 +55,6 @@ A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the con
 
 也就是當在給定$T(\underline{X})=t$ 的前提下，若條件分配
 $$
-
+P(X=x\mid T=t)=\frac{P(X=x)}{P(T=t)},\quad 其中T(x)=t
 $$
+若此條件分配不含參數$\the
