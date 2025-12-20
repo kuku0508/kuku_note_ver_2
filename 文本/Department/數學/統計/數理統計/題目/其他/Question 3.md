@@ -59,3 +59,8 @@ P(X=x\mid T=t)=\frac{P(X=x)}{P(T=t)},\quad 其中T(x)=t
 $$
 若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
 其中$P(X=x)$為joint pmf/pdf。
+
+那我們先算Poisson distribution 的 joint pmf 算出來：
+$$
+P()
+$$
