@@ -102,5 +102,5 @@ $$
 
 但他後面的分數寫
 $$
-\frac{\frac{1}{\sqrt{2\pi\sigma^2}}exp[\frac{\sum}{}]}{}
+\frac{\frac{1}{\sqrt{2\pi\sigma^2}}exp[\frac{\sum(x_i-\mu)^2}{2\sigma^2}]}{\frac{1}{\sqrt{2\pi\sigma^2}}exp[\frac{\sum(y_i-\mu)^2}{2\sigma^2}}
 $$
