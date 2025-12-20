@@ -55,10 +55,12 @@ A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the con
 
 也就是當在給定$T(\underline{X})=t$ 的前提下，若條件分配
 $$
-P(X=x\mid T=t)=\frac{P(X=x)}{P(T=t)},\quad 其中T(x)=t
+P({X}\mid T=t)=\frac{P(X=x)}{P(T=t)},\quad 其中T(x)=t
 $$
 若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
-其中$P(X=x)$為joint pmf/pdf。
+其中
+$P(X=x)$為joint pmf/pdf。
+$P(T=t)$
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
@@ -80,5 +82,5 @@ T\sim Poisson(n\theta)
 $$
 我們就可以知道：
 $$
-P(T=t)=\frac{e^{-\theta n^2}n\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i !}
+P(T=t)=
 $$
