@@ -90,5 +90,9 @@ P(T=t)=\frac{e^{-n\theta}(n\theta)^{t_i}}{t_i!}
 $$
 故我們可以得到：
 $$
-
+\begin{align}
+F_{\underline{X}\mid T}(\underline{x}\mid t)
+&=\frac{f_{\underline{X}}(x;\theta)}{f_T(t;\theta)}\\\\
+&=\frac{\frac{e^{-n\theta}\theta^{\sum^n_{i=1}{x_i}}}{\prod^n_{i=1}x_i!}}{\frac{e^{-n\theta}(n\theta)^{t_i}}{t_i!}}
+\end{align}
 $$
