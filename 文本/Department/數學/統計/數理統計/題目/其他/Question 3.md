@@ -80,7 +80,7 @@ $$
 若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
 其中$P(X=x)$為joint pmf/pdf。
 
-而因為$T=\sum^n_{i=1}x_i$，因為Poisson的加總還是Poisson，且其參數會變為，所以我們可以知道：
+而因為$T=\sum^n_{i=1}x_i$，因為Poisson的加總還是Poisson，且其參數會變為$n\theta$，所以我們可以知道：
 $$
 T\sim Poisson(n\theta)
 $$
