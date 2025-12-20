@@ -53,4 +53,7 @@ $$
 sufficient statistic 充分統計量
 A statistic $T(\underline{X})$ is a sufficient statistic for $\theta$ if the conditional distribution of the sample $\underline{X}$ given the value of $T(\underline{X})$ does not depend on $\theta$ that is $f_{\underline{X}\mid T}(\underline{x}\mid t)$ is independent of $\theta$ .
 
-也ru
+也就是當在給定$T(\underline{X})=t$ 的前提下，若條件分配
+$$
+
+$$
