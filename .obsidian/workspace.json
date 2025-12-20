@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Question 2"
+              "title": "Question 3"
             }
           },
           {
@@ -315,8 +315,8 @@
   },
   "active": "e83e49fa066029bf",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
+    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
     "知識/線性代數/基礎知識/張成.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
