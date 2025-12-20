@@ -63,7 +63,7 @@ $$
 若此條件分配不含參數$\theta$，則$T(\underline{X})$為充分統計量。
 其中
 $f_{\underline{X}}(x;\theta)$為joint pmf/pdf。
-$f_T(t;\theta)$為
+$f_T(t;\theta)$為T的pmf/pdf
 
 那我們先算Poisson distribution 的 joint pmf 算出來：
 $$
@@ -85,5 +85,5 @@ T\sim Poisson(n\theta)
 $$
 我們就可以知道：
 $$
-P(T=t)=
+P(T=t)=\frac{}{}
 $$
