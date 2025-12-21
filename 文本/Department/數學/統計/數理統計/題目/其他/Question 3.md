@@ -148,5 +148,7 @@ $$
 &=\theta^{T(\underline{X})-T(\underline{Y})}\cdot\underbrace{\frac{\prod^n_{i=1}y_i!}{\prod^n_{i=1}x_i!}}_{恆正}
 \end{align}
 $$
-所以要讓參數消失，我們只有一種方法，也就是讓$T(\underline{X})=T(\underline{X})$
+所以要讓參數消失，我們只有一種方法，也就是讓$T(\underline{X})=T(\underline{X})$。
+所以根據Factorization Theorem
+$T(\underline{X})$為最小充分統計量。
 
