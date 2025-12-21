@@ -102,7 +102,7 @@ $$
 
 
 #### 第五題
-
+**Fisher-Neyman Factorization Theorem**
 Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta\in \Omega$ , the statistic $T(\underline{X})$ is sufficient for $\theta$ if and only if the joint pdf of $X_1,\ldots,X_n$ factor as follows.
 $$
 f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
@@ -125,5 +125,6 @@ $$
 所以我們可以說，by factorization theorem
 $T(\underline{X})$ is sufficient for $\theta$
 #### 第六題
-
+minimal sufficient statistic
+for two independent samp
 要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的joint pdf的比值
