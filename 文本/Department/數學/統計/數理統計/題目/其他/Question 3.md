@@ -116,6 +116,8 @@ $g(T(\underline{X}),\theta)$：含$T(\underline{X})$，可以含$\theta$，可�
 好，那我們開始整理
 $$
 \begin{align}
-f(\underline{X};\theta)=\prod^n_{i=1}\frac{e^{-\theta}\theta^x}{x!}
+f(\underline{X};\theta)&=\prod^n_{i=1}\frac{e^{-\theta}\theta^x}{x!}\\\\
+&=e^{n\theta}
+
 \end{align}
 $$
