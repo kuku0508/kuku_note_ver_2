@@ -38,6 +38,7 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x_i)^{\theta+1}}\\
 &=\theta^n\prod^n_{i=1}(1+x_i)^{-\theta}\cdot(1+x_i)^{-1}\\
 &=\prod^n_{i=1}(1+x_i)^{-1}\cdot\theta^n  \prod^n_{i=1} exp\left\lbrace-\theta\ln(1+x_i)\right\rbrace\\
 &=\prod^n_{i=1}(1+x_i)^{-1}\cdot\theta^n exp\left\lbrace-\theta\sum^n_{i=1}\ln(1+x_i)\right\rbrace\\
-&=\prod^n_{i=1}(1+x_i)^{-1}\cdot\underbrace{\theta^n exp\left\lbrace-\theta\underbrace{\sum^n_{i=1}\ln(1+x_i)}_{T(\underline{X})}\right\rbrace}_{g(T(\underline{X});\theta)}\\
+&=\underbrace{\prod^n_{i=1}(1+x_i)^{-1}}_{h(x)}\cdot\underbrace{\theta^n exp\left\lbrace-\theta\underbrace{\sum^n_{i=1}\ln(1+x_i)}_{T(\underline{X})}\right\rbrace}_{g(T(\underline{X});\theta)}\\
 \end{align}
 $$
+故我們可以說，by factorization theorem 
