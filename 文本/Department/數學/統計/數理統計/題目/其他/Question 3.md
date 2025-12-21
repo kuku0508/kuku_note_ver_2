@@ -108,4 +108,4 @@ f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
 $$
 where g depend on $X_1,\ldots,X_n$ only through T and h is independent of $\theta$
 
-簡單來說，我們只要把joint pdf整理成
+簡單來說，我們只要把joint pdf整理成$g(T(\underline{X}),\theta)h(\underline{X})$，就可以直接說by factorization Theorem，T(\underline{X}) is sufficient for $\
