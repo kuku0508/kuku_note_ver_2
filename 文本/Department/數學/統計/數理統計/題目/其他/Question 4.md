@@ -21,6 +21,9 @@ $$
 
 所以我們可以開始整理看看：
 $$
-\begin{}
-f(x;\theta)=\frac{\theta}{(1+x)^{\theta+1}}
+\begin{align}
+f(x;\theta)&=\frac{\theta}{(1+x)^{\theta+1}}\\
+&=
+
+\end{align}
 $$
