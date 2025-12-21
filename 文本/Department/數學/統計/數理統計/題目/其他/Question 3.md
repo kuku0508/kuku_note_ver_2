@@ -126,5 +126,9 @@ $$
 $T(\underline{X})$ is sufficient for $\theta$
 #### 第六題
 minimal sufficient statistic
-for two independent samp
+for two random sample $\underline{X}$ and $\underline{Y}$.
+consider the likelihood ratio
+$$
+\frac{f_{}}{}
+$$
 要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的joint pdf的比值
