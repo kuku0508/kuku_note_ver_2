@@ -143,7 +143,7 @@ $$
 \begin{align}
 \frac{f_{X}(\underline{x};\theta)}{f_{Y}(\underline{y};\theta)}
 &=\frac{\frac{e^{-n\theta}\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i!}}{\frac{e^{-n\theta}\theta^{\sum^n_{i=1}y_i}}{\prod^n_{i=1}y_i!}}\\\\
-&=\frac{\frac{\cancel{e^{-n\theta}}\theta^{T(\underline{X})}}{\prod^n_{i=1}x_i!}}{\frac{e^{-n\theta}\theta^{T(\underline{Y})}}{\prod^n_{i=1}y_i!}}\\\\
+&=\frac{\frac{\cancel{e^{-n\theta}}\theta^{T(\underline{X})}}{\prod^n_{i=1}x_i!}}{\frac{\cancel{e^{-n\theta}}\theta^{T(\underline{Y})}}{\prod^n_{i=1}y_i!}}\\\\
 &=
 \end{align}
 $$
