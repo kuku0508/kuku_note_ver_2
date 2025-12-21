@@ -112,3 +112,4 @@ where g depend on $X_1,\ldots,X_n$ only through T and h is independent of $\thet
 其中
 $h(\underline{X})$：不含參數$\theta$的任何東西。
 $g(T(\underline{X}),\theta)$：含$T(\underline{X})$，可以含$\theta$，可以是常數。
+
