@@ -31,7 +31,7 @@
   ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "Quickadd",
   "announceUpdates": "all",
   "version": "2.8.0",
   "globalVariables": {},

@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -337,10 +337,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25784709f43a1c3b",
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "Quickadd/align.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "Quickadd",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",

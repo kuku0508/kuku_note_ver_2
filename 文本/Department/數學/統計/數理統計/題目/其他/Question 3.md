@@ -119,3 +119,4 @@ $$
 f(\underline{X};\theta)=\prod^n_{i=1}\frac{e^{-\theta}\theta^x}{x!}
 \end{align}
 $$
+
