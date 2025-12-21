@@ -108,7 +108,7 @@ f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
 $$
 where g depend on $X_1,\ldots,X_n$ only through T and h is independent of $\theta$
 
-簡單來說，**我們只要把joint pdf整理成$g(T(\underline{X}),\theta)h(\underline{X})$**，就可以直接說by factorization Theorem，T(\underline{X}) is sufficient for $\theta$.
+簡單來說，**我們只要把joint pdf整理成$g(T(\underline{X}),\theta)h(\underline{X})$**，就可以直接說by factorization Theorem，$T(\underline{X})$ is sufficient for $\theta$.
 其中
 $h(\underline{X})$：不含參數$\theta$的任何東西。
 $g(T(\underline{X}),\theta)$：含$T(\underline{X})$，可以含$\theta$，可以是常數。
@@ -122,4 +122,4 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{e^{-\theta}\theta^x_i}{x_i!}\\\\
 \end{align}
 $$
 所以我們可以說，by factorization theorem
-T(\underline{X}
+$T(\underline{X})$ is sufficient for $\theta$
