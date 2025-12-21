@@ -33,6 +33,7 @@ $$
 我們只要把joint pdf整理成$g(T(\underline{X});\theta)h(x)$就好了。
 $$
 \begin{align}
-f(\underline{X};\theta)=\prod^n_{i=1}\frac{\theta}{(1_)}
+f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x)^{\theta+1}}\\
+&=\prod^n_{i=1}\frac{\theta\\
 \end{align}
 $$
