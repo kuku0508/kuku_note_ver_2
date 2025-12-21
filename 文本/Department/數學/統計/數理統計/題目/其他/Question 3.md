@@ -106,7 +106,7 @@ Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta\in \Omega$ 
 $$
 f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
 $$
-where g depend on $X_1,\ldots,X_n$ only through T and h is independent of $\theta$
+where g depends on $X_1,\ldots,X_n$ only through T and h is independent of $\theta$
 
 簡單來說，**我們只要把joint pdf整理成$g(T(\underline{X}),\theta)h(\underline{X})$**，就可以直接說by factorization Theorem，$T(\underline{X})$ is sufficient for $\theta$.
 其中
