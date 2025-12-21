@@ -106,4 +106,4 @@ Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta\in \Omega$ 
 $$
 f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
 $$
-where g depend on $X_1,\ldots,X_n$ only through T and h is independent of 
+where g depend on $X_1,\ldots,X_n$ only through T and h is independent of $\theta$
