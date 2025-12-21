@@ -102,4 +102,4 @@ $$
 
 
 #### 第五題
-Let $X_1
+Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta$ 
