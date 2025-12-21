@@ -23,7 +23,7 @@ $$
 $$
 \begin{align}
 f(x;\theta)&=\frac{\theta}{(1+x)^{\theta+1}}\\
-&=
+&=\theta\cdot(1+x)^{-(\theta+1)}
 
 \end{align}
 $$
