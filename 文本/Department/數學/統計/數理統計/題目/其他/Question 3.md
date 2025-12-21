@@ -102,4 +102,7 @@ $$
 
 
 #### 第五題
-Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta\in \Omega$ , the statistic $T(\underline{X})$ is sufficient for $\theta$ if and only if the joint pdf of $X_1
+Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta\in \Omega$ , the statistic $T(\underline{X})$ is sufficient for $\theta$ if and only if the joint pdf of $X_1,\ldots,X_n$ factor as follows.
+$$
+f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
+$$
