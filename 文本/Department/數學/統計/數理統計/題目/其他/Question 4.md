@@ -6,3 +6,4 @@ $$
 1. Does this distribution belong to exponential family? State your reason.
 2. Find a sufficient statistic for $\theta$.
 # 回答：
+#### 第一題
