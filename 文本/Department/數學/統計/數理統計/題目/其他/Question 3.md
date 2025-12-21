@@ -136,4 +136,4 @@ $T(\underline{X})=T(\underline{Y})$
 then $T(\underline{X})$ is a minimal sufficient statistic for $\theta$.
 
 要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的 joint pdf 的比值
-然後當今天叁g
+若且為若當今天這個比值中沒有參數的情況只有$T(\underline{X})=T(\underline{Y})$，則可以說T(\underline{X})
