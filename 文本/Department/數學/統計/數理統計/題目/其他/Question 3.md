@@ -99,3 +99,7 @@ f_{\underline{X}\mid T}(\underline{x}\mid t)
 \end{align}
 $$
 我們可以發現條件機率$F_{\underline{X}\mid T}(\underline{x}\mid t)$中並不包含參數$\theta$，故T對於參數$\theta$來說是充分統計量。
+
+
+#### 第五題
+Let $X_1
