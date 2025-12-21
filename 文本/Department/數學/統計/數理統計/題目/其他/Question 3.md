@@ -129,6 +129,8 @@ minimal sufficient statistic
 for two random sample $\underline{X}$ and $\underline{Y}$.
 consider the likelihood ratio
 $$
-\frac{f_{}}{}
+\frac{f_{X}(\underline{x};\theta)}{f_{Y}(\underline{y};\theta)}
 $$
+If this ratio is independent of $\theta$ if and only if
+$T(\underline{X})$
 要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的joint pdf的比值
