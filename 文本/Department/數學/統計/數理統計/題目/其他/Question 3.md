@@ -123,3 +123,5 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{e^{-\theta}\theta^x_i}{x_i!}\\\\
 $$
 所以我們可以說，by factorization theorem
 $T(\underline{X})$ is sufficient for $\theta$
+#### 第六題
+要去驗證一個東西是不是最小充分統計量
