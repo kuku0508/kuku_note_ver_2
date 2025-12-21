@@ -24,7 +24,7 @@ $$
 \begin{align}
 f(x;\theta)&=\frac{\theta}{(1+x)^{\theta+1}}\\
 &=\theta\cdot(1+x)^{-(\theta+1)}\\
-&=\underbrace{1}_{h(x)}\cdot\underbrace{\theta}_{c(\theta)}\cdot exp[\underbrace{\ln (1+x)}_{T(x)}\cdot\underbrace{(\theta+1)}_{Q(\theta)}]
+&=\underbrace{1}_{h(x)}\cdot\underbrace{\theta}_{c(\theta)}\cdot exp[\underbrace{\ln (1+x)}_{T(x)}\cdot\underbrace{[-(\theta+1)]}_{Q(\theta)}]\rbrace
 \end{align}
 $$
 故我們可以說$f(x;\theta)$為指數族。
