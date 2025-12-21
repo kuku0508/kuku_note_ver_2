@@ -141,6 +141,7 @@ then $T(\underline{X})$ is a minimal sufficient statistic for $\theta$.
 那我們開始整理吧：
 $$
 \begin{align}
-\frac{e^{-n\theta}\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i!}
+\frac{f_{X}(\underline{x};\theta)}{f_{Y}(\underline{y};\theta)}
+&=\frac{\frac{e^{-n\theta}\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i!}}{\frac{e^{-n\theta}\theta^{\sum^n_{i=1}y_i}}{\prod^n_{i=1}y_i!}}
 \end{align}
 $$
