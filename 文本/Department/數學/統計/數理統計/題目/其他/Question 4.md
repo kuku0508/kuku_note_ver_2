@@ -29,6 +29,18 @@ f(x;\theta)&=\frac{\theta}{(1+x)^{\theta+1}}\\
 $$
 故我們可以說$f(x;\theta)$為指數族。
 #### 第二題
+**Fisher-Neyman Factorization Theorem**
+Let $X_1,\ldots,X_n$ be a random sample from $f(x;\theta)$ , $\theta\in \Omega$ , the statistic $T(\underline{X})$ is sufficient for $\theta$ if and only if the joint pdf of $X_1,\ldots,X_n$ factor as follows.
+$$
+f(\underline{X};\theta)=g(T(\underline{X}),\theta)h(\underline{X})
+$$
+where g depends on $X_1,\ldots,X_n$ only through T and h is independent of $\theta$
+
+簡單來說，**我們只要把joint pdf整理成$g(T(\underline{X}),\theta)h(\underline{X})$**，就可以直接說by factorization Theorem，$T(\underline{X})$ is sufficient for $\theta$.
+其中
+$h(\underline{X})$：不含參數$\theta$的任何東西。
+$g(T(\underline{X}),\theta)$：含$T(\underline{X})$，可以含$\theta$，可以是常數。
+
 我們可以用factorization Theorem來做這題
 我們只要把joint pdf整理成$g(T(\underline{X});\theta)h(x)$就好了。
 $$
@@ -41,4 +53,4 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x_i)^{\theta+1}}\\
 &=\underbrace{\prod^n_{i=1}(1+x_i)^{-1}}_{h(x)}\cdot\underbrace{\theta^n exp\left\lbrace-\theta\underbrace{\sum^n_{i=1}\ln(1+x_i)}_{T(\underline{X})}\right\rbrace}_{g(T(\underline{X});\theta)}\\
 \end{align}
 $$
-故我們可以說，by factorization theorem 
+故我們可以說，by factorization theorem $\sum^n_{i=1}\ln(1+x_i)$ is sufficient for $\theta$.
