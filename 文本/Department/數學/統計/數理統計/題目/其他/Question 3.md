@@ -149,6 +149,5 @@ $$
 \end{align}
 $$
 所以要讓參數消失，我們只有一種方法，也就是讓$T(\underline{X})=T(\underline{X})$。
-所以根據Factorization Theorem
-$T(\underline{X})$為最小充分統計量。
+故我們可以知道$T(\underline{X})$為最小充分統計量。
 
