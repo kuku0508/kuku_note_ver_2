@@ -148,5 +148,5 @@ $$
 &=\theta^{T(\underline{X})-T(\underline{Y})}\cdot\underbrace{\frac{\prod^n_{i=1}y_i!}{\prod^n_{i=1}x_i!}}_{恆正}
 \end{align}
 $$
-
+所以
 
