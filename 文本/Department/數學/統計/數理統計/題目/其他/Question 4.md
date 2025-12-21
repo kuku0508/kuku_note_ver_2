@@ -36,6 +36,6 @@ $$
 f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x_i)^{\theta+1}}\\
 &=\prod^n_{i=1}\theta\cdot(1+x_i)^{-(\theta+1)}\\
 &=\theta^n\prod^n_{i=1}(1+x_i)^{-\theta}\cdot(1+x_i)^{-1}\\
-&=\prod^n_{i=1}(1+x_i)^{-1}
+&=\prod^n_{i=1}(1+x_i)^{-1}\cdot\theta^nexp\left\lbrace-\theta\ln(1+)\right\rbrace
 \end{align}
 $$
