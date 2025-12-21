@@ -132,5 +132,7 @@ $$
 \frac{f_{X}(\underline{x};\theta)}{f_{Y}(\underline{y};\theta)}
 $$
 If this ratio is independent of $\theta$ if and only if
-$T(\underline{X})$
+$T(\underline{X})=T(\underline{Y})$
+then $T(\underline{X})$ is a minimal sufficient statistic for $\theta$.
+
 要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的joint pdf的比值
