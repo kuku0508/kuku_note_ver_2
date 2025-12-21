@@ -99,8 +99,3 @@ f_{\underline{X}\mid T}(\underline{x}\mid t)
 \end{align}
 $$
 我們可以發現條件機率$F_{\underline{X}\mid T}(\underline{x}\mid t)$中並不包含參數$\theta$，故T對於參數$\theta$來說是充分統計量。
-
-但他後面的分數寫
-$$
-\frac{\frac{1}{\sqrt{2\pi\sigma^2}}exp[\frac{\sum(x_i-\mu)^2}{2\sigma^2}]}{\frac{1}{\sqrt{2\pi\sigma^2}}exp[\frac{\sum(y_i-\mu)^2}{2\sigma^2}}
-$$
