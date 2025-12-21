@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "e83e49fa066029bf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Introduction to Mathematical Statistics.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Introduction to Mathematical Statistics"
-            }
-          },
-          {
             "id": "81809d1458f17cd0",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,7 +289,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81809d1458f17cd0",
+  "floating": {
+    "id": "72abe11397bca207",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9066508e4d84c198",
+        "type": "window",
+        "children": [
+          {
+            "id": "6ab8181400a2fe25",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e83e49fa066029bf",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/Introduction to Mathematical Statistics.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Introduction to Mathematical Statistics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
     "文本/書/Introduction to Mathematical Statistics.md",
