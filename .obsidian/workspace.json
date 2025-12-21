@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "25784709f43a1c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quickadd/align.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "align"
+            }
+          },
+          {
             "id": "08e641d6abe3dd5f",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,10 +337,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e83e49fa066029bf",
+  "active": "25784709f43a1c3b",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
+    "Quickadd/align.md",
+    "Quickadd",
+    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
@@ -343,7 +369,6 @@
     "知識/統計/實驗設計/完全隨機實驗/完全隨機設計 - 模型.md",
     "conflict-files-obsidian-git.md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 65 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
@@ -361,7 +386,6 @@
     "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
     "文本/Department/數學/統計/資料探勘/報告",
     "文本/Department/數學/統計/資料探勘/作業/HW2/程式碼",
-    "文本/Department/數學/統計/資料探勘/作業/HW2",
     "未處理/未命名.canvas",
     "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
     "文本/Department/數學/統計/機率論/未命名.canvas"
