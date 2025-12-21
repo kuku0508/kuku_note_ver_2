@@ -33,8 +33,9 @@ $$
 我們只要把joint pdf整理成$g(T(\underline{X});\theta)h(x)$就好了。
 $$
 \begin{align}
-f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x)^{\theta+1}}\\
-&=\prod^n_{i=1}\theta\cdot(1+x)^{-(\theta+1)}\\
-&=\theta^n\prod^n_{i=1}(1+x)^{-\theta}\cdot(1+x)^{-\theta}
+f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x_i)^{\theta+1}}\\
+&=\prod^n_{i=1}\theta\cdot(1+x_i)^{-(\theta+1)}\\
+&=\theta^n\prod^n_{i=1}(1+x_i)^{-\theta}\cdot(1+x_i)^{-1}\\
+&=
 \end{align}
 $$
