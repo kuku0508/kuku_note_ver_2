@@ -28,3 +28,5 @@ f(x;\theta)&=\frac{\theta}{(1+x)^{\theta+1}}\\
 \end{align}
 $$
 故我們可以說$f(x;\theta)$為指數族。
+#### 第二題
+我們可以用factorization Theorem來做這題
