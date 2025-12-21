@@ -135,4 +135,5 @@ If this ratio is independent of $\theta$ if and only if
 $T(\underline{X})=T(\underline{Y})$
 then $T(\underline{X})$ is a minimal sufficient statistic for $\theta$.
 
-要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的joint pdf的比值
+要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的 joint pdf 的比值
+然後當今天叁g
