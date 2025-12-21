@@ -118,6 +118,6 @@ $$
 \begin{align}
 f(\underline{X};\theta)&=\prod^n_{i=1}\frac{e^{-\theta}\theta^x_i}{x_i!}\\\\
 &=\frac{e^{-n\theta}\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i!}\\\\
-&=
+&=e^{-n\theta}\theta^{T(\underline{X})}\cdot d
 \end{align}
 $$
