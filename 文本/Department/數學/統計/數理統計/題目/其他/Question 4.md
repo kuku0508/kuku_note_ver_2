@@ -24,6 +24,6 @@ $$
 \begin{align}
 f(x;\theta)&=\frac{\theta}{(1+x)^{\theta+1}}\\
 &=\theta\cdot(1+x)^{-(\theta+1)}\\
-&=\theta\cdot exp[-(\theta+1)]
+&=\underbrace{1}_{h(x)}\cdot\underbrace{\theta}_{c(\thet)}\cdot exp[-(\theta+1)\ln (1+x)]
 \end{align}
 $$
