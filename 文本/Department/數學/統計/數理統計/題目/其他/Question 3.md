@@ -118,6 +118,8 @@ $$
 \begin{align}
 f(\underline{X};\theta)&=\prod^n_{i=1}\frac{e^{-\theta}\theta^x_i}{x_i!}\\\\
 &=\frac{e^{-n\theta}\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i!}\\\\
-&=\underbrace{e^{-n\theta}\theta^{T(\underline{X})}}_{g(T(\underline{X}),\theta)}\cdot \frac{1}{\prod^n_{i=1}x_i!}
+&=\underbrace{e^{-n\theta}\theta^{T(\underline{X})}}_{g(T(\underline{X}),\theta)}\cdot \underbrace{\frac{1}{\prod^n_{i=1}x_i!}}_{h(\underline{X})}
 \end{align}
 $$
+所以我們可以說，by factorization theorem
+T(\underline{X}
