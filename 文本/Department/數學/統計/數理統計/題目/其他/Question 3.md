@@ -115,5 +115,7 @@ $g(T(\underline{X}),\theta)$：含$T(\underline{X})$，可以含$\theta$，可�
 
 好，那我們開始整理
 $$
-f(\underline{X};\theta)=\prod^n_{i=1}\frac{}{}
+\begin{align}
+f(\underline{X};\theta)=\prod^n_{i=1}\frac{e^{-\theta}\theta^x}{x!}
+\end{align}
 $$
