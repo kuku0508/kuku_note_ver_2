@@ -136,4 +136,11 @@ $T(\underline{X})=T(\underline{Y})$
 then $T(\underline{X})$ is a minimal sufficient statistic for $\theta$.
 
 要去驗證一個東西是不是最小充分統計量，我們需要看兩個獨立樣本的 joint pdf 的比值
-若且為若當今天這個比值中沒有參數的情況只有$T(\underline{X})=T(\underline{Y})$，則可以說T(\underline{X})
+若且為若當今天這個比值中沒有參數的情況只有$T(\underline{X})=T(\underline{Y})$，則可以說$T(\underline{X})$是最小充分統計量。
+
+那我們開始整理吧：
+$$
+\begin{align}
+\frac{e^{-n\theta}\theta^{\sum^n_{i=1}x_i}}{\prod^n_{i=1}x_i!}
+\end{align}
+$$
