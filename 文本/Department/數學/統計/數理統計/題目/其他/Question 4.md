@@ -30,4 +30,5 @@ $$
 故我們可以說$f(x;\theta)$為指數族。
 #### 第二題
 我們可以用factorization Theorem來做這題
-我們只要把pdf整理成$g(T(\underline{X});\theta)h(x)$就好了。
+我們只要把joint pdf整理成$g(T(\underline{X});\theta)h(x)$就好了。
+
