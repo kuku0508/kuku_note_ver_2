@@ -148,3 +148,4 @@ $$
 &=\theta^{T(\underline{X})-T(\underline{Y})}\cdot\frac{\prod^n_{i=1}y_i!}{\prod^n_{i=1}x_i!}
 \end{align}
 $$
+
