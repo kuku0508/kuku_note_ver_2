@@ -30,3 +30,4 @@ $$
 故我們可以說$f(x;\theta)$為指數族。
 #### 第二題
 我們可以用factorization Theorem來做這題
+我們只要把pdf整理成
