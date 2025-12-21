@@ -31,4 +31,8 @@ $$
 #### 第二題
 我們可以用factorization Theorem來做這題
 我們只要把joint pdf整理成$g(T(\underline{X});\theta)h(x)$就好了。
-
+$$
+\begin{align}
+f(\underline{X};\theta)=\prod^n_{i=1}\frac{\theta}{(1_)}
+\end{align}
+$$
