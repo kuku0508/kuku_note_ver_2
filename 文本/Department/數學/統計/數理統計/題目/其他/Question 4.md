@@ -35,6 +35,6 @@ $$
 \begin{align}
 f(\underline{X};\theta)&=\prod^n_{i=1}\frac{\theta}{(1+x)^{\theta+1}}\\
 &=\prod^n_{i=1}\theta\cdot(1+x)^{-(\theta+1)}\\
-&=\prod
+&=\theta^n\prod^n_{i=1}(1+x)^{-\theta}\cdot(1+x)^{-\theta}
 \end{align}
 $$
