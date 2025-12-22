@@ -6,5 +6,7 @@ $$
 A(X_1,X_2)=1\lbrace X_1<X_2\rbrace
 $$
 $$
-\beign{
+\begin{align}
+\frac{e^{-\lambda}\lambda^{X_1}}{X_1!}
+\end{align}
 $$
