@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.51"
+              "title": "Question 3"
             }
           }
         ],
@@ -341,8 +341,8 @@
   },
   "active": "81809d1458f17cd0",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
+    "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
     "文本/Department/數學/統計/數理統計/題目/ancillary/gpt.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
     "文本/書/Introduction to Mathematical Statistics.md",
