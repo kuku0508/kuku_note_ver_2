@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.24"
+              "title": "7.51"
             }
           }
         ],
@@ -286,7 +286,8 @@
       "templates:插入模板": false,
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
   "floating": {
@@ -338,10 +339,11 @@
       }
     ]
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "81809d1458f17cd0",
   "lastOpenFiles": [
-    "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
+    "文本/書/Introduction to Mathematical Statistics.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
     "資料庫/📃名言資料庫.base",
     "未處理/新的/Neuro - sama.md",
@@ -369,7 +371,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
-    "知識/線性代數/基礎知識/張成.md",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件",
     "文本/Department/數學/統計/數理統計/題目/其他",
