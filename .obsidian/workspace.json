@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/ancillary/gpt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.56"
+              "title": "gpt"
             }
           }
         ],
@@ -328,8 +328,9 @@
   },
   "active": "81809d1458f17cd0",
   "lastOpenFiles": [
-    "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
+    "文本/Department/數學/統計/數理統計/題目/ancillary/gpt.md",
+    "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/ancillary",
     "文本/書/A Course In Mathematical Statistics.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
@@ -357,7 +358,6 @@
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter 9 資料輸出入敘述和格式.md",
     "文本/Department/數學/統計/SAS/講義/SAS Charpter PROC FORMAT.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic4.md",
     "文本/Department/數學/統計/數理統計/題目/其他",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
