@@ -312,8 +312,21 @@
                   "icon": "excalidraw-icon",
                   "title": "Introduction to Mathematical Statistics"
                 }
+              },
+              {
+                "id": "a9f5f8b07bac257f",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/書/Introduction to Mathematical Statistics.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Introduction to Mathematical Statistics"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -326,13 +339,13 @@
       }
     ]
   },
-  "active": "81809d1458f17cd0",
+  "active": "a9f5f8b07bac257f",
   "lastOpenFiles": [
-    "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
+    "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/未命名.md",
     "文本/Department/數學/統計/數理統計/題目/completeness",
-    "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/ancillary/gpt.md",
     "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
     "文本/Department/數學/統計/數理統計/題目/ancillary",
