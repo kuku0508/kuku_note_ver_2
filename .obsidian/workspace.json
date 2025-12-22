@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/📖作業.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📖作業"
+              "title": "7.24"
             }
           }
         ],
@@ -341,6 +341,8 @@
   "active": "81809d1458f17cd0",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
+    "模板/📖作業.md",
     "文本/書/Introduction to Mathematical Statistics.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/未命名.md",
@@ -369,8 +371,6 @@
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件",
-    "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/Department/數學/統計/數理統計/題目/其他",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
