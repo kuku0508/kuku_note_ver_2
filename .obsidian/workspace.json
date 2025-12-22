@@ -325,8 +325,7 @@
                   "title": "Introduction to Mathematical Statistics"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -339,7 +338,7 @@
       }
     ]
   },
-  "active": "a9f5f8b07bac257f",
+  "active": "e83e49fa066029bf",
   "lastOpenFiles": [
     "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
