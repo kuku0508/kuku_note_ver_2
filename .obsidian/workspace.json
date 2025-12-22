@@ -35,13 +35,24 @@
             "id": "81809d1458f17cd0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "表格"
+                "file": "未處理/新的/未命名 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "📃名言資料庫"
+              "icon": "lucide-file",
+              "title": "未命名 1"
             }
           }
         ],
@@ -329,6 +340,9 @@
   },
   "active": "81809d1458f17cd0",
   "lastOpenFiles": [
+    "資料庫/📃名言資料庫.base",
+    "未處理/新的/未命名 1.md",
+    "未處理/新的/未命名.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
     "模板/📖作業.md",
@@ -355,9 +369,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
     "知識/線性代數/基礎知識/張成.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件",
     "文本/Department/數學/統計/數理統計/題目/其他",
@@ -366,7 +377,6 @@
     "文本/Department/數學/統計/數理統計/題目/Point Estimation",
     "未處理/附件/Pasted image 20251117105952.png",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
     "文本/Department/數學/統計/學者照片/Abraham Wald.png",
     "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
