@@ -326,7 +326,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -339,11 +339,11 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "a9f5f8b07bac257f",
   "lastOpenFiles": [
     "文本/Department/數學/統計/迴歸分析/講義/unit 2.md",
-    "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
+    "文本/書/Introduction to Mathematical Statistics.md",
     "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks.md",
