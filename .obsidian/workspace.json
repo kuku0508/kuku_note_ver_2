@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
+                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "線索"
+              "title": "外部資料"
             }
           },
           {
@@ -363,7 +363,7 @@
       }
     ]
   },
-  "active": "56e5b09c93c76349",
+  "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
