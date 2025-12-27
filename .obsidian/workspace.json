@@ -67,7 +67,8 @@
               "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -363,11 +364,11 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "91bef37e3f0aeac0",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
