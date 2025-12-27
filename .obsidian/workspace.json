@@ -67,7 +67,8 @@
               "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -363,8 +364,9 @@
       }
     ]
   },
-  "active": "955fbea3115cd0cc",
+  "active": "91bef37e3f0aeac0",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
@@ -386,7 +388,6 @@
     "資料庫/📃名言資料庫.base",
     "未處理/新的/Neuro - sama.md",
     "未處理/新的/未命名.md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
     "模板/📖作業.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/未命名.md",
