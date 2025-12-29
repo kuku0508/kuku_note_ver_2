@@ -359,15 +359,15 @@
         "y": 0,
         "width": 1280,
         "height": 1392,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "91bef37e3f0aeac0",
+  "active": "336964f0abe92138",
   "lastOpenFiles": [
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
