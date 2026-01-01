@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.23"
+              "title": "線索"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.24"
+              "title": "Question 3"
             }
           },
           {
@@ -67,8 +67,7 @@
               "title": "Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -302,100 +301,38 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "floating": {
-    "id": "72abe11397bca207",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9066508e4d84c198",
-        "type": "window",
-        "children": [
-          {
-            "id": "6ab8181400a2fe25",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e83e49fa066029bf",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/Introduction to Mathematical Statistics.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Introduction to Mathematical Statistics"
-                }
-              },
-              {
-                "id": "c059000ceecb0d33",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/Department/數學/統計/迴歸分析/講義/unit 2.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 2"
-                }
-              },
-              {
-                "id": "336964f0abe92138",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1e03ebbc8f771b90",
+  "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
-    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
-    "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
-    "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
-    "知識/程式語言/Latex/基礎知識/語法表/組合.md",
-    "文本/Department/數學/統計/進階R/資料/外部資料.md",
-    "文本/書/A First Course In Probability.md",
-    "文本/書/A Course In Mathematical Statistics.md",
     "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 2.md",
-    "知識/統計/統計學/假設檢定/變異數分析/雙因子變異數分析.md",
+    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
+    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 4.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 2.md",
+    "文本/Department/數學/統計/數理統計/題目/其他/Question 1.md",
+    "文本/Department/數學/統計/數理統計/題目/family of distributions/basic comcepts/chapter11 1.1 in Roussas(1997).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.11.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.8.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.7.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.6.md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 65 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 58 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 57 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 24 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 23 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary/Chapter 7 56 in Hogg and Craig (1995).md",
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
+    "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
+    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/數理統計/題目/期末考",
-    "文本/書/Fundamental Concepts in the Design of Experiments -- Charles Robert Hicks.md",
-    "文本/Department/數學/統計/數理統計/題目/ancillary/7.56.md",
-    "文本/Department/數學/統計/數理統計/題目/ancillary/gpt.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/連續/單變量常態分配.md",
     "資料庫/📃名言資料庫.base",
-    "未處理/新的/Neuro - sama.md",
-    "未處理/新的/未命名.md",
-    "模板/📖作業.md",
-    "知識/統計/統計學/分配/機率分配/常見分配種類/離散/卜瓦松分配.md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/未命名.md",
     "文本/Department/數學/統計/數理統計/題目/completeness",
     "文本/Department/數學/統計/數理統計/題目/ancillary",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic5.md",
-    "文本/Department/數學/統計/數理統計/題目/其他/Question 4.md",
     "Quickadd",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件",
