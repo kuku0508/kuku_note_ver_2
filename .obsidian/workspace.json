@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
+                "file": "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "線索"
+              "title": "誤差來源"
             }
           },
           {
@@ -303,9 +303,10 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/抽樣誤差.md",
+    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/書/Introduction to Mathematical Statistics.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 2.md",
-    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "知識/統計/統計學/分配/機率分配/常見分配種類/連續/指數分配.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.23.md",
@@ -328,7 +329,6 @@
     "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary/Chapter 7 56 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
-    "文本/書/An Introduction to Probability and Statistical Inference, Second Edition - George G. Roussas.md",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/數理統計/題目/completeness",
