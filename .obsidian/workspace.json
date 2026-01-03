@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
+                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "誤差來源"
+              "title": "長條圖"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "長條圖",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -303,6 +304,7 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/抽樣誤差.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/書/Introduction to Mathematical Statistics.md",
@@ -328,7 +330,6 @@
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 23 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary/Chapter 7 56 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.51.md",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/數理統計/題目/completeness",
