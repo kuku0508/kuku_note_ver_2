@@ -120,8 +120,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -302,7 +301,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "955fbea3115cd0cc",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/抽樣誤差.md",
