@@ -13,8 +13,9 @@ $$
 \text{O x A interaction}&8&84,785&10,598\\
 \text{Error}&15&230,900&15,393\\
 \hline
-\text{Totals}&29&\\
+\text{Totals}&29&563,030\\
 \hline
 \end{array}
 $$
+Assuming complete randomization, determine the EMS column for this problem and make
 # 回答：
