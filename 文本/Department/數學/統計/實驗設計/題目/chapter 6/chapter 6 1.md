@@ -8,7 +8,13 @@ $$
 \hline
 \text{Source}&\text{df}&\text{SS}&\text{MS}\\
 \hline
-\text{Operators}&2
+\text{Operators}&2&107540\\
+\text{Aluminizers}\\
+\text{O x A interaction}\\
+\text{Error}\\
+\hline
+\text{Totals}\\
+\hline
 \end{array}
 $$
 # 回答：
