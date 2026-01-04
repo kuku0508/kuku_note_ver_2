@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
+                "file": "文本/Department/數學/統計/實驗設計/題目/chapter 6/6.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "長條圖"
+              "title": "6.1"
             }
           },
           {
@@ -301,8 +301,12 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 5.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/6.1.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6",
+    "知識/統計/統計學/圖表/圖/長條圖.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/未觀察誤差/抽樣誤差.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
@@ -326,9 +330,6 @@
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 57 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 24 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 23 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Ancillary/Chapter 7 56 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/completeness/7.24.md",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/數理統計/題目/completeness",
@@ -339,7 +340,6 @@
     "文本/Department/數學/統計/數理統計/題目/其他",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Moments",
     "文本/Department/數學/統計/數理統計/題目/Point Estimation/Method of Maximum Likelihood",
-    "文本/Department/數學/統計/數理統計/題目/Point Estimation",
     "未處理/附件/Pasted image 20251117105952.png",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
     "文本/Department/數學/統計/學者照片/Abraham Wald.png",
