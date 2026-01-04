@@ -17,5 +17,5 @@ $$
 \hline
 \end{array}
 $$
-Assuming complete randomization, determine the EMS column for this problem and make
+Assuming complete randomization, determine the EMS column for this problem and make indicated sigmificance tests.
 # 回答：
