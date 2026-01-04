@@ -4,8 +4,11 @@
 # 問題：
 In an experiment on the efffects of three randomly selected operators and five fixed aluminizers on the aluminum thickness of a TB tube, two teadings rare made for each operator-aluminizer combination, The following ANOVA table is compiled.
 $$
-\begin{cases}
-
+\begin{array}{lccc}
+\hline
+\text{Source}&\text{df}&\text{SS}&\text{MS}\\
+\hline
+\text{Operators}&2
 \end{array}
 $$
 # 回答：
