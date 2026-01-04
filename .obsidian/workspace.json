@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/題目/chapter 6/6.1.md",
+                "file": "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.1"
+              "title": "chapter 6 17"
             }
           },
           {
@@ -303,8 +303,13 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 8.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 17.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 4.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 3.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 2.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 5/chapter5 5.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 6/6.1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6",
     "知識/統計/統計學/圖表/圖/長條圖.md",
     "知識/統計/抽樣調查/基礎知識/誤差來源/誤差來源.md",
@@ -325,11 +330,6 @@
     "文本/Department/數學/統計/數理統計/題目/data reduction/sufficiency/chapter9 2.6.md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 66 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 65 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 61 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 58 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 57 in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 51(a) in Hogg and Craig (1995).md",
-    "文本/Department/數學/統計/數理統計/題目/data reduction/Completeness/Chapter 7 24 in Hogg and Craig (1995).md",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/數理統計/題目/completeness",
