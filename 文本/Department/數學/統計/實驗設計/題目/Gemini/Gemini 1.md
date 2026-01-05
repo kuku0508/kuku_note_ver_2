@@ -8,7 +8,10 @@ $$
 $$
 \begin{array}{llll}
 &A(f,i)&B(r,j)&n(r,n)\\
-A
+A\\
+B\\
+AB\\
+error\\
 \end{array}
 $$
 # 回答：
