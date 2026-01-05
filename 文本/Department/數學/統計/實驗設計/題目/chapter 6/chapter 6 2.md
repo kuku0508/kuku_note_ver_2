@@ -8,8 +8,8 @@ $$
 \begin{array}{cccc}
 &A(r,a)&B(f,b)&C(f,c)&EMS\\
 \hline
-A_a&1&b&c&bc\,\sigma^2_A+c\,\sigma^2_{AB}+\,\\\
-B_b&a&0&c\\
+A_a&1&b&c&bc\,\sigma^2_A+c\,\sigma^2_{AB}+b\,\sigma^2_{AC}+\sigma^2_\epsilon\\
+B_b&a&0&c&\\
 AB_{ab}&1&0&c\\
 C_c&a&b&0\\
 AC_{ac}&1&b&0\\
