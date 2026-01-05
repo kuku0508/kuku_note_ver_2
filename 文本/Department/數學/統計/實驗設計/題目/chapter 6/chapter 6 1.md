@@ -25,7 +25,7 @@ $$
 &i(3,r)&j(5,f)&k(2,r)&EMS\\
 \hline
 O_i&1&5&2&10\sigma^2_O+\sigma^2\\
-A_i&3&0&2\\
+A_j&3&0&2&6\sigma^2_A+2\sigma^2_{OA}+\sigma^2\\
 OA_{ij}&1&0&2\\
 \epsilon_{ijk}&1&1&1
 \end{array}
