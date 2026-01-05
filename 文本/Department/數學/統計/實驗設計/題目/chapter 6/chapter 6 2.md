@@ -6,6 +6,8 @@ Consider a three-factor experiment where factor A is at a levels, factor B at b 
 # 回答：
 $$
 \begin{array}{cccc}
-&
+&A(r,a)&B(f,b)&C(f,c)\\
+\hline
+A
 \end{array}
 $$
