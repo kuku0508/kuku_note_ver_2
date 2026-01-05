@@ -36,7 +36,7 @@ $$
 M_i\\
 G_j\\
 MG_{ij}\\
-T_{}\\
-TM\\
+T_{k(j)}\\
+TM_{ik()}\\
 \end{array}
 $$
