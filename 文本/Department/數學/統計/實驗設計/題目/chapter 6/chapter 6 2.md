@@ -8,7 +8,7 @@ $$
 \begin{array}{cccc}
 &A(r,a)&B(f,b)&C(f,c)&l(r,n)&EMS\\
 \hline
-A_a&1&b&c&n&bc\,\sigma^2_A+\sigma^2_\epsilon\\
+A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon\\
 B_b&a&0&c&n\\
 AB_{ab}&1&0&c&n\\
 C_c&a&b&0&n\\
