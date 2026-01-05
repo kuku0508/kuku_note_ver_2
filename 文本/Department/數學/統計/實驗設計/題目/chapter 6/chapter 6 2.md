@@ -6,7 +6,7 @@ Consider a three-factor experiment where factor A is at a levels, factor B at b 
 # 回答：
 $$
 \begin{array}{cccc}
-&A(r,a)&B(f,b)&C(f,c)&EMS\\
+&A(r,a)&B(f,b)&C(f,c)&&EMS\\
 \hline
 A_a&1&b&c&bc\,\sigma^2_A+\sigma^2_\epsilon\\
 B_b&a&0&c&\\
