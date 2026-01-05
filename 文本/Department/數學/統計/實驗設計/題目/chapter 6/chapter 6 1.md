@@ -42,3 +42,10 @@ A&\underbrace{6\phi_A}_{主角}+\underbrace{2\sigma^2_{OA}+\sigma^2}_{雜訊}\\
 $$
 我們這邊關注的重點是主角，除了主角以外都是雜訊。
 所以當我們今天要求F值，我們就可以找有哪些分母是直接等於雜訊的。
+
+所以你就可以知道：
+$$
+F=\begin{cases}
+F_O&\frac{MSE}{}
+\end{cases}
+$$
