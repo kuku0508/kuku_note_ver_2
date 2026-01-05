@@ -13,7 +13,8 @@ B_b&a&0&c\\
 AB_{ab}&1&0&c\\
 C_c&a&b&0\\
 AC_{ac}&1&b&0\\
-BC_{bc}&a&0&c\\
-ABC_{abc}&1&1&1
+BC_{bc}&a&0&0\\
+ABC_{abc}&1&0&0\\
+error&1&1&1
 \end{array}
 $$
