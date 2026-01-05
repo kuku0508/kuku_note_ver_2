@@ -38,7 +38,7 @@ M_i&0&3&3&2&18\phi_M+\sigma^2_\epsilon\\
 G_j&2&0&3&2&12\phi_G+4\sigma^2_{T(G)}+\sigma^2_\epsilon\\
 MG_{ij}&0&0&3&2&6\phi_{MG}+2\sigma^2_{TM(G)}+\sigma^2_\epsilon\\
 T_{k(j)}&2&0&1&2&4\sigma^2_{T(G)}+\sigma^2_\epsilon\\
-TM_{ik(j)}&0&0&1&2&2\sigma^2_{TM(G)}+\sigm\\
-error&1&1&1&1
+TM_{ik(j)}&0&0&1&2&2\sigma^2_{TM(G)}+\sigma^2_\epsilon\\
+error&1&1&1&1&\sigma^2_\epsilon
 \end{array}
 $$
