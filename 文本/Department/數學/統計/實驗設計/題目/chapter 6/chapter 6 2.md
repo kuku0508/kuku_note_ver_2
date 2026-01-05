@@ -18,3 +18,4 @@ ABC_{abc}&1&0&0&n&n\,\sigma^2_{ABC}+\sigma^2_\epsilon\\
 error&1&1&1&1&\sigma^2_\epsilon
 \end{array}
 $$
+自由度
