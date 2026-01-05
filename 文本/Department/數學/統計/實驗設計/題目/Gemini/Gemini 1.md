@@ -32,6 +32,8 @@ $$
 - - -
 $$
 \begin{array}{llll}
-&i(f,2)&j()
+&i(f,2)&j(f,3)&k(r,3)&m(r,2)&EMS\\
+M\\
+G
 \end{array}
 $$
