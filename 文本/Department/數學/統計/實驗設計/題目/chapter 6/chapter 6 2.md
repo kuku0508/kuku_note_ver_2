@@ -42,8 +42,8 @@ B_b&b-1\\
 AB_{ab}&(a-1)(b-1)\\
 C_c&(c-1)\\
 AC_{ac}&(a-1)(c-1)\\
-BC_{bc}&a&0&0&n&an\,\phi_{bc}+n\,\sigma^2_{ABC}+\sigma^2_\epsilon&(b-1)(c-1)\\
-ABC_{abc}&1&0&0&n&n\,\sigma^2_{ABC}+\sigma^2_\epsilon(a-1)(b-1)(c-1)\\
-error&1&1&1&1&\sigma^2_\epsilon&()
+BC_{bc}&(b-1)(c-1)\\
+ABC_{abc}&(a-1)(b-1)(c-1)\\
+error&abc(n-1)\,or\,(N-1)-\text{others}
 \end{array}
 $$
