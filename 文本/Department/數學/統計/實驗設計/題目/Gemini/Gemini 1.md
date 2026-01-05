@@ -7,9 +7,9 @@ Y_{ijk}=\mu+A_i+B_{j(i)}+\epsilon_{k(ij)}
 $$
 $$
 \begin{array}{llll}
-&A(f,i)&B(r,j)&n(r,n)\\
-A\\
-B\\
+&A(f,i)&B(r,j)&n(r,n)&EMS\\
+A&\\
+B&\\
 AB\\
 error\\
 \end{array}
