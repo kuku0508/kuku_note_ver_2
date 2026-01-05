@@ -8,6 +8,10 @@ $$
 \begin{array}{cccc}
 &A(r,a)&B(f,b)&C(f,c)\\
 \hline
-A
+A_a&\\
+B_b&\\
+AB_{ab}\\
+C_c
+AC_{}
 \end{array}
 $$
