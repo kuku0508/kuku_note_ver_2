@@ -34,6 +34,7 @@ $$
 $$
 \begin{array}{ccc}
 要檢定的&EMS架構\\
-O&
+O&\underbrace{10\sigma^2_O}_{主角}+\underbrace{\sigma^2}_{雜訊}\\
+
 \end{array}
 $$
