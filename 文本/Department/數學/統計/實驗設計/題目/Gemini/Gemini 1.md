@@ -8,9 +8,9 @@ $$
 $$
 \begin{array}{llll}
 &A(f,i)&B(r,j)&n(r,n)&EMS\\
-A&\\
-B&\\
-AB\\
+A&0&j&n\\
+B&i&1&n\\
+AB&0&1\\
 error\\
 \end{array}
 $$
