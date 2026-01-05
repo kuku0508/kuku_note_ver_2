@@ -11,8 +11,8 @@ $$
 \hline
 A&0&j&n&jn\,\phi_A+n\,\sigma^2_{AB}+\sigma^2_\epsilon\\
 B&i&1&n&in\,\sigma^2_B+\sigma^2_\epsilon\\
-AB&0&1&n&\\
-error&1&1&1\\
+AB&0&1&n&n\,\sigma^2_{AB}+\sigma^2_\epsilon\\
+error&1&1&1&\sigma^2_\epsilon\\
 \end{array}
 $$
 # 回答：
