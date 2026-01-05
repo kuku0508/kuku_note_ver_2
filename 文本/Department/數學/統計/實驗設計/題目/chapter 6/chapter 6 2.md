@@ -9,8 +9,8 @@ $$
 &A(r,a)&B(f,b)&C(f,c)&l(r,n)&EMS\\
 \hline
 A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon\\
-B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2\\
-AB_{ab}&1&0&c&n\\
+B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2_{AB}+\sigma^2_\epsilon\\
+AB_{ab}&1&0&c&n&cn\,\sigma^2_{AB}+\sigma^2_\epsi\\
 C_c&a&b&0&n\\
 AC_{ac}&1&b&0&n\\
 BC_{bc}&a&0&0&n\\
