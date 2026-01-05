@@ -40,3 +40,5 @@ A&\underbrace{6\phi_A}_{主角}+\underbrace{2\sigma^2_{OA}+\sigma^2}_{雜訊}\\
 \text{interation}_{OA}&\underbrace{2\sigma^2_{OA}}_{主角}+\underbrace{\sigma^2}_{雜訊}
 \end{array}
 $$
+我們這邊關注的重點是主角，除了主角以外都是雜訊。
+所以當我們今天要求F值，我們就可以找有哪些分母可以直接把
