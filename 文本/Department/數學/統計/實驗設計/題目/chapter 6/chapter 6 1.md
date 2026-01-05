@@ -19,4 +19,9 @@ $$
 $$
 Assuming complete randomization, determine the EMS column for this problem and make indicated significance tests.
 # 回答：
-因為這裡面有隨機因子，所以我們可以用EMS table來看他們彼此的EMS公式架構，來去決定誰要
+因為這裡面有隨機因子，所以我們可以用EMS table來看他們彼此的EMS公式架構，來去決定 誰的MS 要跟 誰的MS 相除得到F。
+$$
+\begin{array}{ccc}
+&i()
+\end{array}
+$$
