@@ -33,10 +33,11 @@ $$
 $$
 \begin{array}{llll}
 &i(f,2)&j(f,3)&k(r,3)&m(r,2)&EMS\\
-M_i\\
-G_j\\
+M_i&&3&3&2\\
+G_j&2&&3\\
 MG_{ij}\\
 T_{k(j)}\\
-TM_{ik()}\\
+TM_{ik(j)}\\
+error
 \end{array}
 $$
