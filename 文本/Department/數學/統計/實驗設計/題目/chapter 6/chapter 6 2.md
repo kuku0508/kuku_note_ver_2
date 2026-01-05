@@ -11,7 +11,9 @@ $$
 A_a&\\
 B_b&\\
 AB_{ab}\\
-C_c
-AC_{}
+C_c\\
+AC_{ac}\\
+BC_{bc}\\
+ABC_{abc}
 \end{array}
 $$
