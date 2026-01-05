@@ -8,7 +8,7 @@ $$
 $$
 \begin{array}{llll}
 &A(f,i)&B(r,j)&n(r,n)&EMS\\
-A&0&j&n\\
+A&0&j&n&jn\,\phi_A+\sigma^2\\
 B&i&1&n\\
 AB&0&1&n\\
 error&1&1&1\\
