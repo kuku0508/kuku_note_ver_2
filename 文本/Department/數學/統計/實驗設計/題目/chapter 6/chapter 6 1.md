@@ -45,7 +45,10 @@ $$
 
 所以你就可以知道：
 $$
-F=\begin{cases}
-F_O&\frac{MSE}{}
+F=
+\begin{cases}
+F_O&\frac{MSO}{MSE}\\
+F_A&\frac{MSA}{MSOA}\\
+F_{OA}&\frac{MSOA}{MSE}
 \end{cases}
 $$
