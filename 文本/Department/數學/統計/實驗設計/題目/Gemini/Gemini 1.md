@@ -35,8 +35,8 @@ $$
 &i(f,2)&j(f,3)&k(r,3)&m(r,2)&EMS\\
 \hline
 M_i&0&3&3&2&18\phi_M+\sigma^2_\epsilon\\
-G_j&2&0&3&2&12\phi_G+4\sigma^2_{T}\\
-MG_{ij}&0&0&3&2\\
+G_j&2&0&3&2&12\phi_G+4\sigma^2_{T(G)}+\sigma^2_\epsilon\\
+MG_{ij}&0&0&3&2&\\
 T_{k(j)}&2&0&1&2\\
 TM_{ik(j)}&0&0&1&2\\
 error&1&1&1&1
