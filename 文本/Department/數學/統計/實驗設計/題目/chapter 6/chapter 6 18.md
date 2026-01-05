@@ -6,7 +6,12 @@ For a particular type of resistor, specifications are LSL = 0.000 and USL = 0.70
 Three operators are then asked to use an LCR(inductan, capacitance, resistance) meter to obtain two measurement for each resistor. The measurements, obtained in a completely random order, follow. Determine the values of %R&$\text{R}_{\text{tolerance}}$ and %R&$\text{R}_{\text{process}}$ for this study. Is the measurement system acceptable?
 $$
 \begin{array}{r|ccc}
-Partr
+&&Operator\\
+Part&1&2&3\\
+\hline
+1&0.417&0.394&0.404\\
+&0.419&0.968&0.401\\
+&
 \end{array}
 $$
 # 回答：
