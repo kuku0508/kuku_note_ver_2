@@ -30,4 +30,4 @@ OA_{ij}&1&0&2&2\sigma^2_{OA}+\sigma^2\\
 \epsilon_{ijk}&1&1&1&\sigma^2
 \end{array}
 $$
-而要決定F值，我們就需要去看EMS的架構，
+而要決定F值，我們就需要去看EMS的架構，你可以看到，我們要求的就是
