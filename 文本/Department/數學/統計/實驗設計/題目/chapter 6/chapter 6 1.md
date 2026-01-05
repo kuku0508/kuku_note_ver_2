@@ -24,9 +24,9 @@ $$
 \begin{array}{ccc}
 &i(3,r)&j(5,f)&k(2,r)\\
 \hline
-O_i&&5&2\\
-A_i&3&&2\\
-OA_ij&&\\
-\epsilon_{ijk}
+O_i&1&5&2\\
+A_i&3&0&2\\
+OA_{ij}&1&0&2\\
+\epsilon_{ijk}&1&1&1
 \end{array}
 $$
