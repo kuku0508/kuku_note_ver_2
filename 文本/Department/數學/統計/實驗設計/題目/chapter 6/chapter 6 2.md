@@ -21,27 +21,27 @@ $$
 自由度
 $$
 \begin{array}{cccc}
-&A(r,a)&B(f,b)&C(f,c)&l(r,n)&EMS&df\\
+&A(r,a)&B(f,b)&C(f,c)&l(r,n)&EMS\\
 \hline
-A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon&a-1\\
-B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2_{AB}+\sigma^2_\epsilon&b-1\\
-AB_{ab}&1&0&c&n&cn\,\sigma^2_{AB}+\sigma^2_\epsilon&(a-1)(b-1)\\
-C_c&a&b&0&n&abn\,\phi^2_{C}+bn\,\sigma^2_{AC}+\sigma^2_\epsilon &(c-1)\\
-AC_{ac}&1&b&0&n&bn\,\sigma^2_{AC}+\sigma^2_\epsilon&(a-1)(c-1)\\
-BC_{bc}&a&0&0&n&an\,\phi_{bc}+n\,\sigma^2_{ABC}+\sigma^2_\epsilon&(b-1)(c-1)\\
-ABC_{abc}&1&0&0&n&n\,\sigma^2_{ABC}+\sigma^2_\epsilon(a-1)(b-1)(c-1)\\
+A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon\\
+B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2_{AB}+\sigma^2_\epsilon\\
+AB_{ab}&1&0&c&n&cn\,\sigma^2_{AB}+\sigma^2_\epsilon\\
+C_c&a&b&0&n&abn\,\phi^2_{C}+bn\,\sigma^2_{AC}+\sigma^2_\epsilon \\
+AC_{ac}&1&b&0&n&bn\,\sigma^2_{AC}+\sigma^2_\epsilon\\
+BC_{bc}&a&0&0&n&an\,\phi_{bc}+n\,\sigma^2_{ABC}+\sigma^2_\epsilon\\
+ABC_{abc}&1&0&0&n&n\,\sigma^2_{ABC}+\sigma^2_\epsilon\\
 error&1&1&1&1&\sigma^2_\epsilon
 \end{array}
 $$
 $$
 \begin{array}{cccc}
-&A(r,a)&B(f,b)&C(f,c)&l(r,n)&EMS&df\\
+&df\\
 \hline
-A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon&a-1\\
-B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2_{AB}+\sigma^2_\epsilon&b-1\\
-AB_{ab}&1&0&c&n&cn\,\sigma^2_{AB}+\sigma^2_\epsilon&(a-1)(b-1)\\
-C_c&a&b&0&n&abn\,\phi^2_{C}+bn\,\sigma^2_{AC}+\sigma^2_\epsilon &(c-1)\\
-AC_{ac}&1&b&0&n&bn\,\sigma^2_{AC}+\sigma^2_\epsilon&(a-1)(c-1)\\
+A_a&a-1\\
+B_b&b-1\\
+AB_{ab}&(a-1)(b-1)\\
+C_c&(c-1)\\
+AC_{ac}&(a-1)(c-1)\\
 BC_{bc}&a&0&0&n&an\,\phi_{bc}+n\,\sigma^2_{ABC}+\sigma^2_\epsilon&(b-1)(c-1)\\
 ABC_{abc}&1&0&0&n&n\,\sigma^2_{ABC}+\sigma^2_\epsilon(a-1)(b-1)(c-1)\\
 error&1&1&1&1&\sigma^2_\epsilon&()
