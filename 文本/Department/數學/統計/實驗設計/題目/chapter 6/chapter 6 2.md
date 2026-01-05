@@ -44,6 +44,8 @@ C_c&(c-1)\\
 AC_{ac}&(a-1)(c-1)\\
 BC_{bc}&(b-1)(c-1)\\
 ABC_{abc}&(a-1)(b-1)(c-1)\\
-error&abc(n-1)\,or\,(N-1)-\text{others}
+error&abc(n-1)\,or\,(N-1)-\text{others}\\
+\hline
+total&N-1
 \end{array}
 $$
