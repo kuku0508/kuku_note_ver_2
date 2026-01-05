@@ -9,7 +9,7 @@ $$
 &A(r,a)&B(f,b)&C(f,c)&l(r,n)&EMS\\
 \hline
 A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon\\
-B_b&a&0&c&n\\
+B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2\\
 AB_{ab}&1&0&c&n\\
 C_c&a&b&0&n\\
 AC_{ac}&1&b&0&n\\
