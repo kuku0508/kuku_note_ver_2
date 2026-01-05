@@ -12,8 +12,8 @@ A_a&1&b&c\\
 B_b&a&0&c\\
 AB_{ab}&1&0&c\\
 C_c&a&b&0\\
-AC_{ac}&b&&\\
-BC_{bc}&a&&c\\
+AC_{ac}&1&b&0\\
+BC_{bc}&a&0&c\\
 ABC_{abc}&1&1&1
 \end{array}
 $$
