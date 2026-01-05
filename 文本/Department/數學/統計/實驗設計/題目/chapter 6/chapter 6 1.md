@@ -22,10 +22,11 @@ Assuming complete randomization, determine the EMS column for this problem and m
 因為這裡面有隨機因子，所以我們可以用EMS table來看他們彼此的EMS公式架構，來去決定 誰的MS 要跟 誰的MS 相除得到F。
 $$
 \begin{array}{ccc}
-&i(3,r)&j(5,f)&ij(2,r)\\
+&i(3,r)&j(5,f)&k(2,r)\\
 \hline
-O_i&\\
-A_i&\\
-
+O_i&&5&2\\
+A_i&3&&2\\
+OA_ij&&\\
+\epsilon_{ijk}
 \end{array}
 $$
