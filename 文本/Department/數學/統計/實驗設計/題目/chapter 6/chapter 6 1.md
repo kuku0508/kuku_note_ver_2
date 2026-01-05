@@ -36,6 +36,7 @@ $$
 要檢定的&EMS架構\\
 \hline
 O&\underbrace{10\sigma^2_O}_{主角}+\underbrace{\sigma^2}_{雜訊}\\
-A&\underbrace{6\phi_A}_{主角}+2\sigma^2_{OA}+\sigma^2
+A&\underbrace{6\phi_A}_{主角}+\underbrace{2\sigma^2_{OA}+\sigma^2}_{雜訊}\\
+\text{interation}_{OA}
 \end{array}
 $$
