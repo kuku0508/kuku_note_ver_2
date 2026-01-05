@@ -6,9 +6,9 @@ Consider a three-factor experiment where factor A is at a levels, factor B at b 
 # 回答：
 $$
 \begin{array}{cccc}
-&A(r,a)&B(f,b)&C(f,c)\\
+&A(r,a)&B(f,b)&C(f,c)&EMS\\
 \hline
-A_a&1&b&c\\
+A_a&1&b&c&bc\phi_A\\
 B_b&a&0&c\\
 AB_{ab}&1&0&c\\
 C_c&a&b&0\\
