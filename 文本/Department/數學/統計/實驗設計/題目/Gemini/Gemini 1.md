@@ -33,7 +33,10 @@ $$
 $$
 \begin{array}{llll}
 &i(f,2)&j(f,3)&k(r,3)&m(r,2)&EMS\\
-M\\
-G
+M_i\\
+G_j\\
+MG_{ij}\\
+T_{}\\
+TM\\
 \end{array}
 $$
