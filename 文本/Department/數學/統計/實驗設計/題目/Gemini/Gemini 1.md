@@ -10,7 +10,7 @@ $$
 # 回答：
 $$
 \begin{array}{llll}
-&A(f,i)&B(r,j)&n(r,n)&EMS\\
+&i(f,a)&j(r,b)&k(r,n)&EMS\\
 \hline
 A_i&0&j&n&jn\,\phi_A+n\,\sigma^2_{AB}+\sigma^2_\epsilon\\
 B_{j(i)}&0&1&n&n\,\sigma^2_{AB}+\sigma^2_\epsilon\\
