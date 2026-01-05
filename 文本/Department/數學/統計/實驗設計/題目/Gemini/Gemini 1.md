@@ -29,4 +29,9 @@ B_{j(i)}&0&1&n&n\,\sigma^2_{B_{(A)}}+\sigma^2_\epsilon\\
 error&1&1&1&\sigma^2_\epsilon\\
 \end{array}
 $$
-``
+- - -
+$$
+\begin{array}{llll}
+&i(f,2)&j()
+\end{array}
+$$
