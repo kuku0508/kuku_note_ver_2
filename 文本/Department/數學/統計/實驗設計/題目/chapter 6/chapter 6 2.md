@@ -10,8 +10,8 @@ $$
 \hline
 A_a&1&b&c&n&bcn\,\sigma^2_A+\sigma^2_\epsilon\\
 B_b&a&0&c&n&acn\,\phi^2_B+cn\,\sigma^2_{AB}+\sigma^2_\epsilon\\
-AB_{ab}&1&0&c&n&cn\,\sigma^2_{AB}+\sigma^2_\epsi\\
-C_c&a&b&0&n\\
+AB_{ab}&1&0&c&n&cn\,\sigma^2_{AB}+\sigma^2_\epsilon\\
+C_c&a&b&0&n&abn\,\phi^2_{C}+bn\,\s\\
 AC_{ac}&1&b&0&n\\
 BC_{bc}&a&0&0&n\\
 ABC_{abc}&1&0&0&n\\
