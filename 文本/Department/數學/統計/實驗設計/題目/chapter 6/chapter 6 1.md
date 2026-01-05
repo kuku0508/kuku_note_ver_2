@@ -26,7 +26,7 @@ $$
 \hline
 O_i&1&5&2&10\sigma^2_O+\sigma^2\\
 A_j&3&0&2&6\phi_A+2\sigma^2_{OA}+\sigma^2\\
-OA_{ij}&1&0&2\\
-\epsilon_{ijk}&1&1&1
+OA_{ij}&1&0&2&2\sigma^2_{OA}+\sigma^2\\
+\epsilon_{ijk}&1&1&1&\sigma^2
 \end{array}
 $$
