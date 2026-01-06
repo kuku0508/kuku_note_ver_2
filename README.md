@@ -2,4 +2,7 @@
 
 你可能在使用筆記的時候會看到截然不同的筆記風格，又或是架構，用詞。因為在設計筆記庫的時候，我並沒有特別去規範自己並需要有任何的統一寫法。也許未來找到一個最佳的筆記風格以及架構的時候，會進行整體的統一，但現階段並沒有這樣做的打算。
 
-https://reurl.cc/MML3ap
+
+
+編輯版
+https://drive.google.com/drive/folders/1cKAWTuW11VZ8LBwy2w3bGQeg5VTfYiQF?usp=sharing
