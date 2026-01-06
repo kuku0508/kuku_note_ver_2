@@ -27,6 +27,7 @@ orthogonal table
 $$
 \begin{align}
 &C_A=-60+72-64+80-56+68-60+96=76\\
-&SS_A=\frac{C_A^2}{n\cdot2^f}=\frac{76^2}{1\cdot}
+&SS_A=\frac{C_A^2}{n\cdot2^f}=\frac{76^2}{1\cdot8}=722\\
+&C_B=-60-72+64+80-56-68+60+96=44
 \end{align}
 $$
