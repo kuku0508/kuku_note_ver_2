@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini.md",
+                "file": "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gemini"
+              "title": "9.1"
             }
           },
           {
@@ -303,8 +303,11 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini 1.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 1.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
     "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 9",
+    "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini 1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 2.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 1.md",
@@ -316,7 +319,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 9.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 6.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 5.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 20.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 19.md",
@@ -332,13 +334,11 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 2.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "文本/Department/數學/統計/實驗設計/題目/期中考",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 17.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/數理統計/題目/completeness",
     "文本/Department/數學/統計/數理統計/題目/ancillary",
-    "Quickadd",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件/Pasted image 20251117105952.png",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
