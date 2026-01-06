@@ -41,6 +41,6 @@ $$
 &C_{ABC}=-60+72+64-80+56-68-60+96=20\\
 &SS_{ABC}=2.5\\
 &SS_T=60^2+72^2+64^2+80^2+56^2+68^2+60^2+96^2=39856\\
-&SS_E=SST-(SS_A+SS_B+SS_{AB}+SS_C+SS_{AC}+SS)
+&SS_E=SST-(SS_A+SS_B+SS_{AB}+SS_C+SS_{AC}+SS_{BC}+SS_{ABC})=
 \end{align}
 $$
