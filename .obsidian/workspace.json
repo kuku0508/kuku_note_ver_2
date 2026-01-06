@@ -11,24 +11,12 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
               },
-              "icon": "lucide-file",
-              "title": "9.1"
+              "icon": "excalidraw-icon",
+              "title": "chapter 1 The experiment, the design and the analysis"
             }
           },
           {
@@ -303,8 +291,8 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 1.md",
     "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini 1.md",
