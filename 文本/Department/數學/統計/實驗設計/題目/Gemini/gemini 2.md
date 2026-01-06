@@ -26,7 +26,7 @@ orthogonal table
 | ABC | +   | +   | +   | +   | +   | +   | +   | 96    |
 $$
 \begin{align}
-C_A=-60\\
-SS_A=\frac{C_A}{n\cdot2^f}=\frac{}{}
+&C_A=-60+72-64+80-56+68-60+96=76\\
+&SS_A=\frac{C_A}{n\cdot2^f}=\frac{}{}
 \end{align}
 $$
