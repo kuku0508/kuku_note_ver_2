@@ -11,12 +11,24 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md"
+                "file": "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "chapter 1 The experiment, the design and the analysis"
+              "icon": "lucide-file",
+              "title": "9.1"
             }
           },
           {
@@ -291,8 +303,10 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 1.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
+    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini 1.md",
@@ -318,8 +332,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 6.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 5.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 4.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 3.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 2.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "文本/Department/數學/統計/實驗設計/題目/期中考",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6",
