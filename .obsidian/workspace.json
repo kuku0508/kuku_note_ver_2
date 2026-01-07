@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "外部資料"
             }
           },
           {
@@ -303,9 +303,9 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "README.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 7 運輸與指派問題.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
-    "README.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 3.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 2.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 1.md",
