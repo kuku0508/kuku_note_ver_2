@@ -11,12 +11,24 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/作業研究/講義/Chapter 7 運輸與指派問題.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 7 運輸與指派問題"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -291,6 +303,7 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/作業研究/講義/Chapter 7 運輸與指派問題.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
     "README.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 3.md",
@@ -319,7 +332,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 16.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 15.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 13.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 12.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "文本/Department/數學/統計/實驗設計/題目/期中考",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6",

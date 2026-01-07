@@ -1,10 +1,3 @@
 你可以用obsidian來打開這個完整的檢視這個筆記庫，這個筆記庫是從2024年的6月開始紀錄的。裡面的內容就是我有興趣的一些知識，或是文本，如果有看到你有興趣的東西，也歡迎你直接下載這個筆記庫。
 
 你可能在使用筆記的時候會看到截然不同的筆記風格，又或是架構，用詞。因為在設計筆記庫的時候，我並沒有特別去規範自己並需要有任何的統一寫法。也許未來找到一個最佳的筆記風格以及架構的時候，會進行整體的統一，但現階段並沒有這樣做的打算。
-
-
-檢視版
-https://drive.google.com/drive/folders/18EkrnPnqkF-SVqFF52i2HZJQAg5CC9lt?usp=drive_link
-
-編輯版
-https://drive.google.com/drive/folders/1cKAWTuW11VZ8LBwy2w3bGQeg5VTfYiQF?usp=sharing
