@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
+                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對"
+              "title": "外部資料"
             }
           },
           {
@@ -303,6 +303,7 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
+    "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "README.md",
