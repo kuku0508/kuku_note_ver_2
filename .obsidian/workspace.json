@@ -11,13 +11,24 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "檢視"
+                "file": "文本/名言/繩子跟棍子.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "📃名言資料庫"
+              "icon": "lucide-file",
+              "title": "繩子跟棍子"
             }
           },
           {
@@ -292,8 +303,9 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/名言/繩子跟棍子.md",
     "資料庫/📃名言資料庫.base",
+    "資料庫/👾遊戲清單.base",
+    "文本/名言/繩子跟棍子.md",
     "文本/名言/The last of us Ending Scene.md",
     "文本/名言/今夜無人入睡.md",
     "文本/名言/奧本海默 世界的毀滅者.md",
@@ -305,7 +317,6 @@
     "文本/名言/宿儺與漏瑚對決.md",
     "文本/名言/粉紅色的雪.md",
     "文本/名言/節日的意義.md",
-    "資料庫/👾遊戲清單.base",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
     "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
@@ -319,7 +330,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 3.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 2.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 1.md",
-    "文本/Department/數學/統計/實驗設計/題目/Gemini/Gemini.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
