@@ -11,13 +11,24 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "檢視"
+                "file": "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "📃名言資料庫"
+              "icon": "lucide-file",
+              "title": "Clair Obscur：Expedition 33 - 光與影：33號遠征隊"
             }
           },
           {
@@ -292,10 +303,12 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "未處理/新的/Neuro - sama.md",
-    "資料庫/📃名言資料庫.base",
-    "未處理/新的/未命名.md",
+    "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
+    "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "資料庫/👾遊戲清單.base",
+    "資料庫/📃名言資料庫.base",
+    "未處理/新的/Neuro - sama.md",
+    "未處理/新的/未命名.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
     "README.md",
@@ -320,7 +333,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 10.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 9.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 6.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "文本/Department/數學/統計/實驗設計/題目/期中考",
