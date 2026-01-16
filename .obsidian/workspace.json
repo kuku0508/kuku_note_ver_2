@@ -11,24 +11,13 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "文本/名言/繩子跟棍子.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "繩子跟棍子"
+              "icon": "lucide-table",
+              "title": "👾遊戲清單"
             }
           },
           {
@@ -304,8 +293,8 @@
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
     "資料庫/📃名言資料庫.base",
-    "資料庫/👾遊戲清單.base",
     "文本/名言/繩子跟棍子.md",
+    "資料庫/👾遊戲清單.base",
     "文本/名言/The last of us Ending Scene.md",
     "文本/名言/今夜無人入睡.md",
     "文本/名言/奧本海默 世界的毀滅者.md",
