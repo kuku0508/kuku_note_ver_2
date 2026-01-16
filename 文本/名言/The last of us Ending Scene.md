@@ -3,6 +3,7 @@ tags:
   - 名言
   - 遊戲
 參考資料:
+  - The last of us
 ---
 **Ellie**: Hey wait.
 
