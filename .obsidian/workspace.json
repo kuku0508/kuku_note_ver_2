@@ -68,6 +68,45 @@
             }
           }
         ]
+      },
+      {
+        "id": "8512f44695270f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "393f9dcf5bd4ef31",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url",
+              "state": {
+                "mx": {
+                  "json": {
+                    "media": {
+                      "type": "url:hosted",
+                      "vid": {
+                        "host": "youtube",
+                        "vid": "cWc7vYjgnTs",
+                        "t": null,
+                        "start": null,
+                        "end": null
+                      },
+                      "url": "https://www.youtube.com/watch?v=cWc7vYjgnTs"
+                    },
+                    "hash": {}
+                  },
+                  "meta": {
+                    "values": {
+                      "media.url": [
+                        "URL"
+                      ]
+                    }
+                  }
+                }
+              },
+              "icon": "youtube"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,8 +340,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "955fbea3115cd0cc",
+  "active": "393f9dcf5bd4ef31",
   "lastOpenFiles": [
+    "文本/名言/今夜無人入睡.md",
     "資料庫/📃名言資料庫.base",
     "文本/名言/好奇心 安全感.md",
     "文本/名言/我一直很敬佩.md",
