@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/粉紅色的雪.md",
+                "file": "文本/名言/凝視.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "粉紅色的雪"
+              "title": "凝視"
             }
           },
           {
@@ -304,6 +304,9 @@
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
     "資料庫/📃名言資料庫.base",
+    "文本/名言/親子不同頻.md",
+    "文本/名言/宿儺與漏瑚對決.md",
+    "文本/名言/粉紅色的雪.md",
     "文本/名言/節日的意義.md",
     "資料庫/👾遊戲清單.base",
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
@@ -327,10 +330,7 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 9/9.1.md",
     "文本/Department/數學/統計/數理統計/題目/其他/Question 3.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 1.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 1 The experiment, the design and the analysis.md",
-    "文本/Department/數學/統計/實驗設計/講義/chapter 3 Single-Factor Experiments with No Restrictions on Randomization.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 6/chapter 6 18.md",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
