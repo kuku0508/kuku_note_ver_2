@@ -11,24 +11,13 @@
             "id": "955fbea3115cd0cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "文本/Department/數學/統計/進階R/資料/外部資料.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "資料庫/📃名言資料庫.base",
+                "viewName": "檢視"
               },
-              "icon": "lucide-file",
-              "title": "外部資料"
+              "icon": "lucide-layout-grid",
+              "title": "📃名言資料庫"
             }
           },
           {
@@ -303,9 +292,12 @@
   },
   "active": "955fbea3115cd0cc",
   "lastOpenFiles": [
-    "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
+    "未處理/新的/Neuro - sama.md",
     "資料庫/📃名言資料庫.base",
+    "未處理/新的/未命名.md",
+    "資料庫/👾遊戲清單.base",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
+    "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
     "README.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 7 運輸與指派問題.md",
     "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
@@ -331,14 +323,11 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 6.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8/chapter 8 5.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 19.md",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 7/chapter 7 16.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "文本/Department/數學/統計/實驗設計/題目/期中考",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6",
     "文本/Department/數學/統計/數理統計/題目/期末考",
     "文本/Department/數學/統計/數理統計/題目/completeness",
-    "文本/Department/數學/統計/數理統計/題目/ancillary",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件/Pasted image 20251117105952.png",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",

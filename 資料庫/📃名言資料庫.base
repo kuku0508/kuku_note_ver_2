@@ -17,3 +17,5 @@ views:
     columnSize:
       file.name: 478
       note.tags: 259
+  - type: cards
+    name: 檢視
