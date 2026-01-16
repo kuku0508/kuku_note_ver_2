@@ -19,3 +19,7 @@ views:
       note.tags: 259
   - type: cards
     name: 檢視
+    order:
+      - file.name
+      - 參考資料
+      - tags
