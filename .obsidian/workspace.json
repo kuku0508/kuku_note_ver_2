@@ -286,8 +286,47 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
+  "floating": {
+    "id": "d0fda414c7d21ef5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "64f67f666087c306",
+        "type": "window",
+        "children": [
+          {
+            "id": "300461bd1689985b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6ce945d3afc3a870",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 2.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "unit 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "Homepage.canvas",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "未處理/新的/未命86名.md",
@@ -318,7 +357,6 @@
     "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
     "資料庫/👾遊戲清單/Clair Obscur：Expedition 33 - 光與影：33號遠征隊.md",
     "文本/遊戲/光與影：33號遠征隊/文本/光與影：33號遠征隊 - 評論.md",
-    "未處理/新的/Neuro - sama.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
