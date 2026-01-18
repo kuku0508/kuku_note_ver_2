@@ -4,8 +4,7 @@
 		{"id":"4276f35f35af49d6","type":"text","text":"```gEvent\ntype: week\nnavigation: TRUE\n```","x":-1240,"y":-440,"width":1560,"height":1000},
 		{"id":"ca14365a3a4f8b07","type":"text","text":"# 代辦清單 To-do list\n- [ ] \n- [ ] ","x":360,"y":260,"width":705,"height":300},
 		{"id":"ae47254959802c87","type":"text","text":"# 昨天修改過的筆記\n```base\nviews:\n  - type: table\n    name: 表格\n    filters:\n      and:\n        - file.mtime >= now() + \"-1 day\"\n    order:\n      - file.name\n      - file.mtime\n      - file.folder\n    columnSize:\n      file.name: 152\n      file.mtime: 197\n\n```\n","x":360,"y":-85,"width":705,"height":345},
-		{"id":"23c5a7235e7ed75f","type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```","x":360,"y":-440,"width":705,"height":200},
-		{"id":"5e959f0bf1768107","type":"text","text":"```gEvent\ntype: year\nnavigation: TRUE\nwidth: 10000\nheight: 10000\n```","x":-1680,"y":580,"width":1020,"height":540}
+		{"id":"23c5a7235e7ed75f","type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```","x":360,"y":-440,"width":705,"height":200}
 	],
 	"edges":[]
 }
