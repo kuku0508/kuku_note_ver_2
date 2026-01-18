@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/線性代數/基礎知識/張成.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "張成 的反向連結"
+              "title": "未命名 的反向連結"
             }
           },
           {
@@ -241,7 +241,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -278,7 +278,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5262ad1e3e68c919",
   "lastOpenFiles": [
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "2026-W04.md",
