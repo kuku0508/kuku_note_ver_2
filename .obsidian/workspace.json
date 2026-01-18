@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/Latex/基礎知識/語法表/分數.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "分數"
             }
           }
         ]
@@ -254,6 +268,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "模板/遊戲.md",
     "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",
     "文本/名言/繩子跟棍子.md",
