@@ -284,42 +284,42 @@
     "type": "floating",
     "children": [
       {
-        "id": "208f6d6593c8a18b",
+        "id": "16632febb58c2380",
         "type": "window",
         "children": [
           {
-            "id": "731d24067dfb02b6",
+            "id": "18872a986adba93c",
             "type": "tabs",
             "children": [
               {
-                "id": "ab79639a3163d44b",
+                "id": "b45df1ea956bfbc3",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw-loading",
+                  "type": "excalidraw",
                   "state": {
-                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 2.md"
+                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 3.md"
                   },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw-loading"
+                  "icon": "excalidraw-icon",
+                  "title": "unit 3"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
+        "x": 576,
+        "y": 92,
+        "width": 1285,
+        "height": 967,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b45df1ea956bfbc3",
   "lastOpenFiles": [
-    "Homepage.canvas",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
+    "Homepage.canvas",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
