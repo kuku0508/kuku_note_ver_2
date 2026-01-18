@@ -327,10 +327,10 @@ __export(main_exports, {
   default: () => ObsidianLinkEmbedPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian10 = require("obsidian");
+var import_obsidian11 = require("obsidian");
 
 // src/settings.ts
-var import_obsidian4 = require("obsidian");
+var import_obsidian7 = require("obsidian");
 
 // src/parsers/parser.ts
 var import_obsidian2 = require("obsidian");
@@ -1729,7 +1729,7 @@ var HTMLTemplate = `<div class="embed">
   </div>
 </div>`;
 var REGEX = {
-  URL: "^(http|ftp|https):\\/\\/([\\w_-]+(?:(?:\\.[\\w_-]+)+))([\\w.,@?^=%&:\\/~+#-]*[\\w@?^=%&\\/~+#-])$",
+  URL: "^(http|ftp|https):\\/\\/([\\w_-]+(?:(?:\\.[\\w_-]+)+))([\\w.,@?^=%&:\\/~+#()-]*[\\w@?^=%&\\/~+#()-])$",
   HTML: `<div
   style="
     border: 1px solid rgb\\(222, 222, 222\\);
@@ -1781,277 +1781,18 @@ var SPINNER = "data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibGRzLW1pY3Jvc29mdCIgd2l
 
 // src/settings.ts
 var import_he = __toESM(require_he());
-var DEFAULT_SETTINGS = {
-  popup: true,
-  rmDismiss: false,
-  autoEmbedWhenEmpty: false,
-  defaultPasteAction: "embed",
-  primary: "local",
-  backup: "microlink",
-  inPlace: false,
-  debug: false,
-  delay: 0,
-  linkpreviewApiKey: "",
-  jsonlinkApiKey: "",
-  iframelyApiKey: "",
-  metadataTemplate: 'parser: "{{parser}}"\ndate: "{{date}}"\ncustom_date: "{{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}"',
-  useMetadataTemplate: false,
-  saveImagesToVault: false,
-  imageFolderPath: "link-embed-images",
-  respectImageAspectRatio: true,
-  useCache: true,
-  enableFavicon: false,
-  maxConcurrentLocalParsers: 1
-};
-var ObsidianLinkEmbedSettingTab = class extends import_obsidian4.PluginSettingTab {
-  constructor(app, plugin) {
-    super(app, plugin);
-    this.plugin = plugin;
-  }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    containerEl.createEl("h2", { text: "Link Embed" });
-    containerEl.createEl("h3", { text: "User Option" });
-    new import_obsidian4.Setting(containerEl).setName("Popup Menu").setDesc("Auto popup embed menu after pasting url.").addToggle((value) => {
-      value.setValue(this.plugin.settings.popup).onChange((value2) => {
-        this.plugin.settings.popup = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Remove Dismiss").setDesc(
-      "Remove dismiss from popup menu. You can always use ESC to dismiss the popup menu."
-    ).addToggle((value) => {
-      value.setValue(this.plugin.settings.rmDismiss).onChange((value2) => {
-        this.plugin.settings.rmDismiss = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Auto Embed").setDesc("Auto embed link when pasting a link into an empty line.").addToggle((value) => {
-      value.setValue(this.plugin.settings.autoEmbedWhenEmpty).onChange((value2) => {
-        this.plugin.settings.autoEmbedWhenEmpty = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Default Paste Action").setDesc(
-      "Choose default action when pasting a URL into an empty line."
-    ).addDropdown((dropdown) => {
-      dropdown.addOption("embed", "Create Embed Block").addOption("markdown", "Create Markdown Link").setValue(this.plugin.settings.defaultPasteAction).onChange((value) => __async(this, null, function* () {
-        this.plugin.settings.defaultPasteAction = value;
-        yield this.plugin.saveSettings();
-      }));
-    });
-    new import_obsidian4.Setting(containerEl).setName("Primary Parser").setDesc("Select a primary parser to use for link embeds.").addDropdown((value) => {
-      value.addOptions(parseOptions).setValue(this.plugin.settings.primary).onChange((value2) => {
-        this.plugin.settings.primary = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Secondary Parser").setDesc(
-      "Select a secondary parser. It will be used if the primary parser fails."
-    ).addDropdown((value) => {
-      value.addOptions(parseOptions).setValue(this.plugin.settings.backup).onChange((value2) => {
-        this.plugin.settings.backup = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("In Place").setDesc("Always replace selection with embed.").addToggle((value) => {
-      value.setValue(this.plugin.settings.inPlace).onChange((value2) => {
-        this.plugin.settings.inPlace = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Convert Old Embed").setDesc(
-      "Convert old html element into new code block. Warning: Use with caution."
-    ).addButton((component) => {
-      component.setButtonText("Convert");
-      component.setTooltip("Use with caution");
-      component.setWarning();
-      component.onClick(() => __async(this, null, function* () {
-        new import_obsidian4.Notice(`Start Conversion`);
-        let listFiles = this.app.vault.getMarkdownFiles();
-        for (const file of listFiles) {
-          let content = yield this.app.vault.read(file);
-          const htmlRegex = new RegExp(REGEX.HTML, "gm");
-          let elems = content.matchAll(htmlRegex);
-          let bReplace = false;
-          for (let elem of elems) {
-            let description = elem[5] || "";
-            description = description.replace(/\n/g, " ").replace(/\\/g, "\\\\");
-            description = import_he.default.unescape(description);
-            let title = import_he.default.unescape(elem[4] || "");
-            const origin = elem[0];
-            const data = {
-              title,
-              image: elem[2] || "",
-              description,
-              url: elem[1]
-            };
-            const embed = mustache_default.render(
-              MarkdownTemplate,
-              data
-            );
-            if (this.plugin.settings.debug) {
-              console.log(
-                `[Link Embed] Replace:
-Origin
-${origin}
-New
-${embed}
-Before
-${content}
-After
-${content.split(origin).join(embed)}`
-              );
-            }
-            content = content.split(origin).join(embed);
-            bReplace = true;
-          }
-          const errorMatch = content.match(
-            new RegExp(REGEX.ERROR, "gm")
-          );
-          if (bReplace && errorMatch != null && errorMatch.length) {
-            new import_obsidian4.Notice(`Conversion Fail on ${file.path}`);
-            if (this.plugin.settings.debug) {
-              console.log("[Link Embed] Convert:", content);
-            }
-          } else {
-            yield this.app.vault.modify(file, content);
-          }
-        }
-        new import_obsidian4.Notice(`Conversion End`);
-      }));
-    });
-    containerEl.createEl("h3", { text: "Embed Metadata" });
-    new import_obsidian4.Setting(containerEl).setName("Use Metadata Template").setDesc(
-      "Add metadata about what created the embed (plugin name, parser type, date)."
-    ).addToggle((value) => {
-      value.setValue(this.plugin.settings.useMetadataTemplate).onChange((value2) => {
-        this.plugin.settings.useMetadataTemplate = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Metadata Template").setDesc(
-      "Customize metadata template. Variables: {{parser}} for parser type, {{date}} for date in YYYY-MM-DD format. For custom date format use {{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}."
-    ).addTextArea((text) => {
-      text.inputEl.rows = 4;
-      text.inputEl.cols = 50;
-      text.setValue(this.plugin.settings.metadataTemplate).onChange(
-        (value) => {
-          try {
-            const lines = value.split("\n");
-            const isValid = lines.every((line) => {
-              if (line.trim() === "") return true;
-              return line.includes(":");
-            });
-            if (isValid) {
-              this.plugin.settings.metadataTemplate = value;
-              this.plugin.saveSettings();
-            }
-          } catch (e) {
-            if (this.plugin.settings.debug) {
-              console.log(
-                "[Link Embed] Invalid YAML format in metadata template:",
-                e
-              );
-            }
-          }
-        }
-      );
-    });
-    containerEl.createEl("h3", { text: "Image Settings" });
-    new import_obsidian4.Setting(containerEl).setName("Use Cache").setDesc(
-      "When enabled, the plugin will cache favicon images and aspect ratios to improve performance."
-    ).addToggle((value) => {
-      value.setValue(this.plugin.settings.useCache).onChange((value2) => {
-        this.plugin.settings.useCache = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Enable Favicon").setDesc("When enabled, favicons will be displayed in link embeds.").addToggle((value) => {
-      value.setValue(this.plugin.settings.enableFavicon).onChange((value2) => {
-        this.plugin.settings.enableFavicon = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Respect Image Aspect Ratio").setDesc(
-      "When enabled, embedded images will maintain their original aspect ratio instead of being forced into a square shape."
-    ).addToggle((value) => {
-      value.setValue(this.plugin.settings.respectImageAspectRatio).onChange((value2) => {
-        this.plugin.settings.respectImageAspectRatio = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Save Images to Vault").setDesc(
-      "When enabled, images from links will be saved to your vault."
-    ).addToggle((value) => {
-      value.setValue(this.plugin.settings.saveImagesToVault).onChange((value2) => {
-        this.plugin.settings.saveImagesToVault = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Image Folder Path").setDesc(
-      "Folder in your vault where images will be saved. The folder will be created if it doesn't exist."
-    ).addText((value) => {
-      value.setValue(this.plugin.settings.imageFolderPath).onChange((value2) => {
-        this.plugin.settings.imageFolderPath = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    containerEl.createEl("h3", { text: "Provider Settings" });
-    new import_obsidian4.Setting(containerEl).setName("LinkPreview API Key").setDesc("Enter your API key for the LinkPreview provider.").addText((value) => {
-      value.setValue(this.plugin.settings.linkpreviewApiKey).onChange((value2) => {
-        this.plugin.settings.linkpreviewApiKey = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("JSONLink API Key").setDesc("Enter your API key for the JSONLink provider.").addText((value) => {
-      value.setValue(this.plugin.settings.jsonlinkApiKey).onChange((value2) => {
-        this.plugin.settings.jsonlinkApiKey = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Iframely API Key").setDesc("Enter your API key for the Iframely provider.").addText((value) => {
-      value.setValue(this.plugin.settings.iframelyApiKey).onChange((value2) => {
-        this.plugin.settings.iframelyApiKey = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    containerEl.createEl("h3", { text: "Performance Settings" });
-    new import_obsidian4.Setting(containerEl).setName("Max Concurrent Local Parsers").setDesc(
-      "Maximum number of simultaneous local parsing operations. Lower values reduce system load but might make link embeds appear more slowly."
-    ).addSlider((slider) => {
-      slider.setLimits(1, 10, 1).setValue(this.plugin.settings.maxConcurrentLocalParsers).setDynamicTooltip().onChange((value) => {
-        this.plugin.settings.maxConcurrentLocalParsers = value;
-        this.plugin.saveSettings();
-      });
-    });
-    containerEl.createEl("h3", { text: "Dev Option" });
-    new import_obsidian4.Setting(containerEl).setName("Debug").setDesc("Enable debug mode.").addToggle((value) => {
-      value.setValue(this.plugin.settings.debug).onChange((value2) => {
-        this.plugin.settings.debug = value2;
-        this.plugin.saveSettings();
-      });
-    });
-    new import_obsidian4.Setting(containerEl).setName("Delay").setDesc("Add delay before replacing preview.(ms)").addText((value) => {
-      value.setValue(String(this.plugin.settings.delay)).onChange((value2) => {
-        if (!isNaN(Number(value2))) {
-          this.plugin.settings.delay = Number(value2);
-          this.plugin.saveSettings();
-        }
-      });
-    });
-  }
-};
 
-// src/eventHandlers.ts
-var import_obsidian8 = require("obsidian");
-
-// src/embedUtils.ts
+// src/decoration/linkFaviconDecoration.ts
+var import_view = require("@codemirror/view");
+var import_language = require("@codemirror/language");
+var import_state = require("@codemirror/state");
 var import_obsidian6 = require("obsidian");
 
-// src/errorUtils.ts
+// src/embedUtils.ts
 var import_obsidian5 = require("obsidian");
+
+// src/errorUtils.ts
+var import_obsidian4 = require("obsidian");
 function showNotice(message, typeOrDebugOrOptions, debugOrOptions) {
   let type = "info";
   let options = {};
@@ -2101,7 +1842,7 @@ function showNotice(message, typeOrDebugOrOptions, debugOrOptions) {
     }
   }
   if (showNotice2) {
-    return new import_obsidian5.Notice(`${prefix}: ${finalMessage}`, duration);
+    return new import_obsidian4.Notice(`${prefix}: ${finalMessage}`, duration);
   }
   return null;
 }
@@ -2249,7 +1990,7 @@ function generateEmbedMarkdown(data, settings, parserName) {
   };
   return mustache_default.render(MarkdownTemplate, escapedData) + "\n";
 }
-function tryParsers(url, selectedParsers, settings, locationInfo) {
+function tryParsers(url, selectedParsers, settings, locationInfo, vault) {
   return __async(this, null, function* () {
     let notice = null;
     try {
@@ -2262,12 +2003,12 @@ function tryParsers(url, selectedParsers, settings, locationInfo) {
         if (notice) {
           notice.hide();
         }
-        notice = new import_obsidian6.Notice(
+        notice = new import_obsidian5.Notice(
           `Fetching link metadata using ${selectedParser}...`,
           0
         );
         try {
-          const parser = createParser(selectedParser, settings, null);
+          const parser = createParser(selectedParser, settings, vault);
           parser.debug = settings.debug;
           parser.location = locationInfo;
           const data = yield parser.parse(url);
@@ -2310,7 +2051,8 @@ function convertUrlToMarkdownLink(url, selectedParsers, settings, vault) {
         url,
         selectedParsers,
         settings,
-        "create-markdown-link"
+        "create-markdown-link",
+        vault
       );
       if (data.title) {
         return `[${data.title}](${url})`;
@@ -2362,7 +2104,8 @@ function refreshEmbed(url, element, ctx, settings, vault) {
           url,
           [settings.primary, settings.backup],
           settings,
-          locationInfo
+          locationInfo,
+          vault
         );
         const newEmbed = generateEmbedMarkdown(
           data,
@@ -2535,7 +2278,7 @@ function addDeleteButtonHandler(element, embedInfo, ctx, vault, settings) {
     }));
   }
 }
-function embedUrl(editor, selected, selectedParsers, settings, inPlace = false) {
+function embedUrl(editor, selected, selectedParsers, settings, inPlace = false, vault = null) {
   return __async(this, null, function* () {
     const filePath = "unknown";
     const cursorPos = editor.getCursor();
@@ -2556,36 +2299,63 @@ function embedUrl(editor, selected, selectedParsers, settings, inPlace = false) 
     } else {
       editor.setCursor({ line: cursor.line, ch: lineText.length });
     }
-    const startCursor = editor.getCursor();
+    const placeholderId = `embed-${Date.now()}-${Math.random().toString(36).substring(2, 11)}`;
     const dummyEmbed = mustache_default.render(MarkdownTemplate, {
       title: "Fetching",
       image: SPINNER,
       description: `Fetching ${url}`,
       url,
-      favicon: ""
+      favicon: "",
+      metadata: `placeholder-id: "${placeholderId}"`
     }) + "\n";
     editor.replaceSelection(dummyEmbed);
-    const endCursor = editor.getCursor();
     try {
       const { data, selectedParser } = yield tryParsers(
         url,
         selectedParsers,
         settings,
-        locationInfo
+        locationInfo,
+        vault
       );
       const embed = generateEmbedMarkdown(data, settings, selectedParser);
       if (settings.delay > 0) {
         yield new Promise((f) => setTimeout(f, settings.delay));
       }
-      const dummy = editor.getRange(startCursor, endCursor);
-      if (dummy == dummyEmbed) {
-        editor.replaceRange(embed, startCursor, endCursor);
-        console.log(`[Link Embed] Parser ${selectedParser} done`);
-      } else {
-        new import_obsidian6.Notice(
+      const fullText = editor.getValue();
+      const placeholderIndex = fullText.indexOf(placeholderId);
+      if (placeholderIndex === -1) {
+        new import_obsidian5.Notice(
           `Dummy preview has been deleted or modified. Replacing is cancelled.`
         );
+        return;
       }
+      let embedStart = fullText.lastIndexOf("```embed", placeholderIndex);
+      if (embedStart === -1) {
+        new import_obsidian5.Notice(
+          `Dummy preview has been deleted or modified. Replacing is cancelled.`
+        );
+        return;
+      }
+      let embedEnd = fullText.indexOf("```", placeholderIndex);
+      if (embedEnd === -1) {
+        new import_obsidian5.Notice(
+          `Dummy preview has been deleted or modified. Replacing is cancelled.`
+        );
+        return;
+      }
+      embedEnd += 3;
+      const dummy = fullText.substring(embedStart, embedEnd);
+      const hasUrl = dummy.includes(`url: "${url}"`);
+      if (!hasUrl) {
+        new import_obsidian5.Notice(
+          `Dummy preview has been deleted or modified. Replacing is cancelled.`
+        );
+        return;
+      }
+      const startPos = editor.offsetToPos(embedStart);
+      const endPos = editor.offsetToPos(embedEnd);
+      editor.replaceRange(embed.trimEnd(), startPos, endPos);
+      console.log(`[Link Embed] Parser ${selectedParser} done`);
     } catch (error) {
       console.log("[Link Embed] Error:", error);
       showNotice(error instanceof Error ? error : String(error), {
@@ -2597,15 +2367,618 @@ function embedUrl(editor, selected, selectedParsers, settings, inPlace = false) 
   });
 }
 
+// src/decoration/linkFaviconDecoration.ts
+var FaviconWidget = class extends import_view.WidgetType {
+  constructor(faviconUrl) {
+    super();
+    this.faviconUrl = faviconUrl;
+  }
+  eq(other) {
+    return other.faviconUrl === this.faviconUrl;
+  }
+  toDOM() {
+    const img = activeDocument.createElement("img");
+    img.src = this.faviconUrl;
+    img.className = "link-favicon";
+    img.alt = "favicon";
+    img.style.height = "0.8em";
+    img.style.display = "inline-block";
+    return img;
+  }
+  ignoreEvent() {
+    return true;
+  }
+};
+function defineStatefulDecoration() {
+  const update = import_state.StateEffect.define();
+  const field = import_state.StateField.define({
+    create() {
+      return import_view.Decoration.none;
+    },
+    update(deco, tr) {
+      return tr.effects.reduce(
+        (deco2, effect) => effect.is(update) ? effect.value : deco2,
+        deco.map(tr.changes)
+      );
+    },
+    provide: (field2) => import_view.EditorView.decorations.from(field2)
+  });
+  return { update, field };
+}
+var faviconDecorations = defineStatefulDecoration();
+var FaviconDecorationSet = class {
+  constructor(editor, plugin) {
+    this.decoCache = /* @__PURE__ */ Object.create(null);
+    this.editor = editor;
+    this.plugin = plugin;
+    this.debouncedUpdate = (0, import_obsidian6.debounce)(
+      this.updateAsyncDecorations.bind(this),
+      300,
+      true
+    );
+  }
+  /**
+   * Clear decoration cache - call this when settings change
+   */
+  clearCache() {
+    this.decoCache = /* @__PURE__ */ Object.create(null);
+  }
+  computeAsyncDecorations(tokens) {
+    return __async(this, null, function* () {
+      const decorations = [];
+      for (const token of tokens) {
+        let deco = this.decoCache[token.value];
+        if (!deco) {
+          try {
+            const favicon = yield getFavicon(
+              token.value,
+              this.plugin.settings,
+              this.plugin.cache,
+              this.plugin.settings.debug
+            );
+            if (favicon) {
+              deco = this.decoCache[token.value] = import_view.Decoration.widget({
+                widget: new FaviconWidget(favicon),
+                side: this.plugin.settings.markdownLinkFaviconPosition === "before" ? -1 : 1
+              });
+            }
+          } catch (error) {
+            if (this.plugin.settings.debug) {
+              console.error(
+                "[Link Embed] Error fetching favicon:",
+                error
+              );
+            }
+          }
+        }
+        if (deco) {
+          decorations.push({ from: token.from, to: token.from, deco });
+        }
+      }
+      if (decorations.length === 0) {
+        return null;
+      }
+      return import_view.Decoration.set(
+        decorations.map((d) => d.deco.range(d.from, d.to)),
+        true
+      );
+    });
+  }
+  updateAsyncDecorations(tokens) {
+    return __async(this, null, function* () {
+      const decorations = yield this.computeAsyncDecorations(tokens);
+      if (decorations || this.editor.state.field(
+        faviconDecorations.field
+      ).size) {
+        this.editor.dispatch({
+          effects: faviconDecorations.update.of(
+            decorations || import_view.Decoration.none
+          )
+        });
+      }
+    });
+  }
+};
+function findOpenParen(text, closePos) {
+  if (!text.includes("[")) return 0;
+  let openPos = closePos;
+  let counter = 1;
+  while (counter > 0) {
+    const c = text[--openPos];
+    if (c === void 0) break;
+    if (c === "[") {
+      counter--;
+    } else if (c === "]") {
+      counter++;
+    }
+  }
+  return openPos;
+}
+function buildViewPlugin(plugin) {
+  return import_view.ViewPlugin.fromClass(
+    class {
+      constructor(view) {
+        this.view = view;
+        this.decoManager = new FaviconDecorationSet(view, plugin);
+        activeViewPlugins.add(this);
+        this.buildAsyncDecorations(view);
+      }
+      update(update) {
+        this.view = update.view;
+        const differentModes = update.startState.field(import_obsidian6.editorLivePreviewField) !== update.state.field(import_obsidian6.editorLivePreviewField);
+        if (update.docChanged || update.viewportChanged || differentModes) {
+          this.buildAsyncDecorations(update.view);
+        }
+      }
+      destroy() {
+        activeViewPlugins.delete(this);
+      }
+      buildAsyncDecorations(view) {
+        const targetElements = [];
+        const settings = plugin.settings;
+        if (!settings.enableMarkdownLinkFavicon) {
+          this.decoManager.debouncedUpdate(targetElements);
+          return;
+        }
+        const isLivePreview = view.state.field(
+          import_obsidian6.editorLivePreviewField
+        );
+        if (isLivePreview && !settings.enableMarkdownLinkFaviconInLivePreview) {
+          this.decoManager.debouncedUpdate(targetElements);
+          return;
+        }
+        if (!isLivePreview && !settings.enableMarkdownLinkFaviconInSource) {
+          this.decoManager.debouncedUpdate(targetElements);
+          return;
+        }
+        for (const { from, to } of view.visibleRanges) {
+          const tree = (0, import_language.syntaxTree)(view.state);
+          tree.iterate({
+            from,
+            to,
+            enter: (node) => {
+              const nodeName = node.name;
+              if (nodeName === "URL" || nodeName === "link" || nodeName.includes("url")) {
+                let linkText = view.state.sliceDoc(
+                  node.from,
+                  node.to
+                );
+                if (linkText.includes(":")) {
+                  linkText = linkText.replace(/[<>]/g, "");
+                  if (!linkText.startsWith("http://") && !linkText.startsWith("https://")) {
+                    return;
+                  }
+                  const before = view.state.doc.sliceString(
+                    node.from - 1,
+                    node.from
+                  );
+                  if (before !== "(") {
+                    if (!settings.showMarkdownLinkFaviconOnPlain)
+                      return;
+                    if (settings.markdownLinkFaviconPosition === "before") {
+                      targetElements.push({
+                        from: node.from,
+                        to: node.to,
+                        value: linkText
+                      });
+                    } else {
+                      targetElements.push({
+                        from: node.to,
+                        to: node.to + 1,
+                        value: linkText
+                      });
+                    }
+                    return;
+                  }
+                  if (!settings.showMarkdownLinkFaviconOnAliased)
+                    return;
+                  const line = view.state.doc.lineAt(
+                    node.from
+                  );
+                  const toLine = line.to - node.to;
+                  const toLineT = line.length - toLine;
+                  const lastIndex = line.text.lastIndexOf(
+                    "]",
+                    toLineT
+                  );
+                  const open = findOpenParen(
+                    line.text,
+                    lastIndex
+                  );
+                  if (open === -1) {
+                    return;
+                  }
+                  const fromTarget = line.from + open;
+                  const fullText = view.state.sliceDoc(
+                    fromTarget,
+                    node.to
+                  );
+                  if (fullText.includes("|nofavicon")) return;
+                  if (settings.markdownLinkFaviconPosition === "before") {
+                    targetElements.push({
+                      from: fromTarget,
+                      to: node.to,
+                      value: linkText
+                    });
+                  } else {
+                    targetElements.push({
+                      from: node.to,
+                      to: node.to + 1,
+                      value: linkText
+                    });
+                  }
+                }
+              }
+            }
+          });
+        }
+        this.decoManager.debouncedUpdate(targetElements);
+      }
+    }
+  );
+}
+var activeViewPlugins = /* @__PURE__ */ new Set();
+function refreshAllFaviconDecorations() {
+  activeViewPlugins.forEach((plugin) => {
+    plugin.decoManager.clearCache();
+    plugin.buildAsyncDecorations(plugin.view);
+  });
+}
+var linkFaviconDecorationPlugin = (plugin) => {
+  return [faviconDecorations.field, buildViewPlugin(plugin)];
+};
+
+// src/settings.ts
+var DEFAULT_SETTINGS = {
+  popup: true,
+  rmDismiss: false,
+  autoEmbedWhenEmpty: false,
+  defaultPasteAction: "embed",
+  primary: "local",
+  backup: "microlink",
+  inPlace: false,
+  debug: false,
+  delay: 0,
+  linkpreviewApiKey: "",
+  jsonlinkApiKey: "",
+  iframelyApiKey: "",
+  metadataTemplate: 'parser: "{{parser}}"\ndate: "{{date}}"\ncustom_date: "{{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}"',
+  useMetadataTemplate: false,
+  saveImagesToVault: false,
+  imageFolderPath: "link-embed-images",
+  respectImageAspectRatio: true,
+  useCache: true,
+  enableFavicon: false,
+  maxConcurrentLocalParsers: 1,
+  enableMarkdownLinkFavicon: false,
+  markdownLinkFaviconPosition: "before",
+  showMarkdownLinkFaviconOnAliased: true,
+  showMarkdownLinkFaviconOnPlain: true,
+  enableMarkdownLinkFaviconInReading: true,
+  enableMarkdownLinkFaviconInSource: true,
+  enableMarkdownLinkFaviconInLivePreview: true
+};
+var ObsidianLinkEmbedSettingTab = class extends import_obsidian7.PluginSettingTab {
+  constructor(app, plugin) {
+    super(app, plugin);
+    this.plugin = plugin;
+  }
+  display() {
+    const { containerEl } = this;
+    containerEl.empty();
+    containerEl.createEl("h2", { text: "Link Embed" });
+    containerEl.createEl("h3", { text: "User Option" });
+    new import_obsidian7.Setting(containerEl).setName("Popup Menu").setDesc("Auto popup embed menu after pasting url.").addToggle((value) => {
+      value.setValue(this.plugin.settings.popup).onChange((value2) => {
+        this.plugin.settings.popup = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Remove Dismiss").setDesc(
+      "Remove dismiss from popup menu. You can always use ESC to dismiss the popup menu."
+    ).addToggle((value) => {
+      value.setValue(this.plugin.settings.rmDismiss).onChange((value2) => {
+        this.plugin.settings.rmDismiss = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Auto Embed").setDesc("Auto embed link when pasting a link into an empty line.").addToggle((value) => {
+      value.setValue(this.plugin.settings.autoEmbedWhenEmpty).onChange((value2) => {
+        this.plugin.settings.autoEmbedWhenEmpty = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Default Paste Action").setDesc(
+      "Choose default action when pasting a URL into an empty line."
+    ).addDropdown((dropdown) => {
+      dropdown.addOption("embed", "Create Embed Block").addOption("markdown", "Create Markdown Link").setValue(this.plugin.settings.defaultPasteAction).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.defaultPasteAction = value;
+        yield this.plugin.saveSettings();
+      }));
+    });
+    new import_obsidian7.Setting(containerEl).setName("Primary Parser").setDesc("Select a primary parser to use for link embeds.").addDropdown((value) => {
+      value.addOptions(parseOptions).setValue(this.plugin.settings.primary).onChange((value2) => {
+        this.plugin.settings.primary = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Secondary Parser").setDesc(
+      "Select a secondary parser. It will be used if the primary parser fails."
+    ).addDropdown((value) => {
+      value.addOptions(parseOptions).setValue(this.plugin.settings.backup).onChange((value2) => {
+        this.plugin.settings.backup = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("In Place").setDesc("Always replace selection with embed.").addToggle((value) => {
+      value.setValue(this.plugin.settings.inPlace).onChange((value2) => {
+        this.plugin.settings.inPlace = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Convert Old Embed").setDesc(
+      "Convert old html element into new code block. Warning: Use with caution."
+    ).addButton((component) => {
+      component.setButtonText("Convert");
+      component.setTooltip("Use with caution");
+      component.setWarning();
+      component.onClick(() => __async(this, null, function* () {
+        new import_obsidian7.Notice(`Start Conversion`);
+        let listFiles = this.app.vault.getMarkdownFiles();
+        for (const file of listFiles) {
+          let content = yield this.app.vault.read(file);
+          const htmlRegex = new RegExp(REGEX.HTML, "gm");
+          let elems = content.matchAll(htmlRegex);
+          let bReplace = false;
+          for (let elem of elems) {
+            let description = elem[5] || "";
+            description = description.replace(/\n/g, " ").replace(/\\/g, "\\\\");
+            description = import_he.default.unescape(description);
+            let title = import_he.default.unescape(elem[4] || "");
+            const origin = elem[0];
+            const data = {
+              title,
+              image: elem[2] || "",
+              description,
+              url: elem[1]
+            };
+            const embed = mustache_default.render(
+              MarkdownTemplate,
+              data
+            );
+            if (this.plugin.settings.debug) {
+              console.log(
+                `[Link Embed] Replace:
+Origin
+${origin}
+New
+${embed}
+Before
+${content}
+After
+${content.split(origin).join(embed)}`
+              );
+            }
+            content = content.split(origin).join(embed);
+            bReplace = true;
+          }
+          const errorMatch = content.match(
+            new RegExp(REGEX.ERROR, "gm")
+          );
+          if (bReplace && errorMatch != null && errorMatch.length) {
+            new import_obsidian7.Notice(`Conversion Fail on ${file.path}`);
+            if (this.plugin.settings.debug) {
+              console.log("[Link Embed] Convert:", content);
+            }
+          } else {
+            yield this.app.vault.modify(file, content);
+          }
+        }
+        new import_obsidian7.Notice(`Conversion End`);
+      }));
+    });
+    containerEl.createEl("h3", { text: "Embed Metadata" });
+    new import_obsidian7.Setting(containerEl).setName("Use Metadata Template").setDesc(
+      "Add metadata about what created the embed (plugin name, parser type, date)."
+    ).addToggle((value) => {
+      value.setValue(this.plugin.settings.useMetadataTemplate).onChange((value2) => {
+        this.plugin.settings.useMetadataTemplate = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Metadata Template").setDesc(
+      "Customize metadata template. Variables: {{parser}} for parser type, {{date}} for date in YYYY-MM-DD format. For custom date format use {{#formatDate}}YYYY-MM-DD HH:mm:ss{{/formatDate}}."
+    ).addTextArea((text) => {
+      text.inputEl.rows = 4;
+      text.inputEl.cols = 50;
+      text.setValue(this.plugin.settings.metadataTemplate).onChange(
+        (value) => {
+          try {
+            const lines = value.split("\n");
+            const isValid = lines.every((line) => {
+              if (line.trim() === "") return true;
+              return line.includes(":");
+            });
+            if (isValid) {
+              this.plugin.settings.metadataTemplate = value;
+              this.plugin.saveSettings();
+            }
+          } catch (e) {
+            if (this.plugin.settings.debug) {
+              console.log(
+                "[Link Embed] Invalid YAML format in metadata template:",
+                e
+              );
+            }
+          }
+        }
+      );
+    });
+    containerEl.createEl("h3", { text: "Image Settings" });
+    new import_obsidian7.Setting(containerEl).setName("Use Cache").setDesc(
+      "When enabled, the plugin will cache favicon images and aspect ratios to improve performance."
+    ).addToggle((value) => {
+      value.setValue(this.plugin.settings.useCache).onChange((value2) => {
+        this.plugin.settings.useCache = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Enable Favicon").setDesc("When enabled, favicons will be displayed in link embeds.").addToggle((value) => {
+      value.setValue(this.plugin.settings.enableFavicon).onChange((value2) => {
+        this.plugin.settings.enableFavicon = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Respect Image Aspect Ratio").setDesc(
+      "When enabled, embedded images will maintain their original aspect ratio instead of being forced into a square shape."
+    ).addToggle((value) => {
+      value.setValue(this.plugin.settings.respectImageAspectRatio).onChange((value2) => {
+        this.plugin.settings.respectImageAspectRatio = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Save Images to Vault").setDesc(
+      "When enabled, images from links will be saved to your vault."
+    ).addToggle((value) => {
+      value.setValue(this.plugin.settings.saveImagesToVault).onChange((value2) => {
+        this.plugin.settings.saveImagesToVault = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Image Folder Path").setDesc(
+      "Folder in your vault where images will be saved. The folder will be created if it doesn't exist."
+    ).addText((value) => {
+      value.setValue(this.plugin.settings.imageFolderPath).onChange((value2) => {
+        this.plugin.settings.imageFolderPath = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h3", { text: "Markdown Link Favicon" });
+    new import_obsidian7.Setting(containerEl).setName("Enable Markdown Link Favicon").setDesc(
+      "When enabled, favicons will be displayed next to markdown links in reading mode and live preview mode."
+    ).addToggle((value) => {
+      value.setValue(this.plugin.settings.enableMarkdownLinkFavicon).onChange((value2) => {
+        this.plugin.settings.enableMarkdownLinkFavicon = value2;
+        this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Markdown Link Favicon Position").setDesc(
+      "Choose where to display the favicon relative to the link text."
+    ).addDropdown((dropdown) => {
+      dropdown.addOption("before", "Before Link Text").addOption("after", "After Link Text").setValue(this.plugin.settings.markdownLinkFaviconPosition).onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.markdownLinkFaviconPosition = value;
+        yield this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      }));
+    });
+    new import_obsidian7.Setting(containerEl).setName("Show Favicon on Aliased Links").setDesc(
+      "Show favicon when link has an alias (e.g., [Obsidian](https://obsidian.md/))"
+    ).addToggle((value) => {
+      value.setValue(
+        this.plugin.settings.showMarkdownLinkFaviconOnAliased
+      ).onChange((value2) => {
+        this.plugin.settings.showMarkdownLinkFaviconOnAliased = value2;
+        this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Show Favicon on Plain Links").setDesc(
+      "Show favicon when link has no alias (e.g., https://obsidian.md/)"
+    ).addToggle((value) => {
+      value.setValue(
+        this.plugin.settings.showMarkdownLinkFaviconOnPlain
+      ).onChange((value2) => {
+        this.plugin.settings.showMarkdownLinkFaviconOnPlain = value2;
+        this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Show in Reading Mode").setDesc("Display favicons in reading mode").addToggle((value) => {
+      value.setValue(
+        this.plugin.settings.enableMarkdownLinkFaviconInReading
+      ).onChange((value2) => {
+        this.plugin.settings.enableMarkdownLinkFaviconInReading = value2;
+        this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Show in Source Mode").setDesc("Display favicons in source mode").addToggle((value) => {
+      value.setValue(
+        this.plugin.settings.enableMarkdownLinkFaviconInSource
+      ).onChange((value2) => {
+        this.plugin.settings.enableMarkdownLinkFaviconInSource = value2;
+        this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Show in Live Preview").setDesc("Display favicons in live preview mode").addToggle((value) => {
+      value.setValue(
+        this.plugin.settings.enableMarkdownLinkFaviconInLivePreview
+      ).onChange((value2) => {
+        this.plugin.settings.enableMarkdownLinkFaviconInLivePreview = value2;
+        this.plugin.saveSettings();
+        refreshAllFaviconDecorations();
+      });
+    });
+    containerEl.createEl("h3", { text: "Provider Settings" });
+    new import_obsidian7.Setting(containerEl).setName("LinkPreview API Key").setDesc("Enter your API key for the LinkPreview provider.").addText((value) => {
+      value.setValue(this.plugin.settings.linkpreviewApiKey).onChange((value2) => {
+        this.plugin.settings.linkpreviewApiKey = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("JSONLink API Key").setDesc("Enter your API key for the JSONLink provider.").addText((value) => {
+      value.setValue(this.plugin.settings.jsonlinkApiKey).onChange((value2) => {
+        this.plugin.settings.jsonlinkApiKey = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Iframely API Key").setDesc("Enter your API key for the Iframely provider.").addText((value) => {
+      value.setValue(this.plugin.settings.iframelyApiKey).onChange((value2) => {
+        this.plugin.settings.iframelyApiKey = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h3", { text: "Performance Settings" });
+    new import_obsidian7.Setting(containerEl).setName("Max Concurrent Local Parsers").setDesc(
+      "Maximum number of simultaneous local parsing operations. Lower values reduce system load but might make link embeds appear more slowly."
+    ).addSlider((slider) => {
+      slider.setLimits(1, 10, 1).setValue(this.plugin.settings.maxConcurrentLocalParsers).setDynamicTooltip().onChange((value) => {
+        this.plugin.settings.maxConcurrentLocalParsers = value;
+        this.plugin.saveSettings();
+      });
+    });
+    containerEl.createEl("h3", { text: "Dev Option" });
+    new import_obsidian7.Setting(containerEl).setName("Debug").setDesc("Enable debug mode.").addToggle((value) => {
+      value.setValue(this.plugin.settings.debug).onChange((value2) => {
+        this.plugin.settings.debug = value2;
+        this.plugin.saveSettings();
+      });
+    });
+    new import_obsidian7.Setting(containerEl).setName("Delay").setDesc("Add delay before replacing preview.(ms)").addText((value) => {
+      value.setValue(String(this.plugin.settings.delay)).onChange((value2) => {
+        if (!isNaN(Number(value2))) {
+          this.plugin.settings.delay = Number(value2);
+          this.plugin.saveSettings();
+        }
+      });
+    });
+  }
+};
+
+// src/eventHandlers.ts
+var import_obsidian9 = require("obsidian");
+
 // src/urlUtils.ts
-var import_obsidian7 = require("obsidian");
+var import_obsidian8 = require("obsidian");
 function isUrl(text) {
   const urlRegex = new RegExp(REGEX.URL, "g");
   return urlRegex.test(text);
 }
 function checkUrlValid(selected) {
   if (!(selected.text.length > 0 && isUrl(selected.text))) {
-    new import_obsidian7.Notice("Need a link to convert to embed.");
+    new import_obsidian8.Notice("Need a link to convert to embed.");
     return false;
   }
   return true;
@@ -2716,10 +3089,13 @@ function handleEditorPaste(evt, pasteInfo) {
 function handleEmbedCodeBlock(source, el, ctx, settings, cache, vault, imageLoadAttempts) {
   return __async(this, null, function* () {
     var _a;
-    const info = (0, import_obsidian8.parseYaml)(source.replace(/^\s+|\s+$/gm, ""));
+    const info = (0, import_obsidian9.parseYaml)(source.replace(/^\s+|\s+$/gm, ""));
     const isDummyEmbed = info.title === "Fetching" && info.image === SPINNER && ((_a = info.description) == null ? void 0 : _a.startsWith("Fetching "));
     if (isDummyEmbed) {
-      renderEmbed(info, info.image, 1, el, settings);
+      const dummyEl = renderEmbed(info, info.image, 1, el, settings);
+      addRefreshButtonHandler(dummyEl, info, ctx, settings, vault);
+      addCopyButtonHandler(dummyEl, info, ctx, vault, settings);
+      addDeleteButtonHandler(dummyEl, info, ctx, vault, settings);
       return;
     }
     const originalInfo = __spreadValues({}, info);
@@ -2921,7 +3297,7 @@ function handleEmbedCodeBlock(source, el, ctx, settings, cache, vault, imageLoad
     }
   });
 }
-function handleEmbedLinkCommand(editor, settings) {
+function handleEmbedLinkCommand(editor, settings, vault) {
   return __async(this, null, function* () {
     const selected = yield ExEditor.getText(editor, settings.debug);
     if (!checkUrlValid(selected)) {
@@ -2932,11 +3308,12 @@ function handleEmbedLinkCommand(editor, settings) {
       selected,
       [settings.primary, settings.backup],
       settings,
-      settings.inPlace
+      settings.inPlace,
+      vault
     );
   });
 }
-function createParserCommandHandler(parserName, settings) {
+function createParserCommandHandler(parserName, settings, vault) {
   return (editor) => __async(null, null, function* () {
     const selected = yield ExEditor.getText(editor, settings.debug);
     if (!checkUrlValid(selected)) {
@@ -2947,7 +3324,8 @@ function createParserCommandHandler(parserName, settings) {
       selected,
       [parserName],
       settings,
-      settings.inPlace
+      settings.inPlace,
+      vault
     );
   });
 }
@@ -2973,8 +3351,8 @@ function handleCreateMarkdownLinkCommand(editor, settings, vault, parsers) {
 }
 
 // src/suggest.ts
-var import_obsidian9 = require("obsidian");
-var EmbedSuggest = class extends import_obsidian9.EditorSuggest {
+var import_obsidian10 = require("obsidian");
+var EmbedSuggest = class extends import_obsidian10.EditorSuggest {
   constructor(app, plugin) {
     super(app);
     this.plugin = plugin;
@@ -3011,7 +3389,8 @@ var EmbedSuggest = class extends import_obsidian9.EditorSuggest {
         },
         [this.plugin.settings.primary, this.plugin.settings.backup],
         this.plugin.settings,
-        true
+        true,
+        this.plugin.app.vault
       );
     } else if (suggestion.choice == "Create Markdown Link") {
       this.convertToMarkdownLink();
@@ -3071,7 +3450,8 @@ var EmbedSuggest = class extends import_obsidian9.EditorSuggest {
               this.plugin.settings.backup
             ],
             this.plugin.settings,
-            true
+            true,
+            this.plugin.app.vault
           );
         }
         return null;
@@ -3088,9 +3468,101 @@ var EmbedSuggest = class extends import_obsidian9.EditorSuggest {
   }
 };
 
+// src/linkFaviconHandler.ts
+var LinkFaviconHandler = class {
+  constructor(settings, cache) {
+    this.settings = settings;
+    this.cache = cache;
+  }
+  /**
+   * Process markdown links and add favicons
+   */
+  processLinks(element, ctx) {
+    return __async(this, null, function* () {
+      if (!this.settings.enableMarkdownLinkFavicon) {
+        return;
+      }
+      if (!this.settings.enableMarkdownLinkFaviconInReading) {
+        return;
+      }
+      const links = element.querySelectorAll(
+        "a.external-link:not([data-link-favicon])"
+      );
+      for (let i = 0; i < links.length; i++) {
+        const link = links.item(i);
+        if (this.isDisabled(link)) {
+          continue;
+        }
+        link.dataset.linkFavicon = "true";
+        try {
+          const url = link.href;
+          if (!url || !url.startsWith("http")) {
+            continue;
+          }
+          const favicon = yield getFavicon(
+            url,
+            this.settings,
+            this.cache,
+            this.settings.debug
+          );
+          if (favicon) {
+            const faviconImg = activeDocument.createElement("img");
+            faviconImg.src = favicon;
+            faviconImg.addClass("link-favicon");
+            faviconImg.alt = "favicon";
+            faviconImg.style.height = "0.8em";
+            faviconImg.style.display = "inline-block";
+            if (this.settings.markdownLinkFaviconPosition === "before") {
+              link.prepend(faviconImg);
+            } else {
+              link.append(faviconImg);
+            }
+            if (this.settings.debug) {
+              console.log(
+                "[Link Embed] Added favicon to markdown link:",
+                url
+              );
+            }
+          }
+        } catch (error) {
+          if (this.settings.debug) {
+            console.error(
+              "[Link Embed] Error adding favicon to link:",
+              error
+            );
+          }
+        }
+      }
+    });
+  }
+  /**
+   * Check if a link should be disabled from favicon processing
+   */
+  isDisabled(link) {
+    var _a;
+    if (link.getAttribute("data-no-favicon")) {
+      return true;
+    }
+    if (link.getAttribute("data-link-favicon")) {
+      return true;
+    }
+    if ((_a = link.textContent) == null ? void 0 : _a.includes("|nofavicon")) {
+      return true;
+    }
+    const isAliased = link.textContent !== link.href;
+    if (!this.settings.showMarkdownLinkFaviconOnAliased && isAliased) {
+      return true;
+    }
+    if (!this.settings.showMarkdownLinkFaviconOnPlain && !isAliased) {
+      return true;
+    }
+    return false;
+  }
+};
+
 // main.ts
-var ObsidianLinkEmbedPlugin = class extends import_obsidian10.Plugin {
-  // Track image loading attempts
+var ObsidianLinkEmbedPlugin = class extends import_obsidian11.Plugin {
+  // Handler for markdown link favicons
   onload() {
     return __async(this, null, function* () {
       yield this.loadSettings();
@@ -3101,6 +3573,10 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian10.Plugin {
       this.cache = /* @__PURE__ */ new Map();
       this.imageLoadAttempts = /* @__PURE__ */ new Map();
       LocalParser.initLimiter(this.settings.maxConcurrentLocalParsers);
+      this.linkFaviconHandler = new LinkFaviconHandler(
+        this.settings,
+        this.cache
+      );
       this.registerEvent(
         this.app.workspace.on("editor-paste", (evt) => {
           handleEditorPaste(evt, this.pasteInfo);
@@ -3111,7 +3587,11 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian10.Plugin {
         id: "embed-link",
         name: "Create Embed Block",
         editorCallback: (editor) => __async(this, null, function* () {
-          yield handleEmbedLinkCommand(editor, this.settings);
+          yield handleEmbedLinkCommand(
+            editor,
+            this.settings,
+            this.app.vault
+          );
         })
       });
       this.addCommand({
@@ -3129,7 +3609,11 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian10.Plugin {
         this.addCommand({
           id: `embed-link-${name}`,
           name: `Create Embed Block with ${parseOptions[name]}`,
-          editorCallback: createParserCommandHandler(name, this.settings)
+          editorCallback: createParserCommandHandler(
+            name,
+            this.settings,
+            this.app.vault
+          )
         });
         this.addCommand({
           id: `create-markdown-link-${name}`,
@@ -3158,6 +3642,10 @@ var ObsidianLinkEmbedPlugin = class extends import_obsidian10.Plugin {
           );
         })
       );
+      this.registerMarkdownPostProcessor((element, context) => __async(this, null, function* () {
+        yield this.linkFaviconHandler.processLinks(element, context);
+      }));
+      this.registerEditorExtension(linkFaviconDecorationPlugin(this));
       this.addSettingTab(new ObsidianLinkEmbedSettingTab(this.app, this));
     });
   }
