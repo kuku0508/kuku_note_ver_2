@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -329.28001119352393,
-                  "y": 641.5257057382561,
-                  "zoom": -1
+                "file": "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "google calender 視圖參數"
             }
           }
         ]
@@ -200,7 +207,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "2026-W04.md"
+                "file": "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -278,12 +285,13 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/Department/程式語言/obsidian/pu",
+    "2026-W04.md",
+    "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
+    "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "未命名.canvas",
-    "2026-W04.md",
     "Drawing 2026-01-18 11.40.10.excalidraw.md",
     "筆記狀態.md",
     "homepage.canvas",
@@ -317,7 +325,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "文本/Department/數學/統計/實驗設計/題目/期中考",
     "文本/Department/數學/統計/實驗設計/題目/chapter 6",
-    "文本/Department/數學/統計/數理統計/題目/期末考",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件/Pasted image 20251117105952.png",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
