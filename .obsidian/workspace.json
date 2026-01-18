@@ -15,9 +15,9 @@
               "state": {
                 "file": "Homepage.canvas",
                 "viewState": {
-                  "x": -817.9619716457679,
-                  "y": 565.158922789021,
-                  "zoom": -0.4760536380842147
+                  "x": -307.5,
+                  "y": 60,
+                  "zoom": -0.4463517915933077
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -190,8 +190,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "blinds",
-              "title": "Matrix view"
+              "icon": "lucide-ghost",
+              "title": "bc-matrix-view"
             }
           },
           {
@@ -281,8 +281,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "Homepage.canvas",
+    "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "未處理/新的/未命86名.md",
     "筆記狀態.md",
     "2026-01-0.md",
