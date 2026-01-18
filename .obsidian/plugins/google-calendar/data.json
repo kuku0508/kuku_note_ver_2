@@ -1,6 +1,6 @@
 {
-  "googleClientId": "",
-  "googleClientSecret": "",
+  "googleClientId": "kuku050812@gmail.com",
+  "googleClientSecret": "0508Kuku",
   "googleRefreshToken": "",
   "useCustomClient": true,
   "googleOAuthServer": "https://obsidian-google-calendar.vercel.app",
