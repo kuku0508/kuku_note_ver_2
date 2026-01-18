@@ -15,8 +15,8 @@
               "state": {
                 "file": "未命名.canvas",
                 "viewState": {
-                  "x": -263,
-                  "y": -36,
+                  "x": -80,
+                  "y": 81,
                   "zoom": 0
                 }
               },
@@ -229,9 +229,19 @@
               "icon": "layout-list",
               "title": "GCal Schedule View"
             }
+          },
+          {
+            "id": "fb0a07e25de126bc",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-event_details",
+              "state": {},
+              "icon": "calendar-plus",
+              "title": "GCal EventDetails View"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
