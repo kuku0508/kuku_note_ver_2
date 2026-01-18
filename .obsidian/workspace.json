@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2026-01-0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -312.7573998839233,
+                  "y": 249.26639582124199,
+                  "zoom": -0.809386971417548
                 }
               },
-              "icon": "lucide-file",
-              "title": "2026-01-0"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -104,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-01-0.md",
+                "file": "Homepage.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "2026-01-0 的反向連結"
+              "title": "Homepage 的反向連結"
             }
           },
           {
@@ -123,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-01-0.md",
+                "file": "Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-01-0 的對外連結"
+              "title": "Homepage 的對外連結"
             }
           },
           {
@@ -152,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-01-0.md",
+                "file": "Homepage.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-01-0 的大綱"
+              "title": "Homepage 的大綱"
             }
           },
           {
@@ -207,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "2026-01-0.md"
+                "file": "Homepage.canvas"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -287,6 +280,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "筆記狀態.md",
     "Homepage.canvas",
     "2026-01-0.md",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
@@ -294,7 +288,6 @@
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "Drawing 2026-01-18 11.40.10.excalidraw.md",
-    "筆記狀態.md",
     "homepage.canvas",
     "測試筆記.md",
     "知識/程式語言/Latex/基礎知識/語法表/分數.md",
