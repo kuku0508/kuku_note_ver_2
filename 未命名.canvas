@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"ae47254959802c87","x":60,"y":-160,"width":705,"height":290,"type":"text","text":"# 昨天修改過的筆記\n```base\nviews:\n  - type: table\n    name: 表格\n    filters:\n      and:\n        - file.mtime >= now() + \"-1 day\"\n    order:\n      - file.name\n      - file.mtime\n      - file.folder\n    columnSize:\n      file.name: 152\n      file.mtime: 197\n\n```\n"},
-		{"id":"ca14365a3a4f8b07","x":60,"y":140,"width":250,"height":60,"type":"text","text":"# 代辦清單 To-do "}
+		{"id":"ca14365a3a4f8b07","x":60,"y":140,"width":705,"height":300,"type":"text","text":"# 代辦清單 To-do list\n- [ ] \n- [ ] "}
 	],
 	"edges":[]
 }
