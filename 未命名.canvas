@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"ae47254959802c87","type":"text","text":"# 昨天修改過的筆記\n```base\nviews:\n  - type: table\n    name: 表格\n    filters:\n      and:\n        - file.mtime >= now() + \"-1 day\"\n    order:\n      - file.name\n      - file.mtime\n      - file.folder\n    columnSize:\n      file.name: 152\n      file.mtime: 197\n\n```\n","x":60,"y":-160,"width":705,"height":290},
-		{"id":"ca14365a3a4f8b07","type":"text","text":"# 代辦清單 To-do list\n- [ ] \n- [ ] ","x":60,"y":140,"width":705,"height":300},
-		{"id":"23c5a7235e7ed75f","type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```","x":60,"y":-360,"width":420,"height":170},
-		{"id":"8fef4b7b1d6ccf03","type":"text","text":"```gEvent\ntype: day\ndate: today\nnavigation: TRUE\n```","x":-1000,"y":-380,"width":420,"height":940},
-		{"id":"4276f35f35af49d6","x":-322,"y":140,"width":250,"height":520,"type":"text","text":"```gEvent\ntype: web\ndate: today\nnavigation: TRUE\n```"}
+		{"id":"8fef4b7b1d6ccf03","type":"text","text":"```gEvent\ntype: day\ndate: today\nnavigation: TRUE\n```","x":-1680,"y":-440,"width":420,"height":1000},
+		{"id":"4276f35f35af49d6","x":-1240,"y":-440,"width":1560,"height":1000,"type":"text","text":"```gEvent\ntype: week\ndate: today\nnavigation: TRUE\n```"},
+		{"id":"ca14365a3a4f8b07","type":"text","text":"# 代辦清單 To-do list\n- [ ] \n- [ ] ","x":360,"y":260,"width":705,"height":300},
+		{"id":"ae47254959802c87","type":"text","text":"# 昨天修改過的筆記\n```base\nviews:\n  - type: table\n    name: 表格\n    filters:\n      and:\n        - file.mtime >= now() + \"-1 day\"\n    order:\n      - file.name\n      - file.mtime\n      - file.folder\n    columnSize:\n      file.name: 152\n      file.mtime: 197\n\n```\n","x":360,"y":-85,"width":705,"height":290},
+		{"id":"23c5a7235e7ed75f","type":"text","text":"```widgets\ntype: clock\nformat: \"12hr\" | \"24hr\"\n```","x":360,"y":-440,"width":705,"height":200}
 	],
 	"edges":[]
 }
