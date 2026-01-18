@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Homepage.canvas",
                 "viewState": {
-                  "x": -297.28001119352393,
-                  "y": 257.5257057382561,
-                  "zoom": -1
+                  "x": -258.58657701757227,
+                  "y": 313.5156044704894,
+                  "zoom": -0.5
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "Homepage"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Homepage.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向連結"
+              "title": "Homepage 的反向連結"
             }
           },
           {
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的對外連結"
+              "title": "Homepage 的對外連結"
             }
           },
           {
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Homepage.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大綱"
+              "title": "Homepage 的大綱"
             }
           },
           {
@@ -200,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "未命名.canvas"
+                "file": "Homepage.canvas"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,13 +279,13 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "c404f0a820c021cc",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "2026-W04.md",
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
-    "未命名.canvas",
+    "Homepage.canvas",
     "Drawing 2026-01-18 11.40.10.excalidraw.md",
     "筆記狀態.md",
     "homepage.canvas",
