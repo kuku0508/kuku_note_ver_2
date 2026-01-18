@@ -295,12 +295,12 @@
                 "id": "ab79639a3163d44b",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "文本/Department/數學/統計/無母數統計/講義/unit 2.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 2"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw-loading"
                 }
               }
             ]
@@ -316,7 +316,7 @@
       }
     ]
   },
-  "active": "289d87f800439a97",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.canvas",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
