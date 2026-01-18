@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": -70,
-                  "zoom": -0.4463517915933077
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "魏克森符號等級檢定"
             }
           }
         ]
@@ -307,17 +314,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 576,
-        "y": 92,
-        "width": 1285,
-        "height": 967,
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b45df1ea956bfbc3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "Homepage.canvas",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
@@ -348,7 +357,6 @@
     "文本/名言/宿儺與漏瑚對決.md",
     "文本/名言/粉紅色的雪.md",
     "文本/名言/節日的意義.md",
-    "資料庫/👾遊戲清單/Monster Hunter Wilds - 魔物獵人 荒野.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
