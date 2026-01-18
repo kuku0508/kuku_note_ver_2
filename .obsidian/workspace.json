@@ -15,9 +15,9 @@
               "state": {
                 "file": "homepage.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -204.88894698528205,
+                  "y": -306.2909325096636,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -259,7 +259,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "筆記狀態.md",
     "homepage.canvas",

@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"81966323ece5bb92","x":-200,"y":-120,"width":580,"height":580,"type":"text","text":"# 昨天修改過的筆記\n```base\nviews:\n  - type: table\n    name: 表格\n    filters:\n      and:\n        - file.mtime >= now() + \"-1 day\"\n    order:\n      - file.name\n      - file.mtime\n\n```\n"}
+		{"id":"7c2485a356f86f11","x":-330,"y":-336,"width":250,"height":60,"type":"text","text":""},
+		{"id":"81966323ece5bb92","x":-320,"y":-600,"width":740,"height":580,"type":"text","text":"# 昨天修改過的筆記\n```base\nviews:\n  - type: table\n    name: 表格\n    filters:\n      and:\n        - file.mtime >= now() + \"-1 day\"\n    order:\n      - file.name\n      - file.mtime\n      - file.folder\n    columnSize:\n      file.name: 152\n      file.mtime: 197\n\n```\n"}
 	],
 	"edges":[]
 }
