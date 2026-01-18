@@ -11,20 +11,40 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "homepage.canvas",
-                "viewState": {
-                  "x": -204.88894698528205,
-                  "y": -306.2909325096636,
-                  "zoom": -1
+                "file": "筆記狀態.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "homepage"
+              "icon": "lucide-file",
+              "title": "筆記狀態"
+            }
+          },
+          {
+            "id": "a8bd2864f1250246",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2026-01-18 11.40.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-18 11.40.10.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,9 +279,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a8bd2864f1250246",
   "lastOpenFiles": [
     "筆記狀態.md",
+    "Drawing 2026-01-18 11.40.10.excalidraw.md",
     "homepage.canvas",
     "測試筆記.md",
     "知識/程式語言/Latex/基礎知識/語法表/分數.md",
@@ -289,7 +310,6 @@
     "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
     "README.md",
     "文本/Department/數學/統計/作業研究/講義/Chapter 7 運輸與指派問題.md",
-    "文本/Department/數學/統計/作業研究/講義/chapter 6 敏感度與參數分析.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
