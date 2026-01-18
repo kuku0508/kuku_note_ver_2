@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -297.28001119352393,
+                  "y": 257.5257057382561,
+                  "zoom": -1
                 }
               },
-              "icon": "lucide-file",
-              "title": "google calender 視圖參數"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -207,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md"
+                "file": "未命名.canvas"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -287,8 +280,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2026-W04.md",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
+    "2026-W04.md",
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "未命名.canvas",
