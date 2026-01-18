@@ -16,7 +16,7 @@
                 "file": "未命名.canvas",
                 "viewState": {
                   "x": -329.28001119352393,
-                  "y": 455.5257057382561,
+                  "y": 641.5257057382561,
                   "zoom": -1
                 }
               },
@@ -200,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "未命名.canvas"
+                "file": "2026-W04.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -278,10 +278,11 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
-    "Drawing 2026-01-18 11.40.10.excalidraw.md",
     "未命名.canvas",
+    "2026-W04.md",
+    "Drawing 2026-01-18 11.40.10.excalidraw.md",
     "筆記狀態.md",
     "homepage.canvas",
     "測試筆記.md",
@@ -308,7 +309,6 @@
     "未處理/新的/未命名.md",
     "文本/Department/數學/統計/進階R/資料/外部資料.md",
     "文本/名言/聽說你的名字是山姆．波特，可是你是山姆．布橋斯才對.md",
-    "README.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
