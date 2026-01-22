@@ -28,12 +28,16 @@
             "id": "d92e5c83a4b191f3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.11.5"
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
         ],
@@ -332,6 +336,7 @@
   "active": "d92e5c83a4b191f3",
   "lastOpenFiles": [
     "Homepage.canvas",
+    "Untitled Kanban.md",
     "筆記狀態.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
@@ -361,7 +366,6 @@
     "文本/名言/凝視.md",
     "文本/名言/親子不同頻.md",
     "文本/名言/宿儺與漏瑚對決.md",
-    "文本/名言/粉紅色的雪.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
