@@ -1,0 +1,373 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -307.5,
+                  "y": 270,
+                  "zoom": -0.700693259931538
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb1194b3f9856dd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "27cb98334c7fd0d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e03ebbc8f771b90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "56f3f8a6dc850f6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "長條圖",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "47d489a3c60931ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "7adfdd81032c0fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f542b575c0b68564",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46395587b7fec65a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Homepage 的反向連結"
+            }
+          },
+          {
+            "id": "c404f0a820c021cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Homepage 的對外連結"
+            }
+          },
+          {
+            "id": "e1c525d5d444dfd8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "0cb8fe3b06e6ac7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Homepage 的大綱"
+            }
+          },
+          {
+            "id": "5262ad1e3e68c919",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "74ffd3cdb4d9f137",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "892a332b82a61cfd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "94bf4105ffe37175",
+            "type": "leaf",
+            "state": {
+              "type": "bc-matrix-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "bc-matrix-view"
+            }
+          },
+          {
+            "id": "63a7cf70255405a4",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Homepage.canvas"
+              },
+              "icon": "lucide-file-signature",
+              "title": "註腳"
+            }
+          },
+          {
+            "id": "5b7f534b92c70fc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "39d8566ba50f6ce4",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {},
+              "icon": "layout-list",
+              "title": "GCal Schedule View"
+            }
+          },
+          {
+            "id": "fb0a07e25de126bc",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-event_details",
+              "state": {},
+              "icon": "calendar-plus",
+              "title": "GCal EventDetails View"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 492.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
+      "widgets:Add widget": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "media-extended:Open external media": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "bases:建立新的 base": false,
+      "templates:插入模板": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
+    }
+  },
+  "floating": {
+    "id": "d0fda414c7d21ef5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "16632febb58c2380",
+        "type": "window",
+        "children": [
+          {
+            "id": "18872a986adba93c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b45df1ea956bfbc3",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw-loading",
+                  "state": {
+                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 3.md"
+                  },
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw-loading"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Homepage.canvas",
+    "未處理/新的/qwfdwdwq.md",
+    "未處理/新的/1.md",
+    "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
+    "未處理/新的/Neuro - sama.md",
+    "未處理/新的/Ctrl + Alt + A.md",
+    "筆記狀態.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
+    "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
+    "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
+    "未處理/新的/未命86名.md",
+    "2026-01-0.md",
+    "2026-W04.md",
+    "文本/Department/程式語言/obsidian/plugin",
+    "文本/Department/程式語言/obsidian",
+    "Drawing 2026-01-18 11.40.10.excalidraw.md",
+    "homepage.canvas",
+    "測試筆記.md",
+    "知識/程式語言/Latex/基礎知識/語法表/分數.md",
+    "模板/遊戲.md",
+    "資料庫/👾遊戲清單.base",
+    "資料庫/📃名言資料庫.base",
+    "文本/名言/繩子跟棍子.md",
+    "文本/名言/The last of us Ending Scene.md",
+    "文本/名言/今夜無人入睡.md",
+    "文本/名言/奧本海默 世界的毀滅者.md",
+    "文本/名言/柯柏-雜菜煲食後感.md",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 9",
+    "文本/Department/數學/統計/實驗設計/題目/Gemini",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 8",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 7",
+    "文本/Department/數學/統計/實驗設計/題目/期中考",
+    "文本/Department/數學/統計/實驗設計/題目/chapter 6",
+    "未處理/附件/Pasted image 20251217002914.png",
+    "未處理/附件/Pasted image 20251117105952.png",
+    "文本/Department/數學/統計/學者照片/Karl Pearson.png",
+    "文本/Department/數學/統計/學者照片/Abraham Wald.png",
+    "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
+    "文本/Department/數學/統計/學者照片/David Cox.png",
+    "文本/Department/數學/統計/學者照片/Francis Galtton.png",
+    "文本/Department/數學/統計/學者照片/Frank Wilcoxon.png",
+    "文本/Department/數學/統計/學者照片/Gottfried Leibniz.png",
+    "文本/Department/數學/統計/學者照片/Harold hotelling.png",
+    "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
+    "未處理/未命名.canvas",
+    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
+    "文本/Department/數學/統計/機率論/未命名.canvas"
+  ]
+}
