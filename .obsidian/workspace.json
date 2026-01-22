@@ -23,8 +23,21 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "d92e5c83a4b191f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,17 +329,17 @@
       }
     ]
   },
-  "active": "e7a7b303c61786dc",
+  "active": "d92e5c83a4b191f3",
   "lastOpenFiles": [
+    "Homepage.canvas",
+    "筆記狀態.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
-    "Homepage.canvas",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "未處理/新的/未命86名.md",
-    "筆記狀態.md",
     "2026-01-0.md",
     "2026-W04.md",
     "文本/Department/程式語言/obsidian/plugin",
@@ -349,7 +362,6 @@
     "文本/名言/親子不同頻.md",
     "文本/名言/宿儺與漏瑚對決.md",
     "文本/名言/粉紅色的雪.md",
-    "文本/名言/節日的意義.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
