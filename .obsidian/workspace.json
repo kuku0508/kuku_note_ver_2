@@ -15,8 +15,8 @@
               "state": {
                 "file": "Homepage.canvas",
                 "viewState": {
-                  "x": -309.12528560548367,
-                  "y": 622.6869763899467,
+                  "x": -310.75057121096734,
+                  "y": 278.1264280274182,
                   "zoom": -0.700693259931538
                 }
               },
@@ -279,47 +279,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "floating": {
-    "id": "d0fda414c7d21ef5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "16632febb58c2380",
-        "type": "window",
-        "children": [
-          {
-            "id": "18872a986adba93c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b45df1ea956bfbc3",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw-loading",
-                  "state": {
-                    "file": "文本/Department/數學/統計/無母數統計/講義/unit 3.md"
-                  },
-                  "icon": "lucide-ghost",
-                  "title": "excalidraw-loading"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1e03ebbc8f771b90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.canvas",
     "Untitled Kanban.md",
+    "Homepage.canvas",
     "未處理/新的/qwfdwdwq.md",
     "未處理/新的/1.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
