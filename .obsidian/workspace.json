@@ -23,25 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "d92e5c83a4b191f3",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,10 +316,15 @@
       }
     ]
   },
-  "active": "d92e5c83a4b191f3",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.canvas",
     "Untitled Kanban.md",
+    "未處理/新的/qwfdwdwq.md",
+    "未處理/新的/1.md",
+    "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
+    "未處理/新的/Neuro - sama.md",
+    "未處理/新的/Ctrl + Alt + A.md",
+    "Homepage.canvas",
     "筆記狀態.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
@@ -362,10 +350,6 @@
     "文本/名言/奧本海默 世界的毀滅者.md",
     "文本/名言/柯柏-雜菜煲食後感.md",
     "文本/名言/好奇心 安全感.md",
-    "文本/名言/我一直很敬佩.md",
-    "文本/名言/凝視.md",
-    "文本/名言/親子不同頻.md",
-    "文本/名言/宿儺與漏瑚對決.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
