@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -307.5,
+                  "y": -70,
+                  "zoom": -0.4463517915933077
                 }
               },
-              "icon": "lucide-file",
-              "title": "魏克森符號等級檢定"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -302,12 +295,12 @@
                 "id": "b45df1ea956bfbc3",
                 "type": "leaf",
                 "state": {
-                  "type": "excalidraw",
+                  "type": "excalidraw-loading",
                   "state": {
                     "file": "文本/Department/數學/統計/無母數統計/講義/unit 3.md"
                   },
-                  "icon": "excalidraw-icon",
-                  "title": "unit 3"
+                  "icon": "lucide-ghost",
+                  "title": "excalidraw-loading"
                 }
               }
             ]
@@ -325,8 +318,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
+    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "Homepage.canvas",
     "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
