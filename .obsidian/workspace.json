@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/專案/Fraud Detection/資料集.md",
+                "file": "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset - 變數解釋.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "資料集"
+              "title": "Fraud Detection Transactions Dataset - 變數解釋"
             }
           }
         ]
@@ -288,8 +288,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/專案/Fraud Detection/變數解釋.md",
-    "文本/專案/Fraud Detection/資料集.md",
+    "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset.md",
+    "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset - 變數解釋.md",
     "文本/專案/Fraud Detection/Untitled.md",
     "Homepage.canvas",
     "文本/專案/Fraud Detection",
