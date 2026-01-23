@@ -6,4 +6,7 @@
 # Account_Balance
 # Device_Type
 # Location
-# Merchant
+# Merchant_Category
+# IP_Address_Flag
+# Previous_Fraudulent_Activity
+# Daily_Transaction_Count
