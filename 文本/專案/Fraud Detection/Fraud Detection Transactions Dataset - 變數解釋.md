@@ -1,1 +1,9 @@
-# Transaction_
+# Transaction_ID
+# User_ID
+# Transaction_Amount
+# Transaction_Type
+# Timestamp
+# Account_Balance
+# Device_Type
+# Location
+# Merchant
