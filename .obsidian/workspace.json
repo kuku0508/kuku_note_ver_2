@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset - 變數解釋.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -307.5,
+                  "y": -70,
+                  "zoom": -0.4463517915933077
                 }
               },
-              "icon": "lucide-file",
-              "title": "Fraud Detection Transactions Dataset - 變數解釋"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -288,8 +281,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset.md",
     "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset - 變數解釋.md",
+    "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset.md",
     "文本/專案/Fraud Detection/Untitled.md",
     "Homepage.canvas",
     "文本/專案/Fraud Detection",
