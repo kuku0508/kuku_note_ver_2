@@ -11,17 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": -70,
-                  "zoom": -0.4463517915933077
-                }
+                "file": "文本/Department/數學/統計/無母數統計/講義/unit 8.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "excalidraw-icon",
+              "title": "unit 8"
             }
           }
         ]
@@ -56,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "長條圖",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -281,8 +276,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/Department/數學/統計/迴歸分析/報告/隨意筆記/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 6.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 5.md",
+    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
     "Homepage.canvas",
+    "文本/Department/數學/統計/迴歸分析/報告/隨意筆記/《克卜勒的秘密 - 基於數據的系外行星溫度探索》閱讀筆記.md",
     "筆記狀態.md",
     "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset - 變數解釋.md",
     "文本/專案/Fraud Detection/Fraud Detection Transactions Dataset.md",
@@ -297,8 +296,6 @@
     "未處理/新的/Ctrl + Alt + A.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 3.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 2.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
     "未處理/新的/未命86名.md",
@@ -313,8 +310,6 @@
     "模板/遊戲.md",
     "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",
-    "文本/名言/繩子跟棍子.md",
-    "文本/名言/The last of us Ending Scene.md",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
