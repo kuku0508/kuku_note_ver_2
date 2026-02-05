@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md"
+                "file": "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 6、7"
+              "title": "Chapter 8"
             }
           }
         ]
@@ -274,8 +274,11 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "1e03ebbc8f771b90",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/資料探勘/講義/程式/Untitled.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
+    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 5.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 3.md",
@@ -302,9 +305,6 @@
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/趨勢檢定/Cox-Stuart test.md",
     "文本/Department/程式語言/obsidian/plugin/google calender 視圖參數.md",
-    "未處理/新的/未命86名.md",
-    "2026-01-0.md",
-    "2026-W04.md",
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "homepage.canvas",
