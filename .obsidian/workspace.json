@@ -23,21 +23,8 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "7b9bfda62febb942",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,7 +279,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "7b9bfda62febb942",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Homepage.canvas",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md",
