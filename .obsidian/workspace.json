@@ -23,8 +23,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "3ef6963db09e84cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未處理/新的/未命名.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,8 +304,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3ef6963db09e84cf",
   "lastOpenFiles": [
+    "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
+    "未處理/新的/未命名.md",
     "Homepage.canvas",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
@@ -306,9 +333,7 @@
     "Untitled Kanban.md",
     "未處理/新的/qwfdwdwq.md",
     "未處理/新的/1.md",
-    "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
     "未處理/新的/Neuro - sama.md",
-    "未處理/新的/Ctrl + Alt + A.md",
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "homepage.canvas",

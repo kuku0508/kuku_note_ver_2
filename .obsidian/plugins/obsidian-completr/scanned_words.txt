@@ -1,0 +1,11 @@
+tags
+ANOVA
+SST
+SSTR
+SSE
+MST
+MSTR
+MSE
+parent
+sibling
+child
