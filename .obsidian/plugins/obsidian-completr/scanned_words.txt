@@ -1,4 +1,6 @@
 tags
+type
+text
 ANOVA
 SST
 SSTR
@@ -9,3 +11,12 @@ MSE
 parent
 sibling
 child
+cbdd
+nodes
+width
+height
+id
+ae
+ed
+edges
+df
