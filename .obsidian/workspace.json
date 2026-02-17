@@ -11,17 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": -70,
-                  "zoom": -0.4463517915933077
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
             }
           }
         ]
@@ -281,9 +274,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
     "未處理/新的/未命名.md",
-    "Homepage.canvas",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
