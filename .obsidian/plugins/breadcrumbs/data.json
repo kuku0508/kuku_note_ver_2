@@ -200,7 +200,9 @@
           "sibling",
           "nexts",
           "prevs"
-        ]
+        ],
+        "lock_view": false,
+        "lock_path": ""
       },
       "tree": {
         "collapse": false,
@@ -217,7 +219,9 @@
           "ext": false,
           "folder": false,
           "alias": false
-        }
+        },
+        "lock_view": false,
+        "lock_path": ""
       }
     },
     "codeblocks": {
