@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
+                "file": "文本/Department/數學/統計/數理統計/20260225.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "特殊符號"
+              "title": "20260225"
             }
           }
         ]
@@ -289,6 +289,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/Department/數學/統計/數理統計/20260225.md",
     "文本/Department/數學/統計/數理統計/筆記",
     "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
