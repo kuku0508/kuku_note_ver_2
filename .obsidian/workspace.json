@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/20260225.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260225"
+              "title": "特殊符號"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "特殊符號",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,7 +84,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,8 +287,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "1e03ebbc8f771b90",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/20260225.md",
     "文本/Department/數學/統計/數理統計/筆記",
     "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
     "知識/程式語言/Latex/基礎知識/語法表/向上取整 ⌈ ⌉.md",
@@ -301,7 +303,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/級數.md",
-    "文本/Department/數學/統計/數理統計/20260225.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
     "未處理/新的/未命名.md",
@@ -325,7 +326,6 @@
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 7",
     "未處理/附件/Pasted image 20251217002914.png",
     "未處理/附件/Pasted image 20251117105952.png",
     "文本/Department/數學/統計/學者照片/Karl Pearson.png",
