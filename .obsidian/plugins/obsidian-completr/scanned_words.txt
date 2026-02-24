@@ -12,6 +12,7 @@ th
 total
 through
 therefore
+taht
 ANOVA
 Arbuthnot
 An
@@ -23,6 +24,7 @@ SSE
 Sample
 Sign
 Since
+Sol
 MST
 MSTR
 MSE
@@ -44,6 +46,7 @@ statistic
 success
 such
 space
+smaller
 child
 cbdd
 cases
@@ -65,6 +68,7 @@ wages
 where
 we
 write
+whose
 height
 hypothesis
 hourly
@@ -83,6 +87,7 @@ if
 independent
 interval
 invariance
+in
 ae
 are
 array
@@ -91,6 +96,7 @@ alignat
 and
 as
 always
+an
 ed
 edges
 end
@@ -98,6 +104,7 @@ equation
 exponential
 exp
 exists
+estimator
 df
 denote
 database
@@ -107,6 +114,7 @@ does
 depend
 depends
 One
+Obtain
 Test
 The
 Theorem
@@ -120,6 +128,7 @@ on
 only
 value
 vault
+variance
 be
 by
 bound
@@ -146,6 +155,7 @@ failures
 from
 factor
 follows
+found
 randomly
 rceil
 rightarrow
@@ -163,6 +173,7 @@ uparrow
 unique
 uniquly
 under
+unbiased
 lower
 latex
 left
@@ -184,6 +195,7 @@ Basu
 FLatex
 Fisher
 Factorization
+Find
 Uparrow
 Downarrow
 Rightarrow
