@@ -13,6 +13,7 @@ total
 through
 therefore
 taht
+times
 ANOVA
 Arbuthnot
 An
@@ -54,6 +55,8 @@ conditional
 complete
 contain
 can
+cdot
+cdots
 nodes
 not
 number
@@ -126,6 +129,11 @@ open
 of
 on
 only
+overleftarrow
+overrightarrow
+overleftrightarrow
+overline
+overbrace
 value
 vault
 variance
@@ -137,6 +145,7 @@ basu
 belong
 before
 belongs
+bar
 median
 md
 mapsto
@@ -156,6 +165,7 @@ from
 factor
 follows
 found
+fbox
 randomly
 rceil
 rightarrow
@@ -174,6 +184,11 @@ unique
 uniquly
 under
 unbiased
+underleftarrow
+underrightarrow
+underleftrightarrow
+underline
+underbrace
 lower
 latex
 left
@@ -205,3 +220,5 @@ Geometric
 joint
 Neyman
 It
+xrightarrow
+quad
