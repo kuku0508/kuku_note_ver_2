@@ -5,7 +5,7 @@
   "newFileFolderPath": "未處理/新的",
   "attachmentFolderPath": "未處理/附件",
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
