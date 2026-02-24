@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/20260225.md",
+                "file": "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20260225"
+              "title": "線索"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "特殊符號",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -84,8 +84,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,8 +288,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/Department/數學/統計/數理統計/20260225.md",
+    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/Department/數學/統計/數理統計/筆記",
     "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
     "知識/程式語言/Latex/基礎知識/語法表/向上取整 ⌈ ⌉.md",
