@@ -11,10 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "符號上方標註"
             }
           }
         ]
@@ -244,6 +258,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": false,
+      "graph:查看關聯圖": false,
       "obsidian-excalidraw-plugin:新建繪圖檔案": false,
       "obsidian-git:Open Git source control": false,
       "sheet-plus:建立 Excel 檔案": false,
@@ -256,7 +271,6 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian42-brat:BRAT": false,
       "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "command-palette:開啟命令面板": false,
@@ -274,19 +288,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄.md",
-    "未處理/未處理/PROC TRANSPOSE.md",
-    "知識/程式語言/基礎知識/平台無關性.md",
-    "知識/程式語言/Latex/基礎知識/Latex.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/向上取整 ⌈ ⌉.md",
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
+    "知識/程式語言/Latex/基礎知識/Latex.md",
+    "知識/程式語言/基礎知識/平台無關性.md",
+    "未處理/未處理/PROC TRANSPOSE.md",
+    "Homepage.canvas",
+    "知識/程式語言/Mermaid/語法/流程圖/節點目錄.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/級數.md",
     "文本/Department/數學/統計/數理統計/20260225.md",
-    "Homepage.canvas",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
     "未處理/新的/未命名.md",
@@ -300,7 +314,6 @@
     "文本/Department/數學/統計/迴歸分析/講義/unit 4.md",
     "文本/Department/數學/統計/迴歸分析/講義/unit 3.md",
     "文本/Department/數學/統計/無母數統計/講義/unit 8.md",
-    "文本/Department/數學/統計/無母數統計/講義/unit 7.md",
     "文本/專案/Fraud Detection",
     "文本/專案",
     "文本/Department/程式語言/obsidian/plugin",
