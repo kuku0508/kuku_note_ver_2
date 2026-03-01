@@ -35,6 +35,7 @@ pmf
 pdf
 parameter
 property
+probability
 sibling
 selected
 student
@@ -72,6 +73,7 @@ where
 we
 write
 whose
+with
 height
 hypothesis
 hourly
@@ -207,6 +209,7 @@ kuku
 BC
 By
 Basu
+Blackwell
 FLatex
 Fisher
 Factorization
@@ -214,11 +217,15 @@ Find
 Uparrow
 Downarrow
 Rightarrow
+Rao
 Example
 Hence
 Geometric
 joint
 Neyman
+Note
 It
+In
 xrightarrow
 quad
+Check
