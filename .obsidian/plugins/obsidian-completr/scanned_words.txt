@@ -14,6 +14,7 @@ through
 therefore
 taht
 times
+table
 ANOVA
 Arbuthnot
 An
@@ -50,6 +51,7 @@ success
 such
 space
 smaller
+sort
 child
 cbdd
 cases
@@ -59,10 +61,15 @@ contain
 can
 cdot
 cdots
+columnSize
+cards
+cardSize
 nodes
 not
 number
 natural
+name
+note
 width
 when
 will
@@ -95,6 +102,11 @@ interval
 invariance
 in
 its
+inFolder
+image
+imageFit
+imageAspectRatio
+icon
 ae
 are
 array
@@ -120,6 +132,7 @@ distribution
 does
 depend
 depends
+direction
 One
 Obtain
 Test
@@ -138,9 +151,11 @@ overrightarrow
 overleftrightarrow
 overline
 overbrace
+order
 value
 vault
 variance
+views
 be
 by
 bound
@@ -151,6 +166,7 @@ before
 belongs
 bar
 binomial
+basename
 median
 md
 mapsto
@@ -171,6 +187,7 @@ factor
 follows
 found
 fbox
+filters
 randomly
 rceil
 rightarrow
@@ -207,6 +224,7 @@ likelihood
 ln
 log
 let
+list
 Poisson
 kuku
 BC
@@ -219,6 +237,7 @@ Factorization
 Find
 Uparrow
 Downarrow
+DESC
 Rightarrow
 Rao
 Example
