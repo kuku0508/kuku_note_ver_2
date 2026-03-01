@@ -30,11 +30,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "資料庫/👾遊戲清單.base",
+                "file": "資料庫/📃名言資料庫.base",
                 "viewName": "表格"
               },
               "icon": "lucide-table",
-              "title": "👾遊戲清單"
+              "title": "📃名言資料庫"
             }
           }
         ],
@@ -295,6 +295,7 @@
   },
   "active": "392848d51cf81cac",
   "lastOpenFiles": [
+    "資料庫/👾遊戲清單.base",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "Homepage.canvas",
@@ -322,13 +323,11 @@
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 2、3.md",
     "文本/Department/數學/統計/資料探勘/講義/程式/Topic7.md",
-    "文本/Department/數學/統計/資料探勘/講義/程式/Topic1.md",
     "文本/專案/Fraud Detection",
     "文本/專案",
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "homepage.canvas",
-    "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
