@@ -16,29 +16,15 @@
                 "file": "Homepage.canvas",
                 "viewState": {
                   "x": -307.5,
-                  "y": -70,
+                  "y": 56.72089350180508,
                   "zoom": -0.4463517915933077
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "392848d51cf81cac",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "資料庫/📃名言資料庫.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "📃名言資料庫"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "資料庫/📃名言資料庫.base",
+                "file": "Homepage.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "📃名言資料庫 的大綱"
+              "title": "Homepage 的大綱"
             }
           },
           {
@@ -259,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 388.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,8 +279,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "392848d51cf81cac",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "資料庫/📃名言資料庫.base",
     "資料庫/👾遊戲清單.base",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
@@ -327,7 +315,6 @@
     "文本/Department/程式語言/obsidian/plugin",
     "文本/Department/程式語言/obsidian",
     "homepage.canvas",
-    "資料庫/📃名言資料庫.base",
     "文本/Department/數學/統計/實驗設計/題目/chapter 9",
     "文本/Department/數學/統計/實驗設計/題目/Gemini",
     "文本/Department/數學/統計/實驗設計/題目/chapter 8",
