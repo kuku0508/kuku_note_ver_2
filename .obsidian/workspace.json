@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.canvas",
+                "file": "資料庫/📃名言資料庫.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大綱"
+              "title": "📃名言資料庫 的大綱"
             }
           },
           {
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5,
-    "collapsed": true
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
