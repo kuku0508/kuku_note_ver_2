@@ -28,12 +28,24 @@
             "id": "392848d51cf81cac",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "發行記錄 1.12.4"
+              "icon": "lucide-file",
+              "title": "單樣本符號檢定"
             }
           }
         ],
@@ -90,8 +102,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -295,6 +306,7 @@
   },
   "active": "392848d51cf81cac",
   "lastOpenFiles": [
+    "知識/統計/無母數統計/比例檢定/二項檢定.md",
     "Homepage.canvas",
     "文本/Department/數學/統計/數理統計/20260225.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",

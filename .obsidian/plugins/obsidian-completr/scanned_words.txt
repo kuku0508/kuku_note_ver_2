@@ -26,6 +26,7 @@ Sample
 Sign
 Since
 Sol
+SAS
 MST
 MSTR
 MSE
@@ -93,6 +94,7 @@ independent
 interval
 invariance
 in
+its
 ae
 are
 array
@@ -148,6 +150,7 @@ belong
 before
 belongs
 bar
+binomial
 median
 md
 mapsto
@@ -229,3 +232,4 @@ In
 xrightarrow
 quad
 Check
+Value
