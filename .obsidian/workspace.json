@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": 56.72089350180508,
-                  "zoom": -0.4463517915933077
+                "file": "模板/📝筆記.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "📝筆記"
             }
           }
         ]
@@ -281,11 +288,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
     "資料庫/📃名言資料庫.base",
     "資料庫/👾遊戲清單.base",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "Homepage.canvas",
     "文本/Department/數學/統計/數理統計/20260225.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
