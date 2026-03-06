@@ -29,6 +29,7 @@ Sign
 Since
 Sol
 SAS
+Signed
 MST
 MSTR
 MSE
@@ -53,6 +54,7 @@ such
 space
 smaller
 sort
+signed
 child
 cbdd
 cases
@@ -83,6 +85,7 @@ we
 write
 whose
 with
+wilcoxon
 height
 hypothesis
 hourly
@@ -197,6 +200,8 @@ rceil
 rightarrow
 represents
 random
+ranks
+rank
 Let
 Latex
 Leftarrow
@@ -239,6 +244,7 @@ FLatex
 Fisher
 Factorization
 Find
+Frank
 Uparrow
 Downarrow
 DESC
@@ -256,3 +262,4 @@ xrightarrow
 quad
 Check
 Value
+Wilcoxon

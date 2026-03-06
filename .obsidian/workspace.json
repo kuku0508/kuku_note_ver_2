@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/📝筆記.md",
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📝筆記"
+              "title": "魏克森符號等級檢定"
             }
           }
         ]
@@ -99,25 +99,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46395587b7fec65a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Homepage.canvas",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Homepage 的反向連結"
-            }
-          },
-          {
             "id": "c404f0a820c021cc",
             "type": "leaf",
             "state": {
@@ -162,6 +143,25 @@
             }
           },
           {
+            "id": "46395587b7fec65a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "魏克森符號等級檢定 的反向連結"
+            }
+          },
+          {
             "id": "5262ad1e3e68c919",
             "type": "leaf",
             "state": {
@@ -197,8 +197,8 @@
             "state": {
               "type": "bc-matrix-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "bc-matrix-view"
+              "icon": "blinds",
+              "title": "Matrix view"
             }
           },
           {
@@ -207,7 +207,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Homepage.canvas"
+                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -248,12 +248,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 388.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,8 +285,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "39d8566ba50f6ce4",
   "lastOpenFiles": [
+    "模板/📝筆記.md",
     "Homepage.canvas",
     "資料庫/📃名言資料庫.base",
     "資料庫/👾遊戲清單.base",
