@@ -11,17 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": -70,
-                  "zoom": -0.4463517915933077
-                }
+                "file": "資料庫/📃名言資料庫.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-table",
+              "title": "📃名言資料庫"
             }
           }
         ]
@@ -322,8 +318,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "資料庫/👾遊戲清單.base",
+    "未處理/新的/未命名.md",
     "Homepage.canvas",
+    "資料庫/👾遊戲清單.base",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "模板/📝筆記.md",
     "資料庫/📃名言資料庫.base",
@@ -347,7 +344,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/級數.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
-    "未處理/新的/未命名.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 6、7.md",
     "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 4、5.md",
