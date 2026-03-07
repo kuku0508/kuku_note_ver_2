@@ -12,24 +12,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "資料庫/👾遊戲清單.base",
+                "viewName": "檢視 2"
               },
-              "icon": "lucide-file",
-              "title": "魏克森符號等級檢定"
+              "icon": "lucide-table",
+              "title": "👾遊戲清單"
             },
             "group": "24276ad25237cc07"
           }
@@ -50,7 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                    "file": "資料庫/👾遊戲清單.base",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -78,7 +67,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "魏克森符號等級檢定 的關聯圖"
+                  "title": "👾遊戲清單 的關聯圖"
                 },
                 "group": "24276ad25237cc07"
               }
@@ -94,7 +83,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                    "file": "資料庫/👾遊戲清單.base",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -122,7 +111,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "魏克森符號等級檢定 的關聯圖"
+                  "title": "👾遊戲清單 的關聯圖"
                 }
               }
             ]
@@ -230,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "資料庫/👾遊戲清單.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "魏克森符號等級檢定 的關聯圖"
+              "title": "👾遊戲清單 的關聯圖"
             }
           },
           {
@@ -282,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
+                "file": "資料庫/👾遊戲清單.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +281,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "魏克森符號等級檢定 的反向連結"
+              "title": "👾遊戲清單 的反向連結"
             }
           },
           {
@@ -341,7 +330,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md"
+                "file": "資料庫/👾遊戲清單.base"
               },
               "icon": "lucide-file-signature",
               "title": "註腳"
@@ -417,10 +406,14 @@
       "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "markdown-importer:開啟 Markdown 格式轉換器": false
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "dynamic-views:Create new Grid base": false,
+      "dynamic-views:Create new Masonry base": false,
+      "dynamic-views:Shuffle base": false,
+      "dynamic-views:Open random file from base": false
     }
   },
-  "active": "7823fbbc294d10a0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "模板/📝筆記.md",
