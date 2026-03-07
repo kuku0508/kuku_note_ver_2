@@ -1,10 +1,15 @@
 {
   "pluginList": [
+    "mderazon/obsidian-base-board",
     "edrickleong/obsidian-calendar-bases",
     "churnish/dynamic-views",
     "SkepticMystic/breadcrumbs"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "mderazon/obsidian-base-board",
+      "version": "latest"
+    },
     {
       "repo": "edrickleong/obsidian-calendar-bases",
       "version": "latest"
