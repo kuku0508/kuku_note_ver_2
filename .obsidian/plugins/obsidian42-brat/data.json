@@ -1,9 +1,14 @@
 {
   "pluginList": [
+    "edrickleong/obsidian-calendar-bases",
     "churnish/dynamic-views",
     "SkepticMystic/breadcrumbs"
   ],
   "pluginSubListFrozenVersion": [
+    {
+      "repo": "edrickleong/obsidian-calendar-bases",
+      "version": "latest"
+    },
     {
       "repo": "churnish/dynamic-views",
       "version": "latest"
