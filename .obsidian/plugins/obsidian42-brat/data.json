@@ -1,8 +1,14 @@
 {
   "pluginList": [
+    "churnish/dynamic-views",
     "SkepticMystic/breadcrumbs"
   ],
-  "pluginSubListFrozenVersion": [],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "churnish/dynamic-views",
+      "version": "latest"
+    }
+  ],
   "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
@@ -12,5 +18,8 @@
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
   "notificationsEnabled": true,
-  "personalAccessToken": ""
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
 }
