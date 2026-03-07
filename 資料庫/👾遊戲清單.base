@@ -36,7 +36,7 @@ views:
     name: 檢視
     order:
       - file.name
-  - type: table
-    name: 檢視 2
   - type: kanban
     name: 檢視 3
+    order:
+      - file.name
