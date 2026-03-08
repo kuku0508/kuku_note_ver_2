@@ -43,3 +43,4 @@ views:
       direction: ASC
     order:
       - file.name
+      - 平台
