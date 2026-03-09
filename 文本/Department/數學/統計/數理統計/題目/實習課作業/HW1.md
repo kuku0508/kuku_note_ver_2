@@ -44,6 +44,8 @@ $$
 ##### (b) Find the unbiased estimate of $\theta$ based on $Y_n$ 
 $$
 \begin{align}
-E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y
+E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y^{n-1}dy\\
+&=\frac{n}{\theta^n}\int^\theta_0 y^n dy\\
+&= \frac{n}{\theta^n}\left[\right]
 \end{align}
 $$
