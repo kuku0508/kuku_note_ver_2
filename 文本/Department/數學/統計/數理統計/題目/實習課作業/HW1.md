@@ -63,7 +63,6 @@ $\Rightarrow \hat{\theta}=\frac{n+1}{n}Y_n$
 $$
 \begin{align}
 f(\underline{X};\theta)&=\prod^n_{i=1}\frac{1}{\theta}e^{-x_i/\theta}\\
-&=\frac{1}{\theta^n}exp\left(-\frac{1}{\theta}\sum^n_{i=1}x_i\right)\\\\
-&=g(T(\underline{X}),\theta)h(\underline{X})\\
+&=\underbrace{\frac{1}{\theta^n}exp\left(-\frac{1}{\theta}\sum^n_{i=1}x_i\right)}_{g(T(\underline{X}),\theta)}\cdot \underbrace{#}h(\underline{X})
 \end{align}
 $$
