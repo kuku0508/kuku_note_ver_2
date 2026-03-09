@@ -6,8 +6,8 @@ Find $F_{Y_n}(y_n)$ first
 $$
 \begin{align}
 F_{Y_n}(y_n)&=P(Y_n\leq y)\\&
-=P(X_1\leq y,\ldots,X_n\leq y)\\
-&=P(X_i\leq y)
+=P(X_1\leq y,\ldots,X_n\leq y)\\\\
+&=P(X_i\leq y)=
 \begin{cases}
 0,&y\leq 0\\
 \frac{y}{\theta},&0<y<\theta\\
