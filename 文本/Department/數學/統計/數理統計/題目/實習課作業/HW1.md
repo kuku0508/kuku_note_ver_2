@@ -2,3 +2,4 @@
 
 (a) Find $f_{Y_n}(y_n)$ 
 
+Find $F_{Y_n}()
