@@ -27,6 +27,9 @@ f_{Y_n}(y_n)&=\frac{d}{dy}F_{Y_n}(y)\\
 &=\frac{d}{dy}\,\frac{y^n}{\theta^n}\\
 &=\frac{n}{\theta^n} \cdot y^{(n-1)}\\
 &\Rightarrow f_{Y_n}(y_n)
-\begin{case}
+=\begin{cases}
+\frac{n}{\theta^n} \cdot y^{(n-1)},&0<y<\theta\\
+0,&o.w.
+\end{cases}
 \end{align}
 $$
