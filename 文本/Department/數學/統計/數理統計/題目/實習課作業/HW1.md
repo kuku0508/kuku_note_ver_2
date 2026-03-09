@@ -53,4 +53,5 @@ $$
 let $\hat{\theta}=cY_n$ ，
 $\because unbiased$
 $\rightarrow E(\hat{\theta})=E(cY_n)=cE(Y_n)=\theta$
-$\Rightarrow c\cdot \frac{n}{n+1}$
+$\Rightarrow c\cdot \frac{n}{n+1}\theta=\theta$
+$\Rightarrow c=\frac{n+1}{n}$
