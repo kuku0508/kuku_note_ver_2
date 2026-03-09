@@ -3,4 +3,7 @@
 (a) Find $f_{Y_n}(y_n)$ 
 
 Find $F_{Y_n}(y_n)$ first
-$F_{Y_n}(y_n)=P(Y_n\leq y)=P(X_1\leq y,\ldots,X_n\leq y)=P(X_i\leq y)$
+$$
+\beg
+F_{Y_n}(y_n)=P(Y_n\leq y)=P(X_1\leq y,\ldots,X_n\leq y)=P(X_i\leq y)
+$$
