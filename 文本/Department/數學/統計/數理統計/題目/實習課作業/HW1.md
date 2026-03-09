@@ -19,7 +19,14 @@ $$
 $$
 \begin{align}
 \because P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y) \& X_i \text{ is i.i.d}\\
-\Rightarrow F_{Y_n}(y)&=P(Y_n\leq y )=(P(X_1\leq y))^n=\left(\frac{y}{\theta}\right)^n
+\Rightarrow F_{Y_n}(y)&=P(Y_n\leq y )=(P(X_1\leq y))^n=\left(\frac{y}{\theta}\right)^n\\
+&\Rightarrow 
+F_{Y_n}
+\begin{cases}
+0,&y\leq 0\\
+\frac{y}{\theta},&0<y<\theta\\
+1,&y\geq\theta
+\end{cases}
 \end{align}
 $$
 $$
