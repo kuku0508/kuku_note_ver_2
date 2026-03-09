@@ -4,6 +4,12 @@
 
 Find $F_{Y_n}(y_n)$ first
 $$
-\beg
-F_{Y_n}(y_n)=P(Y_n\leq y)=P(X_1\leq y,\ldots,X_n\leq y)=P(X_i\leq y)
+\begin{align}
+F_{Y_n}(y_n)&=P(Y_n\leq y)\\&
+=P(X_1\leq y,\ldots,X_n\leq y)\\
+&=P(X_i\leq y)
+\begin{cases}
+0,&\
+\end{cases}
+\end{align}
 $$
