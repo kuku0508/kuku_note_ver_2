@@ -25,6 +25,8 @@ $$
 \begin{align}
 f_{Y_n}(y_n)&=\frac{d}{dy}F_{Y_n}(y)\\
 &=\frac{d}{dy}\,\frac{y^n}{\theta^n}\\
-&=\frac{n}{\theta^n} \cdot y^{(n-1)}
+&=\frac{n}{\theta^n} \cdot y^{(n-1)}\\
+&\Rightarrow f_{Y_n}(y_n)
+\begin{case}
 \end{align}
 $$
