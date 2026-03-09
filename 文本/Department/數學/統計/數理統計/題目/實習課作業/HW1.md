@@ -15,3 +15,8 @@ F_{Y_n}(y_n)&=P(Y_n\leq y)\\&
 \end{cases}
 \end{align}
 $$
+$$
+\begin{align}
+P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y)
+\end{align}
+$$
