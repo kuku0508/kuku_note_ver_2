@@ -78,5 +78,5 @@ X_1,\ldots,X_n\sim Exp(\theta)
 $$
 then
 $$
-T(\underline{X})=\sum^n_{i=1}X_i\sim
+T(\underline{X})=\sum^n_{i=1}X_i\sim \text{Gamma}(n,\theta)
 $$
