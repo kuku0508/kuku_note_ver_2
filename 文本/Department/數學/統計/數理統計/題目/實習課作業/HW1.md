@@ -55,3 +55,5 @@ $\because unbiased$
 $\rightarrow E(\hat{\theta})=E(cY_n)=cE(Y_n)=\theta$
 $\Rightarrow c\cdot \frac{n}{n+1}\theta=\theta$
 $\Rightarrow c=\frac{n+1}{n}$
+
+$\Rightarrow \hat{\theta}=\frac{n+1}{}$
