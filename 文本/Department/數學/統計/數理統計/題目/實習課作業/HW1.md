@@ -2,4 +2,5 @@
 
 (a) Find $f_{Y_n}(y_n)$ 
 
-Find $F_{Y_n}()
+Find $F_{Y_n}(y_n)$ first
+$F_{Y_n}(y_n)=P(Y_n\leq y)$
