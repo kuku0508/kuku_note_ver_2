@@ -3,4 +3,4 @@
 (a) Find $f_{Y_n}(y_n)$ 
 
 Find $F_{Y_n}(y_n)$ first
-$F_{Y_n}(y_n)=P(Y_n\leq y)$
+$F_{Y_n}(y_n)=P(Y_n\leq y)=P(X_1,\ldots,)$
