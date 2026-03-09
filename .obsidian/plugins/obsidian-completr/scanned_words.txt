@@ -15,6 +15,7 @@ therefore
 taht
 times
 table
+tilde
 ANOVA
 Arbuthnot
 An
@@ -55,6 +56,7 @@ space
 smaller
 sort
 signed
+sideset
 child
 cbdd
 cases
@@ -67,6 +69,7 @@ cdots
 columnSize
 cards
 cardSize
+check
 nodes
 not
 number
@@ -86,6 +89,8 @@ write
 whose
 with
 wilcoxon
+widehat
+widetilde
 height
 hypothesis
 hourly
@@ -93,6 +98,7 @@ hypotheses
 hence
 has
 hasTag
+hat
 id
 is
 investigator
@@ -121,6 +127,7 @@ and
 as
 always
 an
+acute
 ed
 edges
 end
@@ -172,6 +179,7 @@ belongs
 bar
 binomial
 basename
+breve
 median
 md
 mapsto
@@ -180,6 +188,7 @@ maximizer
 greater
 given
 gather
+grave
 for
 frac
 file
@@ -260,6 +269,8 @@ Note
 It
 In
 xrightarrow
+xy
+xyz
 quad
 Check
 Value
