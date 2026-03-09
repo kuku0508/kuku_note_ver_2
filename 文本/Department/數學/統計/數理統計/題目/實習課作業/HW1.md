@@ -51,5 +51,6 @@ E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y^{n-1}dy\\
 \end{align}
 $$
 let $\hat{\theta}=cY_n$ ，
-$\because$
-$E(\hat{\theta})=E(cY_n)=cE(Y_n)=\theta$
+$\because unbiased$
+$\rightarrow E(\hat{\theta})=E(cY_n)=cE(Y_n)=\theta$
+$\Rightarrow c\cdot \frac{n}{n+1}$
