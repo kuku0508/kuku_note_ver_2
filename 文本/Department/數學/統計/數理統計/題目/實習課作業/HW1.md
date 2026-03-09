@@ -80,3 +80,8 @@ then
 $$
 T(\underline{X})=\sum^n_{i=1}X_i\sim \text{Gamma}(n,\theta)
 $$
+and the Gamma distribution with fixed shape parameter n is a complete family
+therefore
+$$
+T()
+$$
