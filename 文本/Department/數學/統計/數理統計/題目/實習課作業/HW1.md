@@ -17,6 +17,6 @@ F_{Y_n}(y_n)&=P(Y_n\leq y)\\&
 $$
 $$
 \begin{align}
-P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y)
+\because P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y) \& X_i\\
 \end{align}
 $$
