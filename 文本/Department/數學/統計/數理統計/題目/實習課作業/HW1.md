@@ -46,6 +46,6 @@ $$
 \begin{align}
 E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y^{n-1}dy\\
 &=\frac{n}{\theta^n}\int^\theta_0 y^n dy\\
-&= \frac{n}{\theta^n}\left[\right]
+&= \frac{n}{\theta^n}\left[\frac{y^{n+1}}{n+1}\right]
 \end{align}
 $$
