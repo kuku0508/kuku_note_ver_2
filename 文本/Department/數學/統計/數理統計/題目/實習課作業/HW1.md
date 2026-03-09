@@ -24,6 +24,7 @@ $$
 $$
 \begin{align}
 f_{Y_n}(y_n)&=\frac{d}{dy}F_{Y_n}(y)\\
-&=\frac{d}{dy}
+&=\frac{d}{dy}\,\frac{y^n}{\theta^n}\\
+\frac{#}{#}
 \end{align}
 $$
