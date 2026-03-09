@@ -17,6 +17,7 @@ F_{Y_n}(y_n)&=P(Y_n\leq y)\\&
 $$
 $$
 \begin{align}
-\because P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y) \& X_i\\
+\because P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y) \& X_i \text{ is i.i.d}\\
+\Rightarrow P(Y_n\leq y )&=(P(X_1\leq y))^n
 \end{align}
 $$
