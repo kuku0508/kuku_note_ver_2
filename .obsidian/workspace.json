@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -307.5,
                   "y": -70,
-                  "zoom": -1.6897292380590918
+                  "zoom": -1.3826744196532594
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -323,6 +323,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "文本/Department/數學/統計/數理統計/題目/實習課作業/HW1.md",
+    "Homepage.canvas",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
@@ -332,7 +333,6 @@
     "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",
     "文本/名言/努力過的人都是戰士.md",
-    "Homepage.canvas",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "模板/📝筆記.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
@@ -352,7 +352,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/級數.md",
     "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
-    "文本/Department/數學/統計/資料探勘/講義/本篇/Chapter 8.md",
     "文本/專案/Fraud Detection",
     "文本/專案",
     "文本/Department/程式語言/obsidian/plugin",
