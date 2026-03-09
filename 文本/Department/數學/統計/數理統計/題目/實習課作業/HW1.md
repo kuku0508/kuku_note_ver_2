@@ -23,6 +23,7 @@ $$
 $$
 $$
 \begin{align}
-f
+f_{Y_n}(y_n)&=\frac{d}{dy}F_{Y_n}(y)\\
+&=\frac{d}{dy}
 \end{align}
 $$
