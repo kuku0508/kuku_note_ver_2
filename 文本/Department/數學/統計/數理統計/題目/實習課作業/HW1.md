@@ -18,6 +18,6 @@ $$
 $$
 \begin{align}
 \because P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y) \& X_i \text{ is i.i.d}\\
-\Rightarrow P(Y_n\leq y )&=(P(X_1\leq y))^n
+\Rightarrow F_{Y_n}(y)&=P(Y_n\leq y )=(P(X_1\leq y))^n=\left(\frac{y}{\theta}\right)
 \end{align}
 $$
