@@ -58,8 +58,8 @@ $\Rightarrow c=\frac{n+1}{n}$
 故
 $\Rightarrow \hat{\theta}=\frac{n+1}{n}Y_n$
 
-(2)$X_1,X_2,\ldots,X_n$ be independent r.v's, $f(x;\theta)=\frac{1}{\theta}e^{\frac{-x}{\theta}},x>0,\theta\in\Omega=(0,\infty)$
-(a) Find sufficient statistics.
+##### (2)$X_1,X_2,\ldots,X_n$ be independent r.v's, $f(x;\theta)=\frac{1}{\theta}e^{\frac{-x}{\theta}},x>0,\theta\in\Omega=(0,\infty)$
+##### (a) Find sufficient statistics.
 $$
 \begin{align}
 f(\underline{X};\theta)&=\prod^n_{i=1}\frac{1}{\theta}e^{-x_i/\theta}\\
@@ -68,3 +68,7 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{1}{\theta}e^{-x_i/\theta}\\
 $$
 By Factorization theorem
 $T(\underline{X})=\sum^n_{i=1}X_i$ is a sufficient statistic for $\theta$.
+##### Find the complete statistics
+$$
+T(\underline{X})=\sum^n_{i=1}X_
+$$
