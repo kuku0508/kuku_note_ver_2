@@ -11,13 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/👾遊戲清單.base",
-                "viewName": "檢視 3"
+                "file": "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-kanban",
-              "title": "👾遊戲清單"
+              "icon": "lucide-file",
+              "title": "線索"
             }
           }
         ]
@@ -318,15 +329,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",
     "文本/名言/努力過的人都是戰士.md",
     "Homepage.canvas",
-    "資料庫/👾遊戲清單.base",
     "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
     "模板/📝筆記.md",
     "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
     "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "文本/Department/數學/統計/數理統計/20260225.md",
+    "文本/Department/數學/統計/數理統計/筆記/20260225.md",
     "文本/Department/數學/統計/進階R/上課筆記.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
