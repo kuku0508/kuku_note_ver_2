@@ -7,7 +7,7 @@ $$
 \begin{align}
 F_{Y_n}(y)&=P(Y_n\leq y)\\&
 =P(X_1\leq y,\ldots,X_n\leq y)\\\\
-&=P(X_i\leq y)=
+&=\prod^n_{i=1}P(X_i\leq ) P(X_i\leq y)=
 \begin{cases}
 0,&y\leq 0\\
 \frac{y}{\theta},&0<y<\theta\\
