@@ -41,4 +41,4 @@ f_{Y_n}(y_n)&=\frac{d}{dy}F_{Y_n}(y)\\
 \end{cases}
 \end{align}
 $$
-##### (b) Find 
+##### (b) Find the unbiased estimate of $\theta$ based on $Y_n$ 
