@@ -50,4 +50,6 @@ E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y^{n-1}dy\\
 &=\frac{n}{\theta^n}\cdot\frac{\theta^{n+1}}{n+1}=\frac{n}{n+1}\theta
 \end{align}
 $$
-let $\hat{\theta}=cY_n$
+let $\hat{\theta}=cY_n$ ，
+$\because$
+$E(\hat{\theta})=E(cY_n)=cE(Y_n)=\theta$
