@@ -47,6 +47,7 @@ $$
 E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y^{n-1}dy\\
 &=\frac{n}{\theta^n}\int^\theta_0 y^n dy\\
 &= \frac{n}{\theta^n}\left[\frac{y^{n+1}}{n+1}\right]^\theta_0\\
-&=\frac{n}{\theta^n}\cdot\frac{\theta^{n+1}}{n+1}
+&=\frac{n}{\theta^n}\cdot\frac{\theta^{n+1}}{n+1}=\frac{n}{n+1}\theta
 \end{align}
 $$
+let $\hat{\theta}=cY_n$
