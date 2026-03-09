@@ -42,3 +42,8 @@ f_{Y_n}(y_n)&=\frac{d}{dy}F_{Y_n}(y)\\
 \end{align}
 $$
 ##### (b) Find the unbiased estimate of $\theta$ based on $Y_n$ 
+$$
+\begin{align}
+E(Y_n)&=\int^\theta_0 y\cdot \frac{n}{\theta^n}y
+\end{align}
+$$
