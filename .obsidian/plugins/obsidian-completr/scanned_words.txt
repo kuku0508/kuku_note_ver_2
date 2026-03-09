@@ -16,6 +16,7 @@ taht
 times
 table
 tilde
+theta
 ANOVA
 Arbuthnot
 An
@@ -59,6 +60,7 @@ signed
 sideset
 statistics
 shape
+support
 child
 cbdd
 cases
@@ -93,6 +95,7 @@ with
 wilcoxon
 widehat
 widetilde
+which
 height
 hypothesis
 hourly
@@ -148,11 +151,13 @@ does
 depend
 depends
 direction
+depending
 One
 Obtain
 Test
 The
 Theorem
+Therefore
 John
 ordinal
 one

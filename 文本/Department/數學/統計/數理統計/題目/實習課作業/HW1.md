@@ -69,20 +69,24 @@ $$
 By Factorization theorem
 $T(\underline{X})=\sum^n_{i=1}X_i$ is a sufficient statistic for $\theta$.
 ##### (b) Find the complete statistics
+Let
 $$
-T(\underline{X})=\sum^n_{i=1}X_i
+T(\underline{X})=\sum_{i=1}^n X_i
 $$
-Since
+
+The joint pdf is
+
 $$
-X_1,\ldots,X_n\sim Exp(\theta)
+f(\underline{x};\theta)
+=\theta^{-n}\exp\left(-\frac{1}{\theta}\sum_{i=1}^n x_i\right)
 $$
-then
-$$
-T(\underline{X})=\sum^n_{i=1}X_i\sim \text{Gamma}(n,\theta)
-$$
-and the Gamma family with fixed shape parameter n is a complete family
-therefore
-$$
-T(\underline{X})=\sum^n_{i=1}X_i
-$$
-is a complete statistic for $\theta$.
+
+which belongs to the one-parameter exponential family with support not depending on $\theta$.
+
+Therefore
+
+\[
+T(\underline{X})=\sum_{i=1}^n X_i
+\]
+
+is a **complete sufficient statistic** for \(\theta\).
