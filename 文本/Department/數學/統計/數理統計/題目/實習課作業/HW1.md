@@ -59,4 +59,4 @@ $\Rightarrow c=\frac{n+1}{n}$
 $\Rightarrow \hat{\theta}=\frac{n+1}{n}Y_n$
 
 (2)$X_1,X_2,\ldots,X_n$ be independent r.v's, $f(x;\theta)=\frac{1}{\theta}e^{\frac{-x}{\theta}},x>0,\theta\in\Omega=(0,\infty)$
-(a) Find sufficient statistic
+(a) Find sufficient statistics.
