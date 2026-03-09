@@ -68,7 +68,7 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{1}{\theta}e^{-x_i/\theta}\\
 $$
 By Factorization theorem
 $T(\underline{X})=\sum^n_{i=1}X_i$ is a sufficient statistic for $\theta$.
-##### Find the complete statistics
+##### (b) Find the complete statistics
 $$
 T(\underline{X})=\sum^n_{i=1}X_i
 $$
@@ -83,5 +83,6 @@ $$
 and the Gamma distribution with fixed shape parameter n is a complete family
 therefore
 $$
-T()
+T(\underline{X})=\sum^n_{i=1}X_i
 $$
+is a complete statistic for $\theta$.
