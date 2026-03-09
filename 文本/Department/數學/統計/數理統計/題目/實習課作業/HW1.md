@@ -57,3 +57,5 @@ $\Rightarrow c\cdot \frac{n}{n+1}\theta=\theta$
 $\Rightarrow c=\frac{n+1}{n}$
 故
 $\Rightarrow \hat{\theta}=\frac{n+1}{n}Y_n$
+
+(2)$X_1,X_2,\ldots,X_n$ be independent r.v's, $f(x;\theta)
