@@ -67,4 +67,4 @@ f(\underline{X};\theta)&=\prod^n_{i=1}\frac{1}{\theta}e^{-x_i/\theta}\\
 \end{align}
 $$
 By Factorization theorem
-$\sum^n_{i=1}X_i$
+$\sum^n_{i=1}X_i$ is sufficient statistic for $\theta$.
