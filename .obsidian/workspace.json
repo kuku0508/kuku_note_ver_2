@@ -55,8 +55,7 @@
               "title": "線索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,14 +351,14 @@
       "dynamic-views:Open random file from base": false
     }
   },
-  "active": "4d7a3b286f3537c6",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/Department/數學/統計/數理統計/題目/實習課作業/HW1.md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
-    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "文本/Department/數學/統計/數理統計/題目/實習課作業",
     "資料庫/👾遊戲清單.base",
     "資料庫/📃名言資料庫.base",

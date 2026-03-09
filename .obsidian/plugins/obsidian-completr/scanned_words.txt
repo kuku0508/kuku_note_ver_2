@@ -57,6 +57,7 @@ smaller
 sort
 signed
 sideset
+statistics
 child
 cbdd
 cases
@@ -136,6 +137,7 @@ exponential
 exp
 exists
 estimator
+estimate
 df
 denote
 database
@@ -180,6 +182,7 @@ bar
 binomial
 basename
 breve
+based
 median
 md
 mapsto
@@ -204,6 +207,7 @@ fbox
 filters
 formulas
 formula
+first
 randomly
 rceil
 rightarrow
@@ -243,6 +247,7 @@ ln
 log
 let
 list
+largest
 Poisson
 kuku
 kanban
