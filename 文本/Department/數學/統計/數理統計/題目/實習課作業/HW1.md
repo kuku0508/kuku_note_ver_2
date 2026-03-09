@@ -5,7 +5,7 @@
 Find $F_{Y_n}(y_n)$ first
 $$
 \begin{align}
-F_{Y_n}(y_n)&=P(Y_n\leq y)\\&
+F_{Y_n}(y)&=P(Y_n\leq y)\\&
 =P(X_1\leq y,\ldots,X_n\leq y)\\\\
 &=P(X_i\leq y)=
 \begin{cases}
@@ -18,6 +18,11 @@ $$
 $$
 \begin{align}
 \because P(Y_n\leq y)&=P(X_1\leq y,\ldots,X_n\leq y) \& X_i \text{ is i.i.d}\\
-\Rightarrow F_{Y_n}(y)&=P(Y_n\leq y )=(P(X_1\leq y))^n=\left(\frac{y}{\theta}\right)
+\Rightarrow F_{Y_n}(y)&=P(Y_n\leq y )=(P(X_1\leq y))^n=\left(\frac{y}{\theta}\right)^n
+\end{align}
+$$
+$$
+\begin{align}
+f
 \end{align}
 $$
