@@ -70,5 +70,9 @@ By Factorization theorem
 $T(\underline{X})=\sum^n_{i=1}X_i$ is a sufficient statistic for $\theta$.
 ##### Find the complete statistics
 $$
-T(\underline{X})=\sum^n_{i=1}X_
+T(\underline{X})=\sum^n_{i=1}X_i
+$$
+Since
+$$
+X_1,\ldots,X_n\sim 
 $$
