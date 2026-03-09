@@ -58,6 +58,7 @@ sort
 signed
 sideset
 statistics
+shape
 child
 cbdd
 cases
@@ -208,6 +209,7 @@ filters
 formulas
 formula
 first
+fixed
 randomly
 rceil
 rightarrow
@@ -268,6 +270,7 @@ Rao
 Example
 Hence
 Geometric
+Gamma
 joint
 Neyman
 Note

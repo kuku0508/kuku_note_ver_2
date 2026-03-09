@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/實習課作業/HW1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -307.5,
+                  "y": -70,
+                  "zoom": -1.6897292380590918
                 }
               },
-              "icon": "lucide-file",
-              "title": "HW1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -329,8 +322,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.canvas",
     "文本/Department/數學/統計/數理統計/題目/實習課作業/HW1.md",
+    "Homepage.canvas",
     "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
