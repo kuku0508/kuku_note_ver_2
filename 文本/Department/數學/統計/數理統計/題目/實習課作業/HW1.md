@@ -62,7 +62,8 @@ $\Rightarrow \hat{\theta}=\frac{n+1}{n}Y_n$
 (a) Find sufficient statistics.
 $$
 \begin{align}
-f(\underline{X};\theta)&=g(T(\underline{X}),\theta)h(\underline{X})\\
-&=
+f(\underline{X};\theta)&=\prod^n_{i=1}\frac{1}{\theta}e^{-x_i/\theta}\\
+&=\frac{1}{\theta}
+&=g(T(\underline{X}),\theta)h(\underline{X})\\
 \end{align}
 $$
