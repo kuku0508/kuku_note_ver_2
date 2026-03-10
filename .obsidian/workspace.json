@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -307.5,
+                  "y": -70,
+                  "zoom": -1.6897292380590918
                 }
               },
-              "icon": "lucide-file",
-              "title": "線索"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -37,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bb1194b3f9856dd1",
+    "id": "9bc09dbb127603ae",
     "type": "split",
     "children": [
       {
-        "id": "27cb98334c7fd0d8",
+        "id": "6fa46a6ba3643382",
         "type": "tabs",
         "children": [
           {
-            "id": "1e03ebbc8f771b90",
+            "id": "94905217fd5fd10b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,16 +51,16 @@
             }
           },
           {
-            "id": "56f3f8a6dc850f6f",
+            "id": "459816179e4b5785",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "box",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -75,7 +68,7 @@
             }
           },
           {
-            "id": "47d489a3c60931ac",
+            "id": "fdf30047226da313",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,32 +81,49 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 300
   },
   "right": {
-    "id": "7adfdd81032c0fe7",
+    "id": "ea2cdde99b20b54e",
     "type": "split",
     "children": [
       {
-        "id": "f542b575c0b68564",
+        "id": "c4c7933f21dd5648",
         "type": "tabs",
         "children": [
           {
-            "id": "c404f0a820c021cc",
+            "id": "04ada1551115aad9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "b7ff12d57e4574e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Homepage 的對外連結"
+              "title": "對外連結"
             }
           },
           {
-            "id": "e1c525d5d444dfd8",
+            "id": "5466c4d61533bc2e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,130 +138,7 @@
             }
           },
           {
-            "id": "4e0262f493d50ccf",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "資料庫/👾遊戲清單.base",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "👾遊戲清單 的關聯圖"
-            }
-          },
-          {
-            "id": "0cb8fe3b06e6ac7f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Homepage.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Homepage 的大綱"
-            }
-          },
-          {
-            "id": "46395587b7fec65a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "資料庫/👾遊戲清單.base",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "👾遊戲清單 的反向連結"
-            }
-          },
-          {
-            "id": "5262ad1e3e68c919",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "74ffd3cdb4d9f137",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "892a332b82a61cfd",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "94bf4105ffe37175",
-            "type": "leaf",
-            "state": {
-              "type": "bc-matrix-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "bc-matrix-view"
-            }
-          },
-          {
-            "id": "63a7cf70255405a4",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "資料庫/👾遊戲清單.base"
-              },
-              "icon": "lucide-file-signature",
-              "title": "註腳"
-            }
-          },
-          {
-            "id": "5b7f534b92c70fc7",
+            "id": "e0d1c88d73804e8b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -265,31 +152,34 @@
             }
           },
           {
-            "id": "39d8566ba50f6ce4",
+            "id": "ee778c606d075168",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-schedule",
-              "state": {},
-              "icon": "layout-list",
-              "title": "GCal Schedule View"
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
             }
           },
           {
-            "id": "fb0a07e25de126bc",
+            "id": "4b9ce3a531e19287",
             "type": "leaf",
             "state": {
-              "type": "google-calendar-view-event_details",
+              "type": "calendar",
               "state": {},
-              "icon": "calendar-plus",
-              "title": "GCal EventDetails View"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -306,10 +196,12 @@
       "audio-recorder:開始/停止錄音": false,
       "workspaces:管理工作區配置": false,
       "bases:建立新的 base": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建繪圖檔案": false,
-      "sheet-plus:建立 Excel 檔案": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
+      "sheet-plus:建立 Excel 檔案": false,
       "widgets:Add widget": false,
       "3d-graph-new:Global 3D Graph": false,
       "media-extended:Open external media": false,
@@ -318,9 +210,7 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
       "dynamic-views:Create new Grid base": false,
       "dynamic-views:Create new Masonry base": false,
       "dynamic-views:Shuffle base": false,
@@ -328,57 +218,5 @@
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": [
-    "Homepage.canvas",
-    "文本/Department/數學/統計/數理統計/題目/實習課作業/HW1.md",
-    "文本/Department/數學/統計/數理統計/題目/期末考/線索.md",
-    "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
-    "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
-    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
-    "知識/程式語言/Latex/基礎知識/語法表/符號上方標註.md",
-    "文本/Department/數學/統計/數理統計/題目/實習課作業",
-    "資料庫/👾遊戲清單.base",
-    "資料庫/📃名言資料庫.base",
-    "文本/名言/努力過的人都是戰士.md",
-    "知識/統計/無母數統計/中位數檢定/魏克森符號等級檢定.md",
-    "模板/📝筆記.md",
-    "知識/統計/無母數統計/中位數檢定/單樣本符號檢定.md",
-    "知識/統計/無母數統計/比例檢定/二項檢定.md",
-    "文本/Department/數學/統計/數理統計/筆記/20260225.md",
-    "文本/Department/數學/統計/進階R/上課筆記.md",
-    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
-    "文本/Department/數學/統計/數理統計/筆記",
-    "知識/程式語言/Latex/基礎知識/語法表/向上取整 ⌈ ⌉.md",
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "知識/程式語言/Latex/基礎知識/Latex.md",
-    "知識/程式語言/基礎知識/平台無關性.md",
-    "未處理/未處理/PROC TRANSPOSE.md",
-    "知識/程式語言/Mermaid/語法/流程圖/節點目錄.md",
-    "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
-    "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
-    "知識/程式語言/Latex/基礎知識/語法表/級數.md",
-    "未處理/新的/完全隨機設計 - ANOVA理論依據.md",
-    "文本/專案/Fraud Detection",
-    "文本/專案",
-    "文本/Department/程式語言/obsidian/plugin",
-    "文本/Department/程式語言/obsidian",
-    "homepage.canvas",
-    "文本/Department/數學/統計/實驗設計/題目/chapter 9",
-    "文本/Department/數學/統計/實驗設計/題目/Gemini",
-    "未處理/附件/Pasted image 20251217002914.png",
-    "未處理/附件/Pasted image 20251117105952.png",
-    "文本/Department/數學/統計/學者照片/Karl Pearson.png",
-    "文本/Department/數學/統計/學者照片/Abraham Wald.png",
-    "文本/Department/數學/統計/學者照片/Carl Friedrich Gauss.png",
-    "文本/Department/數學/統計/學者照片/David Cox.png",
-    "文本/Department/數學/統計/學者照片/Francis Galtton.png",
-    "文本/Department/數學/統計/學者照片/Frank Wilcoxon.png",
-    "文本/Department/數學/統計/學者照片/Gottfried Leibniz.png",
-    "文本/Department/數學/統計/學者照片/Harold hotelling.png",
-    "文本/Department/數學/統計/資料探勘/報告/未命名.canvas",
-    "未處理/未命名.canvas",
-    "文本/Department/數學/統計/機率論/題目/chapter 4/section 3/未命名.canvas",
-    "文本/Department/數學/統計/機率論/未命名.canvas"
-  ]
+  "lastOpenFiles": []
 }
