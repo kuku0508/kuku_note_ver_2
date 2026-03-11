@@ -133,6 +133,7 @@ as
 always
 an
 acute
+ant
 ed
 edges
 end
@@ -229,6 +230,7 @@ Leftrightarrow
 Longleftarrow
 Longrightarrow
 Longleftrightarrow
+Langton
 upper
 uparrow
 unique
@@ -286,5 +288,6 @@ xy
 xyz
 quad
 Check
+Christopher
 Value
 Wilcoxon
