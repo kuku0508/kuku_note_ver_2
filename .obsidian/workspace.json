@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -307.5,
                   "y": -70,
-                  "zoom": -1.6897292380590918
+                  "zoom": -0.9380421381861198
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -171,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -218,5 +218,7 @@
     }
   },
   "active": "e7a7b303c61786dc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Homepage.canvas"
+  ]
 }
