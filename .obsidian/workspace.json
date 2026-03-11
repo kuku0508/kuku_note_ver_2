@@ -15,7 +15,7 @@
               "state": {
                 "file": "文本/未分類/文本/個人網站 草稿.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
