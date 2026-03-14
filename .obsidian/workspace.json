@@ -23,8 +23,33 @@
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "67f1d32dc414d1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +242,10 @@
       "dynamic-views:Open random file from base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "67f1d32dc414d1a8",
   "lastOpenFiles": [
-    "Homepage.canvas"
+    "Homepage.canvas",
+    "conflict-files-obsidian-git.md",
+    "文本/未分類/文本/個人網站 草稿.md"
   ]
 }
