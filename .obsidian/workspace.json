@@ -15,41 +15,16 @@
               "state": {
                 "file": "Homepage.canvas",
                 "viewState": {
-                  "x": -307.5,
-                  "y": -70,
-                  "zoom": -1.6897292380590918
+                  "x": -478.27764951354845,
+                  "y": -349.06933119970614,
+                  "zoom": -1.689729238059092
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "67f1d32dc414d1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +217,10 @@
       "dynamic-views:Open random file from base": false
     }
   },
-  "active": "67f1d32dc414d1a8",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Homepage.canvas",
     "conflict-files-obsidian-git.md",
+    "Homepage.canvas",
     "文本/未分類/文本/個人網站 草稿.md"
   ]
 }
