@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Homepage.canvas",
+                "viewState": {
+                  "x": -307.5,
+                  "y": -69.99999999999994,
+                  "zoom": -0.4463517915933077
                 }
               },
-              "icon": "lucide-file",
-              "title": "專有名詞"
+              "icon": "lucide-layout-dashboard",
+              "title": "Homepage"
             }
           }
         ]
@@ -224,7 +217,7 @@
       "dynamic-views:Open random file from base": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "94905217fd5fd10b",
   "lastOpenFiles": [
     "Homepage.canvas",
     "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
