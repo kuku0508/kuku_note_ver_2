@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": -69.99999999999994,
-                  "zoom": -0.4463517915933077
+                "file": "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "專有名詞"
             }
           }
         ]
@@ -217,10 +224,11 @@
       "dynamic-views:Open random file from base": false
     }
   },
-  "active": "94905217fd5fd10b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/雜項/google",
     "Homepage.canvas",
+    "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
+    "文本/雜項/Data Analytics Certificate & Training",
     "conflict-files-obsidian-git.md",
     "文本/未分類/文本/個人網站 草稿.md"
   ]
