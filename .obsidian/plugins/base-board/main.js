@@ -48,6 +48,13 @@ var DragDropManager = class {
     this.draggedCardHeight = 0;
     /** Other selected card elements dimmed during multi-drag */
     this.multiDragEls = [];
+    /** Auto-scroll state */
+    this.autoScrollRAF = null;
+    this.autoScrollSpeed = 0;
+    // horizontal (boardEl)
+    this.autoScrollVerticalSpeed = 0;
+    // vertical (active cards container)
+    this.autoScrollVerticalEl = null;
     this.app = app;
     this.callbacks = callbacks;
     this.boundHandlers = {
@@ -247,6 +254,7 @@ var DragDropManager = class {
     e.preventDefault();
     if (!e.dataTransfer) return;
     e.dataTransfer.dropEffect = "move";
+    this.updateAutoScroll(e.clientX, e.clientY, e.target);
     if (this.dragType === "column") {
       this.handleColumnDragOver(e);
     } else if (this.dragType === "card") {
@@ -332,7 +340,68 @@ var DragDropManager = class {
   // ---------------------------------------------------------------------------
   //  Drag End
   // ---------------------------------------------------------------------------
+  updateAutoScroll(clientX, clientY, target) {
+    const H_ZONE = 80;
+    const V_ZONE = 60;
+    const MAX_SPEED = 12;
+    if (this.boardEl) {
+      const rect = this.boardEl.getBoundingClientRect();
+      const relX = clientX - rect.left;
+      if (relX < H_ZONE) {
+        this.autoScrollSpeed = -MAX_SPEED * (1 - relX / H_ZONE);
+      } else if (relX > rect.width - H_ZONE) {
+        this.autoScrollSpeed = MAX_SPEED * (1 - (rect.width - relX) / H_ZONE);
+      } else {
+        this.autoScrollSpeed = 0;
+      }
+    }
+    const cardsEl = target.closest(".base-board-cards");
+    if (cardsEl) {
+      const rect = cardsEl.getBoundingClientRect();
+      const relY = clientY - rect.top;
+      if (relY < V_ZONE) {
+        this.autoScrollVerticalSpeed = -MAX_SPEED * (1 - relY / V_ZONE);
+        this.autoScrollVerticalEl = cardsEl;
+      } else if (relY > rect.height - V_ZONE) {
+        this.autoScrollVerticalSpeed = MAX_SPEED * (1 - (rect.height - relY) / V_ZONE);
+        this.autoScrollVerticalEl = cardsEl;
+      } else {
+        this.autoScrollVerticalSpeed = 0;
+        this.autoScrollVerticalEl = null;
+      }
+    } else {
+      this.autoScrollVerticalSpeed = 0;
+      this.autoScrollVerticalEl = null;
+    }
+    const needsScroll = this.autoScrollSpeed !== 0 || this.autoScrollVerticalSpeed !== 0;
+    if (needsScroll && this.autoScrollRAF === null) {
+      const tick = () => {
+        if (this.autoScrollSpeed === 0 && this.autoScrollVerticalSpeed === 0) {
+          this.autoScrollRAF = null;
+          return;
+        }
+        if (this.boardEl && this.autoScrollSpeed !== 0) {
+          this.boardEl.scrollLeft += this.autoScrollSpeed;
+        }
+        if (this.autoScrollVerticalEl && this.autoScrollVerticalSpeed !== 0) {
+          this.autoScrollVerticalEl.scrollTop += this.autoScrollVerticalSpeed;
+        }
+        this.autoScrollRAF = requestAnimationFrame(tick);
+      };
+      this.autoScrollRAF = requestAnimationFrame(tick);
+    } else if (!needsScroll && this.autoScrollRAF !== null) {
+      cancelAnimationFrame(this.autoScrollRAF);
+      this.autoScrollRAF = null;
+    }
+  }
   onDragEnd() {
+    if (this.autoScrollRAF !== null) {
+      cancelAnimationFrame(this.autoScrollRAF);
+      this.autoScrollRAF = null;
+    }
+    this.autoScrollSpeed = 0;
+    this.autoScrollVerticalSpeed = 0;
+    this.autoScrollVerticalEl = null;
     for (const el of this.multiDragEls) {
       el.removeClass("base-board-card--drag-ghost");
     }
@@ -822,6 +891,15 @@ var CardDetailModal = class extends import_obsidian3.Modal {
 };
 
 // src/card.ts
+var SUFFIX_CHARS = "abcdefghijklmnopqrstuvwxyz0123456789";
+function generateCardId(title) {
+  const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 40);
+  const suffix = Array.from(
+    { length: 4 },
+    () => SUFFIX_CHARS[Math.floor(Math.random() * SUFFIX_CHARS.length)]
+  ).join("");
+  return `${slug}-${suffix}`;
+}
 var FILE_PROPS_TO_SKIP = /* @__PURE__ */ new Set([
   "name",
   "basename",
@@ -1105,10 +1183,12 @@ var CardManager = class {
       filePath = `${folder}/${safeName} ${counter}.md`;
       counter++;
     }
+    const id = generateCardId(title);
     const frontmatter = [
       "---",
       `${groupByProp}: ${columnName}`,
       `${ORDER_PROPERTY}: ${orderIndex}`,
+      `id: ${id}`,
       "---",
       "",
       `# ${title}`,
