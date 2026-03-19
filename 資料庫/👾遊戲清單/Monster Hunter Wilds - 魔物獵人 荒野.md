@@ -12,6 +12,7 @@ tags:
   - Steam
 封面: "[[魔物獵人 荒野 - 封面.png]]"
 icon: "[[魔物獵人 荒野 - Icon.png]]"
+kanban_order: 1
 ---
 
 - - -

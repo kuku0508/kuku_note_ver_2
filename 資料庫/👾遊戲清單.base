@@ -37,7 +37,7 @@ views:
     order:
       - file.name
   - type: kanban
-    name: 檢視 3
+    name: Kanban
     groupBy:
       property: 遊玩狀態
       direction: ASC

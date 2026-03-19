@@ -13,6 +13,7 @@ tags:
   - Steam
 封面: "[[光與影：33號遠征隊 - 封面.png]]"
 icon: "[[光與影：33號遠征隊 - icon.png]]"
+kanban_order: 0
 ---
 
 # 評論
