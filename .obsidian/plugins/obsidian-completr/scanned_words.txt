@@ -25,6 +25,7 @@ AA
 Ancillary
 ASC
 Additional
+AmeWay
 SST
 SSTR
 SSE
@@ -177,6 +178,7 @@ The
 Theorem
 Therefore
 This
+Teamete
 John
 ordinal
 one
@@ -309,8 +311,11 @@ Rightarrow
 Rao
 Example
 Hence
+HoloEN
+HIC
 Geometric
 Gamma
+Gura
 joint
 json
 Neyman
@@ -325,5 +330,7 @@ xyz
 quad
 Check
 Conflicts
+Clip
 Value
+Vtuber
 Wilcoxon
