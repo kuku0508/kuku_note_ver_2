@@ -14,9 +14,9 @@
               "type": "bases",
               "state": {
                 "file": "資料庫/👾遊戲清單.base",
-                "viewName": "Kanban"
+                "viewName": "卡片(封面)"
               },
-              "icon": "lucide-kanban",
+              "icon": "lucide-layout-grid",
               "title": "👾遊戲清單"
             }
           }

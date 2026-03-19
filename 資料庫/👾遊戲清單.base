@@ -24,7 +24,7 @@ views:
     name: 卡片(封面)
     image: note.封面
     imageFit: contain
-    cardSize: 190
+    cardSize: 170
     imageAspectRatio: 1.5
   - type: cards
     name: 卡片(icon)
