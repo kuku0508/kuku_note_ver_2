@@ -12,6 +12,8 @@ views:
       - 型態
       - 遊玩狀態
     sort:
+      - property: 型態
+        direction: DESC
       - property: 平台
         direction: DESC
     columnSize:
