@@ -16,8 +16,8 @@
                 "file": "Homepage.canvas",
                 "viewState": {
                   "x": -307.5,
-                  "y": -69.99999999999994,
-                  "zoom": -0.4463517915933077
+                  "y": -70,
+                  "zoom": -1.6897292380590918
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -219,8 +219,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
     "Homepage.canvas",
+    "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
     "文本/雜項/Data Analytics Certificate & Training",
     "conflict-files-obsidian-git.md",
     "文本/未分類/文本/個人網站 草稿.md"
