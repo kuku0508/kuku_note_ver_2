@@ -11,13 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "資料庫/👾遊戲清單.base",
-                "viewName": "表格"
+                "file": "文本/雜項/第二屆職涯實戰力領航計畫 講稿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "👾遊戲清單"
+              "icon": "lucide-file",
+              "title": "第二屆職涯實戰力領航計畫 講稿"
             }
           }
         ]
@@ -215,6 +226,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "資料庫/👾遊戲清單.base",
     "文本/雜項/第二屆職涯實戰力領航計畫 講稿.md",
     "文本/雜項/札記/ame畢業.md",
     "Homepage.canvas",

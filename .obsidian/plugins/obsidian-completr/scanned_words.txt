@@ -26,6 +26,8 @@ Ancillary
 ASC
 Additional
 AmeWay
+Advanced
+Analysics
 SST
 SSTR
 SSE
@@ -36,6 +38,7 @@ Sol
 SAS
 Signed
 Source
+SQL
 MST
 MSTR
 MSE
@@ -148,6 +151,7 @@ automatically
 available
 above
 af
+analysics
 ed
 edges
 end
@@ -173,6 +177,7 @@ deleted
 desired
 One
 Obtain
+Obsidian
 Test
 The
 Theorem
@@ -180,6 +185,7 @@ Therefore
 This
 Teamete
 John
+JavaScript
 ordinal
 one
 obsidian
@@ -225,6 +231,7 @@ given
 gather
 grave
 groupBy
+github
 for
 frac
 file
@@ -293,6 +300,8 @@ largest
 listed
 Poisson
 Please
+Python
+Professional
 kuku
 kanban
 BC
@@ -308,15 +317,20 @@ For
 Uparrow
 Downarrow
 DESC
+Data
 Rightarrow
 Rao
 Example
 Hence
 HoloEN
 HIC
+HTML
 Geometric
 Gamma
 Gura
+Git
+Github
+Google
 joint
 json
 Neyman
@@ -332,6 +346,8 @@ quad
 Check
 Conflicts
 Clip
+CSS
+Certificate
 Value
 Vtuber
 Wilcoxon
