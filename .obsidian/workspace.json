@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Homepage.canvas",
-                "viewState": {
-                  "x": -307.5,
-                  "y": -70,
-                  "zoom": -0.4463517915933077
+                "file": "文本/雜項/比賽比較.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Homepage"
+              "icon": "lucide-file",
+              "title": "比賽比較"
             }
           }
         ]
@@ -219,10 +226,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.canvas",
+    "文本/雜項/比賽比較.md",
     "文本/雜項/第二屆職涯實戰力領航計畫 講稿.md",
     "資料庫/👾遊戲清單.base",
     "文本/雜項/札記/ame畢業.md",
-    "Homepage.canvas",
     "文本/雜項/未命名",
     "文本/雜項/Data Analytics Certificate & Training/專有名詞.md",
     "文本/雜項/Data Analytics Certificate & Training",
